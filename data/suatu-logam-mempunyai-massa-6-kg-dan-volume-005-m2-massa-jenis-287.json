@@ -1,0 +1,134 @@
+{
+    "question": "Suatu logam mempunyai massa 6 kg dan volume 0,05 m\u00b2 massa jenis logam adalah\r\n\r\nbantu kak\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>massa jenis logam = 120 kg/m3</p><p></p><p><strong>Penjelasan:</strong></p><p>Diketahui</p><p>m = 6 kg</p><p>V = 0,05 m3</p><p>Ditanya</p><p>Massa jenis logam</p><p>Penyelesaian</p><p>Massa jenis = massa benda /volume benda</p><p>\u03c1 = m/V</p><p>dimana</p><p>\u03c1 = massa jenis benda (kg/m3)</p><p>m = massa benda (kg)</p><p>V = volume benda (m3)</p><p></p><p>\u03c1 = 6/ 0,05</p><p>  = 120 kg/m3</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-mesin-carnot-dengan-reservoir-suhu-tinggi-800-k-dan-reserv-497",
+            "question": "Sebuah mesin Carnot dengan reservoir suhu tinggi 800 K dan reservoir suhu rendah 200 K, tentukan efisiensi nya!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Effisiensi mesin = 75%</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>MESIN CARNOT</p><p>Siklus mesin carnot terdiri atas</p><p>2 proses isotermis</p><p>2 proses adiabatis</p><p></p><p>Proses pertama  ekspansi isotermis pada suhu T1 (suhu reservoir tinggi). Mesin menyerap kalor Q1.</p><p>Proses kedua ekpansi adiabatis, tidak ada kalor yg keluar atau masuk sistem. Pada kedua proses tadi gas melakukan usaha ( W positif) yg ditandai dengan volume sistem bertambah atau ekspansi.</p><p>Proses ketiga kompresi isotermis pada suhu T2 (suhu reservoir rendah).</p><p>Proses keempat kompresi adiabatis dimana sistem kembali ke kondisi awal. Pada kedua pproses terakhir sistem dikenai kerja (W negatif) yg ditandai dengan berkurangnya volume sistem atau kompresi.</p><p>Pada siklus carnot ini perubahan energi dalam (\u0394U) sama dengan nol</p><p>Hubungan Usaha dan kalor dinyatakan dengan</p><p>Q1 = W + Q2</p><p>W = Q1 - Q2</p><p>Effisiensi mesin atau riil dinyatan dengan</p><p>\u03b7 mesin/rill = W/Q1 = (Q1 - Q2)/ Q1 = [ 1 - Q2/ Q1 ] 100%</p><p>Effisuensi maksimum dinyatakan dengan</p><p>\u03b7 maksimum = (T1 - T2)/ T1 = [1 - T2/T1] 100%</p><p>Keterangan\u03b7</p><p>Q1 = Kalor serap pada T1 ( J)</p><p>Q2 = Kalor buang pada T2 (J)</p><p>W = Usaha/Kerja mesin (J)</p><p>T1 = Suhu reservoir tinggi ( K)</p><p>T2 = Suhu reservoir rendah (K)</p><p></p><p>Diketahui</p><p>T1 = 800 K</p><p>T2= 200 K</p><p>Ditanya</p><p>Besar effisiensi mesin</p><p>Penyelesaian</p><p>\u03b7   = [1 - T2/T1] 100%</p><p>     = [1 - 200/800] 100%</p><p>     = [1 - 1/4] 100 %</p><p>      = 75 %</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "35-proses-yang-dialami-gas-dalam-ruang-tertutup-pada-suhu-tetap-221",
+            "question": "35. Proses yang dialami gas dalam ruang    tertutup pada suhu tetap di sebut.....\r\na. Proses animasi\r\nb. Proses Isokhorik\r\nc. Proses Adibiatik\r\nd. Proses Isobarik\r\ne. Proses Isoternal\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Proses isotermal</strong></p><p></p><p><strong>Penjelasan:</strong></p><p>Proses isotermal adalah proses yang dialami gas pada suhu tetap. Usaha yang dilakukan gas pada proses ini tidak dapat dihitung dengan persamaan W = p \u00d7 \u0394 V .</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-banyaknya-angka-penting-dari-hasil-pengukuran-berikut-in-520",
+            "question": "Tentukan banyaknya angka penting dari hasil pengukuran Berikut Ini:    A. 125,45m \u00d7 23m\r\nB.36.800cm \u00d7 234.234cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2.885,35m</p><p><strong>Penjelasan:</strong></p><p>125,45m\u00d723,00m=2 885,35m</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-gaya-gravitasi-ditentukan-oleh-239",
+            "question": "Besar gaya gravitasi ditentukan oleh\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>massa dan bentuk benda </p><p><strong>Penjelasan:</strong></p><p>semoga membantu </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>masa benda</p><p>dan jarak (ketinggian)</p><p>antara kedua benda</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-yang-mengalami-pemuaian-saat-terkena-panas-adalah-287",
+            "question": "Benda yang mengalami pemuaian saat terkena panas adalah??\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Salah satunya yaitu :</p><p><strong>Rel </strong><strong>K</strong><strong>ereta</strong><strong> </strong><strong>Api</strong></p><p>memuai saat terkena </p><p>sinar matahari.</p><p></p><p><strong>P</strong><strong>enjelasan:</strong></p><p><strong><em>Semoga</em></strong><strong><em> </em></strong><strong><em>bermanfaat</em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-definisi-getaran-189",
+            "question": "Jelaskan definisi getaran\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Getaran merupakan gerakan bolak-balik pada suatu benda dalam selang waktu tertentu melalui titik keseimbangannya.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-bepunit-yaitu-819",
+            "question": "Rumus BEPUnit yaitu...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong> </strong><strong>Jawaban</strong><strong> </strong><strong>:</strong><strong> </strong><strong><em>Ada dua cara menghitung BEP, yaitu menggunakan rumus unit dan rupiah atau nominal mata uang. Berikut rumusnya: BEP = Biaya Tetap / (Harga Per Unit / Biaya Variabel Per Unit) BEP = Biaya Tetap / (Kontribusi Margin Per Unit / Harga Per Unit)</em></strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>rumus</p><p>BEP unit =  biaya tetap [f] / ( harga jual per unit [p] - harga variabel [v] )</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bntu-jwb-plis-soalny-buat-di-kumpulkan-bsok-jumat-455",
+            "question": "Bntu jwb plis soalny buat di kumpulkan bsok jumat\u200b",
+            "attachments": [
+                "question-attachments/bntu-jwb-plis-soalny-buat-di-kumpulkan-bsok-jumat-455-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B.jawabannya adalah,maka ke3 gelas tersebut mengeluarkan bunyi yg berbeda,karna isinya juga berbeda,ada yg diisi banyak,sampai sedikit</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-cara-nya-dung-plss-635",
+            "question": "Minta cara nya dung plss\u270c",
+            "attachments": [
+                "question-attachments/minta-cara-nya-dung-plss-635-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>B. 0,5 m/s </p><p></p><p><strong>Penjelasan:</strong></p><p></p><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><p></p><p>- m1  = 40 g </p><p>        = 0,04 kg </p><p>- v1   = 20 m/s</p><p>- m2 = 1,56 kg </p><p>- v2  = 0 m/s </p><p></p><p><strong>Ditanya </strong><strong>:</strong></p><p></p><p>- v&#039; ? </p><p></p><p><strong>Jawaban</strong><strong> </strong><strong>:</strong></p><p></p><p>Karena kedua bola menyatu, maka rumusnya adalah :</p><p></p><p>    m1 . v1 + m2 . v2 = ( m1 + m2 ) . v&#039; </p><p>0,04 . 20 + 1,56 . 0 = ( 0,04 + 1,56 ) . v&#039;</p><p>                   0,8 + 0 = 1,6v&#039; </p><p>                         0,8 = 1,6v&#039; </p><p>                         0,5 = v&#039; </p><p></p><p>Jadi, kecepatan kedua bola setelah tumbukan sebesar :</p><p></p><p>B. 0,5 m/s </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-proses-pembentukan-urine-diawali-oleh-tahap-filtrasipenyari-298",
+            "question": "Pada Proses Pembentukan urine diawali oleh tahap Filtrasi(Penyaringan) oleh glomerolus ,apabila glomerolus terjadi kerusakan maka akan terjadi\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Urine adalah hasil sisa metabolisme yang melalui proses sekresi dari ginjal yang kemudian dikeluarkan dari dalam tubuh melalui saluran kemih. Urine biasanya mengandung zat yang sudah tidak diperlukan oleh tubuh, sehingga perlu dikeluarkan karena dapat meracuni tubuh.</p><p>Jika satu atau beberapa dari organ tersebut mengalami masalah urologi, proses pembentukan urine pun ikut terganggu. Kenali apa saja organ yang bekerja dalam proses pembentukan urine di tubuh manusia.</p><p></p><p>Ginjal</p><p>Ginjal termasuk organ penting dalam pembentukan urine. Dua organ berbentuk kacang ini terletak di bawah tulang rusuk dekat bagian tengah punggung. Ada beberapa fungsi ginjal yang turut berkontribusi agar Anda bisa buang air kecil sebagai berikut.</p><p></p><p>Membuang limbah dan cairan berlebih dari tubuh.</p><p>Menyeimbangan kadar air dan elektrolit di tubuh.</p><p>Melepaskan hormon yang mengontrol produksi sel darah merah.</p><p>Membantu menjaga kesehatan tulang dengan mengontrol kalsium dan fosfor.</p><p>Ginjal nantinya akan mengeluarkan urea dari darah lewat unit penyaringan kecil yang disebut nefron. Setiap nefron biasanya terdiri atas bola yang dibentuk dari kapiler darah kecil (glomerulus) dan tabung kecil (tubulus ginjal).</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

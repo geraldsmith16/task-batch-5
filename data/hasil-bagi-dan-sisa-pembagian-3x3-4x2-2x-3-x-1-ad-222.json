@@ -1,0 +1,146 @@
+{
+    "question": "Hasil bagi dan sisa pembagian (3x3 + 4x2 \u2013 2x + 3) : (x + 1) adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>hasil = 3x^2 + x - 3</p><p>Sisa = 6</p><p></p><p>saya mrnggunakan skema horner</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "11-persamaan-garis-yang-melalui-titik-a-3-2-dengan-gradien-2-120",
+            "question": "11. Persamaan garis yang melalui titik A(-3,-2)    dengan gradien 2 adalah ...\r\nA. 2x + y - 4= 0 C. 2x + y +4= 0\r\nB. 2x \u2013 y + 4 = 0 D. x - y - 4 = 0\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>2x</strong><strong> </strong><strong>-</strong><strong> </strong><strong>y</strong><strong> </strong><strong>+</strong><strong> </strong><strong>4</strong><strong> </strong><strong>=</strong><strong> </strong><strong>0</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>titik A (-3, -2)</p><p>m = 2</p><p></p><p>Persamaan garis singgung :</p><p>y - y1 = m (x - x1)</p><p>y - (-2) = 2 (x - (-3))</p><p>y + 2 = 2 (x + 3)</p><p>y + 2 = 2x + 6</p><p>2x - y + 4 = 0</p><p></p><p><strong>JANGAN LUPA JADIKAN JAWABAN TERBAIK YAA</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B) 2x - y + 4 = 0</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><u>PERSAMAAN GARIS LURUS</u></p><p></p><p>y - y1 = m (x - x1)</p><p>y - (-2) = 2 (x - (-3))</p><p>  y + 2 = 2 (x + 3)</p><p>  y + 2 = 2x + 6</p><p>        y = 2x + 6 - 2</p><p>        y = 2x + 4</p><p>        0 = 2x - y + 4</p><p>2x - y + 4 = 0 \u2714</p><p></p><p><strong>K</strong><strong>e</strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>:</strong></p><p>Semoga membantu.</p><p>Have a nice day :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-sebuah-kapal-berlayar-ke-arah-timur-sejauh-48-km-kemudian-ber-695",
+            "question": "3. Sebuah kapal berlayar ke arah Timur sejauh 48 km, kemudian bergerak ke arah Selatan dan berhenti    setelah berjalan sejauh 36 km. Jarak antara titik awal keberangkatan dengan titik akhir tersebut adalah\r\nA. 50 km\r\nB. 56 km\r\nC 60 km\r\nD. 66 km\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C 60 km</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Diketahui</p><p>a= 48 km</p><p>b= 36 km</p><p>Ditanya c = ?</p><p>Jawab</p><p>c\u00b2= a\u00b2+b\u00b2</p><p>   = 48\u00b2+36\u00b2</p><p>c = \u221a2.304 + 1296</p><p>c = \u221a3600</p><p> c = 60 km</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>maaf garisnya kurang lurus.</p><p></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/3-sebuah-kapal-berlayar-ke-arah-timur-sejauh-48-km-kemudian-ber-695-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diberikan-barisan-geometri-tak-konstan-abc-jika-abc-27-dan-9a-296",
+            "question": "Diberikan barisan geometri tak konstan a,b,c jika abc =27 dan 9a+b+c=33 maka 6a+7b+..... ?    kakk mohon penjelasannnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>6a + 7b = 39</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>abc = 27     geometri :  b\u00b2 = a.c</p><p>a.c.b = 27</p><p>b\u00b2.b = 27</p><p>b\u00b3 = 27</p><p>b = 3 --&gt;  a.c = 9</p><p>                c = 9/ a</p><p>untuk a= 3   --&gt;    c =  9/3 </p><p>                                = 3</p><p></p><p>9a + b + c = 33</p><p>9a + 3 + 9/a = 33a</p><p>9a\u00b2 + (3a - 33a ) + 9 = 0</p><p>9a\u00b2 -30a + 9 = 0</p><p>3a2 - 10a + 3 = 0</p><p>( 3a -1) ( a-3 )  = 0</p><p>a = 1 /3</p><p>[tex] \\sqrt{a \\: }  = 3[/tex]</p><p>Maka,  6a + 7b </p><p>           = ( 6. 3 ) + ( 7. 3 )</p><p>           =  18 + 21</p><p>           =  39</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-jawab-beserta-caranya-872",
+            "question": "Tolong bantu jawab beserta caranya\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-jawab-beserta-caranya-872-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>V = 24 m\u00b3</p><p>L = 56 m\u00b2</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>V = p x l x t</p><p>    = 6 x 2 x 2</p><p>    = 24 m\u00b2</p><p>L = 2 (pl + pt + lt)</p><p>   = 2 ( 6 x 2 + 6 x 2 + 2 x 2)</p><p>   = 2 (12 + 12 + 4)</p><p>   = 2 x 28</p><p>   = 56 m\u00b2</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h3>Di tanya :</h3><p>L = luas : ?</p><p>V = volume : ?</p><h3>Di ketahui :</h3><p>p = panjang : 6 meter</p><p>l = lebar : 2 meter</p><p>t  tinggi : 2 meter</p><h3>Di jawab :</h3><p>V= p \u00d7 l \u00d7 t</p><p>V = 6 \u00d7 2 \u00d7 2</p><p>V = 24 m</p><p>L = p \u00d7 l</p><p>L = 6 \u00d7 2</p><p>L = 12 m</p><p></p><p>Semoga membantu, maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-berikut-c-20cm-13cm-0-5cm-a-b-hitunglah-luas-da-145",
+            "question": "Perhatikan gambar berikut    C\r\n20cm\r\n13cm\r\n0 5cm A\r\nB\r\nHitunglah luas dan keliling segitiga ABC!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Tolong tulis soalnya nya dengan benarr.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agung-diupah-sebesar-rp-480000-selama-12-hari-apabila-upah-agu-675",
+            "question": "Agung diupah sebesar rp 480.000 selama 12 hari . apabila upah agung setiap hari sama,berapa rupiah upah yang diterima agung selama masa kerja 7 hari?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Rp 280,000</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>480,000 = 12 hari</p><p>480,000 \u00f7 12 = 1 hari</p><p>40,000 = 1 hari</p><p></p><p>Jadi, upah Agung per hari adalah Rp 40,000.</p><p>Jika dalam 7 hari, maka </p><p>7 \u00d7 40,000 = Rp 280,000</p><p></p><p><strong>J</strong><strong>A</strong><strong>D</strong><strong>I</strong><strong>K</strong><strong>A</strong><strong>N</strong><strong> </strong><strong>JAWABAN</strong><strong> </strong><strong>TERBAIK</strong><strong> </strong><strong>YAA</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaa-pliss-115",
+            "question": "Tolong bantu yaa pliss\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-yaa-pliss-115-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a. 36x\u00b2</p><p>b. 10ab</p><p>3. 15a - 6b</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a. 12x.3x (12 dikali dengan 3, lalu x nya 12 juga dikali dengan x nya 3 yang hasilnya akan menjadi x pangkat 2) </p><p>b. 5a.2b (5 dikali dengan 2, lalu a dan b nya tetap, maka dari itu a dan b nya tetap ditulis ulang)</p><p>c. 3(15a - 6b) (menggunakan rumus distributif, 3 dikali dengan 15 dan juga 3 dikali 6)</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-buah-persegi-mempunyai-panjang-sisi-masing-masing-6-cm-dan-90-c-883",
+            "question": "2 buah persegi mempunyai panjang sisi masing-masing 6 cm dan 90 cm Perbandingan luas kedua persegi itu adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>mari kita hitung masing-masing luasnya</p><p></p><p>L.persegi = s \u00d7 s</p><p></p><p>Persegi 1</p><p>L = 6 \u00d7 6</p><p>L = 36 cm</p><p></p><p>Persegi 2</p><p>L = 90 \u00d7 90</p><p>L = 8.100</p><p></p><p>perbandingan nya</p><p>36 : 8.100</p><p>1 : 225</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-dadu-dilempar-bersamaanpeluang-muncul-mata-dadu-berjuml-305",
+            "question": "Dua buah dadu dilempar bersamaan,peluang muncul mata dadu berjumlah 10 adalaha. 3/36 b. 4/36 c.6/36 d.8/36",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A) 3/36</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><u>PELUANG</u> (Dadu)</p><p></p><p>Mata dadu berjumlah 10</p><p>= {(4,6), (5,5), (6,4)}</p><p>Maka, n(A) = 3</p><p></p><p>n(S) = 6\u207f</p><p>n(S) = 6\u00b2</p><p>n(S) = 36</p><p></p><p>P(A) = n(A) \u00f7 n(S)</p><p>P(A) = 3 \u00f7 36</p><p>P(A) = 3/36 \u2714 </p><p></p><p><strong>K</strong><strong>e</strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>:</strong></p><p>Semoga membantu.</p><p>Have a nice day :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-persegi-dengan-panjang-sisi-30-cm-tentukan-luas-persegi-t-474",
+            "question": "Sebuah persegi dengan panjang sisi 30 cm.\r\ntentukan luas persegi tersebut!\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>jawab ny pakai gambar aja ya, jadi luas persegi tersebut adalah 900</p>",
+                    "attachments": [
+                        "answer-attachments/sebuah-persegi-dengan-panjang-sisi-30-cm-tentukan-luas-persegi-t-474-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>900 cm\u00b2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><h3>Cara menemukan jawabannya:</h3><p>1. ketahui dulu rumusnya.</p><p>Rumus dari luas persegi ialah <strong>L</strong><strong>=</strong><strong> </strong><strong>s</strong><strong> </strong><strong>x</strong><strong> </strong><strong>s</strong></p><p><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong></p><p><strong>lalu</strong><strong> </strong><strong>kemudian</strong><strong> </strong><strong>mari</strong><strong> </strong><strong>kita</strong><strong> </strong><strong>hitung</strong><strong>!</strong></p><p><strong>Diketa</strong><strong>hui</strong><strong>:</strong></p><p><strong>S</strong><strong>=</strong><strong> </strong><strong>3</strong><strong>0</strong><strong> </strong><strong>cm</strong></p><p><strong>Ditanyakan</strong><strong>:</strong></p><p><strong>Luas</strong><strong> </strong><strong>persegi</strong></p><p><strong>Jawab</strong><strong>a</strong><strong>n</strong><strong>:</strong></p><p><strong>L</strong><strong>=</strong><strong> </strong><strong>s</strong><strong> </strong><strong>x</strong><strong> </strong><strong>s</strong></p><p><strong> </strong><strong> </strong><strong>=</strong><strong>3</strong><strong>0</strong><strong> </strong><strong>x</strong><strong> </strong><strong>3</strong><strong>0</strong></p><p><strong> </strong><strong> </strong><strong>=</strong><strong>9</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>cm\u00b2</strong></p><p><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong></p><p><strong>Detail </strong><strong>jawaban</strong><strong>\u2193</strong></p><p><strong>Mapel</strong><strong>:</strong><strong> </strong><strong>matema</strong><strong>tika</strong></p><p><strong>kelas</strong><strong>:</strong><strong> </strong><strong>4</strong><strong> </strong><strong>sd</strong></p><p><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong></p><h3><strong>Semoga</strong><strong> </strong><strong>ber</strong><strong>manfaat</strong><strong>^</strong><strong>^</strong></h3>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

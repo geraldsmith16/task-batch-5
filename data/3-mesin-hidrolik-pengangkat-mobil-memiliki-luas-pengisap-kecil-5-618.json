@@ -1,0 +1,140 @@
+{
+    "question": "3. Mesin hidrolik pengangkat mobil memiliki luas pengisap kecil 50 cm dan luas pengisap besar 200    cm. Berat mobil yang di angkat 25.000 N. Besar gaya tekan adalah...\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Besar gaya tekan adalah [tex]\\boxed{\\sf{6.250 \\: N}}[/tex]</p><p></p><h2>Pembahasan </h2><p>Hai! Soal tersebut adalah berkaitan dengan hukum pascal. <strong>Blaise Pascal (1623 - 1662) </strong>,menyatakan bahwa <em>\u201cApabila tekanan diberikan pada suatu bagian zat cair dalam suatu ruangan tertutup, akan di teruskan oleh zat cair ke segala arah dengan sama besar.\u201d </em>Maksudnya ketika kalian memberikan tekanan pada sesuatu yang termasuk zat cair di dalam ruangan dengan keadaan tertutup, maka zat cair tersebut akan diteruskan dengan sama besar. </p><p></p><p>Dalam hukum Pascal, ketika kalian memberikan gaya kecil, maka akan diperoleh gaya lebih besar pada keluarannya. </p><p></p><p><strong><u>Rumus :</u></strong></p><p>[tex]\\sf{P_{1} = P_{2}}[/tex]</p><p>[tex]\\boxed{\\sf{\\frac{F_1}{A_1} = \\frac{F_2}{A_2}}}[/tex]</p><p><strong><u>Dimana :</u></strong></p><ul><li>[tex]\\sf{A_1}[/tex] = luas penampang kecil. </li><li>[tex]\\sf{A_2}[/tex] = luas penampang besar. </li><li>[tex]\\sf{F_1}[/tex] = gaya pada penampang kecil. </li><li>[tex]\\sf{F_2}[/tex] = gaya pada penampang besar. </li></ul><p></p><h3>Langkah Penyelesaian </h3><p><strong>Diketahui :</strong></p><p>[tex]\\sf{A_1}[/tex] = 50 cm\u00b2.</p><p>[tex]\\sf{A_2}[/tex] = 200 cm\u00b2.</p><p>[tex]\\sf{F_2}[/tex] = 25.000 N. </p><p></p><p><strong>Ditanya :</strong></p><p>Besar gaya tekan adalah ?</p><p></p><p><strong>Dijawab :</strong></p><p>[tex]\\bold{\\dfrac{F_1}{A_1} = \\dfrac{F_2}{A_2}}[/tex]</p><p>[tex]\\bold{\\dfrac{F_1}{50} = \\dfrac{25.000}{200}}[/tex]</p><p>[tex]\\bold{F_{1} = \\dfrac{25.000 \\times 50}{200}}[/tex]</p><p>[tex]\\bold{F_{1}= \\dfrac{1.250.000}{200}}[/tex] </p><p>[tex]\\bold{F_{1} = 6.250 \\: N}[/tex]</p><p></p><p><strong>Kesimpulan : </strong>Jadi besar gaya tekan adalah [tex]\\boxed{\\sf{6.250 \\: N}}[/tex]</p><p></p><h3>Pelajari lebih lanjut </h3><ul><li><strong>Sebutkan dan jelaskan isi hukum pascal</strong> https://brainly.co.id/tugas/20325792</li><li><strong>Berat benda dalam air </strong>https://brainly.co.id/tugas/20965985</li><li><strong>Gaya apung </strong>https://brainly.co.id/tugas/19232509</li><li><strong>Benda terapung</strong> https://brainly.co.id/tugas/22326694</li></ul><p></p><h3>Detail jawaban</h3><p><strong>Kelas</strong> : 11</p><p><strong>Mapel</strong> : fisika</p><p><strong>Bab</strong> : fluida statistika</p><p><strong>Kode kategori</strong> : 11.6.3</p><p><strong>Kata kunci </strong>: Hukum pascal, [tex]\\sf{A_1}[/tex], [tex]\\sf{A_2}[/tex], [tex]\\sf{F_1}[/tex], [tex]\\sf{F_2}[/tex]</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rani-tidak-dapat-membaca-tulisan-dengan-jarak-1-meter-tetapi-dapa-150",
+            "question": "Rani tidak dapat membaca tulisan dengan jarak 1 meter tetapi dapat membaca dengan jelas pada jarak 25 cm mata apakah yang dialami Rani dan bagaimanakah cara penanggulangannya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>mata minus atau rabun jauh </p><p>cara penanggulangannya adalah memakai kaca mata khusus minus. </p><p>semoga bermanfaat^^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "satu-meter-berapa-milimeter-1-m-mm-yg-perlu-poin-aja-yg-j-513",
+            "question": "Satu meter berapa milimeter ?\r\n 1 m = ... mm\r\n\r\n Yg perlu poin aja yg jawab ya, trims",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>|km</p><p>     |hm</p><p>          |dam</p><p>                 |m</p><p>                    |dm</p><p>                         |cm</p><p>                              |mm</p><p></p><p>1 m = <strong><u>1</u></strong><strong><u>.</u></strong><strong><u>0</u></strong><strong><u>0</u></strong><strong><u>0</u></strong><strong><u> </u></strong><strong><u>mm</u></strong></p><p></p><p>m ke =&gt; mm, turun 3 kali maka dikalikan 1.000 ya...</p><p></p><p>moga membantu-,-</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1000 mm</p><p><strong>Penjelasan:</strong></p><p>m</p><p>dm</p><p>cm</p><p>mm</p><p>turun 3 jd nambah nol 3</p><p>jawbannya 1000mm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyerapan-kembali-zat-dalam-urine-primer-yang-masih-berguna-meru-197",
+            "question": "Penyerapan kembali zat dalam urine primer yang masih berguna merupakan proses pembentukan urine tahap \u2026\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>reabsorbsi</p><p><strong>Penjelasan:</strong></p><p>pembentukan urine ada 3 tahap</p><p>filtrasi </p><p>reabsorbsi</p><p>augmentasi</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pembangkit-listrik-yg-memanfaatkan-energi-dari-matahari-d-sebut-253",
+            "question": "Pembangkit listrik yg memanfaatkan energi dari matahari d sebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Panel surya</p><p></p><p>SEMOGA BERMANFAAT:)</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Pembangkit Listrik Tenaga Surya ( PLTS )</p><p><strong>Penjelasan:</strong></p><p>Pembangkit Listrik Tenaga Surya ( PLTS ) pembangkit listrik yang memanfaatkan energi matahari</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-planet-p-dan-q-mengorbit-matahari-apabila-perbandingan-jarak-372",
+            "question": "Dua planet P dan Q mengorbit matahari apabila perbandingan jarak antara planet P dan planet Q terhadap matahari adalah 64 banding 25 dan periode planet B mengelilingi matahari 128 hari maka hitunglah periode planet Q mengelilingi matahari\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p>Pendahuluan :</p><p>Hi teman-teman, saya akan mencoba untuk menjawab pertanyaanmu. Jangan lupa dibaca bagian pembahasannya juga ya agar lebih mantap pendalaman materinya.</p><p></p><p>Langkah Penyelesaian :</p><p>Diketahui :</p><p></p><p>Rp : Rq = perbandingan jarak ke matahari = 4 : 9</p><p>Tp = periode planet P = 24 hari</p><p>Ditanya : Tq = periode planet Q = .... hari</p><p></p><p>Jawaban :</p><p></p><p>\\begin{gathered}\\frac {T_p\\:^{2}}{R_p\\:^{3}} = \\frac {T_q\\:^{2}}{R_q\\:^{3}} \\\\ \\frac {24^{2}}{4^{3}} = \\frac {T_q\\:^{2}}{9^{3}} \\\\ \\frac{(8 \\times 3)^{2} }{( {2}^{2} )^{3}} = \\frac {T_q\\:^{2}}{( {3}^{2}) ^{3}} \\\\ \\frac{( {2}^{3} \\times 3)^{2} }{ {2}^6} = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ \\frac{ \\cancel {{2}^{6}} \\times {3}^{2} }{\\cancel {{2}^{6}} } = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ {3}^{2} \\times {3}^{6} = {T_q\\:^{2}} \\\\ {3}^{8} = {T_q\\:^{2}} \\\\ \\sqrt{ {3}^{8} } = T_q \\\\ {3}^{ \\frac{8}{2} } = {T_q} \\\\ {3}^{4} = {T_q} \\\\ 81 \\: hari = T_q \\: \\end{gathered} </p><p>R </p><p>p</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>p</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>q</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>4 </p><p>3</p><p> </p><p>24 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>9 </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>(2 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>(8\u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>(3 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p>(2 </p><p>3</p><p> \u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p> </p><p>2 </p><p>6</p><p> </p><p> \u00d73 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>3 </p><p>2</p><p> \u00d73 </p><p>6</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> </p><p>\t</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>2</p><p>8</p><p>\t</p><p> </p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>4</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>81hari=T </p><p>q</p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Jadi, periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p><strong>Penjelasan:</strong></p><p>Pada hukum Kepler III ini kita membandingkan besarnya perbandingan antara hubungan periode dengan jari-jari orbit suatu planet. Karena berwujud perbandingan yang tidak tetap satuannya, maka satuan dapat disesuaikan sesuai dengan soal. Namun, secara umum hukum Kepler III ini dapat dirumuskan dengan :</p><p></p><p>\\boxed {\\bold {\\frac {T_a\\:^{2}}{R_a\\:^{3}} = \\frac {T_b\\:^{2}}{R_b\\:^{3}}}} \\: </p><p>R </p><p>a</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>a</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>b</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>b</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Dengan ketentuan :</p><p></p><p>Ta = periode planet A (tahun)</p><p>Tb = periode planet B (tahun)</p><p>Ra = jarak planet A ke matahari (km)</p><p>Rb = jarak planet B ke matahari (km)</p><p>a dan b dapat diganti dengan huruf apapun sesuai dengan soal, karena tidak memengaruhi penghitungan</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-mencegah-persaingan-yg-tidak-sehat-sesama-pedagang-belanda-859",
+            "question": "Untuk mencegah persaingan yg tidak sehat sesama pedagang Belanda, maka pada tahun 1602 didirikan VOC, gubenur pertama VOC adalah    a.cornelis de houtman\r\nb.jendral Pieter both\r\nc.Douwis dekker \r\nd .Jan Pieterzoon coen\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Gubernur pertama VOC adalah Jendral Pieter both</p><p><strong>Penjelasan:</strong></p><p>Semoga membantu :D</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><em><u>b.</u></em><em><u> </u></em><em><u>Jendral </u></em><em><u>Pieter </u></em><em><u>Both</u></em></p><p></p><p><strong><em>Gubernur </em></strong><strong><em>pertama </em></strong><strong><em>VOC </em></strong><strong><em>ialah </em></strong><u><strong><em>Jendral </em></strong><strong><em>Pieter</em></strong><strong><em> </em></strong></u><strong><em><u>Both</u></em></strong></p><p></p><h2><strong><em>Semoga</em></strong><strong><em> membantu</em></strong><strong><em>!</em></strong><strong><em> </em></strong><strong><em>jadikan</em></strong><strong><em> jawaban</em></strong><strong><em> tercerdas</em></strong><strong><em> ya</em></strong></h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-di-bawah-ini-dari-gambar-tersebut-yang-dimak-921",
+            "question": "Perhatikan gambar di bawah ini !    Dari gambar tersebut, yang dimaksud\r\ngetaran adalah\r\nA A-B-C-B-A\r\nB. B-C-A-B\r\nC. A-B-C-B\r\nD. B-C-B-A\r\n\u200b",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-di-bawah-ini-dari-gambar-tersebut-yang-dimak-921-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>22 =b b-c-a-b</p><p></p><p></p><p>semoga membantu ya</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "7525-brapa-nilai-511",
+            "question": "-75+.....=25 brapa nilai...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>50 jawabannya</p><p><strong>Penjelasan:</strong></p><p>maap kalo salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>-75 + n = 25</p><p>n = 25 + 75 </p><p>n = 100</p><p></p><p>-75 + 100 = 25 </p><p></p><p>semoga membantu</p><p> </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lingkaran-yang-berpusat-di-a-5-menyinggung-sumbu-x-dan-541",
+            "question": "Sebuah lingkaran yang berpusat di (a , 5) menyinggung sumbu X dan melalui titik (0 , 2), jari-jari lingkarannya adalah 5. Nilai a yang memenuhi adalah \u2026.    3\tb.. 4\tc. 5\td. -5\te. -4\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Sebuah lingkaran yang berpusat di (a , 5) menyinggung sumbu X dan melalui titik (0 , 2), jari-jari lingkaran nya adalah 5. Nilai a yang memenuhi adalah.</strong></p><p>Jawabanya<strong> e. -4</strong>\n</p><p>\n</p><p>Persamaan lingkaran\n</p><p>(x - a)\u00b2 + (y - b)\u00b2 = r\u00b2\n</p><p>\n</p><p>Dengan (a , b) = pusat dan r = jari jari\n</p><p>(x , y) titik yang melalui\n</p><p>\n</p><p>\n</p><p><strong>Jawab :</strong>\n</p><p>Lingkaran pusatnya di (a, 5) maka\n</p><p>(x - a)\u00b2 + (y - 5)\u00b2 = r\u00b2\n</p><p>\n</p><p>Melalui titik (0, 2)\n</p><p>(0 - a)\u00b2 + (2 - 5)\u00b2 = r\u00b2\n</p><p>\n</p><p>Jari\u00b2 lingkaran 5\n</p><p>a\u00b2 + (-3)\u00b2 = 5\u00b2\n</p><p>a\u00b2 = 25 - 9\n</p><p>a\u00b2 = 16\n</p><p>a = \u00b1 4\n</p><p>a = 4 atau a = <strong>-4</strong>\n</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dipengaruhi-gaya-tetap-sebesar-5-n-jika-massa-bola-0-984",
+            "question": "Sebuah bola dipengaruhi gaya tetap    sebesar 5 N. Jika massa bola 0,5 kg,\r\npercepatan yang dialami bola adalah . *\r\nO\r\na. 10 m/s2\r\nO b. 25 m/s2\r\nO c. 5 m/s2\r\nO d. 0,25 m/s2\r\nO e. 1 m/s2\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Percepatan yang dialami bola adalah [tex]\\boxed{\\sf{10 \\: m/s^2}}[/tex]</p><p></p><h2>PEMBAHASAN</h2><p>Hai! Soal tersebut adalah berkaitan dengan hukum newton. Sesuai dengan nama nya hukum newton ditemukan oleh Sir Isaac Newton. Hukum newton sendiri juga terbagi menjadi 3, yaitu :</p><ul><li><strong><u>Hukum Newton I.</u></strong></li></ul><p><strong>Rumus umum :</strong></p><p>[tex]\\sf{\\sum F = 0}[/tex]</p><p><strong>Dengan ketentuan :</strong></p><p>[tex]\\sf{\\sum F}[/tex] = resultan gaya. </p><p></p><ul><li><strong><u>Hukum Newton II.</u></strong></li></ul><p><strong>Rumus menghitung persamaan menghitung gaya yang bekerja :</strong></p><p>[tex]\\sf{\\sum F =  m \\times a}[/tex]</p><p><strong>Dengan ketentuan :</strong></p><p>[tex]\\sf{\\sum F}[/tex] = resultan gaya. </p><p>[tex]\\sf{m}[/tex] = massa benda. </p><p>[tex]\\sf{a}[/tex] = percepatan gerak. </p><p></p><ul><li><strong><u>Hukum Newton III. </u></strong></li></ul><p><strong>Rumus umum :</strong></p><p>[tex]\\sf{F_{aksi} = -F_{reaksi}}[/tex]</p><p><strong>Dengan ketentuan :</strong></p><p>[tex]\\sf{F_{aksi}}[/tex] = gaya aksi benda.</p><p>[tex]\\sf{F_{reaksi}}[/tex] = gaya reaksi benda. </p><p></p><h3>LANGKAH PENYELESAIAN</h3><p><strong>Diketahui :</strong></p><p>Massa = 0,5 kg. </p><p>Gaya = 5 N. </p><p></p><p><strong>Ditanya :</strong></p><p>Percepatan yang dialami bola adalah ?</p><p></p><p><strong>Dijawab :</strong></p><p>[tex]\\sf{a = \\frac{\\sum F}{m}}[/tex]</p><p>[tex]\\sf{a = \\frac{5}{0,5}}[/tex]</p><p>[tex]\\sf{a = 10 \\: m/s^2}[/tex]</p><p></p><p><strong>KESIMPULAN : </strong>Jadi percepatan yang dialami bola adalah [tex]\\boxed{\\sf{10 \\: m/s^2}}[/tex]</p><p></p><h3>PELARI LEBIH LANJUT</h3><ul><li><strong>Materi tentang hukum newton</strong> https://brainly.co.id/tugas/20886390 https://brainly.co.id/tugas/18907952 https://brainly.co.id/tugas/21206554</li></ul><p></p><h3>DETAIL JAWABAN</h3><p><strong>Kelas</strong> : 10</p><p><strong>Mapel</strong> : fisika</p><p><strong>Bab</strong> : 6 - hukum newton (gerak) </p><p><strong>Kode kategori</strong> : 10.6.6</p><p><strong>Kata kunci</strong> : hukum newton II, gaya, massa, percepatan</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

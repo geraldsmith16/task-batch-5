@@ -1,0 +1,126 @@
+{
+    "question": "Nilai z dari sistem persamaan\r\nx+2y+3z=10\r\n x+y=3\r\n x=2 adalah\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>x + 2y + 3z = 10 ... pers (1)</p><p>x + y = 3 ... pers (2)</p><p>x = 2 ... pers (3)</p><p></p><p>I) Subs pers (3) ke pers (2):</p><p>x + y = 3</p><p>(2) + y = 3</p><p>y = 3 - 2</p><p>y = 1</p><p></p><p>II) Subs pers (3) dengan hasil pers (3) dan (2) ke pers (1) dengan kata lain subs nilai x dan y ke pers (1):</p><p>x + 2y + 3z = 10</p><p>(2) + 2(1) + 3z = 10</p><p>2 + 2 + 3z = 10</p><p>4 + 3z = 10</p><p>3z = 10 - 4</p><p>3z = 6</p><p>z = 6 \u00f7 3</p><p>z = 2</p><p></p><p>Semoga membantu ya :v</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pasangan-larutan-berikut-yang-tergolong-non-elektrolit-adalah-741",
+            "question": "Pasangan larutan berikut yang tergolong non elektrolit adalah\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>pasangan larutan berikut yang tergolong non elektrolit adalah alkohol atau larutan gula</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga membantu :D</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-pelajaran-penataan-barang-dagangan-736",
+            "question": "Contoh soal \r\n pelajaran penataan barang dagangan\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Dalam menata barang dagangan yang menyesuaikan logika konsumen maka kemungkinan yang paling dekat dengan pasta gigi adalah....</p><p></p><p>jawabannya </p><p></p><p>\u2022  cairan pembersih mulut</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><em>maaf </em><em>klo </em><em>salah&#039;</em></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "turunan-pertama-fungsi-fx8x7-583",
+            "question": "Turunan pertama fungsi f(x)=8x+7\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>f(x) = 8x+7</p><p></p><p>f &#039;(x) = 8(1) + 0</p><p></p><p>f &#039;(x) = 8</p><p></p><p>kenapa x dan 7 nya menghilang ?</p><p>dalam turunan x itu termasuk 1 jadi dikali dengan 8 </p><p>sedangkan 7 termasuk konstanta yang menjadi 0 saat menjadi turunan</p><p></p><p>jadi, turunan pertama fungsi f (x) = 8x+7 adalah </p><p>f &#039;(x) = 8 </p><p></p><p></p><p></p><p></p><p><strong><em>SEMOGA MEMBANTU</em></strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bntu-bang-untuk-ujian-251",
+            "question": "Bntu bang untuk ujian\u200b",
+            "attachments": [
+                "question-attachments/bntu-bang-untuk-ujian-251-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>90</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Lim -&gt; 3</p><p>10x\u00b2</p><p>= 10(3)\u00b2</p><p>= 10 x 9</p><p>= 90</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "konversikan-bilangan-desimal-menjadi-bilangan-biner-a12010-404",
+            "question": "Konversikan bilangan desimal menjadi bilangan biner    a.120(10)=...(2)\r\nb.168(10)=...(2)\r\nc.60(10)=...(2)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>b. 168(10)=...(2)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf klo salah...</p><p>semoga membantu...</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-pipa-radit-50-meter-dan-pipa-dodi-150-meter-berapa-rasio-684",
+            "question": "Panjang pipa radit 50 meter dan pipa dodi 150 meter. berapa rasio panjang pipa radit dan dodi\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawab:<strong>1</strong><strong>/</strong><strong>3</strong></p><p>Penjelasan:</p><p>pipa radit=50 m</p><p>pipa dodi=150 m</p><p>Maka rasio panjang pipa radit dan dodi adalah 50/150=<strong>1/3</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-juring-lingkaran-dengan-jari-jari-7cm-dan-sudut-pusat-30-230",
+            "question": "luas juring lingkaran dengan jari jari 7cm dan sudut pusat 30\u2070 adalah ....cm\u00b2.(\u03c0 = 22/7).  tolong di bantu ya kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawab:</p><p></p><p>Penjelasan dengan langkah-langkah:</p><p>Luas juring = sudut/360\u00b0 x luas lingkaran</p><p>= 30/360 x \u03c0r\u00b2</p><p>= 1/12 x 22/7 x 7 x 7</p><p>=(22 x 7) /12</p><p>= 12,83cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-data-data-berikut-123321456654789987-mean-dari-da-151",
+            "question": "Diketahui data-data berikut 123,321,456,654,789,987. mean dari data tersebut adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Mean ( Rata - Rata )</p><ul><li>[tex] \\frac{jumlah \\: data}{banyaknya \\: data} [/tex]</li><li>[tex] \\frac{123 + 321 + 456 + 654 + 789 + 987}{6} [/tex]</li><li>[tex] \\frac{3.330}{6} [/tex]</li><li>Rata - Rata = 555</li></ul><p></p><h2>Semoga membantu.. Jangan dihapus jawaban saya.. =)</h2><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-hasil-dari-perkalian-2x-5x2-3-adalah-370",
+            "question": "6. Hasil dari perkalian (2x - 5)(x2 + 3) adalah ..\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2x^3 - 5x^2 + 6x - 15</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>(2x - 5)(x^2 + 3) </p><p>= 2x^3 + 6x - 5x^2 - 15</p><p>= 2x^3 - 5x^2 + 6x - 15</p><p></p><p>Jadi, hasil dari perkalian (2x - 5)(x^2 + 3) adalah<strong> </strong><em>2x^3 - 5x^2 + 6x - 15.</em></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "13-diketahui-volume-balok-adalah-162-cm3-dengan-tinggi-sisinya-421",
+            "question": "13. Diketahui volume balok adalah 162 cm\u00b3 dengan tinggi sisinya 3 cm, makaluas    alas balok tersebut adalah ... cm.\r\nA 40\r\nB 45\r\nC. 54\r\nD 60\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>54 cm\u00b2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga membantu ya.</p><p>Jangan lupa untuk like dan follow ya.</p><p>Jadikanlah jawaban terbaik</p>",
+                    "attachments": [
+                        "answer-attachments/13-diketahui-volume-balok-adalah-162-cm3-dengan-tinggi-sisinya-421-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

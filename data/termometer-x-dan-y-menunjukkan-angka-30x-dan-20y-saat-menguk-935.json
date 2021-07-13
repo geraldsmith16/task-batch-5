@@ -1,0 +1,130 @@
+{
+    "question": "Termometer X dan Y menunjukkan angka 30\u00b0X dan    -20\u00b0Y saat mengukur air membeku. Saat mengukur\r\nair mendidih, masing-masing menunjukkan angka\r\n150\u00b0X dan 250\u00b0Y. Jika suatu benda dapat terukur\r\nsuhunya sebesar 60\u00b0 X, maka skala yang\r\nditunjukkan pada termometer Y adalah ....\r\na. 37,5\r\nd. 52,5\r\nb. 47,5\r\ne. 55\r\nc. 50\r\n\r\n\r\ntolong dibantu\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>TY = 47,5 \u00b0Y</p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>TERMOMETER</p><p>Termometer Skala Reamur, Celcius, Fahrenheit dan Kelvin menggunakan batas titik beku air dan titik didih air sebagai acuan untuk membuat skala pengukurannya.</p><p></p><p>                              R       C           F          K</p><p>Titik Beku Air        0        0          32       273</p><p>Titik Didih Air       80      100       212      373</p><p>Selisih suhu         80       100      180       100.......bagi 20</p><p>Rumus                 4n       5n       9n+32   5n+273</p><p>Jadi kita dapat  rumus masing masing skala</p><p>TR = 4n</p><p>TC = 5n</p><p>TF = 9n + 32</p><p>TK = 5n + 273 </p><p>Catatan : Tentukan dulu nilai n dari suhu/skala yg diketahui di soal.</p><p></p><p>Diketahui</p><p>TbX = 30\u00b0X </p><p>TbY = -20\u00b0Y</p><p>TdX =  150\u00b0X</p><p>TdY =  250\u00b0Y</p><p>TX = 60\u00b0X</p><p>Ditanya</p><p>TY</p><p>Penyelesaian          </p><p>                                Y               X</p><p></p><p>Titik Beku Air         -20            30</p><p>Titik Didih Air         250           150</p><p>Selisih skala           270           120.....bagi 30</p><p>Rumus                 9n -20         4n + 30</p><p></p><p></p><p>TX = 3n + 30 = 60</p><p>               4n = 30</p><p>                 n = 7,5</p><p>TY = 9n - 20</p><p>      = 9\u00d77,5 - 20</p><p>      = 47,5\u00b0Y</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-yang-bekerja-pada-sebuah-benda-akan-mengakibatkan-beberapa-per-974",
+            "question": "1. yang bekerja pada sebuah benda akan mengakibatkan beberapa perubahan, perubahan    .A. Berat\r\nD. posisi\r\nC. arah gerak\r\nB. Bentuk\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. Berat karena mengakibatkan perubahan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mesin-carnot-bekerja-pada-suhu-rendah-400-k-untuk-menghasilkan-ke-459",
+            "question": "Mesin Carnot bekerja pada suhu rendah 400 K untuk menghasilkan kerja mekanik. Jika mesin menyerap kalor 600 J dengan suhu tinggi 600 K, maka usaha yang dihasilkan adalah \u2026 Joule.\u00a0*\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Usaha yg dihasilkan adalah 200 J</p><p></p><p><strong>P</strong><strong>e</strong><strong>n</strong><strong>j</strong><strong>e</strong><strong>l</strong><strong>a</strong><strong>s</strong><strong>a</strong><strong>n</strong></p><p>Diketahui</p><p>T2 = 400 K</p><p>Q1 = 600 J</p><p>T1 = 600 K</p><p></p><p>Ditanya</p><p>Usaha yg dihadilkan mesin (W)</p><p></p><p>Penyelesaian</p><p>Siklus mesin carnot terdiri atas</p><p>2 proses isotermis</p><p>2 proses adiabatis</p><p></p><p>Mesin menyerap kalor Q1 saat suhu T1 (suhu tinggi) dan membuang kalor Q2 pada suhu T2 ( Suhu rendah).</p><p>Hubungan Q1, Q2 dan W adalah</p><p>Q1 = W + Q2</p><p>W = Q1 - Q2</p><p>W = Kerja atau usaha yg dihasilkan mesin</p><p></p><p>Efisiensi rill/mesin</p><p>\u03b7 = W/Q1 = (Q1 - Q2)/ Q1 = [ 1 - Q2/Q1] x 100%</p><p></p><p>Efisiensi maksimun</p><p>\u03b7 = [1 - T2/T1] x 100%</p><p></p><p>Jika disoal ada Usaha, Kalor dan Suhu, rumus effisiensi riil dan maksimum kita gahung, menjadi</p><p>\u03b7 = W/Q1 = 1 - T2/T1</p><p>     W/ 600 = 1 - 400/600</p><p>      W = 200 Joule</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-gaya-566",
+            "question": "Apa yang di maksud gaya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>antar gesekan dibawahbdan diatas</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Gaya, di dalam ilmu fisika, adalah interaksi apapun yang dapat menyebabkan sebuah benda bermassa mengalami perubahan gerak, baik dalam bentuk arah, maupun konstruksi geometris.</p><p><strong>Penjelasan:</strong></p><p><strong>SEMOGA </strong><strong>BERMANFAAT</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rani-tidak-dapat-membaca-tulisan-dengan-jarak-1-meter-tetapi-dapa-150",
+            "question": "Rani tidak dapat membaca tulisan dengan jarak 1 meter tetapi dapat membaca dengan jelas pada jarak 25 cm mata apakah yang dialami Rani dan bagaimanakah cara penanggulangannya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>mata minus atau rabun jauh </p><p>cara penanggulangannya adalah memakai kaca mata khusus minus. </p><p>semoga bermanfaat^^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ruang-pada-jantung-manusia-dan-fungsinya-417",
+            "question": "Ruang pada jantung manusia dan fungsinya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>a. Bilik kiri</p><p>Bilik kiri jantung terletak di bawah serambi kiri dan dipisahkan dengan katup mitral. Bilik kiri merupakan bagian jantung yang paling tebal dan bertugas memompa darah bersih ke seluruh tubuh. Kondisi tekanan darah tinggi dapat menyebabkan otot bilik kiri membesar dan mengeras, karena bertambahnya beban kerja bilik kiri jantung dalam memompa darah. </p><p>b. Serambi kiri</p><p>Bagian ini bertanggung jawab menerima darah bersih dari paru-paru. Darah bersih adalah darah yang mengandung oksigen. Darah bersih masuk ke serambi kiri melalui pembuluh balik atau vena pulmonalis. Darah ini kemudian dipompakan ke bilik kiri melalui katup mitral.</p><p>c. Bilik kanan</p><p>Ini merupakan bagian yang bertanggung jawab memompa darah kotor ke paru-paru agar karbon dioksida dapat ditukar dengan oksigen melalui proses pernapasan. Bilik berada di bawah serambi kanan dan di samping bilik kiri. </p><p>d. Serambi kanan</p><p>Di dalam serambi kanan terdapat darah kotor. Darah kotor adalah darah yang miskin oksigen, memasuki serambi kanan melalui vena cava superior dan inferior. Dari serambi kanan, darah dipompa ke bilik kanan. Pada jantung janin, terdapat lubang di serambi kanan untuk memungkinkan darah mengalir secara langsung ke serambi kiri </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-carnot-dengan-reservoir-suhu-tinggi-800-k-dan-reserv-497",
+            "question": "Sebuah mesin Carnot dengan reservoir suhu tinggi 800 K dan reservoir suhu rendah 200 K, tentukan efisiensi nya!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Effisiensi mesin = 75%</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>MESIN CARNOT</p><p>Siklus mesin carnot terdiri atas</p><p>2 proses isotermis</p><p>2 proses adiabatis</p><p></p><p>Proses pertama  ekspansi isotermis pada suhu T1 (suhu reservoir tinggi). Mesin menyerap kalor Q1.</p><p>Proses kedua ekpansi adiabatis, tidak ada kalor yg keluar atau masuk sistem. Pada kedua proses tadi gas melakukan usaha ( W positif) yg ditandai dengan volume sistem bertambah atau ekspansi.</p><p>Proses ketiga kompresi isotermis pada suhu T2 (suhu reservoir rendah).</p><p>Proses keempat kompresi adiabatis dimana sistem kembali ke kondisi awal. Pada kedua pproses terakhir sistem dikenai kerja (W negatif) yg ditandai dengan berkurangnya volume sistem atau kompresi.</p><p>Pada siklus carnot ini perubahan energi dalam (\u0394U) sama dengan nol</p><p>Hubungan Usaha dan kalor dinyatakan dengan</p><p>Q1 = W + Q2</p><p>W = Q1 - Q2</p><p>Effisiensi mesin atau riil dinyatan dengan</p><p>\u03b7 mesin/rill = W/Q1 = (Q1 - Q2)/ Q1 = [ 1 - Q2/ Q1 ] 100%</p><p>Effisuensi maksimum dinyatakan dengan</p><p>\u03b7 maksimum = (T1 - T2)/ T1 = [1 - T2/T1] 100%</p><p>Keterangan\u03b7</p><p>Q1 = Kalor serap pada T1 ( J)</p><p>Q2 = Kalor buang pada T2 (J)</p><p>W = Usaha/Kerja mesin (J)</p><p>T1 = Suhu reservoir tinggi ( K)</p><p>T2 = Suhu reservoir rendah (K)</p><p></p><p>Diketahui</p><p>T1 = 800 K</p><p>T2= 200 K</p><p>Ditanya</p><p>Besar effisiensi mesin</p><p>Penyelesaian</p><p>\u03b7   = [1 - T2/T1] 100%</p><p>     = [1 - 200/800] 100%</p><p>     = [1 - 1/4] 100 %</p><p>      = 75 %</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "frekuansi-golombang-bunyi-antara-20hz-smpai-20000hz-adalah-428",
+            "question": "Frekuansi golombang bunyi antara 20hz smpai 20.000hz adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Audiosonic</p><p><strong>Penjelasan:</strong></p><p>contoh : sapi, kambing , kucing. dll</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yok-lah-jawab-373",
+            "question": "Yok lah jawab............\u200b",
+            "attachments": [
+                "question-attachments/yok-lah-jawab-373-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. Nama Motif : Batik Parang Kusumo </p><p>B. Asal : Solo </p><p>C. Makna : bahwa hidup selayaknya dilandasi perjuangan dan usaha untuk mencapai kemakmuran lahir batin dengan mengindahkan nilai kebudayaan Jawa.</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p>",
+                    "attachments": [
+                        "answer-attachments/yok-lah-jawab-373-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-batu-bermassa-05-kg-jatuh-bebas-dari-ketinggian-2-mete-725",
+            "question": "1. Sebuah batu bermassa 0,5 kg jatuh bebas dari ketinggian 2 meter dan jatuh tepat di atas hamparan pasir. Jika batu masuk sedalam 1 cm ke dalam pasir sebelum kemudian berhenti, maka gaya rata \u2013 rata yang dilakukan pasir untuk menghambat batu adalah\u2026.    2. Sebuah balok bermassa 5 kg terletak di atas meja licin dalam keadaan diam. Balok tersebut mengalami percepatan sebesar 2 m/s2 selama 2 detik dan selanjutnya bergerak dengan kecepatan konstan selama 4 sekon. Besar usaha yang dilakukan balok selama gerak tersebut adalah\u2026.\r\n\r\n 3. Sebuah mobil bermassa 1000 kg bergerak dengan kelajuan 10 m/s pada arah mendatar. Tiba-tiba pengemudi mengurangi kelajuan mobil. Jika usaha yang dilakukan pengemudi pada mobil tersebut 6.000 Joule, maka kecepatan mobil sekarang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>1. F  = - 1000 N</p><p>2. W = 40 J</p><p>3. Vt = 9,4 m/s</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>Usaha adalah Kemampuan melakukan kerja, satuan Joule</p><p>Usaha yg dilakukan gaya pada benda dapat dihitung dengan :</p><p>1. Usaha oleh Gaya</p><p>W = F x s</p><p>Jika pada benda bekerja lebih dari 1 gaya maka F adalah resultan gaya</p><p>dimana:</p><p>W = Usaha yang dikerjakan oleh Gaya (Joule)</p><p>F = Gaya yg dikerjakan pada benda (N)</p><p>s = Perpindahan benda (m)</p><p></p><p>2.Usaha sama dengan perubahan energi</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>Vt = kecepatan akhir (m/s)</p><p>Vo = kecepatan awal (m/s)</p><p>Usaha karena perubahan ketinggian/posisi</p><p>W = perubahan energi potensial</p><p>    = Ept - Epo</p><p>    = mg ht - mg ho</p><p>    = mg ( ht - ho )</p><p>ht = ketinggian/ posisi akhir (m)</p><p>ho = ketinggian/ posisi awal (m)</p><p></p><p>1.Diketahui</p><p>m = 0,5 kg</p><p>ho = 2 m</p><p>ht  = 0</p><p>s = 1 cm = 10^-2 m</p><p>Ditanya</p><p>Gaya hambat rata rata pasir</p><p>Penyelesaian</p><p>Kita pakai konsep usaha karena gaya dan perubahan energi potensial</p><p>W = \u0394 Ep</p><p>F x s = Ept - Epo</p><p>        = m g ht - m g ho</p><p>F x s  = m g (ht - ho)</p><p>      F = 0,5 x 10 (0- 2)/ 10^-2</p><p>      F  = - 1000 N</p><p>Tanda negatif menunjukkan arah gaya berlawanan dengan arah gerak benda (gaya hambat)</p><p></p><p>2.Diketahui</p><p>   m = 5 kg</p><p>   Vo = 0</p><p>    a  = 2 m/s2</p><p>     t  = 2 s</p><p>     kemudian kecepatan konstan selama 4 s</p><p>Ditanya</p><p>Usaha yg dilakukan balok</p><p>Penyelesaian</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>Vt = Vo + a t</p><p>    = 0 + 2 x 2</p><p>    = 4 m/s2</p><p>W = 1/2 \u00d7 5 x 4^2 - 0</p><p> W = 40 J</p><p>Jika kecepatan konstan, W= 0</p><p></p><p>3. Diketahui</p><p>m = 1000 kg</p><p>Vo = 10 m/s</p><p>W = - 6000 J </p><p>( Tanda negatif menunjukkan usaha melawan arah gerak benda sehingga kecepatan mobil berkurang)</p><p>Ditanya</p><p>Kecepatan akhir mobil</p><p>Penyelesaian</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>-6000  = 1/2 1000 Vt^2 - 1/2 1000 10^2</p><p>-6000  = 500 Vt^2 -50 000</p><p>44 000 = 500 Vt^2</p><p>     Vt^2 = 88</p><p>      Vt = 9,4 m/s</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "35-proses-yang-dialami-gas-dalam-ruang-tertutup-pada-suhu-tetap-221",
+            "question": "35. Proses yang dialami gas dalam ruang    tertutup pada suhu tetap di sebut.....\r\na. Proses animasi\r\nb. Proses Isokhorik\r\nc. Proses Adibiatik\r\nd. Proses Isobarik\r\ne. Proses Isoternal\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Proses isotermal</strong></p><p></p><p><strong>Penjelasan:</strong></p><p>Proses isotermal adalah proses yang dialami gas pada suhu tetap. Usaha yang dilakukan gas pada proses ini tidak dapat dihitung dengan persamaan W = p \u00d7 \u0394 V .</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

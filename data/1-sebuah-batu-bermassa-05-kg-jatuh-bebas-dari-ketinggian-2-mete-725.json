@@ -1,0 +1,146 @@
+{
+    "question": "1. Sebuah batu bermassa 0,5 kg jatuh bebas dari ketinggian 2 meter dan jatuh tepat di atas hamparan pasir. Jika batu masuk sedalam 1 cm ke dalam pasir sebelum kemudian berhenti, maka gaya rata \u2013 rata yang dilakukan pasir untuk menghambat batu adalah\u2026.    2. Sebuah balok bermassa 5 kg terletak di atas meja licin dalam keadaan diam. Balok tersebut mengalami percepatan sebesar 2 m/s2 selama 2 detik dan selanjutnya bergerak dengan kecepatan konstan selama 4 sekon. Besar usaha yang dilakukan balok selama gerak tersebut adalah\u2026.\r\n\r\n 3. Sebuah mobil bermassa 1000 kg bergerak dengan kelajuan 10 m/s pada arah mendatar. Tiba-tiba pengemudi mengurangi kelajuan mobil. Jika usaha yang dilakukan pengemudi pada mobil tersebut 6.000 Joule, maka kecepatan mobil sekarang adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>1. F  = - 1000 N</p><p>2. W = 40 J</p><p>3. Vt = 9,4 m/s</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>Usaha adalah Kemampuan melakukan kerja, satuan Joule</p><p>Usaha yg dilakukan gaya pada benda dapat dihitung dengan :</p><p>1. Usaha oleh Gaya</p><p>W = F x s</p><p>Jika pada benda bekerja lebih dari 1 gaya maka F adalah resultan gaya</p><p>dimana:</p><p>W = Usaha yang dikerjakan oleh Gaya (Joule)</p><p>F = Gaya yg dikerjakan pada benda (N)</p><p>s = Perpindahan benda (m)</p><p></p><p>2.Usaha sama dengan perubahan energi</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>Vt = kecepatan akhir (m/s)</p><p>Vo = kecepatan awal (m/s)</p><p>Usaha karena perubahan ketinggian/posisi</p><p>W = perubahan energi potensial</p><p>    = Ept - Epo</p><p>    = mg ht - mg ho</p><p>    = mg ( ht - ho )</p><p>ht = ketinggian/ posisi akhir (m)</p><p>ho = ketinggian/ posisi awal (m)</p><p></p><p>1.Diketahui</p><p>m = 0,5 kg</p><p>ho = 2 m</p><p>ht  = 0</p><p>s = 1 cm = 10^-2 m</p><p>Ditanya</p><p>Gaya hambat rata rata pasir</p><p>Penyelesaian</p><p>Kita pakai konsep usaha karena gaya dan perubahan energi potensial</p><p>W = \u0394 Ep</p><p>F x s = Ept - Epo</p><p>        = m g ht - m g ho</p><p>F x s  = m g (ht - ho)</p><p>      F = 0,5 x 10 (0- 2)/ 10^-2</p><p>      F  = - 1000 N</p><p>Tanda negatif menunjukkan arah gaya berlawanan dengan arah gerak benda (gaya hambat)</p><p></p><p>2.Diketahui</p><p>   m = 5 kg</p><p>   Vo = 0</p><p>    a  = 2 m/s2</p><p>     t  = 2 s</p><p>     kemudian kecepatan konstan selama 4 s</p><p>Ditanya</p><p>Usaha yg dilakukan balok</p><p>Penyelesaian</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>Vt = Vo + a t</p><p>    = 0 + 2 x 2</p><p>    = 4 m/s2</p><p>W = 1/2 \u00d7 5 x 4^2 - 0</p><p> W = 40 J</p><p>Jika kecepatan konstan, W= 0</p><p></p><p>3. Diketahui</p><p>m = 1000 kg</p><p>Vo = 10 m/s</p><p>W = - 6000 J </p><p>( Tanda negatif menunjukkan usaha melawan arah gerak benda sehingga kecepatan mobil berkurang)</p><p>Ditanya</p><p>Kecepatan akhir mobil</p><p>Penyelesaian</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>-6000  = 1/2 1000 Vt^2 - 1/2 1000 10^2</p><p>-6000  = 500 Vt^2 -50 000</p><p>44 000 = 500 Vt^2</p><p>     Vt^2 = 88</p><p>      Vt = 9,4 m/s</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "kak-tolong-dibantu-malam-ini-dikumpulin-278",
+            "question": "Kak, tolong dibantu \r\nmalam ini dikumpulin\u200b",
+            "attachments": [
+                "question-attachments/kak-tolong-dibantu-malam-ini-dikumpulin-278-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>\u03b1 = 11x10\u207b\u2075 /C\n</p><p>T = 30 C\n</p><p>T&#039; = 35 C\n</p><p>\u0394L = 0,055 m\n</p><p>Lo = ?\n</p><p>\n</p><p>\u0394L = Lo \u03b1 \u0394T\n</p><p>0,055 = Lo x 11x10\u207b\u2075 x (35-30)\n</p><p>Lo = 0,055/55x10\u207b\u2075\n</p><p>Lo = 100 m</p><p><strong>Penjelasan:</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-contoh-gerak-lemah-pada-tari-adalah-gerak-apohon-tumb-255",
+            "question": "Salah satu contoh gerak lemah pada tari adalah gerak    a.pohon tumbang\r\nb.hujan rintik-rintik\r\nc pohon bergoyang\r\nd.pohon tertiup angin\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C. pohon bergoyang</p><p><strong>Penjelasan:</strong></p><p>contoh kecilnya, lihat pohon yang bergerak oleh sepoi angin. dia bergerak meliuk-liuk. dan coba kamu praktik kan kepada tubuh atau gerak tanganmu.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besitanahdan-udara-merupakan-contoh-aunsur-bsenyawa-ccamp-164",
+            "question": "Besi,tanah,dan udara merupakan contoh...    a.unsur\r\nb.senyawa\r\nc.campuran\r\nd.materi\r\n\r\nTolong dong kakak kakak yg bisa\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0</p><p></p><p><strong>D.</strong><strong> </strong>materi </p><p></p><p><strong>Penjelasan:</strong></p><p></p><p>Semoga membantu :) </p><p></p><p>\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Material kalo  nggak ada yang C</p><p><strong>Penjelasan:</strong></p><p>maaf kl salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-gaya-566",
+            "question": "Apa yang di maksud gaya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>antar gesekan dibawahbdan diatas</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Gaya, di dalam ilmu fisika, adalah interaksi apapun yang dapat menyebabkan sebuah benda bermassa mengalami perubahan gerak, baik dalam bentuk arah, maupun konstruksi geometris.</p><p><strong>Penjelasan:</strong></p><p><strong>SEMOGA </strong><strong>BERMANFAAT</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yg-bisa-jawab-ku-kasih-20-poin-595",
+            "question": "Yg bisa jawab\r\n ku kasih\r\n 20 poin",
+            "attachments": [
+                "question-attachments/yg-bisa-jawab-ku-kasih-20-poin-595-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>jawab</p><p>D. 2,3, dan 4</p><p>penjelasan</p><p>pernyataan no 1 salah, no 1 itu adalah dinding sel</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>D. 2,3,4</p><p><strong>Penjelasan:</strong></p><p>Maaf kalau salah</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalor-yang-digunakan-untuk-meleburkan-01kg-es-pada-suhu-0-adal-479",
+            "question": "Kalor yang digunakan untuk meleburkan 0,1kg es pada suhu 0\u00b0 adalah\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kalor untuk melebur 0,1 kg es = 33600 J</p><p></p><p><strong>Penjelasan:</strong></p><p>Diketahui</p><p>m es = 0,1 kg</p><p>To = 0\u00b0C</p><p>Ditanya</p><p>Kalor yg dibutuhkan untuk melebur esn diatas</p><p>Penyelesaian</p><p>Kalor untuk mengubah wujud</p><p>(Saat perubahan wujud, suhu tetap)</p><p>Q = m x L</p><p>m= massa benda (kg)</p><p>L = kalor laten (J/kg)</p><p></p><p>Kalor untuk melebur es</p><p>(L lebur = 336 000 J/kg)</p><p>Q = m x L lebur</p><p>    = 0,1 x 336 000</p><p>    = 33600 J</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ketika-mobil-tiba-tiba-berhenti-benda-benda-di-jok-belakang-terl-935",
+            "question": "Ketika mobil tiba-tiba berhenti, benda benda di jok belakang terlempar ke depan. Hal ini berhubungan dengan hukum    A. hukum gravitasi B. hukum dan gaya kecepatan C. hukum inersia D. hukum aksi reaksi E. hukum kepler\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>b .hukum dan gaya kecepatan</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B. HUKUM DAN GAYA KEHIDUPAN</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-planet-p-dan-q-mengorbit-matahari-apabila-perbandingan-jarak-372",
+            "question": "Dua planet P dan Q mengorbit matahari apabila perbandingan jarak antara planet P dan planet Q terhadap matahari adalah 64 banding 25 dan periode planet B mengelilingi matahari 128 hari maka hitunglah periode planet Q mengelilingi matahari\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p>Pendahuluan :</p><p>Hi teman-teman, saya akan mencoba untuk menjawab pertanyaanmu. Jangan lupa dibaca bagian pembahasannya juga ya agar lebih mantap pendalaman materinya.</p><p></p><p>Langkah Penyelesaian :</p><p>Diketahui :</p><p></p><p>Rp : Rq = perbandingan jarak ke matahari = 4 : 9</p><p>Tp = periode planet P = 24 hari</p><p>Ditanya : Tq = periode planet Q = .... hari</p><p></p><p>Jawaban :</p><p></p><p>\\begin{gathered}\\frac {T_p\\:^{2}}{R_p\\:^{3}} = \\frac {T_q\\:^{2}}{R_q\\:^{3}} \\\\ \\frac {24^{2}}{4^{3}} = \\frac {T_q\\:^{2}}{9^{3}} \\\\ \\frac{(8 \\times 3)^{2} }{( {2}^{2} )^{3}} = \\frac {T_q\\:^{2}}{( {3}^{2}) ^{3}} \\\\ \\frac{( {2}^{3} \\times 3)^{2} }{ {2}^6} = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ \\frac{ \\cancel {{2}^{6}} \\times {3}^{2} }{\\cancel {{2}^{6}} } = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ {3}^{2} \\times {3}^{6} = {T_q\\:^{2}} \\\\ {3}^{8} = {T_q\\:^{2}} \\\\ \\sqrt{ {3}^{8} } = T_q \\\\ {3}^{ \\frac{8}{2} } = {T_q} \\\\ {3}^{4} = {T_q} \\\\ 81 \\: hari = T_q \\: \\end{gathered} </p><p>R </p><p>p</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>p</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>q</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>4 </p><p>3</p><p> </p><p>24 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>9 </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>(2 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>(8\u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>(3 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p>(2 </p><p>3</p><p> \u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p> </p><p>2 </p><p>6</p><p> </p><p> \u00d73 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>3 </p><p>2</p><p> \u00d73 </p><p>6</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> </p><p>\t</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>2</p><p>8</p><p>\t</p><p> </p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>4</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>81hari=T </p><p>q</p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Jadi, periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p><strong>Penjelasan:</strong></p><p>Pada hukum Kepler III ini kita membandingkan besarnya perbandingan antara hubungan periode dengan jari-jari orbit suatu planet. Karena berwujud perbandingan yang tidak tetap satuannya, maka satuan dapat disesuaikan sesuai dengan soal. Namun, secara umum hukum Kepler III ini dapat dirumuskan dengan :</p><p></p><p>\\boxed {\\bold {\\frac {T_a\\:^{2}}{R_a\\:^{3}} = \\frac {T_b\\:^{2}}{R_b\\:^{3}}}} \\: </p><p>R </p><p>a</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>a</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>b</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>b</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Dengan ketentuan :</p><p></p><p>Ta = periode planet A (tahun)</p><p>Tb = periode planet B (tahun)</p><p>Ra = jarak planet A ke matahari (km)</p><p>Rb = jarak planet B ke matahari (km)</p><p>a dan b dapat diganti dengan huruf apapun sesuai dengan soal, karena tidak memengaruhi penghitungan</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rani-tidak-dapat-membaca-tulisan-dengan-jarak-1-meter-tetapi-dapa-150",
+            "question": "Rani tidak dapat membaca tulisan dengan jarak 1 meter tetapi dapat membaca dengan jelas pada jarak 25 cm mata apakah yang dialami Rani dan bagaimanakah cara penanggulangannya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>mata minus atau rabun jauh </p><p>cara penanggulangannya adalah memakai kaca mata khusus minus. </p><p>semoga bermanfaat^^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-perbedaan-berjalan-dengan-berlari-879",
+            "question": "Apa perbedaan berjalan dengan berlari \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>belajar itu pake otak berlalu itu pake kaki</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.  Kecepatan</p><p></p><p></p><p>Perbedaan berjalan dan berlari yang pertama terletak pada kecepatannya. Hal ini tentu sangat kentara kalau kamu melihat orang berjalan dan berlari. Kecepatan rata-rata berjalan sekitar 5 km/jam, sedangkan berlari memiliki kecepatan rata-rata 15 \u2013 20 km/jam. Ada pula orang yang memilih jalan cepat atau power walking yang bisa mencapai kecepatan hingga 8 km/jam. </p><p></p><p></p><p> </p><p></p><p>2.  Kontak Kaki</p><p></p><p>Lamanya kontak kaki ke tanah jadi perbedaan signifikan berikut antara berjalan dan berlari. Saat berjalan, kontak kaki ke tanah lebih besar dan lebih lama dibandingkan dengan berlari yang memiliki kontak dengan tanah yang lebih kecil dan lebih cepat.</p><p></p><p> </p><p></p><p>3.  Sudut Lutut</p><p></p><p>Berlari akan membuat lutut jadi lebih lelah dibandingkan berjalan, karena lutut akan tertekuk lebih banyak dan lebih terbeban dalam mendukung gerakan berlari. Sedangkan saat berjalan, lutut lebih sedikit tertekuk dan gerakan berjalan tidak memberikan beban banyak pada lutut. </p><p></p><p> </p><p></p><p>4.  Tenaga</p><p></p><p>Perbedaan gerakan berjalan dan berlari mempengaruhi tenaga yang dibutuhkan. Saat berjalan, gerakan tubuh tidak sebesar saat berlari, sehingga tenaga yang dibutuhkan pun tidak besar. Sedangkan saat berlari, untuk mencapai kecepatan tertentu yang diinginkan, dibutuhkan dorongan dari gerakan tangan, lekukan lutut hingga langkah, sehingga tenaga yang dibutuhkan pun lebih besar.</p><p><strong>Penjelasan:</strong></p><p>kepanjangn ya:D</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

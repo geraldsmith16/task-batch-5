@@ -1,0 +1,140 @@
+{
+    "question": "Yang bukan termasuk keragaman ekonomi masyarakat desa yaitu\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>mementinkan di sendiri</p><p><strong>Penjelasan:</strong></p><p>smg benar</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Hasil produksi</p><p></p><p>semoga membantu</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "3-mesin-hidrolik-pengangkat-mobil-memiliki-luas-pengisap-kecil-5-618",
+            "question": "3. Mesin hidrolik pengangkat mobil memiliki luas pengisap kecil 50 cm dan luas pengisap besar 200    cm. Berat mobil yang di angkat 25.000 N. Besar gaya tekan adalah...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Besar gaya tekan adalah [tex]\\boxed{\\sf{6.250 \\: N}}[/tex]</p><p></p><h2>Pembahasan </h2><p>Hai! Soal tersebut adalah berkaitan dengan hukum pascal. <strong>Blaise Pascal (1623 - 1662) </strong>,menyatakan bahwa <em>\u201cApabila tekanan diberikan pada suatu bagian zat cair dalam suatu ruangan tertutup, akan di teruskan oleh zat cair ke segala arah dengan sama besar.\u201d </em>Maksudnya ketika kalian memberikan tekanan pada sesuatu yang termasuk zat cair di dalam ruangan dengan keadaan tertutup, maka zat cair tersebut akan diteruskan dengan sama besar. </p><p></p><p>Dalam hukum Pascal, ketika kalian memberikan gaya kecil, maka akan diperoleh gaya lebih besar pada keluarannya. </p><p></p><p><strong><u>Rumus :</u></strong></p><p>[tex]\\sf{P_{1} = P_{2}}[/tex]</p><p>[tex]\\boxed{\\sf{\\frac{F_1}{A_1} = \\frac{F_2}{A_2}}}[/tex]</p><p><strong><u>Dimana :</u></strong></p><ul><li>[tex]\\sf{A_1}[/tex] = luas penampang kecil. </li><li>[tex]\\sf{A_2}[/tex] = luas penampang besar. </li><li>[tex]\\sf{F_1}[/tex] = gaya pada penampang kecil. </li><li>[tex]\\sf{F_2}[/tex] = gaya pada penampang besar. </li></ul><p></p><h3>Langkah Penyelesaian </h3><p><strong>Diketahui :</strong></p><p>[tex]\\sf{A_1}[/tex] = 50 cm\u00b2.</p><p>[tex]\\sf{A_2}[/tex] = 200 cm\u00b2.</p><p>[tex]\\sf{F_2}[/tex] = 25.000 N. </p><p></p><p><strong>Ditanya :</strong></p><p>Besar gaya tekan adalah ?</p><p></p><p><strong>Dijawab :</strong></p><p>[tex]\\bold{\\dfrac{F_1}{A_1} = \\dfrac{F_2}{A_2}}[/tex]</p><p>[tex]\\bold{\\dfrac{F_1}{50} = \\dfrac{25.000}{200}}[/tex]</p><p>[tex]\\bold{F_{1} = \\dfrac{25.000 \\times 50}{200}}[/tex]</p><p>[tex]\\bold{F_{1}= \\dfrac{1.250.000}{200}}[/tex] </p><p>[tex]\\bold{F_{1} = 6.250 \\: N}[/tex]</p><p></p><p><strong>Kesimpulan : </strong>Jadi besar gaya tekan adalah [tex]\\boxed{\\sf{6.250 \\: N}}[/tex]</p><p></p><h3>Pelajari lebih lanjut </h3><ul><li><strong>Sebutkan dan jelaskan isi hukum pascal</strong> https://brainly.co.id/tugas/20325792</li><li><strong>Berat benda dalam air </strong>https://brainly.co.id/tugas/20965985</li><li><strong>Gaya apung </strong>https://brainly.co.id/tugas/19232509</li><li><strong>Benda terapung</strong> https://brainly.co.id/tugas/22326694</li></ul><p></p><h3>Detail jawaban</h3><p><strong>Kelas</strong> : 11</p><p><strong>Mapel</strong> : fisika</p><p><strong>Bab</strong> : fluida statistika</p><p><strong>Kode kategori</strong> : 11.6.3</p><p><strong>Kata kunci </strong>: Hukum pascal, [tex]\\sf{A_1}[/tex], [tex]\\sf{A_2}[/tex], [tex]\\sf{F_1}[/tex], [tex]\\sf{F_2}[/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-gaya-gravitasi-ditentukan-oleh-239",
+            "question": "Besar gaya gravitasi ditentukan oleh\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>massa dan bentuk benda </p><p><strong>Penjelasan:</strong></p><p>semoga membantu </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>masa benda</p><p>dan jarak (ketinggian)</p><p>antara kedua benda</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-jelaskan-apakah-syarat-yang-haris-di-miliki-sebuah-gaya-agar-816",
+            "question": "Coba jelaskan apakah syarat yang haris di miliki sebuah gaya agar menghasilkan usaha",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ada dua syarat,yaitu:</p><p>1. Gaya yg diberikan pada benda haruslah menyebabkan benda tersebut berpindah sejauh jarak tertentu</p><p>2. Gaya tersebut harus memiliki komponen arah yg paralel terhadap arah perpindahan</p><p></p><p>jadikan yg terbaik ya</p><p>semoga membantu :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-proses-pembentukan-urine-diawali-oleh-tahap-filtrasipenyari-298",
+            "question": "Pada Proses Pembentukan urine diawali oleh tahap Filtrasi(Penyaringan) oleh glomerolus ,apabila glomerolus terjadi kerusakan maka akan terjadi\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Urine adalah hasil sisa metabolisme yang melalui proses sekresi dari ginjal yang kemudian dikeluarkan dari dalam tubuh melalui saluran kemih. Urine biasanya mengandung zat yang sudah tidak diperlukan oleh tubuh, sehingga perlu dikeluarkan karena dapat meracuni tubuh.</p><p>Jika satu atau beberapa dari organ tersebut mengalami masalah urologi, proses pembentukan urine pun ikut terganggu. Kenali apa saja organ yang bekerja dalam proses pembentukan urine di tubuh manusia.</p><p></p><p>Ginjal</p><p>Ginjal termasuk organ penting dalam pembentukan urine. Dua organ berbentuk kacang ini terletak di bawah tulang rusuk dekat bagian tengah punggung. Ada beberapa fungsi ginjal yang turut berkontribusi agar Anda bisa buang air kecil sebagai berikut.</p><p></p><p>Membuang limbah dan cairan berlebih dari tubuh.</p><p>Menyeimbangan kadar air dan elektrolit di tubuh.</p><p>Melepaskan hormon yang mengontrol produksi sel darah merah.</p><p>Membantu menjaga kesehatan tulang dengan mengontrol kalsium dan fosfor.</p><p>Ginjal nantinya akan mengeluarkan urea dari darah lewat unit penyaringan kecil yang disebut nefron. Setiap nefron biasanya terdiri atas bola yang dibentuk dari kapiler darah kecil (glomerulus) dan tabung kecil (tubulus ginjal).</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besitanahdan-udara-merupakan-contoh-aunsur-bsenyawa-ccamp-164",
+            "question": "Besi,tanah,dan udara merupakan contoh...    a.unsur\r\nb.senyawa\r\nc.campuran\r\nd.materi\r\n\r\nTolong dong kakak kakak yg bisa\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0</p><p></p><p><strong>D.</strong><strong> </strong>materi </p><p></p><p><strong>Penjelasan:</strong></p><p></p><p>Semoga membantu :) </p><p></p><p>\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Material kalo  nggak ada yang C</p><p><strong>Penjelasan:</strong></p><p>maaf kl salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-definisi-getaran-189",
+            "question": "Jelaskan definisi getaran\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Getaran merupakan gerakan bolak-balik pada suatu benda dalam selang waktu tertentu melalui titik keseimbangannya.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-3-faktor-yang-mempengaruhi-jumlah-kalor-untuk-menaikkan-934",
+            "question": "Sebutkan 3 faktor yang mempengaruhi jumlah kalor untuk menaikkan suhu benda\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Massa benda (m)</p><p>Kalor jenis.</p><p>Kenaikan / perubahan suhu.</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>nggak tau</p><p><strong>Penjelasan:</strong></p><p>maap hehehhehe</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalor-yang-digunakan-untuk-meleburkan-01kg-es-pada-suhu-0-adal-479",
+            "question": "Kalor yang digunakan untuk meleburkan 0,1kg es pada suhu 0\u00b0 adalah\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kalor untuk melebur 0,1 kg es = 33600 J</p><p></p><p><strong>Penjelasan:</strong></p><p>Diketahui</p><p>m es = 0,1 kg</p><p>To = 0\u00b0C</p><p>Ditanya</p><p>Kalor yg dibutuhkan untuk melebur esn diatas</p><p>Penyelesaian</p><p>Kalor untuk mengubah wujud</p><p>(Saat perubahan wujud, suhu tetap)</p><p>Q = m x L</p><p>m= massa benda (kg)</p><p>L = kalor laten (J/kg)</p><p></p><p>Kalor untuk melebur es</p><p>(L lebur = 336 000 J/kg)</p><p>Q = m x L lebur</p><p>    = 0,1 x 336 000</p><p>    = 33600 J</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dipengaruhi-gaya-tetap-sebesar-5-n-jika-massa-bola-0-984",
+            "question": "Sebuah bola dipengaruhi gaya tetap    sebesar 5 N. Jika massa bola 0,5 kg,\r\npercepatan yang dialami bola adalah . *\r\nO\r\na. 10 m/s2\r\nO b. 25 m/s2\r\nO c. 5 m/s2\r\nO d. 0,25 m/s2\r\nO e. 1 m/s2\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Percepatan yang dialami bola adalah [tex]\\boxed{\\sf{10 \\: m/s^2}}[/tex]</p><p></p><h2>PEMBAHASAN</h2><p>Hai! Soal tersebut adalah berkaitan dengan hukum newton. Sesuai dengan nama nya hukum newton ditemukan oleh Sir Isaac Newton. Hukum newton sendiri juga terbagi menjadi 3, yaitu :</p><ul><li><strong><u>Hukum Newton I.</u></strong></li></ul><p><strong>Rumus umum :</strong></p><p>[tex]\\sf{\\sum F = 0}[/tex]</p><p><strong>Dengan ketentuan :</strong></p><p>[tex]\\sf{\\sum F}[/tex] = resultan gaya. </p><p></p><ul><li><strong><u>Hukum Newton II.</u></strong></li></ul><p><strong>Rumus menghitung persamaan menghitung gaya yang bekerja :</strong></p><p>[tex]\\sf{\\sum F =  m \\times a}[/tex]</p><p><strong>Dengan ketentuan :</strong></p><p>[tex]\\sf{\\sum F}[/tex] = resultan gaya. </p><p>[tex]\\sf{m}[/tex] = massa benda. </p><p>[tex]\\sf{a}[/tex] = percepatan gerak. </p><p></p><ul><li><strong><u>Hukum Newton III. </u></strong></li></ul><p><strong>Rumus umum :</strong></p><p>[tex]\\sf{F_{aksi} = -F_{reaksi}}[/tex]</p><p><strong>Dengan ketentuan :</strong></p><p>[tex]\\sf{F_{aksi}}[/tex] = gaya aksi benda.</p><p>[tex]\\sf{F_{reaksi}}[/tex] = gaya reaksi benda. </p><p></p><h3>LANGKAH PENYELESAIAN</h3><p><strong>Diketahui :</strong></p><p>Massa = 0,5 kg. </p><p>Gaya = 5 N. </p><p></p><p><strong>Ditanya :</strong></p><p>Percepatan yang dialami bola adalah ?</p><p></p><p><strong>Dijawab :</strong></p><p>[tex]\\sf{a = \\frac{\\sum F}{m}}[/tex]</p><p>[tex]\\sf{a = \\frac{5}{0,5}}[/tex]</p><p>[tex]\\sf{a = 10 \\: m/s^2}[/tex]</p><p></p><p><strong>KESIMPULAN : </strong>Jadi percepatan yang dialami bola adalah [tex]\\boxed{\\sf{10 \\: m/s^2}}[/tex]</p><p></p><h3>PELARI LEBIH LANJUT</h3><ul><li><strong>Materi tentang hukum newton</strong> https://brainly.co.id/tugas/20886390 https://brainly.co.id/tugas/18907952 https://brainly.co.id/tugas/21206554</li></ul><p></p><h3>DETAIL JAWABAN</h3><p><strong>Kelas</strong> : 10</p><p><strong>Mapel</strong> : fisika</p><p><strong>Bab</strong> : 6 - hukum newton (gerak) </p><p><strong>Kode kategori</strong> : 10.6.6</p><p><strong>Kata kunci</strong> : hukum newton II, gaya, massa, percepatan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-cara-jalanya-dung-kak-plss-dikumpulin-hari-ini-476",
+            "question": "Minta cara jalanya dung kak plss dikumpulin hari ini",
+            "attachments": [
+                "question-attachments/minta-cara-jalanya-dung-kak-plss-dikumpulin-hari-ini-476-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>kak kolo ini sisa kakak donlod kanda</p><p><strong>Penjelasan:</strong></p><p>maaf karena aku ngak kasih jawaban nya</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

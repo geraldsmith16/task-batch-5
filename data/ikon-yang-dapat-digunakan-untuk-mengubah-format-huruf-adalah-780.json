@@ -1,0 +1,144 @@
+{
+    "question": "Ikon yang dapat digunakan untuk mengubah format huruf\r\nadalah \u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Ikon Grow Font dan ikon Shrink Font. - Grow Font ialah ikon untuk mengubah ukuran huruf menjadi lebih besar.</p><p></p><p></p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>ikon grow font dan yg lain nya</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "fitur-yang-digunakan-untuk-menampilkan-kotak-pesan-pada-fmx-frame-126",
+            "question": "Fitur yang digunakan untuk menampilkan kotak pesan pada FMX Framework adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><em>fitur</em><em> </em><em>fitur</em><em> </em><em>yg</em><em> </em><em>langsung</em><em> </em><em>lengkap</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-pointer-775",
+            "question": "Jelaskan fungsi pointer\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Pointer berguna untuk mentransfer data yang memiliki kapasitas besar, melalui suatu fungsi. Pointer sangat erat kaitannya dengan array, sehingga variabel pointer dapat menggantikan fungsi dan variabel array. ... Membuat program untuk menyimpan bilangan pecahan acak sebanyak 12 bilangan, disimpan dalam suatu array.</p><p><strong>Penjelasan:</strong></p><p>Terimakasih semoga membantu dan bermanfaat (\u25d5\u1d17\u25d5\u273f)</p><p>maaf jika ada kesalahan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-teknologi-berbasis-komputer-106",
+            "question": "Apa yang dimaksud dengan teknologi berbasis komputer??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Teknologi Berbasis Komputer merupakan cara-cara memproduksi dan menyampaikan bahan dengan menggunakan perangkat yang bersumber pada mikroprosesor.</p><p><strong>Penjelasan:</strong></p><p>SEMOGA BERMANFAAT</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>teknologi berbasis komputer merupakan cara cara memproduksi dan menyampaikan bahan dengan menggunakan perangkat yang bersumber dari mikroprosesor .</p><p>berbasis komputer bukan berarti secara daring atau online , melainkan hanya dilakukan lewat perangkat komputer dan tak terhubung internet .</p><p></p><p>semoga membantu</p><p>maaf kalau ada salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambar-dan-langkah-langkah-kerja-softwitch-yang-benar-425",
+            "question": "Gambar dan langkah langkah kerja softwitch yang benar\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>Cara Kerja Softswitch</p><p></p><p>MGC akan bekerja di tataran pengaturan panggilannya (call control) serta call processing. MGC akan mengontrol panggilan yang masuk untuk mengetahui jenis media penggilan dan tujuannya.</p><p></p><p>Dari situ, MGC akan mengirikan sinyal ke MG untuk melakukan koneksi, baik intrakoneksi jaringan sirkuit ke sirkuit atau paket ke paket maupun interkoneksi jaringan sirkuit ke paket dan sebaliknya.</p><p></p><p>Jika diperlukan, MGC akan meminta MG melakukan konversi media yang sesuai dengan permintaan, atau langsung meneruskan panggilan jika tidak diperlukan konversi.</p><p></p><p>Antara MGC dan MG sendiri akan saling berhubungan dengan protokol Megaco atau MGCP (Media Gateway Control Protocol).</p><p> Sementara itu, satu MGC akan berhubungan dengan MGC yang lain, baik itu yang berada di jaringan yang sama maupun berbeda, dengan mengirimkan protokol sinyal tertentu. Untuk jaringan sirkit, MGC akan mengirimkan SS7 (Signalling System 7), sementara jika berhubungan dengan jaringan paket, maka MGC akan menggunakan H.323 atau SIP (Season Initiation Protocol).</p><p></p><p>Semoga membantu :) </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-di-bantu-please-455",
+            "question": "Tolong di bantu \r\nplease\u200b",
+            "attachments": [
+                "question-attachments/tolong-di-bantu-please-455-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B. Ikon Table</p><p><strong>Penjelasan:</strong></p><p>Digunakan untuk membuat suatu tabel pada word.</p><p>Semoga membantu</p>",
+                    "attachments": [
+                        "answer-attachments/tolong-di-bantu-please-455-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-langkah-langkah-membuat-garis-pada-microsoft-excel-642",
+            "question": "Tuliskan langkah langkah membuat garis pada Microsoft Excel \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Penjelasan:</p><p></p><p>-Pertama\u2013tama seleksilah terlebih dahulu sel yang akan diberi garis, misalnya sel A1:C7.</p><p>-Berikutnya tekanlah segitiga kecil pada icon borders yang ada di dalam Tab Home bagian Font.</p><p>-Kemudian Pilihlah opsi All Borders.</p><p></p><h3>Semoga Bermanfaat Ya</h3>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Membuat garis/grafik</p><p></p><p>a. Blok data yang akan dibuat garis</p><p></p><p>b. Pilih menu insert, pilih jenis grafik pada group Chart, hingga memunculkan dialog</p><p></p><p>c. Pilih jenis grafik pada Chart Style dan pilih model tampilan grafik/garis. Lakukan pengeditan dgn klik double lada gambar grafik</p><p></p><h2>Semoga Membantu</h2><h2>Jadikan Jawaban Tercerdas</h2>",
+                    "attachments": [
+                        "answer-attachments/tuliskan-langkah-langkah-membuat-garis-pada-microsoft-excel-642-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "4-sistem-operasi-jaringan-adalah-sistem-operasi-yang-mendukung-c-231",
+            "question": "4. Sistem operasi jaringan adalah sistem operasi yang mendukung cara kerja jaringan pada suatu    sistem, jika kalian melakukan troubleshooting pada sistem operasi jaringan apa saja yg kalian\r\nsiapkan dan bagaimana cara melakukan troubleshooting pada sistem operasi jaringan?\r\n5. Tuliskan proses kerja pada:\r\na. File Server\r\nb. Mail Server\r\nc. Remote Server\r\nd. DHCP Server\r\ne. FTP Server\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>harga diriku sendiri lah yang menjadi dasar bagi para wanita yang cantik makanya dicurik orang lain bernama lengkap ratu Atut</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-perangkat-pasif-yang-berguna-untuk-memperkuat-sinyal-yang-601",
+            "question": "Sebuah perangkat pasif yang berguna untuk memperkuat sinyal yang dikirim melalui antena adalah.....    a. beamwidth\r\nb. polarisasi\r\nc. gain \r\nd. propagasi\r\ne. Line of sight\r\n\r\ntolong bantu\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B.polarisasii</p><p><strong>Penjelasan:</strong></p><p>maaf jika ada kesalahan</p><p></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>D. propagasi</p><p></p><p>maaf klu slh</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-fungsi-baris-judul-pada-microsoft-excel-774",
+            "question": "Apa fungsi baris judul pada Microsoft excel\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>memindahkan jendela ke posisi yg diinginkan dan merupakan tempat dimana file yang sedang dibuka ditampilkan.</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-ip-address-192105030-tentukan-a-rentang-ip-b-ip-host-928",
+            "question": "Dari IP Address 192.10.5.0/30, tentukan:    a. Rentang IP\r\n b. IP Host\r\n c. IP Network\r\n d. IP Broadcast\r\n e. IP Subnetmask\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>qb akjendjshdneddmdmsmemdmek</p><p></p><p>jshwheudhejs</p><p></p><p>sjsjekd</p><p>s</p><p>wSld</p><p>d</p><p>rs.</p><p>s</p><p></p><p><strong>Penjelasan:</strong></p><p>sjdidjkemekekekekeoelekwkwwm2new</p><p></p><p></p><p>sjxjejxmsmk</p><p></p><p></p><p>maap kl slh kk</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

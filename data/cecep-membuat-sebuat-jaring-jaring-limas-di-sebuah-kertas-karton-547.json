@@ -1,0 +1,136 @@
+{
+    "question": "cecep membuat sebuat jaring jaring limas di sebuah kertas karton berukuran 36 cm x 36 cm, tentukan volume limas yg di buat cecep",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>volume limas segi empat =</p><p>\u2153 luas alas x tinggi</p><p>\u2153 (36x36) 36</p><p>1296x12</p><p>= 15552 c\u00b3</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sisi-yang-akan-berhadapan-dengan-sisi-q-adalah-sisi-tolong-jawab-760",
+            "question": "Sisi Yang Akan Berhadapan Dengan Sisi Q Adalah Sisi\r\n\r\nTolong Jawab Lagi Ujian:))\u200b",
+            "attachments": [
+                "question-attachments/sisi-yang-akan-berhadapan-dengan-sisi-q-adalah-sisi-tolong-jawab-760-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>sisi S</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Ketika jaring-jaring kubus disatukan, sisi Q akan berhadapan dengan sisi S</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-dadu-di-lempar-bersama-sebanyak-100-kali-tentukan-frekuensi-251",
+            "question": "Dua dadu di lempar bersama sebanyak 100 kali. Tentukan frekuensi harapan muncul jumlah mata kedua dadu sama dengan 6.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>6x</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf klo salahhh.....</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dong-yang-bisa-395",
+            "question": "Tolong dong yang bisa \u200b",
+            "attachments": [
+                "question-attachments/tolong-dong-yang-bisa-395-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>MATRIX</p><p></p><p>misal [tex] \\sf{M} = \\begin{bmatrix} a &amp; b \\\\ c &amp; d \\end{bmatrix} [/tex]</p><p></p><p>matrix singular, artinya matrix tersebut tidak memiliki invers matrix, atau determinannya 0</p><p>det(M) = 0</p><p>ad -bc = 0</p><p>ad = bc</p><p>bc = ad</p><p>[tex] ^z \\log (b) \\cdot ^a \\log ( \\frac{1}{z} ) = 2 \\cdot 1  [/tex]</p><p>[tex]  ^a \\log ( z^{-1} )  \\cdot ^z \\log (b)= 2 \\cdot 1 [/tex]</p><p>[tex]   - ^a \\log ( z )  \\cdot ^z \\log (b)= 2 \\cdot 1 [/tex]</p><p>[tex]   - ^a \\log \\cancel{( z )  \\cdot ^z} \\log (b)= 2 \\cdot 1 [/tex]</p><p>[tex] - ^a \\log (b) = 2 [/tex]</p><p>[tex] ^a \\log (b) = -2 [/tex]</p><p>1/a\u00b2 = b</p><p></p><p>[tex] ^z \\log (a) \\cdot ^b \\log (z^2) + ^a \\log (a b^3) [/tex]</p><p>[tex] = 2 ^b \\log (z) \\cdot ^z \\log (a)  + ^a \\log (a ( \\frac{1}{a^2} )^3) [/tex]</p><p>[tex] = 2 ^b \\log \\cancel{(z) \\cdot ^z} \\log (a)  + ^a \\log (  \\frac{1}{a^5} ) [/tex]</p><p>[tex] = 2 ^b \\log (a)  + ^a \\log (  a^{-5} ) [/tex]</p><p>[tex] = 2 \\frac{1}{ ^a \\log (b) }  + (-5 ^a \\log (  a )) [/tex]</p><p>= 2 \u00d7 1/(-2) -5</p><p>= -1 -5</p><h3>= -6</h3><h3>[Opsi B]</h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-seatu-segitiga-yang-panjang-sisinya-berurut-turut-9cm-12cm-120",
+            "question": "apakah seatu segitiga yang panjang sisinya berurut turut 9cm 12cm dan 18cm merupakan segitiga siku siku jelaskan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>bukan segitiga siku-siku</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Ciri-ciri segitiga siku-siku, yaitu : (1) memiliki sisi tegak lurus dengan alas; (2) memiliki 2 sudut lancip dan 1 sudut siku-siku.</p><p>Perhatikan berikut:</p><p>Jika \u0394ABC siku-siku di C maka berlaku:</p><p>begin mathsize 14px style AB squared equals AC squared plus BC squared left right double arrow straight c squared equals straight b squared plus straight a squared end style</p><p>Apakah suatu segitiga yang panjang ketiga sisinya berturut-turut 9cm, 12cm, dan 18cm adalah segitiga siku-siku?</p><p>Diketahui a = 9 cm, b = 12 cm.</p><p>straight c squared equals straight a squared plus straight b squared left right double arrow straight c squared equals 9 squared plus 12 squared left right double arrow straight c squared equals 81 plus 144 left right double arrow straight c squared equals 225 left right double arrow straight c equals plus-or-minus 15 space cm left right double arrow straight c equals 15 space cm</p><p>Diperoleh c = 15 cm bukan 18 cm, oleh karena itu segitiga yang panjang ketiga sisinya berturut-turut 9cm, 12cm, dan 18cm adalah bukan segitiga siku-siku.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-kubus-343cmpersegi-luas-seluruh-bidang-sisi-kubus-adalah-369",
+            "question": "Volume kubus 343cmpersegi luAs seluruh bidang sisi kubus adalah.....    a 49cm persegi\r\nb 168cm persegi\r\nc 294cm persegi\r\nd 343cm persegi\r\ntolong bantu jawab hari ini juga soalnya besok di kumpulkan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>c</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah (---&gt;---)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "29-luas-belah-ketupat-96cm2-dan-panjang-salah-satu-diagonal-ada-853",
+            "question": "29. Luas belah ketupat 96cm\u00b2 dan panjang salah satu diagonal adalah 24 cm. Panjang diagonal    lainnya adalah\r\n8 cm\r\nb 12 cm\r\n9 cm\r\nd. 16 cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><h2>[tex]{\\sf{\\small\\color{blue}{Pertanyaan}}}[/tex]</h2><p></p><p>Luas belah ketupat 96 cm\u00b2 dan panjang salah satu diagonal adalah 24 cm. Panjang diagonal lainnya adalah</p><p>a. 8 cm</p><p>b 12 cm</p><p>c. 9 cm</p><p>d. 16 cm</p><p></p><h2>[tex]{\\sf{\\small\\color{blue}{Jawaban}}}[/tex]</h2><p></p><p><strong>Ket</strong><strong>erangan</strong><strong> </strong><strong>:</strong></p><ul><li>[tex] \\sf{ L \\:  =  \\: Luas }[/tex]</li><li>[tex] \\sf{d \\:  =  \\: Diameter}[/tex]</li><li>[tex] \\sf{ d_{1} \\:  =  \\: Diameter \\: 1 }[/tex]</li><li>[tex] \\sf{ d_{2} \\:  =  \\: Diameter \\: 2  }[/tex]</li></ul><p></p><p><strong>Dik</strong><strong> </strong><strong>:</strong></p><p>[tex] \\sf{L \\:  =  \\:  {96} \\:  {cm}^{2}  }[/tex]</p><p>[tex] \\sf{ d_{1}  \\:  = \\: 24 \\: cm }[/tex]</p><p></p><p><strong>Dit</strong><strong> </strong><strong>:</strong></p><p>[tex]  \\sf{d_{2} \\:  =  \\: .... ?}[/tex]</p><p></p><p>\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550</p><p></p><p>[tex] \\boxed{ \\sf{ d_{2} \\:  =  \\: \\frac{2 \\:  \\times  \\: L}{ d_{1}}  }}[/tex]</p><p>[tex]  \\: \\sf{ d_{2} \\:  =  \\: \\frac{2 \\:  \\times  \\: 96}{24}  } \\\\ [/tex]</p><p>[tex] \\:  \\sf{ d_{2} \\:  =  \\: \\frac{192}{24}  } \\\\ [/tex]</p><p>[tex]  \\boxed{ \\sf{d_{2} \\:  =  \\: 8}}[/tex]</p><p></p><h3>Jadi, [tex] \\sf{ d_{2}}[/tex] dari belah ketupat tersebut adalah a. 8 cm.</h3><p></p><p>\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550</p><p></p><h2>=====================</h2><p></p><p>[tex] \\huge \\colorbox{pink}{Semoga Membantu}[/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-x-5y-6x-12-adalah-a5y-5x-12-b7x-437",
+            "question": "Hasil dari\u00a0x + 5y = 6x + 12\u00a0adalah ...    a.5y - 5x\u00a0 = 12\r\n\r\nb.7x + 5y = 12\r\n\r\nc.5x + 5y = 12\r\n\r\nd.7y - 5y = 12\r\n\r\ne.6x - 5y = 12\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>x + 5y = 6x + 12</p><p>x + 5y - 6x - 12</p><p>5y - 5x = 12 (A) </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>yang A. 5y-5x=12</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>tinggal pindah ruas si 6x nya </p><p>x+5y-6x=12</p><p>5y-5x=12</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-dari-sin-30-derajat-dan-dan-tan-45-derajat-mat-dik-779",
+            "question": "Tentukan nilai dari sin 30 derajat dan dan Tan 45 derajat Mat dikurang cos 60 derajat sin 30 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>pertanyaan nya kurang jls </p><p>mksh</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-pliss-besok-udah-dikumpul-tolong-bangett-394",
+            "question": "Bantu jawab pliss besok udah dikumpul\r\ntolong bangett\u200b",
+            "attachments": [
+                "question-attachments/bantu-jawab-pliss-besok-udah-dikumpul-tolong-bangett-394-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><ol><li>17</li><li>95,73.25</li><li>15</li><li>53</li><li>65</li><li>53</li></ol><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jadikan jawaban terbaik</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pria-berteriak-ditepi-tebing-dalam-waktu-10-detik-jika-c-921",
+            "question": "Seorang pria berteriak ditepi tebing dalam waktu 10 detik ,jika cepat rambat suara pria tersebut 100 m/s2 , tentukan kedalaman jurang tersebut?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>sedalam dalamnya jurang tersebut lebih dalam lagi cintaku padamu:)</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>(semangka)semangat kaka</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

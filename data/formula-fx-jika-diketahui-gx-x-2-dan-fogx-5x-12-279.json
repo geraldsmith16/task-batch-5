@@ -1,0 +1,142 @@
+{
+    "question": "Formula f(x) jika diketahui g(x) = x + 2 dan (fog)(x) = 5x+ 12\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>f(x)=5x+2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>diketahui=</p><p>g(x)=x+2</p><p>(f o g)(x)=5x+12</p><p></p><p>ditanya=</p><p>f(x)?</p><p></p><p>jawab=</p><p>(f o g)(x)= 5x+12</p><p>f(g(x))    = 5x+12</p><p>f(x+2)    = 5x+12</p><p>misal x+2=p,x=p-2</p><p></p><p>f(p)=5x+12</p><p>     =5(p-2)+12</p><p>     =5p - 10 +12</p><p>     =5p +2</p><p>f(x)=5x+2</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-nilai-dari-a-9-b-73-c-10-x-8-342",
+            "question": "Tentukan nilai dari \r\n\r\na. 9!\r\nb 7!/3!\r\nc. 10! X 8!\u200b",
+            "attachments": [
+                "question-attachments/tentukan-nilai-dari-a-9-b-73-c-10-x-8-342-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>maaf saya tidak mengetahui</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-hasil-dari-1-8-1-2-420",
+            "question": "Berapakah hasil dari 1 /8 + 1 /2\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>1/8+1/2\n</p><p>\n</p><p>=1/8+4/8\n</p><p>\n</p><p>=5/8</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah \u00a0bantu follow dan jadikan jawaban terbaik</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Hasil dari 1/8 + 1/2 adalah [tex]{ \\boxed{ \\bold{ \\frac{5}{8}}}} [/tex].</p><p></p><h2>Pembahasan. </h2><p>Pecahan adalah Bilangan yang ditulis dalam bentuk <strong>a</strong><strong>/</strong><strong>b</strong><strong>.</strong> Di dalam pecahan terdapat bilangan bulat dimana b \u2260 0.</p><p></p><p><strong>Macam</strong><strong> </strong><strong>macam</strong><strong> </strong><strong>Pecahan</strong><strong> </strong><strong>:</strong></p><ul><li>Pecahan biasa.</li><li>Pecahan campuran. </li><li>Desimal.</li><li>Persentase. </li></ul><p></p><p>[tex] \\texttt{}[/tex]</p><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><ul><li>1/8 + 1/2</li></ul><p></p><p><strong>Ditanyakan</strong><strong> </strong><strong>:</strong></p><ul><li>Hasil?</li></ul><p></p><p><strong>Penyelesaian</strong><strong> </strong><strong>:</strong></p><p>[tex] \\frac{1}{8}  +  \\frac{1}{2}  \\\\  \\\\  =  \\frac{(1 \\times 2) + (1 \\times 8)}{8 \\times 2}  \\\\  \\\\  =  \\frac{2 + 8}{16}  \\\\  \\\\  =  \\frac{10}{16}  \\\\  \\\\  =  { \\boxed{ \\bold{\\frac{5}{8} }}}[/tex]</p><h3>[tex] \\texttt{}[/tex]</h3><h3>PELAJARI LEBIH LANJUT </h3><ol><li>Mengubah persen menjadi pecahan campuran : https://brainly.co.id/tugas/26273451</li><li>Mengurutkan pecahan : https://brainly.co.id/tugas/21852107</li><li>Perbandingan Pecahan : https://brainly.co.id/tugas/30578790</li><li>Penjumlahan Pecahan : https://brainly.co.id/tugas/25952508</li></ol><p></p><h3>DETAIL JAWABAN </h3><p>Kelas : 4 SD.</p><p>Mapel : Matematika.</p><p>Bab : 6 - Pecahan.</p><p>Kode Kategorisasi : 4.2.6</p><p>Kata Kunci : Penjumlahan Pecahan, Pecahan.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-plisss-549",
+            "question": "Bantu jawab plisss!!!!",
+            "attachments": [
+                "question-attachments/bantu-jawab-plisss-549-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>\u0623\u0646\u0627 \u0644\u0627 \u0623\u0639\u0631\u0641 \u062d\u062a\u0649 \u0639\u0646 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-benda-bukan-segi-banyak-719",
+            "question": "Contoh benda bukan segi banyak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>jawaban </p><p>kursi,meja,jam dinding/jam tangan,tisu,cincin,kalung, hp, televisi</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-maka-hasil-dari-adalah-lengkap-dengan-cara-yaa-mak-697",
+            "question": "Diketahui    \r\nmaka hasil dari\r\n\r\nadalah...\r\n\r\n(lengkap dengan cara yaa, makasih)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>tiktok.com/@mutiaracom7</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>5*?!55688643588998743_6())))865</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-dari-pelemparan-sebuah-dadu-peluang-munculnya-sisi-dadu-berma-913",
+            "question": "1. Dari pelemparan sebuah dadu, peluang munculnya sisi dadu bermata 2 adalah...    a. 1/3\r\nb. 1/4\r\nc. 1/5\r\nd. 1/6\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>d. 1/6</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>ada 6 sisi, sisi dadu bermata 2 hanya ada 1 jadi 1/6</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-lingkaran-berpusat-di-titik-p-23-dengan-jari-610",
+            "question": "Diketahui sebuah lingkaran berpusat di titik p (2,3) dengan jari-jari 4 Tentukan persamaan lingkaran tersebut dan Gambarlah sketsanya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>caranya di foto in adja yaaaaaa</p>",
+                    "attachments": [
+                        "answer-attachments/diketahui-sebuah-lingkaran-berpusat-di-titik-p-23-dengan-jari-610-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "quiz-3275-788",
+            "question": "QUIZ - [32.75]\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Penjelasan di lampiran</p>",
+                    "attachments": [
+                        "answer-attachments/quiz-3275-788-1.pdf"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "luas-suatu-persegi-panjang-adalah-25-cm-2-jika-lebarnya-14-cm-mak-374",
+            "question": "Luas suatu persegi panjang adalah 25 cm 2 jika lebarnya 14 cm maka panjangnya adalah titik-titik cm a 16 b 27 c 18 d 6\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Luas suatu persegi panjang adalah 25 cm 2 jika lebarnya 14 cm maka panjangnya adalah <strong>1,78</strong><strong> </strong><strong>cm </strong>[tidak ada opsi]</p><p>a. 16 cm</p><p>b. 27 cm</p><p>c. 18 cm</p><p>d. 6 cm</p><h2>Pendahuluan</h2><p>Persegi panjang merupakan bangun datar yang sisi-sisi berhadapannya sama panjang dan keempat sudutnya siku-siku. Sifat-sifat persegi panjang:</p><ul><li>Mempunyai 2 pasang sisi yang sama panjang dan sejajar</li><li>Keempat sudutnya sama besar dan merupakan sudut siku-siku</li><li>Kedua diagonalnya saling berpotongan di tengah-tengah dan saling membagi dua sama panjang</li><li>Dapat menempati bingkainya dengan 4 cara</li></ul><p>Rumus luas persegi panjang</p><p>[tex]\\tt{ \\bold{ { L = p \\times l}}}[/tex]</p><p>Rumus keliling persegi panjang</p><p>[tex]\\tt{ \\bold{ { kll = 2 \\times (p + l)}}}[/tex]</p><h2>Penyelesaian</h2><p>Diketahui</p><ul><li>Luas 25 cm\u00b2</li><li>lebar 14 cm</li></ul><p>Ditanya</p><ul><li>Maka panjangnya adalah...</li></ul><p>Dijawab</p><p>[tex]{\\sf{ L = p \\times l }}[/tex]</p><p>[tex]{\\sf{  {25 \\: cm}^{2} = p \\times 14 \\: cm }}[/tex]</p><p>[tex]{\\sf{  \\frac{ {25 \\: cm}^{2} }{14 \\: cm}  = p}}[/tex]</p><p>[tex]{\\sf{1,78 \\: cm = p  }}[/tex]</p><p>Jadi, panjang persegi panjang tersebut yaitu<strong> </strong><strong>1,78</strong><strong> </strong><strong>cm</strong></p><p>.</p><h3>PELAJARI LEBIH LANJUT</h3><ul><li>https://brainly.co.id/tugas/26444276</li><li>https://brainly.co.id/tugas/20960870</li><li>https://brainly.co.id/tugas/27454515</li></ul><p>=====================================</p><p>[tex]{{\\mathscr{ DETAIL \\:  JAWABAN}}}[/tex]</p><p>Mapel : Matematika</p><p>Kelas : 3</p><p>Materi : Keliling dan luas persegi dan \npersegi panjang</p><p>Kata kunci : Luas, panjang, lebar</p><p>Kode soal : 2</p><p>Kode kategorisasi : 3.2.10</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "246471110-deret-angka-135",
+            "question": "2,4,6,4,7,11,10,...\r\nderet angka\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>7</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf ya ka klo salahhhhhh</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>15,16,17,18,19,20,219,22</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Fitur yang digunakan untuk menampilkan kotak pesan pada FMX Framework adalah ...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p><em>fitur</em><em> </em><em>fitur</em><em> </em><em>yg</em><em> </em><em>langsung</em><em> </em><em>lengkap</em></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "gabungan-beberapa-sel-pada-microsoft-excel-di-sebut-258",
+            "question": "Gabungan beberapa sel pada Microsoft Excel di sebut \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>RANGE adalah gabungan dari beberapa sel atau bisa juga diartikan gabungan dari beberapa kolom atau berapa baris misal range A1:45</p><p></p><p><strong>Maaf</strong><strong> </strong><strong>kalau</strong><strong> </strong><strong>salah</strong></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-di-bantu-please-455",
+            "question": "Tolong di bantu \r\nplease\u200b",
+            "attachments": [
+                "question-attachments/tolong-di-bantu-please-455-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B. Ikon Table</p><p><strong>Penjelasan:</strong></p><p>Digunakan untuk membuat suatu tabel pada word.</p><p>Semoga membantu</p>",
+                    "attachments": [
+                        "answer-attachments/tolong-di-bantu-please-455-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-kegunaan-mengatur-dokumen-294",
+            "question": "Jelaskan kegunaan mengatur dokumen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3>Jawaban+penjelasan</h3><p>Agar mencari sesuatu yang penting di dokumen tidak susah susah atau repot </p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-langkah-yang-tepat-yang-tepat-menghubungkan-perangkat-ko-295",
+            "question": "Sebutkan langkah yang tepat yang tepat menghubungkan perangkat komputer    tolong jawab dong mau di kumpul sekarang\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.Pastikan kabel-kabel sudah terpasang dengan benar.</p><p>2.Hidupkan stabilizer voltage jika ada.</p><p>3.Hidupkan monitor dengan menekan tompol power pada monitor .</p><p>4.Hidupkan CPU dengan menekan tombol power pada CPU .</p><p>5.Tunggu Hingga proses Booting Selesai sampai muncul layar desktop.</p><p>6.Computer sudah siap di pakai.</p><p></p><p><strong>Penjelasan:</strong></p><p> terimakasih atas pertanyaannya</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>   1. hubungkan kabel mouse dan keyboard ke CPU. Mouse dan keyboard keluaran terbaru telah menggunakan kabel USB. kamu hanya perlu mencari port USB yang disediakan.</p><p>          2. pasang kabel monitor. kabel monitor ada dua buah, yaitu kabel untuk daya dan kabel untuk data.</p><p>          3. hubungkan perangkat-perangkat lain (printer, speaker, LAN dan perangkat lainya) bila ada.</p><p>          4. hubungkan kabel power CPU dengan stabilizer.</p><p>          5. hubungkan kabel stabilizer dengan sumber listrik. komputer siap untuk dihidupkan.</p><p></p><p>jika semua perangkat komputer sudah dihubungkan, komputer sudah siap dihidupkan. langkah-langkah untuk menghidupkan komputer adalah sebagai berikut.</p><p>          1. hidupkan stabilizer</p><p>          2. tekan tombol power di CPU. Komputer mulai dijalankan.</p><p>          3. Jika komputer meminta user name dan pasword. tunggu sampai desktop windows ditapilkan</p><p></p><p>Maaf kalau  salah  karena saya masih belajar</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambar-dan-langkah-langkah-kerja-softwitch-yang-benar-425",
+            "question": "Gambar dan langkah langkah kerja softwitch yang benar\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>Cara Kerja Softswitch</p><p></p><p>MGC akan bekerja di tataran pengaturan panggilannya (call control) serta call processing. MGC akan mengontrol panggilan yang masuk untuk mengetahui jenis media penggilan dan tujuannya.</p><p></p><p>Dari situ, MGC akan mengirikan sinyal ke MG untuk melakukan koneksi, baik intrakoneksi jaringan sirkuit ke sirkuit atau paket ke paket maupun interkoneksi jaringan sirkuit ke paket dan sebaliknya.</p><p></p><p>Jika diperlukan, MGC akan meminta MG melakukan konversi media yang sesuai dengan permintaan, atau langsung meneruskan panggilan jika tidak diperlukan konversi.</p><p></p><p>Antara MGC dan MG sendiri akan saling berhubungan dengan protokol Megaco atau MGCP (Media Gateway Control Protocol).</p><p> Sementara itu, satu MGC akan berhubungan dengan MGC yang lain, baik itu yang berada di jaringan yang sama maupun berbeda, dengan mengirimkan protokol sinyal tertentu. Untuk jaringan sirkit, MGC akan mengirimkan SS7 (Signalling System 7), sementara jika berhubungan dengan jaringan paket, maka MGC akan menggunakan H.323 atau SIP (Season Initiation Protocol).</p><p></p><p>Semoga membantu :) </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "html-dalam-pemrograman-web-berfungsi-sebagai-a-desain-web-b-589",
+            "question": "HTML dalam pemrograman web, berfungsi sebagai....    A Desain web\r\n B Cara kerja web\r\n C Struktur dasar web\r\n D Database website\r\n E Simulasi web",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C Struktur dasar web</p><p><strong>Penjelasan:</strong></p><p>HTML adalah sebuah markup language (bahasa yang mendefinisikan elemen di dalam dokumen), berdasarkan definisi HTML maka HTML berfungsi untuk membuat <strong>Struktur dasar web.</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4-sistem-operasi-jaringan-adalah-sistem-operasi-yang-mendukung-c-231",
+            "question": "4. Sistem operasi jaringan adalah sistem operasi yang mendukung cara kerja jaringan pada suatu    sistem, jika kalian melakukan troubleshooting pada sistem operasi jaringan apa saja yg kalian\r\nsiapkan dan bagaimana cara melakukan troubleshooting pada sistem operasi jaringan?\r\n5. Tuliskan proses kerja pada:\r\na. File Server\r\nb. Mail Server\r\nc. Remote Server\r\nd. DHCP Server\r\ne. FTP Server\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>harga diriku sendiri lah yang menjadi dasar bagi para wanita yang cantik makanya dicurik orang lain bernama lengkap ratu Atut</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ikon-yang-dapat-digunakan-untuk-mengubah-format-huruf-adalah-780",
+            "question": "Ikon yang dapat digunakan untuk mengubah format huruf\r\nadalah \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Ikon Grow Font dan ikon Shrink Font. - Grow Font ialah ikon untuk mengubah ukuran huruf menjadi lebih besar.</p><p></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ikon grow font dan yg lain nya</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskn-kegunaan-program-pengelolah-angka-985",
+            "question": "Jelaskn kegunaan program pengelolah angka!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fungsi utama program pengolah angka adalah mengolah data berupa angka-angka menjadi sebuah laporan atau kelompok data yang kemudian digunakan sebagai bahan atau sumber informasi bagi perusahaan dan pihak-pihak berkepentingan yang lain.",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p></p><p><strong>Jawaban:</strong></p><p>Program pengolah angka digunakan untuk mengelola alat terutama data angka, misalnya untuk membantu perhitungan lebal/rugi, pengolahan data statistik, pembuatan database, pembuatan grafik, dan operasi statistik.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-tiga-komponen-komunikasi-dalam-jaringan-961",
+            "question": "Sebutkan tiga komponen komunikasi dalam jaringan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><em>a</em><em>n</em><em>t</em><em>e</em><em>n</em><em>a</em><em>,</em><em> </em><em>w</em><em>i</em><em>-</em><em>f</em><em>i</em><em>,</em><em> </em><em>i</em><em>n</em><em>t</em><em>e</em><em>r</em><em>n</em><em>e</em><em>t</em><em> </em></p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah </p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

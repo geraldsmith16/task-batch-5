@@ -1,0 +1,141 @@
+{
+    "question": "6. Suku ke 10 dari barisan 4, 10, 16, 22, ... adalah\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>58</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>karena setelah setiap angkanya ditambah 6, sehingga menghasilkan angka berikut nya</p><p></p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>58</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>un= a+(n-1)b</p><p>u10 = 4+(10-1)6</p><p>u10= 4+54</p><p>u10 = 58</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "alas-sebuah-prisma-berbentuk-segitiga-sama-kaki-dengan-panjang-al-373",
+            "question": "Alas sebuah prisma berbentuk segitiga sama kaki dengan panjang alas 10 cm dan tinggi 12 cm.jika tinggi prisma 20 cm,hitunglah luas permukaan prisma tersebut!\u200b tolong dijawab yaa kak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawaban: 800 cm\u00b2</p><p></p><p>Penjelasan dengan langkah-langkah:</p><p></p><p>Luas permukaan prisma</p><p>Lp= 2\u00d7la+ka\u00d7t</p><p>= (2\u00d7\u00bd\u00d710\u00d712)+(10+12+12\u00d720)</p><p>= 120+680</p><p>= 800 cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-sudut-a-30-sudut-b-45-d-100",
+            "question": "Diketahui segitiga abc dengan sudut a = 30\u00b0 , sudut b = 45\u00b0 , dan sisi b = 10cm ,, tentukan panjang sisi b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>5\u221a2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><p></p><p>sisi b = 10 cm</p><p>&lt;A = 30\u00b0</p><p>&lt;B = 45\u00b0</p><p></p><p><strong>Ditanya</strong><strong> </strong><strong>:</strong></p><p></p><p>sisi a =\u2026</p><p></p><p><strong>Jawab</strong><strong> </strong><strong>:</strong><strong> </strong></p><p></p><p><strong><em><u>Pakai</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>aturan</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>Sinus</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>:</u></em></strong></p><p></p><p>a/sin A = b/sin B</p><p>a/sin 30\u00b0 = 10/sin 45\u00b0</p><p>a \u00d7 sin 45\u00b0 = 10 \u00d7 sin 30\u00b0</p><p>a \u00d7 1/2\u221a2 = 10 \u00d7 1/2</p><p>a \u00d7 1/2\u221a2 = 5</p><p>a = 5/(1/2\u221a2)</p><p>a = 5\u221a2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-memiliki-4-sisi-yang-sama-panjang-dimana-sisi-yang-berlawanan-997",
+            "question": "1. memiliki 4 sisi yang sama panjang, dimana sisi yang berlawanan sejajar2. garis diagonal membelah dengan sudut siku-siku3. jumlah 2 sudut yang berdekan adalah 180 derajat4. memiliki 2 sumbu simetri lipat dan putarke-4 sifat diatas menunjukkan sifat dari bangun datar ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>belah ketupat</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalau Salah :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-bilangan-5-0-5-10tiga-suku-se-224",
+            "question": "Diketahui barisan bilangan ......-5, 0, 5, 10........tiga suku sebelum -5 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>-30,-25,-20,-15,-10</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>dikurangi 5 aja</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "quiz-jumlah-panen-petani-dari-data-diatas-seluruhnya-adalah-11-551",
+            "question": "Quiz..    Jumlah panen petani dari data diatas seluruhnya adalah 1.120 kuintal.\r\n\r\nBerdasarkan data di atas jawablah beberapa pertanyaan berikut!!\r\n\r\n1. Berapa kuintal jumlah panen kedelai \r\n\r\n2.Berapakah kuintal jumlah panen padi ditambah dengan jumlah kedelai \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u200b",
+            "attachments": [
+                "question-attachments/quiz-jumlah-panen-petani-dari-data-diatas-seluruhnya-adalah-11-551-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<h2>\u2740Penyelesaian-\u2728</h2><p>[tex]\\:[/tex]</p><p>1. [tex]\u21d2\\sf{300+350+150+100} \\\\\u21d2\\sf{900} \\\\\u21d2\\sf{1.120-900} \\\\\u21d2\\sf{220 \\: Kuintal} [/tex]</p><p>2. [tex]\u21d2\\sf{300+220} \\\\\u21d2\\sf{520 \\: Kuintal} [/tex]</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>jawaban dan langkah pengerjaan ada di foto</p>",
+                    "attachments": [
+                        "answer-attachments/quiz-jumlah-panen-petani-dari-data-diatas-seluruhnya-adalah-11-551-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-volume-sebuah-balok-denganukuran-panjang-8-cm-lebar-6-214",
+            "question": "Hitunglah volume sebuah balok denganukuran panjang 8 cm, lebar 6 cm dan tinggi 10 cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Volume</strong><strong> </strong><strong>=</strong><strong> </strong><strong>p </strong><strong>\u00d7</strong><strong> </strong><strong>l </strong><strong>\u00d7</strong><strong> </strong><strong>t</strong></p><p><strong>Volume</strong><strong> </strong><strong>=</strong><strong> </strong><strong>8</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>6</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>1</strong><strong>0</strong></p><p><strong>Volume</strong><strong> </strong><strong>=</strong><strong> </strong><strong>4</strong><strong>8</strong><strong>0</strong><strong> </strong><strong>cm\u00b3</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Volume balok :</p><p>= p \u00d7 l \u00d7 t</p><p>= 8 \u00d7 6 \u00d7 10</p><p>= <strong>4</strong><strong>8</strong><strong>0</strong><strong> </strong><strong>cm</strong><strong>\u00b3</strong></p><p></p><p><strong>Kesimpulan </strong><strong>:</strong></p><p>Jadi, volume balok tersebut adalah <strong><u>4</u></strong><strong><u>8</u></strong><strong><u>0</u></strong><strong><u> </u></strong><strong><u>cm\u00b3</u></strong><strong><u> </u></strong></p><p></p><p><strong>Keterangan </strong><strong>:</strong></p><p>p = panjang</p><p>l  = lebar</p><p>t  = tinggi </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "wayan-melempar-sebuah-dadu-sebanyak-150-kalisetelah-percobaan-se-846",
+            "question": "Wayan melempar sebuah dadu sebanyak 150 kali.setelah percobaan selesai iya menghitung frekuensi relatif munculnya muka ddu bertitik 2 adalah 1/5.banyak kemunculan mata dadu bertitik 2 pada percobaan tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>30 kali</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>banyak munculnya dadu</p><p>= peluang x pelemparan</p><p>= 1/5 x 150</p><p>= 30 kali</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-berdiameter-10-cm-berapakah-luas-permukaan-bola-935",
+            "question": "Bola berdiameter 10 cm berapakah luas permukaan bola",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>rumus luas permukaan bola </p><p>L=4\u03c0r\u00b2 </p><p>rumus jari jari = r = d/2</p><p></p><p>diameter : 10 cm</p><p>jari\" : r:d/2</p><p>          : 10/2</p><p>          : 5</p><p></p><p>L= 4\u03c0r\u00b2</p><p>L= 4.3,14.5.5</p><p>L=314 </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-bak-mandi-24389-literpanjang-rusuj-bak-mandi-trb-adalah-796",
+            "question": "Volume bak mandi 24.389 liter.panjang rusuj bak mandi trb adalah...dm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Volume = S x S x S</p><p>Volume = 24.389 liter</p><p>24.389 = S\u00b3</p><p>S = \u2713\u00b3 24.389</p><p>S = 29 liter</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-8-penghapus-abu-abu-banyak-penghapus-abu-abu-di-bandingkan-s-456",
+            "question": "Ada 8 penghapus abu abu, banyak penghapus abu abu di bandingkan semua penghapus menyatakan pecahan 1/4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Maaf kalau salah yaa</p><p>ada urutan nomornya disitu </p>",
+                    "attachments": [
+                        "answer-attachments/ada-8-penghapus-abu-abu-banyak-penghapus-abu-abu-di-bandingkan-s-456-1.jpg",
+                        "answer-attachments/ada-8-penghapus-abu-abu-banyak-penghapus-abu-abu-di-bandingkan-s-456-2.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

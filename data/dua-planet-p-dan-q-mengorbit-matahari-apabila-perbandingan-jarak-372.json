@@ -1,0 +1,134 @@
+{
+    "question": "Dua planet P dan Q mengorbit matahari apabila perbandingan jarak antara planet P dan planet Q terhadap matahari adalah 64 banding 25 dan periode planet B mengelilingi matahari 128 hari maka hitunglah periode planet Q mengelilingi matahari\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p>Pendahuluan :</p><p>Hi teman-teman, saya akan mencoba untuk menjawab pertanyaanmu. Jangan lupa dibaca bagian pembahasannya juga ya agar lebih mantap pendalaman materinya.</p><p></p><p>Langkah Penyelesaian :</p><p>Diketahui :</p><p></p><p>Rp : Rq = perbandingan jarak ke matahari = 4 : 9</p><p>Tp = periode planet P = 24 hari</p><p>Ditanya : Tq = periode planet Q = .... hari</p><p></p><p>Jawaban :</p><p></p><p>\\begin{gathered}\\frac {T_p\\:^{2}}{R_p\\:^{3}} = \\frac {T_q\\:^{2}}{R_q\\:^{3}} \\\\ \\frac {24^{2}}{4^{3}} = \\frac {T_q\\:^{2}}{9^{3}} \\\\ \\frac{(8 \\times 3)^{2} }{( {2}^{2} )^{3}} = \\frac {T_q\\:^{2}}{( {3}^{2}) ^{3}} \\\\ \\frac{( {2}^{3} \\times 3)^{2} }{ {2}^6} = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ \\frac{ \\cancel {{2}^{6}} \\times {3}^{2} }{\\cancel {{2}^{6}} } = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ {3}^{2} \\times {3}^{6} = {T_q\\:^{2}} \\\\ {3}^{8} = {T_q\\:^{2}} \\\\ \\sqrt{ {3}^{8} } = T_q \\\\ {3}^{ \\frac{8}{2} } = {T_q} \\\\ {3}^{4} = {T_q} \\\\ 81 \\: hari = T_q \\: \\end{gathered} </p><p>R </p><p>p</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>p</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>q</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>4 </p><p>3</p><p> </p><p>24 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>9 </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>(2 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>(8\u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>(3 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p>(2 </p><p>3</p><p> \u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p> </p><p>2 </p><p>6</p><p> </p><p> \u00d73 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>3 </p><p>2</p><p> \u00d73 </p><p>6</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> </p><p>\t</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>2</p><p>8</p><p>\t</p><p> </p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>4</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>81hari=T </p><p>q</p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Jadi, periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p><strong>Penjelasan:</strong></p><p>Pada hukum Kepler III ini kita membandingkan besarnya perbandingan antara hubungan periode dengan jari-jari orbit suatu planet. Karena berwujud perbandingan yang tidak tetap satuannya, maka satuan dapat disesuaikan sesuai dengan soal. Namun, secara umum hukum Kepler III ini dapat dirumuskan dengan :</p><p></p><p>\\boxed {\\bold {\\frac {T_a\\:^{2}}{R_a\\:^{3}} = \\frac {T_b\\:^{2}}{R_b\\:^{3}}}} \\: </p><p>R </p><p>a</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>a</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>b</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>b</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Dengan ketentuan :</p><p></p><p>Ta = periode planet A (tahun)</p><p>Tb = periode planet B (tahun)</p><p>Ra = jarak planet A ke matahari (km)</p><p>Rb = jarak planet B ke matahari (km)</p><p>a dan b dapat diganti dengan huruf apapun sesuai dengan soal, karena tidak memengaruhi penghitungan</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-yang-di-maksud-gaya-566",
+            "question": "Apa yang di maksud gaya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>antar gesekan dibawahbdan diatas</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Gaya, di dalam ilmu fisika, adalah interaksi apapun yang dapat menyebabkan sebuah benda bermassa mengalami perubahan gerak, baik dalam bentuk arah, maupun konstruksi geometris.</p><p><strong>Penjelasan:</strong></p><p><strong>SEMOGA </strong><strong>BERMANFAAT</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-tegangan-yang-belum-diketahui-dari-rangkaian-rangkaian-be-954",
+            "question": "Temukan tegangan yang belum diketahui dari rangkaian-rangkaian berikut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>kalau tersebut mengeras akan menjadi banjir karena  yang kuat bisa membuat pipa        pipa tersebut jadi bocor dan akan menimbulkan banjir</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nar-3-suatu-gelombang-merambai-dengan-persamaan-y-8-sin-2ni-997",
+            "question": "Nar:    3. Suatu gelombang merambai dengan persamaan Y = 8 sin (2ni - 0,21x). Jika x dan y dalam\r\nmeter dan dalam sekon. Hitunglah frekuensi dan panjang gelombangnya.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1434</p><p><strong>Penjelasan:</strong></p><p>tsf9597fogc1263190</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-cara-jalanya-dung-kak-plss-dikumpulin-hari-ini-476",
+            "question": "Minta cara jalanya dung kak plss dikumpulin hari ini",
+            "attachments": [
+                "question-attachments/minta-cara-jalanya-dung-kak-plss-dikumpulin-hari-ini-476-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>kak kolo ini sisa kakak donlod kanda</p><p><strong>Penjelasan:</strong></p><p>maaf karena aku ngak kasih jawaban nya</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-cara-nya-dung-kak-hari-ini-harus-di-kumpulin-pls-kak-188",
+            "question": "Minta cara nya dung kak hari ini harus di kumpulin pls kak",
+            "attachments": [
+                "question-attachments/minta-cara-nya-dung-kak-hari-ini-harus-di-kumpulin-pls-kak-188-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.4 m/s bener</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-ikan-bernafas-menggunakan-insang-jelaskan-260",
+            "question": "Mengapa ikan bernafas menggunakan insang jelaskan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Hewan yang hidup di air atau ikan, bernapas dengan menggunakan insang. Insang pada ikan berfungsi menyaring oksigen yang ada di air.</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ikan, bernapas dengan menggunakan insang. Insang pada ikan berfungsi menyaring oksigen yang ada di air.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalau-revolusi-suatu-planet-terhadap-matahari-adalah-a-tahun-tent-536",
+            "question": "kalau revolusi suatu planet terhadap matahari adalah a tahun tentukan jarak planet tersebut terhadap malam hari\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>revo = honda</p><p><strong>Penjelasan:</strong></p><p>kalau revo adalah motor dan lusi adalah polusi jadi revolusi adalah motor polusi</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-2-contoh-kegiatan-yang-menunjukan-pengaruh-gaya-dapat-me-395",
+            "question": "Tuliskan 2 contoh kegiatan yang menunjukan pengaruh gaya dapat mengubah bentuk benda\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Meremas kaleng soda. </p><p>Proses pembuatan gerabah</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-logam-mempunyai-massa-6-kg-dan-volume-005-m2-massa-jenis-287",
+            "question": "Suatu logam mempunyai massa 6 kg dan volume 0,05 m\u00b2 massa jenis logam adalah\r\n\r\nbantu kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>massa jenis logam = 120 kg/m3</p><p></p><p><strong>Penjelasan:</strong></p><p>Diketahui</p><p>m = 6 kg</p><p>V = 0,05 m3</p><p>Ditanya</p><p>Massa jenis logam</p><p>Penyelesaian</p><p>Massa jenis = massa benda /volume benda</p><p>\u03c1 = m/V</p><p>dimana</p><p>\u03c1 = massa jenis benda (kg/m3)</p><p>m = massa benda (kg)</p><p>V = volume benda (m3)</p><p></p><p>\u03c1 = 6/ 0,05</p><p>  = 120 kg/m3</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-pernyataan-berikut-ini-1-besaran-yang-mempunyai-nilai-714",
+            "question": "Perhatikan pernyataan berikut ini 1 besaran yang mempunyai nilai satuan dan arah dua besaran yang satuannya didefinisikan sendiri 3 besaran yang satuannya diturunkan dari besaran pokok 4 besaran yang hanya memiliki nilai dan satuan pernyataan yang membedakan kelajuan dari kecepatan adalah sesuai nomor    tolong bantuannya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Kelajuan merupakan besaran skalar,  jadi hanya mempunyai nilai</p><p>sedangkan kecepatan merupakan besaran vektor jadi mempunyai nilai dan arah. </p><p></p><p><strong>Penjelasan:</strong></p><p>ssmoga membantu </p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

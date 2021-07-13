@@ -1,0 +1,134 @@
+{
+    "question": "Sebuah lapangan bermain berbentuk lingkaran dengan jari-jari 35m,luas lapangan tersebut adalah ..\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>3.850 cm\u00b2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jari-jari = 35 m</p><p>luas = \u03c0 x r x r</p><p>        = 22/7 x 35 x 35</p><p>        = 22 x 5 x 35</p><p>        = 3.850 cm\u00b2</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dengan-sin-e-gt-0-kuadran-ii-8-13-diberikan-tan-15-tentuka-171",
+            "question": "Dengan sin e &gt; 0 (kuadran II)    8\r\n13. Diberikan tan =\r\n15\r\ntentukan nilai dari :\r\na.\r\nCOS O\r\nb. sin e\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>klloinbbvvvvgjjjjjhhuuuu. </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-5x4-8x3-6x2-2x-tentukan-f-x-680",
+            "question": "Diketahui f'(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x, tentukan f (x)!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>Terdapat sebuah persamaan yang telah mengalami turunan bernilai f&#039;(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</p><p>Maka, untuk mencari f(x), masing-masing variabel pada persamaan yang diketahui harus dilakukan metode Integral pada umumnya</p><p>Misalkan kita akan mencoba mengembalikan nilai 5x\u2074 ke persamaan awal dengan menerapkan rumus berikut: </p><p>[tex]\\frac{a}{n + 1} x^n^+^1[/tex] = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>Sekiranya untuk membuktikan turunan dari [tex]x^{5}[/tex], dirumuskan sebagai berikut:</p><p>Rumus turunan: [tex](n)x^{n - 1}[/tex]</p><p>[tex]x^{5}[/tex] = [tex](5)x^{5 - 1}[/tex] = [tex]5x^{4}[/tex]</p><p></p><p>Maka hasil akan sama. Dengan begitu, bisa disolusikan untuk mencari f(x) dengan cara integral seperti berikut:</p><p>\u222b (5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x) dx</p><p>= \u00a0([tex]\\frac{5}{4 + 1} x^4^+^1[/tex]) - ([tex]\\frac{8}{3 + 1} x^3^+^1[/tex]) + ([tex]\\frac{6}{2 + 1} x^2^+^1[/tex]) - ([tex]\\frac{2}{1 + 1} x^1^+^1[/tex]) \u00a0+C</p><p>= \u00a0([tex]\\frac{5}{5} x^5[/tex]) - ([tex]\\frac{8}{4} x^4[/tex]) + ([tex]\\frac{6}{3} x^3[/tex]) - ([tex]\\frac{2}{2} x^2[/tex]) + C</p><p>= [tex]x^{5}[/tex] - [tex]2x^{4}[/tex] + [tex]2x^{3}[/tex] - [tex]x^{2}[/tex] + C</p><p>___________________________</p><p>Detail dari masing-masing variabel:</p><p>5x\u2074 = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>8x\u00b3 = [tex]\\frac{8}{3 + 1} x^3^+^1[/tex] = [tex]\\frac{8}{4} x^4[/tex] = [tex]2x^{4}[/tex]</p><p>6x\u00b2 = [tex]\\frac{6}{2 + 1} x^2^+^1[/tex] = [tex]\\frac{6}{3} x^3[/tex] = [tex]2x^{3}[/tex]</p><p>2x = [tex]\\frac{2}{1 + 1} x^1^+^1[/tex] = [tex]\\frac{2}{2} x^2[/tex] = [tex]x^{2}[/tex]</p><p>___________________________</p><p>Maka, hasil Anti-turunan dari <strong>5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</strong> ialah<strong> </strong>[tex]x^{5}[/tex]<strong> - </strong>[tex]2x^{4}[/tex]<strong> + </strong>[tex]2x^{3}[/tex]<strong> - </strong>[tex]x^{2}[/tex]<strong> + C</strong></p><p></p><p>-//Semoga membantu~ :3</p><p></p><p><em>(!) Misal ada kesalahan dari penjelasan dan perhitungan, monggo dikoreksi ya~</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-vektor-a-3-per-4-b-min-1-per-5-c-4-per-3-d-min-514",
+            "question": "diketahui vektor a = 3 per 4 b = min 1 per 5 C = 4 per 3 D = Min 5per mim 1 tentukan hasil dari min a+ 2 b - 3c + 5 d\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>uxjsjkqoqieuiei3o2kdhhxcc</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-di-suatu-pabrik-kemasan-mampu-memasang-tutup-toples-295",
+            "question": "Sebuah mesin di suatu pabrik kemasan    mampu memasang tutup toples untuk \r\n\r\n14 toples dalam waktu 84 detik, Banyak \r\n\r\ntoples yang dapat ditutup oleh mesin \r\n\r\ndalam waktu 2 menit adalah....\r\n\r\nA. 16 Botol C. 28 Botol\r\n\r\nB. 20 Botol D. 35 Botol\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>b. 20 botil</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>84/14=6</p><p></p><p>120/6=20</p><p></p><p>jadikan jawaban yang terbaik</p><p></p><p>jangan lupa follow</p><p></p><p>maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-kodi-baju-harganya-rp3000000-harga-1-lusin-baju-adalah-418",
+            "question": "Dua kodi baju harganya Rp.3.000.000. harga 1 lusin baju adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>1 kodi = 20 buah</p><p>2 kodi = 20 x 2 = 40 buah</p><p></p><p>3.000.000 / 40 = 75.000</p><p></p><p>1 buah baju = 75.000</p><p>1 lusin = 12 buah</p><p>75.000 x 12 = 900.000</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2 kodi = 40 buah</p><p>1 lusin = 12 baju</p><p></p><p></p><p>12/40 \u00d7 Rp 3.000.000=</p><p>Rp 36.000.000 : 40 = Rp 900.000</p><p></p><p>Jadi, harga 1 lusin baju adalah Rp 900.000</p><p>Semoga membantu! </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kd-311-27-nilai-ulangan-matematika-dan-10-siswa-kelas-iv-adalah-652",
+            "question": "KD 3.11    27. Nilai ulangan matematika dan 10 siswa kelas IV adalah 7.8.9.7,8,4,5,6,7 dan 8 Nilai tertinggi\r\nyang diperoleh siswa adalah\r\nA7\r\nB. 8\r\nD. 10\r\nC9\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawab:</p><p>C. 9</p><p>Penjelasan dengan langkah-langkah:</p><p>Nilai tertinggi = angka tertinggi,  jadi jawabannya 9</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-turunan-pertama-dari-fungsi2-9x-2x-1-4x2-1-343",
+            "question": "Tentukan turunan pertama dari fungsi\u00b2 9(x) =(2x-1) (4x\u00b2-1)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>u.v=u&#039;.v+u.v&#039;</p><p></p><p>u=(2x-1) --&gt; u&#039;= 2</p><p>v=(4x\u00b2-1) --&gt; v&#039;= 2.4x=8x</p><p></p><p>g(x)=2.(4x\u00b2-1)+(2x-1).8x</p><p>     = (8x\u00b2-2) + (16x\u00b2-8x)</p><p>     = 8x\u00b2-2+16x\u00b2-8x</p><p>     = 24x\u00b2-8x-2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-keliling-persegi-panjang-141",
+            "question": "Berapa keliling persegi panjang\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>K</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong> </strong><strong>(</strong><strong> </strong><strong>p</strong><strong> </strong><strong>+</strong><strong> </strong><strong>l</strong><strong> </strong><strong>)</strong><strong> </strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><u>Keliling</u><u> </u><u>=</u><u> </u><u>2</u><u> </u><u>(</u><u> </u><u>panjang</u><u> </u><u>+</u><u> </u><u>lebar</u><u> </u><u>)</u><u> </u></p><p></p><p><strong><em>Semoga</em></strong><strong><em> </em></strong><strong><em>Membantu</em></strong><strong><em> </em></strong><strong><em>:</em></strong><strong><em>)</em></strong><strong><em> </em></strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jadi, rumus keliling persegi panjang adalah K=2(p+l) </p><p></p><p></p><p>Semoga membantu</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-volume-kubus-jika-diketahui-panjang-rusuknya-12-cm-417",
+            "question": "Tentukan volume kubus jika diketahui panjang rusuknya 12 cm?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.728 cm\u00b3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>V = s\u00b3</p><p><strong>diketahui</strong><strong>:</strong></p><p>s = 12 cm</p><p><strong>ditanya</strong><strong>:</strong><strong> </strong>Volume kubus?</p><p><strong>jawab:</strong></p><p>V = s\u00b3</p><p>   = 12 x 12 x 12</p><p>   = 1.728 cm\u00b3</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><h3>Rumus Volume kubus : Sisi Pangkat 3</h3><p>Jadi jika di ketahui panjang rusuk nya 12 cm </p><p>Maka , 12 pangkat 3 = 12\u00d712\u00d712 </p><p>                                   =1.728 cm </p><p></p><p>Jadi volume kubus itu adalag 1.728 cm </p><p></p><p></p><h2>Keterangan :</h2><ul><li>Rusuk dan sisi sama </li><li>Untuk pangkat maaf saya tidak bisa buat angka di atas </li></ul><p>           yang kecil jadi saya tulis \"pangkat\" </p><p></p><p></p><p></p><h2>Semoga membantu dan bermanfaat</h2><h2>Terimakasih</h2><h3></h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bak-mandi-besar-berbentuk-kubus-memiliki-panjang-rusuk-26-830",
+            "question": "Sebuah bak mandi besar berbentuk kubus memiliki panjang    rusuk 26 dm, diisi air sampai penuh, kemudian airnya\r\ndigunakan mand nya. Berapa litersisa air dalam bak\r\nmandi ?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>litersisa adalah 13.dm </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maap kalau salah </p><p>semoga benar jawabannya</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

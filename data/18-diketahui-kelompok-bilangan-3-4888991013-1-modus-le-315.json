@@ -1,0 +1,156 @@
+{
+    "question": "18. Diketahui kelompok bilangan 3, 4,8.8.8.9,9,10,13    (1) Modus lebih dari rata-rata\r\n(2) Median kurang dari rata-rata\r\n(3) Modus sama dengan rata-rata\r\n(4) Modus sama dengan median\r\nPernyataan yang benar adalah ...\r\nA. (1).(2) dan (3)\r\nB. (1) dan (3)\r\nC. (2) dan (4)\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h3>Soal :</h3><p>18. Diketahui kelompok bilangan 3, 4,8.8.8.9,9,10,13</p><p>(1) Modus lebih dari rata-rata</p><p>(2) Median kurang dari rata-rata</p><p>(3) Modus sama dengan rata-rata</p><p>(4) Modus sama dengan median</p><p>Pernyataan yang benar adalah ...</p><p>A. (1).(2) dan (3)</p><p>B. (1) dan (3)</p><p>C. (2) dan (4)</p><p></p><h3>Jawab :</h3><p>3,4,8,8,<strong>8</strong><strong>,</strong>9,9,10,13</p><p>3 = 1</p><p>4 = 1</p><p>8 = 3 ( yang sering muncul adalah 8 )3kali muncul</p><p>9 = 2</p><p>10 = 1</p><p>13 = 1</p><p>Modus = angka yg sering muncul \u2713</p><p>Median = Nilai tengah \u2713</p><p></p><p>(2) Median kurang dari rata-rata \u2713</p><p>(4) Modus sama dengan median \u2713</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p>Penyelesaian :</p><p></p><p><strong>BANYAK </strong><strong>DATA </strong><strong>:</strong><strong> </strong><strong>9</strong></p><p><strong>DATA </strong><strong>DIURUTKAN</strong><strong> </strong><strong>:</strong><strong> </strong><strong>3</strong><strong>,</strong><strong> </strong><strong>4</strong><strong> </strong><strong>,</strong><strong>8</strong><strong> </strong><strong>,</strong><strong>8</strong><strong>,</strong><strong> </strong><strong>8</strong><strong>,</strong><strong> </strong><strong>9</strong><strong>,</strong><strong> </strong><strong>9</strong><strong>,</strong><strong>1</strong><strong>0</strong><strong>,</strong><strong> </strong><strong>1</strong><strong>3</strong></p><p></p><p><strong>MODUS </strong><strong>(</strong><strong>nilai </strong><strong>yang</strong><strong> </strong><strong>sering</strong><strong> </strong><strong>muncul</strong><strong>)</strong></p><ul><li>Nilai 3 muncul sebanyak 1 kali</li><li>Nilai 4 muncul sebanyak 1 kali</li><li>Nilai 8 muncul sebanyak 3 kali</li><li>Nilai 9 muncul sebanyak 2 kali</li><li>Nilai 10 muncul sebanyak 1 kali</li><li>Nilai 13 muncul sebanyak 1 kali</li></ul><p><strong>/</strong><strong>/</strong><strong>jadi </strong><strong>modus </strong><strong>dari </strong><strong>data </strong><strong>tersebut</strong><strong> </strong><strong>adalah </strong><strong>8</strong><strong>/</strong><strong>/</strong></p><p></p><p><strong>MEDIAN </strong><strong>(</strong><strong>nilai </strong><strong>tengah)</strong></p><p>karna banyaknya data ganjil maka </p><p>Me =( Xn + 1 ) \u00f7 2</p><p>      =( 9 + 1 )\u00f7 2</p><p>      = 10 \u00f7 2</p><p>      =5</p><p><strong>median </strong><strong>terletak</strong><strong> </strong><strong>pada </strong><strong>urutan</strong><strong> </strong><strong>ke </strong><strong>5</strong><strong> </strong><strong>yaitu </strong><strong>8</strong></p><p><strong>/</strong><strong>/</strong><strong>jadi </strong><strong>mediannya </strong><strong>8</strong><strong>/</strong><strong>/</strong></p><p></p><p><strong>MEAN </strong><strong>(</strong><strong>rata-rata</strong><strong>)</strong></p><p><strong>Mean </strong><strong>=</strong><strong> </strong><strong>jumlah </strong><strong>semua </strong><strong>nilai</strong><strong> </strong><strong>data </strong><strong>\u00f7</strong><strong> </strong><strong>banyak </strong><strong>data</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>7</strong><strong>2</strong><strong> </strong><strong>\u00f7</strong><strong> </strong><strong>9</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>8</strong></p><p><strong>/</strong><strong>/</strong><strong>rata-rata</strong><strong> </strong><strong>dati </strong><strong>data </strong><strong>tersebut</strong><strong> </strong><strong>ialah </strong><strong>8</strong><strong>/</strong><strong>/</strong></p><p></p><p><strong>PERNYATAAN </strong><strong>YANG</strong><strong> </strong><strong>BENAR </strong><strong>:</strong></p><p><strong>(</strong><strong>3</strong><strong>)</strong><strong> </strong><strong>dan </strong><strong>(</strong><strong>4</strong><strong>)</strong></p><p></p><p>itu pilihannya gaada yg bener kak</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-dibantu-ya-232",
+            "question": "Tolong dibantu ya !!!!!\u200b",
+            "attachments": [
+                "question-attachments/tolong-dibantu-ya-232-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>pelajaran mudah</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu:)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-persegi-dengan-panjang-sisi-30-cm-tentukan-luas-persegi-t-474",
+            "question": "Sebuah persegi dengan panjang sisi 30 cm.\r\ntentukan luas persegi tersebut!\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>jawab ny pakai gambar aja ya, jadi luas persegi tersebut adalah 900</p>",
+                    "attachments": [
+                        "answer-attachments/sebuah-persegi-dengan-panjang-sisi-30-cm-tentukan-luas-persegi-t-474-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>900 cm\u00b2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><h3>Cara menemukan jawabannya:</h3><p>1. ketahui dulu rumusnya.</p><p>Rumus dari luas persegi ialah <strong>L</strong><strong>=</strong><strong> </strong><strong>s</strong><strong> </strong><strong>x</strong><strong> </strong><strong>s</strong></p><p><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong></p><p><strong>lalu</strong><strong> </strong><strong>kemudian</strong><strong> </strong><strong>mari</strong><strong> </strong><strong>kita</strong><strong> </strong><strong>hitung</strong><strong>!</strong></p><p><strong>Diketa</strong><strong>hui</strong><strong>:</strong></p><p><strong>S</strong><strong>=</strong><strong> </strong><strong>3</strong><strong>0</strong><strong> </strong><strong>cm</strong></p><p><strong>Ditanyakan</strong><strong>:</strong></p><p><strong>Luas</strong><strong> </strong><strong>persegi</strong></p><p><strong>Jawab</strong><strong>a</strong><strong>n</strong><strong>:</strong></p><p><strong>L</strong><strong>=</strong><strong> </strong><strong>s</strong><strong> </strong><strong>x</strong><strong> </strong><strong>s</strong></p><p><strong> </strong><strong> </strong><strong>=</strong><strong>3</strong><strong>0</strong><strong> </strong><strong>x</strong><strong> </strong><strong>3</strong><strong>0</strong></p><p><strong> </strong><strong> </strong><strong>=</strong><strong>9</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>cm\u00b2</strong></p><p><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong></p><p><strong>Detail </strong><strong>jawaban</strong><strong>\u2193</strong></p><p><strong>Mapel</strong><strong>:</strong><strong> </strong><strong>matema</strong><strong>tika</strong></p><p><strong>kelas</strong><strong>:</strong><strong> </strong><strong>4</strong><strong> </strong><strong>sd</strong></p><p><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong></p><h3><strong>Semoga</strong><strong> </strong><strong>ber</strong><strong>manfaat</strong><strong>^</strong><strong>^</strong></h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "25-dodit-mempunyai-kamar-berbentuk-persegi-dengan-panjang-sisi-3-149",
+            "question": "25. Dodit mempunyai kamar berbentuk persegi    dengan panjang sisi 3 meter. Dodit ingin\r\nmemasang keramik pada lantai kamarnya\r\ndengan ukuran keramik 30 cm x 30 cm. Berapa\r\nbuah keramik yang diperlukan Dodit ?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>100 buah keramik</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Luas kamar</p><p>Sisi x Sisi</p><p>=300 cm x 300 cm</p><p>=90.000 cm2</p><p>Luas satu keramik</p><p>30cm x 30cm=900 cm2</p><p>Jumlah keramik yang diperlukan</p><p>Luas kamar:Luas keramik</p><p>90.000 cm2 :900 cm2</p><p>=100 Buah keramik </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-ya-kakmakasih-udah-mau-bantu-lt3-242",
+            "question": "Bantu jawab ya kak,makasih udah mau bantu &lt;3\u200b",
+            "attachments": [
+                "question-attachments/bantu-jawab-ya-kakmakasih-udah-mau-bantu-lt3-242-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>18. 10</p><p>19. sepak bola</p><p>20. 2</p><p></p><p>smg mmbantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>18. B. 10</p><p>19. C. Speak bola</p><p>20. A. 2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>Terdapat 40 anak dari 100%, maka cara menentukan banyak siswa setiapnya adalah </p><p>100 : 40, yaitu 2,5. maka setiap 2,5% adalah 1 orang</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "notif-sepi-kka-882-612-190-142-172-457",
+            "question": "Notif sepi kka , :)    88\u00b2 - 61\u00b2 = . . .\r\n190 + 14\u00b2 = . . .\r\n17\u00b2 + 188 = . . .\r\n\r\nCara ! \r\n\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>88\u00b2 - 61\u00b2 = 4.023</p><p>190 + 14\u00b2 = 386</p><p>17\u00b2 + 188 = 477</p><h2>\u2712PEMBAHASAN</h2><p>Definisi dari bilangan berpangkat adalah perpangkatan perkalian berulang dari sebuah bilangan dengan bilangan itu tersendiri. Bilangan berpangkat juga merupakan perpangkatan dengan bentuk sederhana dari perkalian yang berulang-ulang.</p><p></p><h2>\u270e PENYELESAIAN</h2><p>1). 88\u00b2 - 61\u00b2</p><p>  = (88\u00d788) - (61\u00d761)</p><p>  = 7.744 - 3.721</p><p>  = <strong><u>4.023</u></strong></p><p></p><p>2). 190 + 14\u00b2</p><p>  = 190 + (14\u00d714)</p><p>  = 190 + 196</p><p>  = <strong><u>3</u></strong><strong><u>8</u></strong><strong><u>6</u></strong></p><p></p><p>3). 17\u00b2 + 188</p><p>  = (17\u00d717) + 188</p><p>  = 289 + 188</p><p>  = <strong><u>4</u></strong><strong><u>7</u></strong><strong><u>7</u></strong></p><p></p><h3>\u2712 Kesimpulan</h3><p>1. Hasil dari 88\u00b2 - 61\u00b2 adalah <strong>4</strong><strong>.</strong><strong>0</strong><strong>2</strong><strong>3</strong></p><p>2. Hasil dari 190 + 14\u00b2 adalah <strong>3</strong><strong>8</strong><strong>6</strong></p><p>3. Hasil dari 17\u00b2 + 188 adalah <strong>4</strong><strong>7</strong><strong>7</strong></p><p></p><h3>\u2712 PELAJARI LEBIH LANJUT:</h3><p>\u2022 Pengertian dari bilangan berpangkat: brainly.co.id/tugas/6661348</p><p>\u2022 Sifat-sifat dari bilangan berpangkat: brainly.co.id/tugas/311484</p><p>\u2022 Soal bilangan berpangkat: brainly.co.id/tugas/3236302</p><h3>\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f</h3><p></p><h2>Detail Jawaban:</h2><p>\u270fMapel: Matematika</p><p>\u270fKelas: 9</p><p>\u270fMateri: Perpangkatan dan bentuk akar</p><p>\u270fKode: 2</p><p>\u270fKode Kategorisasi: 9.2.1</p><p>\u270fKata Kunci : Penjumlahan dan pengurangan bilangan berpangkat</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>#KoreksiYaKak</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>88\u00b2 - 61\u00b2 </p><p>= ( 88 \u00d7 88 ) - ( 61 \u00d7 61 )</p><p>= 7.744 - 3.721</p><p><strong>=</strong><strong> </strong><strong>4.023</strong></p><p></p><p><strong>&lt;</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>&gt;</strong></p><p></p><p>190 + 14\u00b2 </p><p>= 190 + 196</p><p><strong>=</strong><strong> </strong><strong>3</strong><strong>8</strong><strong>6</strong></p><p></p><p><strong>&lt;</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>&gt;</strong></p><p></p><p>17\u00b2 + 188</p><p>= ( 17 \u00d7 17 ) + 188</p><p>= 289 + 188</p><p><strong>=</strong><strong> </strong><strong>4</strong><strong>7</strong><strong>7</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12-suatu-bak-berbentuk-balok-dengan-panjang-3-m-lebar-1-m-459",
+            "question": "12. Suatu bak berbentuk balok dengan panjang =    3 m, lebar = 1 m, dan tinggi = 4 m. Volume air\r\nas\r\n3\r\njika bak\r\npenuh adalah ....\r\n4\r\na. 9 m\r\nc. 16 m\r\nb. 12 m3\r\nd. 18 m3\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>12m\u00b3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>volume balok= p\u00d7 l\u00d7 t= 3m\u00d7 1m\u00d7 4m= 12m\u00b3</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><h3>C. 12 m\u00b3</h3><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><h3>balok</h3><p></p><h3>V=p\u00d7l\u00d7t</h3><h3>  = 3m \u00d7 1m \u00d7 4m</h3><h3>  = 12 m\u00b3</h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-kata-yang-disusun-dari-semua-huruf-pada-kata-k-e-s-e-h-359",
+            "question": "Banyak kata yang disusun dari semua huruf pada kata k, e, s, e, h, a, t, a, n adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>9</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf klo salah soalny ngarang</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h2>k1 e1 s1 e1 h1 a1 t1 a1 n1</h2><p></p><p><strong>1</strong><strong>+</strong><strong>1</strong><strong>+</strong><strong>1</strong><strong>+</strong><strong>1</strong><strong>+</strong><strong>1</strong><strong>+</strong><strong>1</strong><strong>+</strong><strong>1</strong><strong>+</strong><strong>1</strong><strong>+</strong><strong>1</strong><strong> </strong><strong>=</strong><strong>9</strong><strong> </strong><strong>h</strong><strong>r</strong><strong>u</strong><strong>f</strong><strong>/</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>k</strong><strong>a</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-operasi-hitung-campuran-pada-bilangan-bulat16-25-355",
+            "question": "Nilai dari operasi hitung campuran pada bilangan bulat,16-(-25)+ 14 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>(-) ketemu (-) menjadi (+)</p><p></p><p>16-(-25)+14=?</p><p>16+25+14=55</p><p>jadi jawaban dari operasi hitung campuran tersebut adalah 55</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-yang-memenuhi-pertidak-samaan-2-4lt-3-2eur-491",
+            "question": "Nilai yang memenuhi pertidak samaan 2\u00d7-4&lt; 3 \u00d7+2,\u00d7\u20ac\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2x-4\u22643x+2</p><p>2x    \u22643x+2+4</p><p>2x    \u22643x+6</p><p>2x-3x\u22646</p><p>-x     \u22646</p><p> x      \u22646/-1</p><p> x      \u2264-6</p><p>jadi nilai x kurang lebih adalah -6</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-berikut-nilai-y-pada-gambar-tersebut-adalah-557",
+            "question": "Perhatikan gambar berikut!    nilai y pada gambar tersebut adalah..\r\ntolong ya dgn caranya agr lebih jelas,Krn esok mau di kumpul mksh\u200b",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-berikut-nilai-y-pada-gambar-tersebut-adalah-557-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>nilai y adalah B. 30 derajat</p><p></p><p>note :</p><p>jalan ada di foto jawaban</p><p></p><p></p><p></p><p></p><p><strong><em><u>SEMOGA BERMANFAAT </u></em></strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/perhatikan-gambar-berikut-nilai-y-pada-gambar-tersebut-adalah-557-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

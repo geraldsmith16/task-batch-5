@@ -1,0 +1,132 @@
+{
+    "question": "Suku pertama dari suatu barisan aritmetika adalah 7, sedangkan bedanya -4. suku yang nilainya sama dengan -68 adalah suku ke\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>99 semoga bermanfaat maaf kalo salah</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-lingkaran-dengan-pusat-20-dan-diameter-14-adalah-407",
+            "question": "Persamaan lingkaran dengan pusat(-2,0) dan diameter =14 adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>maaf tidak tahu............</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setiap-bakteri-akan-membelah-diri-menjadi-2-per-20menitjika-puku-876",
+            "question": "Setiap bakteri akan membelah diri menjadi 2 per 20menit.Jika pukul 10:00 banyak bakteri 25,banyak bakteri pukul 11:20 adalah    sama caranya ya biar mengerti\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Diketahui</h2><ul><li>Pada Jam 10:00 Jumlah awal virus = <strong>25</strong></li></ul><ul><li>Kemudian masing masing virus membelah diri menjadi dua setiap <strong>20 menit</strong></li></ul><h2>Ditanya</h2><ul><li>Jumlah total virus setelah Jam 11:20 = ..?</li></ul><h2>Pembahasan</h2><p>Karena masing-masing virus membelah diri setiap 20 menit, Maka terdapat <strong>4 kali</strong> pembelahan diri. Sehingga diperoleh</p><p>[tex]= 25 \\times 2\\times 2\\times 2\\times 2[/tex]</p><p>[tex]= 25\\times2^4[/tex]</p><p>[tex]= \\boxed{400}[/tex]</p><p>Jadi, Jumlah total virus setelah jam 11:20 kemudian adalah <strong>400</strong></p><h2>Semoga membantu</h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuannya-dijawab-dengan-benar-kakak-kakak-brainly-713",
+            "question": "Tolong bantuannya dijawab dengan benar kakak kakak brainly\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantuannya-dijawab-dengan-benar-kakak-kakak-brainly-713-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>x = 4cm</p><p>PQ = 15cm</p><p>PR = 15cm</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>Cara mencari x :</p><p></p><p>2x + 7cm = 19cm - x</p><p>2x + 7cm - 19cm = - x</p><p>7cm - 19cm = -x -2x</p><p>- 12cm = - 3x</p><p>- 4cm = -x</p><p>4cm = x</p><p></p><p>jadi x = 4cm</p><p></p><p>Cara mencari PQ dan PR : </p><p></p><p>PQ = 2x + 7cm</p><p>      = 2(4cm) + 7cm</p><p>      = 8cm + 7cm</p><p>      = 15cm</p><p></p><p>karena berbentuk persegi, jadi semua sisinya sama panjang jika 2 sisi 15cm maka dua sisi yang lain juga 15cm atau PQ = PR Jadi hasil PR juga 15cm </p><p></p><p>maaf kalau saya banyak kekurangan</p><p>semangat belajar</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kamu-diminta-ibu-mu-untuk-membeli-beras-sebanyak-3-kg-dengan-harg-357",
+            "question": "Kamu diminta ibu mu untuk membeli beras sebanyak 3 kg dengan harga Rp. 40.500,00    Jadi harga 1 kg beras adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>harga 3 kg beras = Rp40.500,00</p><p>harga 1 kg beras = Rp40.500,00 \u00f7 3</p><p>                            = Rp13.500,00</p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-cari-keliling-dan-luasnya-840",
+            "question": "Tolong bantu cari keliling dan luasnya\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-cari-keliling-dan-luasnya-840-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab: keliling 40 </strong></p><p><strong>luas 100</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong> keliling = 10+10+10+10 = 40 </p><p>luasnya = sxs = 10 x10 = 100</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-pqrstuvw-dengan-panjang-rusuk-8-cm-tentukan-a-712",
+            "question": "Diketahui Kubus PQRS.TUVW dengan panjang rusuk 8 cm. Tentukan :    a. Jarak P ke Q\r\nb. Jarak U ke W\r\nc. Jarak R ke T\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>geometri</p><p>kubus</p><p>r = 8 cm</p><p></p><p>Jarak P ke Q</p><p>= PQ = r = 8 cm</p><p></p><p>Jarak U ke W</p><p>= \u221a(UT\u00b2 + TW\u00b2)</p><p>= \u221a(8\u00b2 + 8\u00b2)</p><p>= 8\u221a2 cm</p><p></p><p>Jarak R ke T</p><p>= \u221a(RQ\u00b2 + QP\u00b2 + PT\u00b2)</p><p>= \u221a(8\u00b2 + 8\u00b2 + 8\u00b2)</p><p>= 8\u221a3 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-segitiga-abc-panjang-abc8-cm-bca8v2-cm-acb-sudut-b-565",
+            "question": "suatu segitiga ABC, panjang AB=c=8 cm, BC=a=8V2 cm, AC=b, sudut BAC=45\u00b0 sudut ACB=y\u00b0 san sudut ABC=x\u00b0 nilai besar sudut x adalah..\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>aku dk tau jwp nye</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>same bae</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-diketahui-sebuah-segitiga-abc-dengan-sudut-b-30-panjang-a-633",
+            "question": "8. Diketahui sebuah segitiga ABC dengan sudut B = 30\u00b0. Panjang AB = 16 cm dan panjang    BC = 8 cm. Carilah luas segitiga tersebut!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ll</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>caranya di foto in adja yaaaaaa</p>",
+                    "attachments": [
+                        "answer-attachments/8-diketahui-sebuah-segitiga-abc-dengan-sudut-b-30-panjang-a-633-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "864-lusin-berapa-gros-528",
+            "question": "864 lusin berapa gros",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>6 gros</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1 gros =144 buah</p><p>maka</p><p>864 buah= .......gros</p><p>(864 \u00f7 144)=6</p><p></p><p>jadi 864 lusin 6 gros:)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-matematika-dan-berikan-contohnya-890",
+            "question": "Apa pengertian matematika dan berikan contohnya \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>menghintung atau angka</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Matematika adalah ilmu tentang kuantitas, struktur, ruang, dan perubahan. Matematikawan menemukan pola, merumuskan Dugaan baru, dan membangun kebenaran melalui metode deduksi ketat yang berasal dari aksioma dan definisi bertepatan.  Seorang ahli matematika Benjamin Peirce disebut matematika sebagai \u201cilmu yang Menjelaskan Kesimpulan penting\u201d.</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><em><u>A</u></em><em><u>f</u></em><em><u>w</u></em><em><u>a</u></em><em><u>n</u></em><em><u> </u></em><em><u>k</u></em><em><u>l</u></em><em><u>o</u></em><em><u> </u></em><em><u>s</u></em><em><u>a</u></em><em><u>l</u></em><em><u>a</u></em><em><u>h</u></em><em><u>:</u></em><em><u>)</u></em></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "question": "Jika f(x) = 3x \u2013 2 dengan \u22121 \u2264 x \u2264 1 maka\r\n daerah hasil dari fungsi tersebut adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>nah.... </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>pertama ambil pisau </p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nani-bermaksud-meminjam-empat-buku-untuk-hari-ini-diantara-delapa-203",
+            "question": "Nani bermaksud meminjam empat buku untuk hari ini diantara delapan buku temannya yang bisa dipinjam, yaitu A, B, C, D, E, F, G, dan H. berikut ketentuan dalam memilih :    1. Antara buku A dan C harus dipilih salah satu. \r\n2. Apabila F dan B harus dipinjam bersama-sama. \r\n3. H dan E tidak dapat dipinjam bersama-sama.\r\n\r\n Jika Nani meminjam buku H, keempat buku yang mungkin dipinjam Nani adalah\r\n\r\n a. A, B, G, dan H \r\n b. A, E, F, dan H \r\n c. B, D, F, dan H \r\n d. C, D, G, dan H \r\n e. C, F, D, dan H\r\n\r\n\r\nTolong dong \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>~Penjelasan</h2><p></p><p>Diketahui bahwa : </p><p>1. Antara buku A dan C harus dipilih salah satu. </p><p>2. Apabila F dan B harus dipinjam bersama-sama. </p><p>3. H dan E tidak dapat dipinjam bersama-sama.</p><p></p><p>Jika Nani meminjam buku H, maka : </p><ul><li>Eliminasi opsi a, karena B harus dipinjam bersama F</li><li>Eliminasi opsi b, karena E dan H tidak bisa dipinjam bersamaan</li><li>Opsi c kemungkinan benar, karena memenuhi aturan yaitu B dan F dipinjam bersama dan H harus dipinjam secara tunggal</li><li> opsi d kemungkinan benar karena Memilih salah satu Dari A dan C, dan H dan E tidak dipinjam bersama</li><li>Opsi e salah karena F harus dipinjam dgn B</li></ul><p></p><p>Maka kemungkinan keempat buku yang mungkin dipinjam Nani adalah Buku <strong>B</strong><strong>,</strong><strong> </strong><strong>D</strong><strong>,</strong><strong> </strong><strong>F</strong><strong>,</strong><strong> </strong><strong>H</strong><strong>,</strong><strong> </strong><strong>(</strong><strong>o</strong><strong>p</strong><strong>s</strong><strong>i</strong><strong> </strong><strong>c</strong><strong>)</strong> karena yang paling memenuhi ketentuannya..</p><p></p><p>~Ambiziuz02</p><p></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>\u27a1\ufe0fDari keenam kemungkinan di atas, yang terdapat pilihan jawaban yaitu B,D,F,H dan C,D,G,H (pilihan c dan d)</p><p>=============================</p><h2>Pendahuluan </h2><p><strong><em>Peluang adalah merupakan</em></strong> kemungkinan kemungkinan yang akan terjadi pada suatu peristiwa atau sebuah kejadian.</p><p><strong>RUMUS PELUANG </strong></p><p><strong>P(k) = n(k)/n(s) dg k &lt; s</strong></p><p>Peluang = titik sampel/ruang sampel</p><p>Titik sampel = semua kemungkinan yang terjadi yang ditanyakan.</p><p>Ruang sampel = seluruh kemungkinan kejadian</p><p>Langkahnya cari titik sampel, kemudian ruang sampel. Baru cari peluang</p><p></p><h3>Diketahui </h3><p>Nani bermaksud meminjam empat buku untuk hari ini diantara delapan buku temannya yang bisa dipinjam, yaitu A, B, C, D, E, F, G, dan H. berikut ketentuan dalam memilih :</p><p></p><p>1. Antara buku A dan C harus dipilih salah satu. </p><p>2. Apabila F dan B harus dipinjam bersama-sama. </p><p>3. H dan E tidak dapat dipinjam bersama-sama.</p><p></p><p>Jika Nani meminjam buku H, keempat buku yang mungkin dipinjam Nani adalah</p><p></p><p>a. A, B, G, dan H </p><p>b. A, E, F, dan H </p><p>c. B, D, F, dan H </p><p>d. C, D, G, dan H </p><p>e. C, F, D, dan H</p><p></p><h3>Ditanya </h3><p>Jika Nani meminjam buku H, keempat buku yang mungkin dipinjam Nani adalah</p><p></p><h3>Jawab </h3><p>C dan D</p><p></p><h3>Pembahasan </h3><p>Nani akan meminjam 4 buku buku dari dari 8 buku (A,B,C,D,E) dengan ketentuan:</p><p>1. Antara buku A dan C harus dipilih salah satu. </p><p>2. Apabila F dan B harus dipinjam bersama-sama. </p><p>3. H dan E tidak dapat dipinjam bersama-sama.</p><p></p><p>\u2713Sesuai ketentuan no. 1, antara buku  A dan C harus dipilih salah satu, berarti tidak boleh meminjam kedua buku secara bersamaan, namun tindak meminjam  keduanya pun tidak dipermasalahkan. </p><p>\u2713Sesuai ketentuan no. 2 Buku F dan B harus dipinjam bersama-sama, berarti jika salah satu buku tidak dipinjam maka buku yang lain juga tidak boleh dipinjam.</p><p>\u2713Diketahui Nani meminjam buku H, sehingga buku E tidak akan dipinjam (ketentuan no. 4)</p><p></p><p>Berdasarkan penjabaran di atas, Kemungkinan cara Nani meminjam buku:</p><p>1) A,B,F,H</p><p>2) A,D,G,H</p><p>3) C,B,F,H</p><p>4) C,D,G,H</p><p>5) B,D,F,H</p><p>6) B,F,G,H</p><p></p><h3>Kesimpulan </h3><p>Dari keenam kemungkinan di atas, yang terdapat pilihan jawaban yaitu B,D,F,H dan C,D,G,H (pilihan c dan d)</p><p>=============================</p><h3>Pelajari Lebih lanjut :</h3><ul><li>https://brainly.co.id/tugas/35057345</li><li>https://brainly.co.id/tugas/30242686</li><li>https://brainly.co.id/tugas/31987421</li></ul><p></p><h3>Detail Jawaban :</h3><p>Mapel          : Matematika </p><p>Materi          : 12 SMA</p><p>Bab              : Peluang </p><p>Kode Soal    : 2</p><p>Kode Kategorisasi : 8.2.10</p><p>Kata kunci  : Jika Nani meminjam buku H, keempat buku yang mungkin dipinjam Nani adalah.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-segitiga-siku-siku-abc-dengan-panjang-sisi-tegak-8-cm-dan-s-828",
+            "question": "Jika segitiga siku-siku ABC dengan panjang sisi tegak 8 cm, dan sisi datar 6 cm. maka panjang sisi miringnya adalah \u2026..\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>Untuk mencari nilai sisi miring pada segitiga siku-siku, bisa menerapkan metode Phytagoras, untuk itu disolusikan sebagai berikut;</p><p>a\u00b2 + b\u00b2 = c\u00b2</p><p>Keterangan: </p><p>a = Sisi datar</p><p>b = Sisi tegak</p><p>c = Sisi miring</p><p></p><p>Maka dari itu, nilai a dan b bisa dideklarasikan dari soal.</p><p>a\u00b2 + b\u00b2 = c\u00b2</p><p>6\u00b2 + 8\u00b2 = c\u00b2</p><p>36 + 64 = c\u00b2</p><p>100 = c\u00b2</p><p>[tex]\\sqrt{100}[/tex] = c</p><p><strong>Maka, c (Sisi miring) = 10 cm</strong></p><p></p><p>-//Semoga membantu~ :3</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "25-diketahui-panjang-sisi-suatu-persegi-adalah-6-cm-keliling-pe-968",
+            "question": "25. Diketahui panjang sisi suatu persegi adalah 6 cm. keliling persegi tersebut adalah    12 cm\r\nb. 24 cm\r\n36 cm\r\nd 60 cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>K</strong><strong>eliling </strong><strong>=</strong><strong> </strong><strong>4</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>s</strong></p><p><strong>Keliling</strong><strong> </strong><strong>=</strong><strong> </strong><strong>4</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>6</strong></p><p><strong>Keliling</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>4</strong><strong> </strong><strong>cm</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>24cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Keliling Persegi = 4 x s = 4 x 6 = 24cm</p><p></p><p>Selamat Belajar :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengerjakan-tugas-sekolah-termasuk-ab-c-455",
+            "question": "Mengerjakan tugas sekolah termasuk ab c\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>tanggung jawab pelajar</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><h2>KEWAJIBAN SEBAI SEORANG SISWA</h2><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bangun-berbentuk-limas-dengan-alas-berbentuk-persegi-denga-516",
+            "question": "sebuah bangun berbentuk limas dengan alas berbentuk persegi dengan Sisi 12 cm jika tinggi 5 memiliki sisi 30 cm maka volume limas tersebut adalah ......cm\u00b3\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawabannya di gambar, ya...</p><p>semogamembantu</p>",
+                    "attachments": [
+                        "answer-attachments/sebuah-bangun-berbentuk-limas-dengan-alas-berbentuk-persegi-denga-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx-5x-4-gx-2x2-5x-8-dan-fogx-46-tentukan-ni-602",
+            "question": "Jika f(x)= 5X-4 g(x) = 2x\u00b2 + 5x-8 dan\r\n (fog)(x) = 46. Tentukan nilai X\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawaban terlampir. Semoga membantu, maaf jika ada kesalahan.",
+                    "attachments": [
+                        "answer-attachments/jika-fx-5x-4-gx-2x2-5x-8-dan-fogx-46-tentukan-ni-602-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "perusahaan-motor-memproduksi-x-unit-p-x2x2-3x-3-sedangkan-ha-893",
+            "question": "Perusahaan motor memproduksi x unit p (x)=2x^2 +3x-3 sedangkan harga jual per satu unit motor dinyatakan f(x)= x+5 (dalam satuan rupiah)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>SELAMAT</strong><strong> </strong><strong>BELAJAR</strong><strong> </strong><strong>DAN</strong><strong> </strong><strong>SEMOGA</strong><strong> </strong><strong>MEMBANTU</strong><strong></strong></p>",
+                    "attachments": [
+                        "answer-attachments/perusahaan-motor-memproduksi-x-unit-p-x2x2-3x-3-sedangkan-ha-893-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3+3+5+6+7+8=jambu</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><h3><strong><em><u>jgkfhfaiavhakjvbjabvvbjskskhhvbsjakgvv</u></em></strong></h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuannya-dijawab-dengan-benar-kakak-kakak-brainly-713",
+            "question": "Tolong bantuannya dijawab dengan benar kakak kakak brainly\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantuannya-dijawab-dengan-benar-kakak-kakak-brainly-713-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>x = 4cm</p><p>PQ = 15cm</p><p>PR = 15cm</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>Cara mencari x :</p><p></p><p>2x + 7cm = 19cm - x</p><p>2x + 7cm - 19cm = - x</p><p>7cm - 19cm = -x -2x</p><p>- 12cm = - 3x</p><p>- 4cm = -x</p><p>4cm = x</p><p></p><p>jadi x = 4cm</p><p></p><p>Cara mencari PQ dan PR : </p><p></p><p>PQ = 2x + 7cm</p><p>      = 2(4cm) + 7cm</p><p>      = 8cm + 7cm</p><p>      = 15cm</p><p></p><p>karena berbentuk persegi, jadi semua sisinya sama panjang jika 2 sisi 15cm maka dua sisi yang lain juga 15cm atau PQ = PR Jadi hasil PR juga 15cm </p><p></p><p>maaf kalau saya banyak kekurangan</p><p>semangat belajar</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "29-besar-sudut-pada-gambar-segitiga-di-samping-adalah-65-528",
+            "question": "29.\r\n\u0445\r\nBesar sudut pada gambar segitiga di samping adalah ...\r\n65\u00b0\r\n65\r\nsudut....\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>qeh ybgf</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>aijsgrjshdhdjdndj</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuinv-602",
+            "question": "Bantuin:v.............................\u200b",
+            "attachments": [
+                "question-attachments/bantuinv-602-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>lanjutin ya, itu caranya sama kan penyebut terlebih dahulu. Semoga membantu :)</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/bantuinv-602-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

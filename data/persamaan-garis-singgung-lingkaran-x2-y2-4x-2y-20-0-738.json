@@ -1,0 +1,140 @@
+{
+    "question": "Persamaan garis singgung lingkaran x\u00b2 + y2 - 4x + 2y \u2013 20 = 0 di titik (5, 3) adalah....    a. 3x \u2013 4y + 27 = 0\r\nb. 3x + 4y - 27 = 0\r\nc. 3x + 4y - 27 = 0\r\nd. 7x+ 4y - 17 = 0\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>bisa dilihat pada gambar yang tersedia ya</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>semoga bermanfaat</p><p>jadikan jawaban terbaik ya :)</p>",
+            "attachments": [
+                "answer-attachments/persamaan-garis-singgung-lingkaran-x2-y2-4x-2y-20-0-738-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bilangan-cacah-dari-bilangan-romawi-lx-adalah-181",
+            "question": "Bilangan cacah dari bilangan Romawi LX adalah \r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Aku cinta Kamu Akwwk ckck</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jawaban:</p><p>60</p><p>Penjelasan dengan langkah-langkah:</p><p>LX =&gt; 60</p><p>jadi bilangan cacah dari LX adalah 60</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-5x4-8x3-6x2-2x-tentukan-f-x-680",
+            "question": "Diketahui f'(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x, tentukan f (x)!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>Terdapat sebuah persamaan yang telah mengalami turunan bernilai f&#039;(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</p><p>Maka, untuk mencari f(x), masing-masing variabel pada persamaan yang diketahui harus dilakukan metode Integral pada umumnya</p><p>Misalkan kita akan mencoba mengembalikan nilai 5x\u2074 ke persamaan awal dengan menerapkan rumus berikut: </p><p>[tex]\\frac{a}{n + 1} x^n^+^1[/tex] = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>Sekiranya untuk membuktikan turunan dari [tex]x^{5}[/tex], dirumuskan sebagai berikut:</p><p>Rumus turunan: [tex](n)x^{n - 1}[/tex]</p><p>[tex]x^{5}[/tex] = [tex](5)x^{5 - 1}[/tex] = [tex]5x^{4}[/tex]</p><p></p><p>Maka hasil akan sama. Dengan begitu, bisa disolusikan untuk mencari f(x) dengan cara integral seperti berikut:</p><p>\u222b (5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x) dx</p><p>= \u00a0([tex]\\frac{5}{4 + 1} x^4^+^1[/tex]) - ([tex]\\frac{8}{3 + 1} x^3^+^1[/tex]) + ([tex]\\frac{6}{2 + 1} x^2^+^1[/tex]) - ([tex]\\frac{2}{1 + 1} x^1^+^1[/tex]) \u00a0+C</p><p>= \u00a0([tex]\\frac{5}{5} x^5[/tex]) - ([tex]\\frac{8}{4} x^4[/tex]) + ([tex]\\frac{6}{3} x^3[/tex]) - ([tex]\\frac{2}{2} x^2[/tex]) + C</p><p>= [tex]x^{5}[/tex] - [tex]2x^{4}[/tex] + [tex]2x^{3}[/tex] - [tex]x^{2}[/tex] + C</p><p>___________________________</p><p>Detail dari masing-masing variabel:</p><p>5x\u2074 = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>8x\u00b3 = [tex]\\frac{8}{3 + 1} x^3^+^1[/tex] = [tex]\\frac{8}{4} x^4[/tex] = [tex]2x^{4}[/tex]</p><p>6x\u00b2 = [tex]\\frac{6}{2 + 1} x^2^+^1[/tex] = [tex]\\frac{6}{3} x^3[/tex] = [tex]2x^{3}[/tex]</p><p>2x = [tex]\\frac{2}{1 + 1} x^1^+^1[/tex] = [tex]\\frac{2}{2} x^2[/tex] = [tex]x^{2}[/tex]</p><p>___________________________</p><p>Maka, hasil Anti-turunan dari <strong>5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</strong> ialah<strong> </strong>[tex]x^{5}[/tex]<strong> - </strong>[tex]2x^{4}[/tex]<strong> + </strong>[tex]2x^{3}[/tex]<strong> - </strong>[tex]x^{2}[/tex]<strong> + C</strong></p><p></p><p>-//Semoga membantu~ :3</p><p></p><p><em>(!) Misal ada kesalahan dari penjelasan dan perhitungan, monggo dikoreksi ya~</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-tempat-angkat-5-pada-bilang-453673-535",
+            "question": "Tentukan nilai tempat angkat 5 pada bilang 453.673?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><em>tentukan nilai tempat angkat 5 pada bilang 453.673?\u200b</em></p><p></p><p>Pembahasan :</p><p>453.673 </p><p>Nilai 4 = Ratusan ribu</p><p><strong>Nilai 5 = Puluhan ribu</strong></p><p>Nilai 3 = Ribuan</p><p>Nilai 6 = Ratusan</p><p>Nilai 7 = Puluhan</p><p>Nilai 3 = Satuan</p><p></p><p><em>Jadi, nilai tempat angkat 5 adalah </em><u><em>Puluhan ribuan</em></u></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>nilai 5 berada di <strong>PULUHAN</strong><strong> </strong><strong><u>RIBU</u></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-alas-sebuah-kubus-20-cm-luas-permukaan-kubus-tersebut-a-307",
+            "question": "Keliling alas sebuah kubus 20 cm. Luas permukaan kubus tersebut adalah .... cm^2.\u00a0*\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>sisi = 20 : 4 = 5cm</p><p></p><p>luas permukaan = 5 x 5 x 6 = 150cm\u00b2</p><p></p><p>~ Les\u2022Online ~</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Jawab : Luas permukaan kubus 150 cm\u00b2</p><p></p><p></p><p>Penjelasan dengan langkah-langkah:</p><p>Jawab :</p><p>\u2022 Keliling alas kubus </p><p>K   = 20 cm </p><p>K   = 4 \u00d7 s</p><p>20 = 4 \u00d7 s </p><p>s   =  20 \u00f7 4 </p><p>s   = 5</p><p>\u2022 Luas permukaan kubus</p><p>L = 6 \u00d7 s\u00b2 </p><p>L = 6 \u00d7 5\u00b2</p><p>L = 150 cm\u00b2</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alas-sebuah-prisma-berbentuk-segitiga-siku-siku-dengan-panjanh-si-617",
+            "question": "Alas sebuah prisma berbentuk segitiga siku-siku dengan panjanh sisi 8 cm,15cm dan,17cm.luas permukaan prisma jika tingginya 20 cm adalah..    a.860 cm\u00b2\r\nb.880cm\u00b2\r\nc.920cm\u00b2\r\nd.1.042cm\u00b2\r\nbntu y kakk ;)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>c</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>luas alas = \u00bd x a x t = \u00bd x 8 x 15 = 60 cm\u00b2</p><p>keliling = 8 + 15 + 17 = 40</p><p>luas permukaan = 2 x 60 + 40 x 20</p><p>= 120 + 800</p><p>= 920 cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sekumpulan-bingkisan-berukuran-8-cm-6-cm-dan-4-cm-akan-dikirim-s-615",
+            "question": "Sekumpulan bingkisan berukuran 8 cm, 6 cm dan 4 cm akan dikirim sekaligus dalam kotak besar berukuran 30 cm, 24 cm, dan 16 cm. Berapa paling banyak bingkisan yang dapat di muat dalam kotak besar tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>Volume Kotak Besar = 30 \u00d7 24 \u00d7 16</p><p>                                  = 11.520</p><p></p><p>Volume Bingkisan = 8 \u00d7 6 \u00d7 4</p><p>                              = 192</p><p></p><p>Berapa Bingkisan = Volume Kotak Besar \u00f7 Volume Bingkisan</p><p></p><p>11.520 \u00f7 192 = 60 Bingkisan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "turunan-pertama-dari-fx-3x2-6x23-646",
+            "question": "Turunan pertama dari f(x)= 3x\u00b2-6x\u00b2+3\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>f&#039;(x)= 6x-12x+3</p><p>f&#039;(x)= -6x+3</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-seatu-segitiga-yang-panjang-sisinya-berurut-turut-9cm-12cm-120",
+            "question": "apakah seatu segitiga yang panjang sisinya berurut turut 9cm 12cm dan 18cm merupakan segitiga siku siku jelaskan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>bukan segitiga siku-siku</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Ciri-ciri segitiga siku-siku, yaitu : (1) memiliki sisi tegak lurus dengan alas; (2) memiliki 2 sudut lancip dan 1 sudut siku-siku.</p><p>Perhatikan berikut:</p><p>Jika \u0394ABC siku-siku di C maka berlaku:</p><p>begin mathsize 14px style AB squared equals AC squared plus BC squared left right double arrow straight c squared equals straight b squared plus straight a squared end style</p><p>Apakah suatu segitiga yang panjang ketiga sisinya berturut-turut 9cm, 12cm, dan 18cm adalah segitiga siku-siku?</p><p>Diketahui a = 9 cm, b = 12 cm.</p><p>straight c squared equals straight a squared plus straight b squared left right double arrow straight c squared equals 9 squared plus 12 squared left right double arrow straight c squared equals 81 plus 144 left right double arrow straight c squared equals 225 left right double arrow straight c equals plus-or-minus 15 space cm left right double arrow straight c equals 15 space cm</p><p>Diperoleh c = 15 cm bukan 18 cm, oleh karena itu segitiga yang panjang ketiga sisinya berturut-turut 9cm, 12cm, dan 18cm adalah bukan segitiga siku-siku.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmatika-4-7-10-13-tentukan-jumlah-deret-ke-4-683",
+            "question": "Diketahui barisan aritmatika 4 7 10 13 tentukan jumlah deret ke-40 (S40?)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>10 karena betul </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>awokawowkwiakwok</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-3-3-3-2-3-168",
+            "question": "5 ^ 3 + 3 ^ 3 * 2 ^ 3 =\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Bilangan</strong><strong> </strong><strong>Berpa</strong><strong>ngkat</strong></p><p></p><p>5^3 + 3^3 \u00d7 2^3</p><p>= (5 \u00d7 5 \u00d7 5) + (3 \u00d7 3 \u00d7 3) \u00d7 (2 \u00d7 2 \u00d7 2)</p><p>= 125 + 27 \u00d7 8</p><p>= 125 + 216</p><p>= <strong><u>3</u></strong><strong><u>4</u></strong><strong><u>1</u></strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>5\u00b3 + 3\u00b3 x 2\u00b3 = </p><p>5 x 5 x 5 = 125</p><p>3 x 3 x 3 = 27</p><p>2 x 2 x 2 = 8</p><p>125 + 27 x 8 = </p><p>125 + 216 = 341</p><p></p><p><strong><em><u>#</u></em></strong><strong><em><u>semogamembantu</u></em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

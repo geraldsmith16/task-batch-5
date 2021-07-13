@@ -1,0 +1,144 @@
+{
+    "question": "Suku ke-20 dari barisan aritmatika 2, 5,8 adalah\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><h2><strong><em><u>59</u></em></strong></h2><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>a = 2</p><p>b = 5-2 = 3</p><p></p><p>Un = a+(n-1)b</p><p>Un = 2 +(n-1)3</p><p>Un = 2 + 3n = 3</p><p>Un = -1 + 3n</p><p>Un = 3n-1</p><p></p><p>U20 = 3n - 1</p><p>U20 = 3 x 20 - 1</p><p>U20 = 60-1</p><p>U20 = 59</p><p></p><p>JADIKAN JAWABAN TERBAIK JIKA ANDA MERASA TERBANTU\u2728</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>3n=1</p><p>Suku ke 1=3.1 - 1=2</p><p>Suku ke 4=3.4 - 1=11</p><p>Suku ke 20=3.20 - 1= 59</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>59</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pak-rifki-mempunyai-taman-yang-panjangnya-35-m-dan-lebarnya-25-m-832",
+            "question": "Pak Rifki mempunyai taman yang panjangnya 35 m dan lebarnya 25 m Hitunglah luas taman Pak Rifki!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>luas = panjang x lebar</p><p>35 x 25 = 875m\u00b2</p><p></p><p>~ Les\u2022Online ~</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "quiz-bersama-daniel-yang-kiyut-inih-v-8x-5-21-x-870",
+            "question": "Quiz bersama daniel yang kiyut inih :v\r\n 8x + 5 = 21\r\n\r\n x = ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3>~SPLV</h3><p>_______</p><p></p><p><strong>Jawaban:</strong></p><p><strong><u>2</u></strong><strong><u>\u2714</u></strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>8x + 5 = 21</p><p>      8x = 21 - 5</p><p>      8x = 16</p><p>         x = 16/8</p><p>         x = <strong><u>2</u></strong><strong><u>\u2714</u></strong></p><p></p><p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p><h3>\u2013 Detail Jawaban</h3><p>Mapel : Matematika</p><p>Kelas : VII</p><p>Materi : Sistem Persamaan Linear Variabel</p><p>Kode Soal : 2</p><p>Kode Kategorisasi : 7.2.6</p><p></p><p>#GANBATTE</p><p></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>8x + 5 = 21</p><p>8x = 21 - 5</p><p>8x = 16</p><p>  x = 16/8</p><p>  x = <strong><u>2</u></strong></p><p></p><p><strong><u>moga</u></strong><strong><u> </u></strong><strong><u>membantu</u></strong><strong><u>-</u></strong><strong><u>,</u></strong><strong><u>-</u></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-dari-4913-dikurang-akar-125-adalah-346",
+            "question": "Akar dari 4913 dikurang akar 125 adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>akar dari 4913 _125 adalah 4,788</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-panjang-lebar-dan-tinggi-sebuah-balok-adalah-4-3-216",
+            "question": "Perbandingan panjang, lebar, dan tinggi    sebuah balok adalah 4 :3:5 Jika tingginya 20 cm, tentukan\r\na. panjang dan lebarnya;\r\nb. jumlah panjang rusuknya.\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a. panjang = 16 cm,lebar = 12 cm</p><p>b. jumlah = 192 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex] \\sf{ada \\: digambar \\: kak} [/tex]</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/perbandingan-panjang-lebar-dan-tinggi-sebuah-balok-adalah-4-3-216-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-melakukan-pengundian-dengan-menggunakan-2-dadu-peluang-457",
+            "question": "Seseorang melakukan pengundian dengan menggunakan 2 dadu, peluang teoretik muncul mata dadu kembar dalam pengundian tersebut adalah    \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>peluang teoritik muncul mata dadu kembar yaitu 1/6.</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12-luas-salah-satu-sisi-kubus-adalah-144-cm2-maka-volume-kubus-828",
+            "question": "12.    Luas salah satu sisi kubus adalah 144 cm2, maka volume kubus tersebut adalah ....\r\na. 1.728 cm\r\nb. 2.197 cm3\r\nC. 2.744 cm\r\nd. 3.375 cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Jawaban:</h2><p>Volume kubus = 1.728 cm\u00b3</p><p>(Opsi A.)</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Kubus</strong> adalah <u>suatu bangun ruang yang memiliki enam sisi yang semua sisinya berbentuk persegi dan memiliki 12 rusuk yang semua rusuknya sama panjang.</u></p><p></p><p>Rumus volume kubus:</p><p>V = s\u00b3</p><p></p><p>Rumus luas permukaan kubus:</p><p>L = 6 \u00d7 s\u00b2</p><p></p><p>Rumus panjang sisi rusuk kubus:</p><p>s = \u00b3\u221aV</p><p>\u00a0\u00a0 = \u221aL \u00f7 6</p><p></p><p>Rumus panjang diagonal sisi kubus:</p><p>ds = s\u221a2</p><p></p><p>Rumus panjang diagonal ruang kubus:</p><p>dr = s\u221a3</p><p></p><p>Rumus luas bidang diagonal kubus:</p><p>bd = s\u00b2\u221a2</p><p></p><p>Rumus keliling kubus:</p><p>K = 12 \u00d7 s</p><p></p><p>Rumus luas alas kubus:</p><p>L = s\u00b2 = s \u00d7 s</p><p></p><p>Keterangan:</p><p>s = panjang sisi rusuk</p><p>ds = diagonal sisi</p><p>dr = diagonal rusuk</p><p>bd = bidang diagonal</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>Luas alas kubus = 144 cm\u00b2</p><p></p><p>Ditanya: Volume kubus = ?</p><p></p><p>Dijawab:</p><p>- Mencari panjang sisi kubus.</p><p>L = s\u00b2</p><p>144 = s\u00b2</p><p>s = \u221a(144) = 12 cm</p><p></p><p>- Menghitung volume kubus.</p><p>V = Luas alas \u00d7 s</p><p>   = 144 \u00d7 12</p><p>   = 1.728 cm\u00b3</p><p></p><p>Jadi, volume kubus tersebut adalah <strong><u>1</u></strong><strong><u>.</u></strong><strong><u>7</u></strong><strong><u>2</u></strong><strong><u>8</u></strong><strong><u> </u></strong><strong><u>c</u></strong><strong><u>m</u></strong><strong><u>\u00b3</u></strong>.</p><p></p><h2>Detail Jawaban</h2><p>Mapel: MTK</p><p>Kelas: 8 SMP</p><p>Materi: Bab 8 - Bangun Ruang</p><p>Kode Soal: 2</p><p>Kode Kategorisasi: 8.2.8</p><p>Kata Kunci: Volume Kubus, Luas Alas Kubus, Panjang Sisi Kubus</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h3><strong>Jawaban:</strong></h3><p>A. 1.728 cm</p><p></p><h3><strong>penjelasan:</strong></h3><p>Luas sisi = s \u00d7 s</p><p>     \u221a144 = s\u00b2</p><p>           s = \u221a144</p><p>           s = 12 cm = rusuk</p><p></p><p><strong><u>Maka Luas sisi = 12 cm</u></strong></p><p></p><p><u>Ditanya: Volume </u></p><ul><li><strong>Volume kubus = s\u00b3</strong></li></ul><p>V = s \u00d7 s \u00d7 s</p><p>V = 12 \u00d7 12 \u00d7 12</p><p>V= 1.728 cm\u00b3</p><p>-----------------------------------------------------------</p><p><strong>Detail</strong><strong> jawaban </strong></p><p>Mapel : matematika</p><p>kelas : 5 SD</p><p>Materi : Bab 4 - Volume kubus dan balok</p><p>Kode soal : 2</p><p>Kode kategorisasi : 5.2.4</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-di-bantu-ya-kk-317",
+            "question": "Tolong di bantu ya kk\u200b",
+            "attachments": [
+                "question-attachments/tolong-di-bantu-ya-kk-317-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]f(x) = 4( {2x - 7)}^{9}  \\\\ f&#039;(x) = 4(9)( {2x - 7)}^{9 - 1} (2) \\\\  = 72( {2x - 7)}^{8} [/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-rak-buku-dapat-memuat-42-eks-buku-yang-tebal-nya-5-mm-bera-756",
+            "question": "sebuah rak buku dapat memuat 42 eks buku yang tebal nya 5 mm berapa banyak buku yang tebal nya 14 mm dapat di taruh pada rak tersebut?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>15</strong><strong> </strong><strong>buku</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Sebuah rak memuat 42 buku dengan tebal 5 mm</p><p>maka, sebuah buku dapat menampung :</p><p>42 \u00d7 5 = 210 mm </p><p>jika tiap buku memiliki tebal 14 mm, maka :</p><p>210 \u00f7 14 = 15 buku</p><p></p><p><strong>JADI</strong><strong>,</strong><strong> </strong><strong>BANYAK</strong><strong> </strong><strong>RAK</strong><strong> </strong><strong>BUKU</strong><strong> </strong><strong>YANG</strong><strong> </strong><strong>DAPAT</strong><strong> </strong><strong>DITARUH</strong><strong> </strong><strong>DALAM</strong><strong> </strong><strong>RAK</strong><strong> </strong><strong>TERSEBUT</strong><strong> </strong><strong>ADALAH</strong><strong> </strong><strong>15</strong><strong> </strong><strong>BUKU</strong></p><p></p><p><strong>JANGAN LUPA JADIKAN JAWABAN TERBAIK YAA</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuannya-ya-kk-820",
+            "question": "Mohon bantuannya ya kk\u200b",
+            "attachments": [
+                "question-attachments/mohon-bantuannya-ya-kk-820-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>13</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>12 + 15 - 14 = 13</p><p>Jadi jawabannya 13</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>12 + 15 - 14</p><p>27 - 14 = 13</p><p></p><p>~ Les\u2022Online ~</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-atan-45-bcos-120-ccosecan-240-dsinus-300-904",
+            "question": "Berapakah\r\na.tan 45\u00b0\r\nb.cos 120\u00b0\r\nc.cosecan 240\u00b0\r\nd.sinus 300\u00b0\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a. tan 45\u00b0 = 1</p><p></p><p>b. cos 120\u00b0 = -cos 60\u00b0 = -1/2</p><p></p><p>c. csc 240\u00b0 = -csc 60\u00b0 = -2/\u221a3</p><p></p><p>d. sin 300\u00b0 = -sin 60\u00b0 = -\u221a3/2</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

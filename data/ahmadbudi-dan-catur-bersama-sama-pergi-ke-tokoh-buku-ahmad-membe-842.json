@@ -1,0 +1,134 @@
+{
+    "question": "Ahmad,Budi dan catur bersama-sama pergi ke tokoh buku Ahmad membeli 2 buku dan 1 pensil dengan membayar RP.8000.00.budo membeli 1 buku dan 3 pensil dengan membayar RP.9000.00 berapa yang harus dibayar oleh catur bila ia membeli sebuah buku dan sebuah pensil?selesaikan menggunakan determinan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawab:</strong></p><h3>Harga buku = Rp. 3.000,-</h3><h3>Harga pensil = Rp. 2.000,-</h3><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Diketahui</p><p>2 buku + 1 pensil = 8000</p><p>1 buku + 3 pensil = 9000</p><p>Didapati</p><ul><li>2x + y = 8000</li><li>x + 3y = 9000</li></ul><p>Dicari x dan y dengan determinan</p><p>[tex]\\displaystyle\\begin{pmatrix}2&amp;1\\\\ 1&amp;3\\end{pmatrix}\\begin{pmatrix}x\\\\ y\\end{pmatrix}=\\begin{pmatrix}8000\\\\ 9000\\end{pmatrix}[/tex]</p><p>maka D</p><p>[tex]\\begin{pmatrix}2&amp;1\\\\ \\:1&amp;3\\end{pmatrix}[/tex] = (2*3)-(1*1) = 6-1 = 5</p><p>D\u2093 =</p><p>[tex]\\begin{pmatrix}8000&amp;1\\\\ \\:9000&amp;3\\end{pmatrix}[/tex] = (8000*3)-(1*9000) = 24000-9000 = 15000</p><p>Dy =</p><p>[tex]\\begin{pmatrix}2&amp;8000\\\\ \\:1&amp;9000\\end{pmatrix}[/tex] = (2*9000)-(8000*1) = 18000-8000 = 10000</p><p>maka</p><p>x = D\u2093/D = 15000/5 = Rp. 3.000,-</p><p>y = Dy/D = 10000/5 = Rp. 2.000,-</p><p>Harga buku = Rp. 3.000,-</p><p>Harga pensil = Rp. 2.000,-</p><p>- \u5609\u8aa0 -</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1diketahui-data-sebagai-berikut-7889437957656-modus-207",
+            "question": "1.diketahui data sebagai berikut 7,8,8,9,4,3,7,9,5,7,6,5,6 modus dari data tersebut adalah?    2. diketahui data sebagai berikut 8,9,4,7,9,5,7,6,5,6,8,7,3 jangkauan kuartil dari data tersebut adalah?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.Diurutkan datanya terlebih dahulu</p><p>3,4,5,5,6,6,7,7,7,8,8,9,9</p><p></p><p></p><p></p><p></p><p>Jumlah nilai</p><p>=3+4+5+5+6+6+7+7+7+8+8+9+9         =84</p><p></p><p>Frekuensi:13</p><p></p><p></p><p></p><p>Jumlah nilai\u00f7Frekuensi</p><p>=84\u00f713</p><p>=6,46</p><p></p><p></p><p></p><p></p><p></p><p>=Nilai ke-(N+1)\u00f72</p><p>=Nilai ke-(13+1)\u00f72</p><p>=Nilai ke-14\u00f72</p><p>=Nilai ke-7</p><p>=7</p><p></p><p></p><p>MODUS</p><p>=7(karena muncul sebanyak 3 kali)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalu salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-pliss-besok-udah-dikumpul-tolong-bangett-394",
+            "question": "Bantu jawab pliss besok udah dikumpul\r\ntolong bangett\u200b",
+            "attachments": [
+                "question-attachments/bantu-jawab-pliss-besok-udah-dikumpul-tolong-bangett-394-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><ol><li>17</li><li>95,73.25</li><li>15</li><li>53</li><li>65</li><li>53</li></ol><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jadikan jawaban terbaik</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "17-setelah-dilakukan-penimbangan-di-kelas-iv-diperoleh-data-bera-635",
+            "question": "17. Setelah dilakukan penimbangan di kelas IV diperoleh data berat badan siswa sebagai berikut:    128 kg = 3 orang, 130 kg = 2 orang, 134 kg = 4 orang, 145 kg = 2 orang, 136 kg = 4 orang,\r\n146 kg = 5 orang. Tentukan banyak siswa yang beratnya kurang dari 136 kg!\r\nJawab:\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>128 kg = 3 orang</p><p>130 kg = 2 orang</p><p>134 kg = 4 orang</p><p><strong>Jumlah </strong><strong>=</strong><strong> </strong><strong>9</strong><strong> </strong><strong>orang</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "18-perhatikan-gambar-berikut-4y-27-2y-15-nilai-y-adal-109",
+            "question": "18. Perhatikan gambar berikut    (4y - 27)\"\r\n(2y + 15)\u00b0\r\nNilai y adalah...\r\nA. 43\r\nB. 17\r\nC. 13\r\nD. 9\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>4y-27=0</p><p>2y+15=17 jadi nilai y adalah 17</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kak-1-8-ngab-pleas-789",
+            "question": "Tolong Kak\r\n\r\n 1-8 Ngab\r\n\r\n\r\n\r\n\r\n Pleas?",
+            "attachments": [
+                "question-attachments/tolong-kak-1-8-ngab-pleas-789-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>semoga membantu. </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>ada di gambar... </p>",
+                    "attachments": [
+                        "answer-attachments/tolong-kak-1-8-ngab-pleas-789-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bangun-berbentuk-limas-dengan-alas-berbentuk-persegi-denga-516",
+            "question": "sebuah bangun berbentuk limas dengan alas berbentuk persegi dengan Sisi 12 cm jika tinggi 5 memiliki sisi 30 cm maka volume limas tersebut adalah ......cm\u00b3\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawabannya di gambar, ya...</p><p>semogamembantu</p>",
+                    "attachments": [
+                        "answer-attachments/sebuah-bangun-berbentuk-limas-dengan-alas-berbentuk-persegi-denga-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "skala-dapat-ditentukan-dengan-persamaan-a-skala-jarakpadagam-156",
+            "question": "Skala dapat ditentukan dengan persamaan..    a. skala = jarakpadagambar (jp)\r\n \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\r\n jaraksebenarnya (js)\r\n\r\nb. skala = jaraksebenarnya (js)\r\n \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\r\n jarakpadagambar (jp)\r\n\r\nc. skala = jarak sbnrnya(js)\u00d7jarak pada gambar (jp)\r\n\r\nd. skala = jarak pada gambar (jp)\u00d7jarak sbnrnya(js)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Rumus Skala </p><p></p><p>Skala = Jarak Pada Peta : Jarak Sebenarnya</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuannya-ya-makasi-jangan-ngasal-yaa-makasii-393",
+            "question": "Tolong bantuannya ya makasi jangan ngasal yaa makasii\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantuannya-ya-makasi-jangan-ngasal-yaa-makasii-393-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1. 1ml = 1cm\u00b3</p><p>jadi 360 ml = 360 cm\u00b3 dan ini adalah volume kotak susunya yg berbentuk balok.</p><p>Diket: p = 8cm</p><p>l = 3 cm</p><p>V balok = 360 cm\u00b3</p><p></p><p>Dit: t = ?</p><p></p><p>Jwb:</p><p>V = p x l x t</p><p>360 cm\u00b3 = 8 x 3 x t</p><p>360 = 24 x t</p><p>t = 360/24</p><h2>= 15 cm</h2><p></p><p>2. Diket: limas segitiga</p><p>alas segitiga = 12 cm</p><p>t segitiga = 16 cm</p><p>t Limas = 24 cm</p><p></p><p>Dit: v = ?</p><p></p><p>Jawab</p><p>V = \u2153 x La x t Limas</p><p>= \u2153 x (\u00bd x alas segitiga x t segitiga) x t Limas</p><p>= \u2153 x (\u00bd x 12 x 16) x 24</p><p>= \u2153 x (6 x 16) x24</p><p>= (6 x 16) x 8</p><h2>= 768 cm\u00b3</h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-pekerjaan-dapat-diselesaikan-oleh-25-orang-dalam-waktu-60-h-848",
+            "question": "suatu pekerjaan dapat diselesaikan oleh 25 orang dalam waktu 60 hari Jika pekerjaan itu diselesaikan oleh 20 orang berapa hari pekerjaan itu selesai\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>=\u300bDiket:</p><p>\u2022 x1 = 25 orang</p><p>\u2022 y1 = 60 hari</p><p>\u2022 x2 = 20 orang</p><p>=\u300bDitanya:</p><p>\u2022 y2 =...?</p><p>=\u300bJawab:</p><p>Gunakan penyelesaian menggunakan perbandingan sebalik nilai</p><p>[tex] \\frac{x1}{x2}  =  \\frac{y2}{y1}  \\\\  \\frac{25}{20}  =  \\frac{y2}{60}  \\\\ 20y2 = 1.500 \\\\ y2 =  \\frac{1.500}{20}  \\\\ y2 = 75 \\: hari[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menghitung-keliling-bangun-datar-681",
+            "question": "Menghitung keliling bangun datar\u200b",
+            "attachments": [
+                "question-attachments/menghitung-keliling-bangun-datar-681-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>keliling =  23 cm + 9 cm + ( 23 - 8 - 5 )  + 8 + 5 + 12 + 8 + 5 </p><p>= 23 + 9 + 10 + 8 + 5 + 12 + 8 + 5</p><p>= 88 cm</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

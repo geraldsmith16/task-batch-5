@@ -1,0 +1,154 @@
+{
+    "question": "Diketahui barisan bilangan ......-5, 0, 5, 10........tiga suku sebelum -5 adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>-30,-25,-20,-15,-10</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>dikurangi 5 aja</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-segitiga-abc-dengan-sudut-a-30-sudut-b-45-d-100",
+            "question": "Diketahui segitiga abc dengan sudut a = 30\u00b0 , sudut b = 45\u00b0 , dan sisi b = 10cm ,, tentukan panjang sisi b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>5\u221a2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><p></p><p>sisi b = 10 cm</p><p>&lt;A = 30\u00b0</p><p>&lt;B = 45\u00b0</p><p></p><p><strong>Ditanya</strong><strong> </strong><strong>:</strong></p><p></p><p>sisi a =\u2026</p><p></p><p><strong>Jawab</strong><strong> </strong><strong>:</strong><strong> </strong></p><p></p><p><strong><em><u>Pakai</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>aturan</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>Sinus</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>:</u></em></strong></p><p></p><p>a/sin A = b/sin B</p><p>a/sin 30\u00b0 = 10/sin 45\u00b0</p><p>a \u00d7 sin 45\u00b0 = 10 \u00d7 sin 30\u00b0</p><p>a \u00d7 1/2\u221a2 = 10 \u00d7 1/2</p><p>a \u00d7 1/2\u221a2 = 5</p><p>a = 5/(1/2\u221a2)</p><p>a = 5\u221a2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ayah-memiliki-uang-rp50000-kemudian-akan-dibelikan-buku-tuli-267",
+            "question": "Ayah memiliki uang rp.50.000,-, kemudian akan dibelikan buku tulis dan majalah. harga satu buku tulis rp.2.500,- dan harga majalah rp.15.000,-. model matematika untuk persoalan tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>A = buku tulis</p><p>B = majalah</p><p></p><p>2500A + 15000B = 50000</p><p></p><p>Maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-jawab-beserta-caranya-229",
+            "question": "Tolong bantu jawab beserta caranya\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-jawab-beserta-caranya-229-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>V = 400 cm\u00b3</p><p>L = 620 cm\u00b2</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>TE\u00b2 =TF\u00b2 - EF\u00b2</p><p>       = 13\u00b2 - (10 : 2)\u00b2</p><p>       = 169 - 5\u00b2</p><p>       = 169 - 25</p><p>       = 144</p><p>TE = \u221a144 = 12 cm</p><p></p><p>V = 1/3 x L.alas x t limas</p><p>    = 1/3 x (10 x 10) x 12</p><p>    = 1/3 x 100 x 12</p><p>    = 400 cm\u00b3.</p><p>L = L.alas + L.selimut</p><p>   = 10 x 10 + 4 x 10 x 13</p><p>   = 100 + 520</p><p>   = 620 cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-persegi-panjang-memiliki-ukuran-lebar-20cmjika-panjang-di-589",
+            "question": "Sebuah persegi panjang memiliki ukuran lebar 20cm.jika panjang diagonal persegi panjang 29cm, maka panjang persegi panjang tersebut adalah.... cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Panjang = \u221a(29\u00b2 - 20\u00b2) </p><p>= \u221a(841 - 400) </p><p>= \u221a441 </p><p>= 21 cm </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h2>Soal yang ditanyakan :</h2><p>Sebuah persegi panjang memiliki ukuran lebar 20cm.jika panjang diagonal persegi panjang 29cm, maka panjang persegi panjang tersebut adalah.... cm</p><p></p><h2>Jawaban :</h2><p>21</p><p></p><h2>PENDAHULUAN :</h2><p></p><h3>Teorema pythagoras :</h3><p>Hipotenusa adalah panjang sisi siku-siku terpanjang atau sisi mirimg segitiga siku-siku/biasa kita bilang Teorema pythagoras</p><h3></h3><h3>Cara menentukan dan memeriksa Tripel Phthagoras :</h3><p>Teorema pyhagoras,dapat digunakan untuk menentukan kumpulan bilangan yang merupakan tripel pythagoras.Caranya dengan menguadratkan bilangan 1 dan bilangan ke 2 kemudian di tambah dan hasilnya merupakan bilangan ke 3.</p><p></p><h2><u>P</u><u>E</u><u>M</u><u>B</u><u>A</u><u>H</u><u>A</u><u>S</u><u>A</u><u>N</u><u> </u><u>:</u></h2><p></p><h3>Diketahui :</h3><p>Sebuah persegi panjang memiliki ukuran lebar 20cm.jika panjang diagonal persegi panjang 29cm,</p><p></p><h3>Ditanya :</h3><p>panjang persegi panjang tersebut adalah.... cm</p><p></p><h2>Penyelesaian Soal :</h2><h3>[tex]\\boxed{\\red{\\sf p =  \\sqrt{p {d}^{2}  -  {l}^{2} }}} [/tex]</h3><h3>[tex]p =  \\sqrt{2 {9}^{2} - 2 {0}^{2}  } [/tex]</h3><h3>[tex]p =  \\sqrt{841 - 400} [/tex]</h3><h3>[tex]p =  \\sqrt{441} [/tex]</h3><h3>[tex]\\boxed{p = 21 }[/tex]</h3><h2>Kesimpulan :</h2><p>Jadi panjang persegi panjang tersebut adalah<strong><u> </u></strong><strong><u>2</u></strong><strong><u>1</u></strong><strong><u> </u></strong>cm</p><p></p><h2>PELAJARI LEBIH LANJUT</h2><p></p><ul><li>pengertian/definisi persegi https://brainly.co.id/tugas/15302156</li></ul><p></p><ul><li>rumus luas persegi, luas persegi panjang, keliling persegi, keliling persegi panjang https://brainly.co.id/tugas/3351991</li></ul><p></p><ul><li>Selembar kertas berbentuk persergi mempunyai panjang sisi 50cm. Kertas tersebut akan dipotong menjadi persegi dengan pan... https://brainly.co.id/tugas/26249339</li></ul><p></p><ul><li>Sebuah jendela yang berbentuk persegi mempunyai keliling 200 cm. Panjanga sisi jendela tersebut adalah https://brainly.co.id/tugas/41566837</li></ul><p></p><p></p><p></p><ul><li>jelaskan pengertian teorema pythagoras dan jenisnya https://brainly.co.id/tugas/20925962</li></ul><p></p><ul><li>sebutkan rumus phytagoras https://brainly.co.id/tugas/30062623</li></ul><p></p><ul><li>contoh soal dan jawaban teorema pythagoras https://brainly.co.id/tugas/1154628</li></ul><p></p><ul><li>segitiga sikusiku memiliki panjang alas 16cm dan tinggi 30cm apabila keliling segitiga tersebut adalah 80cm maka panjang... https://brainly.co.id/tugas/41355173</li></ul><p></p><h2>Detail Jawaban</h2><p></p><p>Mapel : Matematika</p><p>Kelas : 8 SMP</p><p>Kategori : Bab 4 - Teorema Pythagoras</p><p>Kode Soal : 2</p><p>Kode Kategorisasi : 8.2.4</p><p>Kata Kunci : Panjang persegi panjang dan diagonal persegi panjang</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berpa-hasil-7-akar-2-dikali-7-akar-2-560",
+            "question": "Berpa hasil 7 akar 2 dikali 7 akar 2\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>98</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Untuk perkalian bilangan akar 7\u221a2 x 7\u221a2, kita gunakan rumus a\u221ac x b\u221ad = (a x b)\u221a(c x d) dengan a = 7, b = 7, c = 2, dan d = 2. Maka :</p><p>a\u221ac x b\u221ad = (a x b)\u221a(c x d)</p><p>7\u221a2 x 7\u221a2 = (7x7)\u221a(2x2)</p><p>2\u221a3 x 4\u221a5 = 49\u221a4</p><p>akar 4=2</p><p>jadi, 49\u00d72=98</p><p>semoga bermanfaat ya</p><p>jangan lupa di follow ya</p><p>kalau ada yang salah mohon untuk tidak direport ya</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>98</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>7\u221a2 \u00d7 7 \u221a2 <em>[</em><em>akar</em><em> </em><em>dengan</em><em> </em><em>akar</em><em> </em><em>dikali</em><em> </em><em>hasilnya</em><em> </em><em>tetap</em><em> </em><em>bentuk</em><em> </em><em>angka</em><em> </em><em>itu </em><em>sen</em><em>diri</em><em>]</em><em> </em></p><p>7 \u00d7 2 \u00d7 7 <em>[</em><em>kalikan</em><em>]</em></p><p>14\u00d77 = 98</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "quiz-916",
+            "question": "Quiz....................................\u200b",
+            "attachments": [
+                "question-attachments/quiz-916-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<h2>\u2740Jawaban-\u2728</h2><p></p><p>a) Terlampir</p><p>b) Terlampir</p><p>c) Mata dadu ke 4 dan 5 yang memiliki frekuensi 5</p>",
+                    "attachments": [
+                        "answer-attachments/quiz-916-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a. <strong>Terlam</strong><strong>pir</strong></p><p>b. <strong>Terlam</strong><strong>pir</strong></p><p>c. Banyak muncul = <strong>4</strong><strong> </strong><strong>dan</strong><strong> </strong><strong>5</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Di gambar</p>",
+                    "attachments": [
+                        "answer-attachments/quiz-916-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "5-24-96-4-a-0-v-30-s-48-d-120-261",
+            "question": "5. 24 +96:(-4)= ...\r\n\u0410 0\r\n\u0412. - 30\r\n\u0421. - 48\r\nD. - 120\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>24 + 96 \u00f7 (-4)</p><p>= 24 + (-24)</p><p>= 24 - 24</p><p>= <strong><u>0</u></strong></p><p></p><p></p><p><strong><u>moga</u></strong><strong><u> </u></strong><strong><u>membantu</u></strong><strong><u>-</u></strong><strong><u>,</u></strong><strong><u>-</u></strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><em>5. \u00a024 +96:(-4) = ...</em></p><p></p><p>Pembahasan :</p><p>24 +(96 : (-4)) \u00a0=</p><p>\u2192 24 + (-24)</p><p>\u2192 24 - 24</p><p>\u2192 \u00a00 \u00a0 <strong>(A)</strong></p><p></p><p><em>Jadi, Hasil dari 24 +96 : (-4) adalah 0 </em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "223-64-74-54-838",
+            "question": "22\u00b3 + 6\u2074 =\r\n\r\n7\u2074 + 5\u2074 =\r\n\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>A.</p><p>22\u00b3 = 22 \u00d7 22 \u00d7 22 = 10.648</p><p></p><p>6\u2074 = 6 \u00d7 6 \u00d7 6 \u00d7 6 = 1.296</p><p></p><p></p><p>B.</p><p>7\u2074 = 7 \u00d7 7 \u00d7 7 \u00d77 = 2.401</p><p></p><p>5\u2074 = 5 \u00d7 5 \u00d7 5 \u00d7 5 = 625</p><p></p><p></p><p></p><p></p><p>Hasil </p><p>22\u00b3 + 6\u2074 = 11.944</p><p></p><p>7\u2074 + 5\u2074 = 3.026</p><p></p><p></p><p></p><p></p><p>good luck salsa </p><p><em>S</em><em>E</em><em>M</em><em>O</em><em>G</em><em>A</em><em> </em><em>M</em><em>E</em><em>M</em><em>B</em><em>A</em><em>N</em><em>T</em><em>U</em><em> </em><em></em></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h3>langkah langkah :</h3><p>[tex] {22}^{3}  +  {6}^{4}  = [/tex]</p><p>\u2022\u2014\u2014\u2014\u2014\u2014\u2022\u2014\u2014\u2014\u2014\u2014\u2022\u2014\u2014\u2014\u2014\u2014\u2022</p><p>[tex] {22}^{3}  = 22 \\times 22 \\times 22 = 10648[/tex]</p><p>[tex] {6}^{4}  = 6 \\times 6 \\times 6 \\times 6 = 1296[/tex]</p><p>\u2022\u2014\u2014\u2014\u2014\u2014\u2022\u2014\u2014\u2014\u2014\u2014\u2022\u2014\u2014\u2014\u2014\u2014\u2022</p><p>[tex] =  {22}^{3}  +  {6}^{4} [/tex]</p><p>[tex] = 10648 + 1296[/tex]</p><p>[tex] = 11944[/tex]</p><p><strong><u>D</u></strong><strong><u>a</u></strong><strong><u>n</u></strong></p><p>[tex] {7}^{4}  +  {5}^{4}  = [/tex]</p><p>\u2022\u2014\u2014\u2014\u2014\u2014\u2022\u2014\u2014\u2014\u2014\u2014\u2022\u2014\u2014\u2014\u2014\u2014\u2022</p><p>[tex] {7}^{4}  = 7 \\times 7 \\times 7 \\times 7 = 2401[/tex]</p><p>[tex] {5}^{4}  = 5 \\times 5 \\times 5 \\times 5 = 625[/tex]</p><p>\u2022\u2014\u2014\u2014\u2014\u2014\u2022\u2014\u2014\u2014\u2014\u2014\u2022\u2014\u2014\u2014\u2014\u2014\u2022</p><p>[tex] =  {7}^{4}  +  {5}^{4} [/tex]</p><p>[tex] = 2401 + 625[/tex]</p><p>[tex] = 3026[/tex]</p><h3>jawaban :</h3><p>22\u00b3 + 6\u2074 = 11.944</p><p></p><p>7\u2074 + 5\u2074 = 3.026</p><p>[tex] \\huge \\mathfrak{ \\red{semoga \\: membantu}}[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-jaring-lingkaran-yang-diketahui-sudut-pusatnya-70-730",
+            "question": "Hitunglah luas jaring lingkaran yang diketahui sudut pusatnya 70\u00b0 dan jari jarinya 7cm!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]diket:[/tex]</p><p>[tex]jari -jari = r = 10 cm[/tex]</p><p>[tex]ditanya:[/tex]</p><p>[tex]Luas juring ....?[/tex]</p><p>[tex]jawab:[/tex]</p><p>[tex]karena \\:  \\:  r = 10 cm \\:  gunakan \\:  nilai \\:  \u03c0 = 3,14[/tex]</p><p>[tex]l \\: juring =  \\frac{sudut \\: pusat}{360derajat}</p><p>\u00d7\u03c0r2[/tex]</p><p>[tex] =  \\frac{70 {o}^{} }{360 {}^{o} }  = </p><p>\u00d73,14\u00d7102[/tex]</p><p>[tex] =  \\frac{7}{36}  \\times 314[/tex]</p><p>[tex] =  \\frac{2.198}{36} </p><p>=61,055cm {}^{2} [/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-persegi-yang-panjang-diagonal-sisinya-8-cm-adalah-137",
+            "question": "Luas persegi yang panjang diagonal sisinya 8 cm adalah..\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>JAWABAN</strong><strong> </strong><strong>:</strong><strong> </strong><strong>S</strong><strong> </strong><strong>X</strong><strong> </strong><strong>S</strong><strong> </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>:</strong><strong> </strong><strong>8</strong><strong> </strong><strong>X</strong><strong> </strong><strong>8</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>:</strong><strong> </strong><strong>6</strong><strong>4</strong><strong> </strong><strong>CM</strong><strong>\u00b2</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>rumus luas persegi = s x s</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>64</strong><strong> </strong><strong>cm\u00b2</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>Luas</strong><strong> </strong><strong>Persegi</strong></p><p><strong>[tex] = s \\times s[/tex]</strong></p><p><strong>[tex] = 8 \\times 8[/tex]</strong></p><p><strong>[tex] = 64 \\:  {cm}^{2} [/tex]</strong></p><p><strong><em>Semoga</em></strong><strong><em> </em></strong><strong><em>Membantu</em></strong><strong><em> </em></strong><strong><em>:</em></strong><strong><em>)</em></strong><strong><em> </em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "question": "Dua kotak kado berbentuk kubus mempunyai 2 perbandingan 7:8 titik jumlah panjang sisi kedua kota tersebut 48 cm. volume masing-masing kotak kado adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>\u25cf Materi : Bangun Ruang</p><p>\u25cf Kode Kategorisasi : 8.2.8</p><p></p><h2>V1 = 11.239,42 cm^3</h2><h2>V2 = 16.777,21 cm^3</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>s1 </p><p>= 7/(7 + 8) x 48</p><p>= 7/15 x 48</p><p>= 336/15</p><p>= 22,4 cm</p><p></p><p>s2 = 48 - 22,4 = 25,6 cm</p><p></p><p>V. kado 1</p><p>V = s^3</p><p>V = 22,4^3</p><p><strong>V = 11.239,42 cm^3</strong></p><p></p><p>V. kado 2</p><p>V = s^3</p><p>V = 25,6^3</p><p><strong>V = 16.777,21 cm^3</strong></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rio-menabung-di-bank-sebesar-2-juta-dengan-bunga-25-pertahun-ber-874",
+            "question": "Rio menabung di bank sebesar 2 juta dengan bunga 2,5 pertahun Berapakah jumlah tabungan Tyas selama 8 bulan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>4,5 juta ............</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-bayangan-yang-dibentuk-oleh-cermin-cekung-3-kali-bendanya-j-572",
+            "question": "besar bayangan yang dibentuk oleh cermin cekung 3 kali bendanya jika jarak benda ke cermin 10 cm hitunglah jarak titik fokus cermin tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>f = 7,5 cm</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>s = 10 cm</p><p>s&#039; = 3 x 10 cm = 30 cm</p><p></p><p>1/f = 1/s + 1/s&#039;</p><p>     = 1/10 + 1/30</p><p>     = 3/30 + 1/30</p><p>     = 4/30</p><p>f = 30/4 = 7,5 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-risky-memiliki-sawah-berbentuk-persegi-dengan-panjang-sisin-326",
+            "question": "Pak risky memiliki sawah berbentuk persegi , dengan panjang sisinya 15 meter berapa luas sawah pak risky",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>60 meter</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>15 dikali kan dgn 4</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx-3x-8-per-2x-6-xf1x-minta-tolong-kasih-pe-787",
+            "question": "Jika f(x) = 3x-8 per 2x-6 X\u2260.f\u00b9(x) =\r\n\r\nMinta tolong.... \r\nKasih penjelasan y\u200b",
+            "attachments": [
+                "question-attachments/jika-fx-3x-8-per-2x-6-xf1x-minta-tolong-kasih-pe-787-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]f(x) =  \\frac{3x - 8}{2x - 6}[/tex]</p><p>[tex]y=  \\frac{3x - 8}{2x - 6} \\\\ y(2x - 6) = 3x - 8 \\\\ 2xy - 6y = 3x - 8 \\\\ 2xy - 3x = 6y - 8 \\\\ x(2y - 3) = 6y - 8 \\\\ x =  \\frac{6y - 8}{2y - 3} [/tex]</p><p>maka</p><p>[tex] {f}^{ - 1} (x) =  \\frac{6x - 8}{2x - 3} [/tex]</p><p>[tex]2x - 3 \\ne 0 \\\\ 2x \\ne 3 \\\\ x \\ne  \\frac{3}{2} [/tex]</p><p></p><p>jawabannya harusnya</p><p>[tex] {f}^{ - 1} (x) =  \\frac{6x - 8}{2x - 3} [/tex]</p><p>[tex]x \\ne  \\frac{3}{2} [/tex]</p><p></p><p>tidak ada di pilihan jawaban,kemungkinan salah ketik</p><p>jawaban yg paling mendekati adalah option A</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-beli-sebuah-barang-rp2500000kemudian-barang-tersebut-di-801",
+            "question": "Harga beli sebuah barang rp.2.500.000kemudian barang tersebut di jual harga rp. 3.125.000 hitung lah persentase keuntungan barang tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>persentase keuntungannya adalah 25%</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf jika salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-pernyataan-berikut-yang-benar-adalah-a-jika-dua-garis-sa-386",
+            "question": "6. Pernyataan berikut yang benar adalah ....     A. Jika dua garis saling berpotongan dan tidak\r\nberhimpit maka perpotongan berbentuk garis.\r\nB. Dua titik atau lebih dikatakan segaris jika titik-titik\r\ntersebut pada garis yang sama.\r\nC. Dua garis saling berhimpit jika dua garis tersebut\r\nterletak pada satu bidang datar dan tidak\r\nberpotongan\r\nD. Dua garis sejajar jika dua garis tersebut\r\nberpotongan di satu titik\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawaban dan caranya kayak gimana ya</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikut-ini-merupakan-hubungan-antar-sudut-yang-besar-sudutnya-sa-992",
+            "question": "Berikut ini merupakan hubungan antar sudut yang besar sudutnya sama, kecuali",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>sudut lurus</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "l-merupakan-luas-lingkaran-dan-d-adalah-diameter-lingkaranmaka-r-474",
+            "question": "L merupakan luas lingkaran dan d adalah diameter lingkaran,maka rumus luas lingkaran adalah?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p> rumus luas lingkaran</p><p>L=\u03c0r\u00b2</p><p> </p><p></p><p> </p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p></p><p><strong>[tex]\\colorbox{pink}{\\blue{ \\tt{j}}\\green{ \\tt {a}}\\red{ \\tt w}\\purple{ \\tt {a}}\\orange{ \\tt b}\\pink{ \\tt {a}}\\blue{ \\tt n} \\green{ \\tt  :}}[/tex]</strong></p><p></p><p></p><p></p><p></p><h2><strong>Luas </strong><strong>lingkaran</strong><strong> </strong><strong>:</strong></h2><p><strong>[tex]{ \\boxed{{{ \\tt \\pi \\times  {r}^{2} }}}}[/tex]</strong></p><p><strong>[tex]{ \\boxed{{{ \\tt  \\frac{1}{4}  \\times \\pi \\times  {d}^{2} }}}}[/tex]</strong></p><p></p><p></p><p></p><p></p><p></p><p><strong>[tex]\\colorbox{white}{ \\pink {\\boxed{{{ \\blue{ \\tt {S}} \\green{ \\tt {e}} \\red{ \\tt m} \\purple{ \\tt {o}} \\orange{ \\tt g}\\pink{ \\tt {a}} \\:  \\:  \\blue{ \\tt m} \\green{ \\tt e} \\red{ \\tt m}  \\purple{ \\tt b} \\orange{ \\tt a} \\pink{ \\tt n} \\blue{ \\tt t} \\green{ \\tt u}}}}}}[/tex]</strong></p><p><strong>[tex]\\colorbox{black} {\\pink{  \\boxed{{\\red A{ \\orange n{ \\green s{ \\blue w{ \\pink e{ \\purple r \\: { by :}}}}}}}  \\orange{ \\boxed{{\\colorbox{pink}{ \\red M{ \\green o{ \\pink }}o{ \\purple n}}}}}}}}[/tex]</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5353600-600800-6-599",
+            "question": "53+53\u00d7600=\r\n600+800-6=\r\n\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>[tex]{\\huge{\\orange{\\tt{Penyelesaian}}}}[/tex]</p><p>53 + 53 \u00d7 600 = 53 + (53 \u00d7 600) </p><ul><li>= 53 + 31.800</li><li>= 31.853</li></ul><p>600 + 800 - 6 = 1.394</p><p>[tex]{\\huge{\\orange{\\tt{Kesimpulan}}}}[/tex]</p><ul><li>53 + 53 \u00d7 600 = 31.853</li><li>600 + 800 - 6 = 1.394</li></ul><p>[tex]{\\huge{\\orange{\\tt{Keterangan}}}}[/tex]</p><ul><li>Jika kurang paham, lihat foto terlampir</li></ul><p>[tex]\\purple{\\huge\\boxed{\\fcolorbox{red}{pink}{\u2661FAYY\u2606ILMI\u2661}}}[/tex]</p>",
+                    "attachments": [
+                        "answer-attachments/5353600-600800-6-599-1.jpg",
+                        "answer-attachments/5353600-600800-6-599-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pilihlah-salah-satu-jawaban-yang-paling-tepat-sesuai-gambar-beri-153",
+            "question": "Pilihlah salah satu jawaban yang paling tepat!    Sesuai gambar berikut, pernyataan yang benar adalah....\r\nC\r\nA. a? = b+ c\r\nB. c? = a + b\r\n2\r\nC. b? = a* + c\r\nD. a? = 62-c?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>b. c=a+b2         </p><p>oky kan gambar nya nggak ada ya udah</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

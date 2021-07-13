@@ -1,0 +1,142 @@
+{
+    "question": "500 ml larutan 0,2 m ch3cooh (ka = 10 ^ -5) dicampur dengan 100 ml 0,4 m ba (oh) 2, ph larutan adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>6 - log 5</p><p><strong>Penjelasan:</strong></p><p>mmol CH3COOH = 500 ml x 0,2 M = 100 mmol</p><p>mmol Ba(OH)2 = 100 ml x 0,4 M = 40 mmol</p><p></p><p>2 CH3COOH + Ba(OH)2 =&gt; (CH3COO)2Ba + 2 H2O</p><p>M     100           40</p><p>R      80            40                     40                 80</p><p>S      20             -                       40                  80</p><p></p><p>Karena yg tersisa adalah CH3COOH ( asam lemah ) dan (CH3COO)2Ba ( garam ) maka gunakan rumus larutan penyangga:</p><p></p><p>[H+] = Ka x ( mmol asam / mmol garam )</p><p>10^-5 x ( 20 / 40 ) = 5x10^-6 M </p><p></p><p>pH = - log 5x10^-6 = 6 - log 5</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebanyak-27-gram-perak-direaksikan-dengan-asam-klorida-pada-suhu-666",
+            "question": "Sebanyak 27 gram perak direaksikan dengan asam klorida pada suhu 29\u00b0C dan tekanan 1 atm dengan    reaksi berikut:\r\nAg + HCl \u2192 AgCl + H2 (belum setara)\r\nHitung: (Ar Ag = 108, CI = 35,5, R = 0,082 L atm/K mol)\r\na. Gas hydrogen yang dihasilkan\r\nb. Endapan perak klorida yang terbentuk\r\n\r\n\r\nAyo yg jawab kukasih bintang\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 3,09 L</p><p>B. 35,88 gram</p><p><strong>Penjelasan:</strong></p><p>massa Ag = 27 gram</p><p>T = 29\u00b0C = 302\u00b0K</p><p>P = 1 atm</p><p>R = 0,082 L atm / mol K</p><p></p><p>Persamaan reaksi:</p><p>2 Ag + 2 HCl =&gt; 2 AgCl + H2</p><p></p><p>mol Ag = 27 / 108 = 0,25 mol</p><p></p><p>Perbandingan koefisien ~ perbandingan mol</p><p></p><p>Ag : AgCl : H2 = 2 : 2 : 1</p><p>mol AgCl = ( 2 / 2 ) x 0,25 mol = 0,25 mol</p><p>mol H2 = ( 1 / 2 ) x 0,25 mol = 0,125 mol</p><p></p><p>A. Rumus gas ideal:</p><p></p><p>P V = n R T</p><p>1 V = 0,125 x 0,082 x 302</p><p>V = 3,09 L</p><p></p><p>B. Mr AgCl = 143,5</p><p></p><p>massa AgCl = 0,25 mol x 143,5 = 35,88 gram</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikut-ini-yang-termasuk-zat-tunggal-adalah-a-larutan-b-655",
+            "question": "Berikut ini yang termasuk zat tunggal adalah .... *    A. larutan\r\n B. suspensi\r\n C. koloid\r\n D. senyawa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>D. Senyawa</p><p><strong>Penjelasan:</strong></p><p>Maaf kalau salah </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Senyawa,maaf kalo salah</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantu-yaa-kak-548",
+            "question": "Tolong dibantu yaa kak\u200b",
+            "attachments": [
+                "question-attachments/tolong-dibantu-yaa-kak-548-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Rumus empiris: CH2O</p><p>Rumus molekul : C3H6O3</p><p><strong>Penjelasan:</strong></p><p>% oksigen = 100% - ( % C + % H )</p><p>100% - ( 40% + 6,6% ) = 53,4%</p><p></p><p>Mis: massa senyawa = 100 gram</p><p>massa C = 40 gram</p><p>massa H = 6,6 gram</p><p>massa O = 53,4 gram</p><p></p><p>Rumus empiris =&gt; perbandingan mol</p><p></p><p>mol C : H : O = ( 40 / 12 ) : ( 6,6 / 1 ) : ( 53,4 / 16 )</p><p>=&gt; 3,33 : 6,6 :  3,33 = 1 : 2 : 1</p><p></p><p>Rumus empiris: CH2O</p><p></p><p>Rumus empiris x n = Mr </p><p>( CH2O ) n = 90</p><p>( 12 + 2x1 + 16 ) n = 90</p><p>30 n = 90, maka n = 3</p><p></p><p>Rumus molekul : ( CH2O ) 3 =&gt; C3H6O3</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-di-bawah-ini-yang-dapat-menghantarkan-listrik-adalah-a-g-865",
+            "question": "Larutan di bawah ini yang dapat menghantarkan listrik adalah     a. gula aren\r\nb. garam dapur\r\nc. alcohol\r\nd. urea\r\ne. glucosa\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C</p><p><strong>Penjelasan:</strong></p><p>C. alcoholwjejbriwirx</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-ketahui-reaksi-berikut-i-hcl-aq-agcl-s-ii-agno3-a-194",
+            "question": "Di ketahui reaksi berikut :    I.\r\n+ HCl\r\n(aq)\r\nAgCl (s) +\r\nII.\r\nAgNO3 (aq)\r\nHNO3(aq)\r\nFeCl3 (aq)\r\n+ 3 H2O (1)\r\n+ 3 HCl (aq)\r\n2.H2S (aq)\r\n+ SO2 (aq)\r\n2H20 (1)\r\nFe(OH)3 (5)\r\nIII. 2.H2S\r\n3 S (s)\r\n+\r\nReaksi I, II, dan III berturut- turut menunjukan\r\nmenunjukkan pembuatan koloid dengan cara ...\r\nA. Pengendapan, hidrolisis dan redoks\r\nB. Pemindahan , hidrolisis, dan redoks\r\nC. Redokd , pengendapan, dan hidrolisis\r\nD. Redoks , pemindahan dan pengendapan\r\nE. Pemindahan penggantian pelarut dan\r\nredoks\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>hahahahahahhahahahahahhahahahahahhaha</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-perbandingan-masa-atom-n-dalam-senyawa-no-dan-n2o-di-356",
+            "question": "Tentukan perbandingan masa Atom N dalam senyawa NO dan N\u00b2O , di ketahui Ar n =14 dan Ar 0=16 ?    \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>perbandingan N dalam no = 1.14/30 = 14/30 %3D dalam n20= 2.14/44 = 28/44 = 14 / 22 %3D</p><p></p><p> maka N nya 22:30 22 di no 30 di n20</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuannya-yah-kakakak-898",
+            "question": "Tolong bantuannya yah kakakak\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantuannya-yah-kakakak-898-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>4</p><p><strong>Penjelasan:</strong></p><h2><strong><em><u>Follow dan jadikan jawaban tebaik</u></em></strong></h2>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>A.4</strong></p><h3><strong>Pembahasan</strong><strong> </strong><strong>:</strong></h3><p>bismilah jawabannya <strong><em><u> </u></em></strong><strong><em><u>A.</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>4</u></em></strong></p><h3>semoga membantu</h3><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "uap-air-yang-terkondensasi-dan-di-dalam-atmosfer-membentuk-titik-699",
+            "question": "Uap air yang terkondensasi dan di dalam atmosfer    membentuk titik-titik air atau kristal es disebut...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>gas menjadi padat </p><p><strong>Penjelasan:</strong></p><p>maap y mblo klo salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>meyumblim</p><p><strong>Penjelasan:</strong></p><p>menyumblim adalah salah satu cara untuk meng kristal</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-musik-dalam-pertunjukan-pantonim-adalah-387",
+            "question": "Fungsi musik dalam pertunjukan pantonim adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Fungsi musik pengiring dalam pementasan pantomim (:</p><p></p><p>berfungsi sebagai penguat adegan dan gerakan pantomim.Unsur musik juga membantu untuk mewujudkan suasana yg ingin ditampilkan misalnya kemeriahan dan kesedihan. </p><p></p><p></p><h2>Semoga Bermanfaat Ya</h2>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>berfungsi sebagai penguat adegan dan gerakan pantomim.Unsur musik juga membantu untuk mewujudkan suasana yg ingin ditampilkan misalnya kemeriahan dan kesedihan.</p><p><strong>Penjelasan:</strong></p><p><strong><em><u>JANGAN LUPA FOLLOW</u></em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-rumus-empiris-dari-senyawa-c4h8-dan-p3025-246",
+            "question": "Tuliskan rumus empiris dari senyawa C4H8 dan\r\nP\u2083025.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawaban:</p><p></p><p>Penjelasan:</p><p>RE c4h8 = ch2 (indeksnya dibagi 4)</p><p>RE P3O25 = tetap p3o25</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

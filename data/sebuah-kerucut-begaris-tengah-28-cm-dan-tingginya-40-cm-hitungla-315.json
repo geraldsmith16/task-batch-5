@@ -1,0 +1,133 @@
+{
+    "question": "Sebuah kerucut begaris tengah 28 cm dan tingginya 40 cm.\r\nHitunglah volume kerucut tersebut!\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Volume kerucut adalah <strong>8</strong><strong>.</strong><strong>2</strong><strong>1</strong><strong>3</strong><strong>,</strong><strong>3</strong><strong>3</strong><strong> </strong><strong>cm\u00b3</strong></p><p></p><h2>Pendahuluan</h2><p>Kerucut adalah limas yang bentuk alasnya berbentuk lingkaran. Kerucut memiliki daerah selimut yang berbentuk juring lingkaran. Sifat-sifat kerucut antara lain yaitu :</p><ol><li>Memiliki 2 sisi</li><li>Memiliki 1 sudut</li><li>Memiliki 1 rusuk lengkung</li></ol><p></p><h2>Penyelesaian</h2><h3>Diketahui</h3><ul><li>garis tengah (d) = 28 cm</li><li>jari-jari (r) = d \u00f7 2 = 28 \u00f7 2 \u2248 14 cm</li></ul><h3>Ditanyakan</h3><p>Volume kerucut</p><h3>Jawab</h3><p>Volume = \u2153 \u00d7 \u03c0r\u00b2t</p><p>              = \u2153 \u00d7 \u00b2\u00b2\u2215\u2087 \u00d7 14\u00b2 \u00d7 40</p><p>              = \u2153 \u00d7 \u00b2\u00b2\u2215\u2087 \u00d7 196 \u00d7 40</p><p>              = \u2153 \u00d7 22 \u00d7 28 \u00d7 40</p><p>              = 8.213,33 cm\u00b3</p><p></p><h2>Pelajari lebih lanjut</h2><ul><li>Rumus Volume Kerucut : <u>brainly.co.id/tugas/2480276</u></li><li>Rumus luas permukaan kerucut : <u>brainly.co.id/tugas/6404699</u></li><li>Sifat-sifat kerucut : <u>brainly.co.id/tugas/3166954</u></li></ul><h2>Detail jawaban</h2><p>Kelas : 9</p><p>Mapel : Matematika</p><p>Materi : Bab 5 \u2014 Bangun ruang sisi lengkung</p><p>Kode Mapel : 2</p><p>Kode Kategorisasi : 9.2.5</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pak-rifki-mempunyai-taman-yang-panjangnya-35-m-dan-lebarnya-25-m-832",
+            "question": "Pak Rifki mempunyai taman yang panjangnya 35 m dan lebarnya 25 m Hitunglah luas taman Pak Rifki!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>luas = panjang x lebar</p><p>35 x 25 = 875m\u00b2</p><p></p><p>~ Les\u2022Online ~</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjumlahan-dari-3y-dan-6y-adalah-tolong-di-jawab-besok-mau-kumpu-960",
+            "question": "Penjumlahan dari 3y dan 6y adalah\r\ntolong di jawab besok mau kumpul\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3y+6y= 9y</p><p>karena fariebelnya sama </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andi-akan-membuat-kerangka-balok-dengan-ukuran-panjang-10-cmleba-433",
+            "question": "Andi akan membuat kerangka balok dengan ukuran panjang 10 cm,lebar 5 cm,dan tinggi 20 cm,jika kawat yang terserap 5 meter berapa banyak kerangka balok yang dapat di buat Andi....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\u25cf Materi : Bangun Ruang</p><p>\u25cf Kode Kategorisasi : 8.2.8</p><p></p><h2>3 kerangka balok</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>5 kerangka balok</p><p>= 4 (p + l + t)</p><p>= 4 x (10 + 5 + 20)</p><p>= 4 x 35</p><p>= 140 cm</p><p></p><p>jika tersedia 5 meter kerangka balok yang dapat di buat Andi</p><p>= 5 m : 140 cm</p><p>= 500 : 140 cm</p><p>= 3,5</p><p>= <strong>3 kerangka balok</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-5x4-8x3-6x2-2x-tentukan-f-x-680",
+            "question": "Diketahui f'(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x, tentukan f (x)!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>Terdapat sebuah persamaan yang telah mengalami turunan bernilai f&#039;(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</p><p>Maka, untuk mencari f(x), masing-masing variabel pada persamaan yang diketahui harus dilakukan metode Integral pada umumnya</p><p>Misalkan kita akan mencoba mengembalikan nilai 5x\u2074 ke persamaan awal dengan menerapkan rumus berikut: </p><p>[tex]\\frac{a}{n + 1} x^n^+^1[/tex] = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>Sekiranya untuk membuktikan turunan dari [tex]x^{5}[/tex], dirumuskan sebagai berikut:</p><p>Rumus turunan: [tex](n)x^{n - 1}[/tex]</p><p>[tex]x^{5}[/tex] = [tex](5)x^{5 - 1}[/tex] = [tex]5x^{4}[/tex]</p><p></p><p>Maka hasil akan sama. Dengan begitu, bisa disolusikan untuk mencari f(x) dengan cara integral seperti berikut:</p><p>\u222b (5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x) dx</p><p>= \u00a0([tex]\\frac{5}{4 + 1} x^4^+^1[/tex]) - ([tex]\\frac{8}{3 + 1} x^3^+^1[/tex]) + ([tex]\\frac{6}{2 + 1} x^2^+^1[/tex]) - ([tex]\\frac{2}{1 + 1} x^1^+^1[/tex]) \u00a0+C</p><p>= \u00a0([tex]\\frac{5}{5} x^5[/tex]) - ([tex]\\frac{8}{4} x^4[/tex]) + ([tex]\\frac{6}{3} x^3[/tex]) - ([tex]\\frac{2}{2} x^2[/tex]) + C</p><p>= [tex]x^{5}[/tex] - [tex]2x^{4}[/tex] + [tex]2x^{3}[/tex] - [tex]x^{2}[/tex] + C</p><p>___________________________</p><p>Detail dari masing-masing variabel:</p><p>5x\u2074 = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>8x\u00b3 = [tex]\\frac{8}{3 + 1} x^3^+^1[/tex] = [tex]\\frac{8}{4} x^4[/tex] = [tex]2x^{4}[/tex]</p><p>6x\u00b2 = [tex]\\frac{6}{2 + 1} x^2^+^1[/tex] = [tex]\\frac{6}{3} x^3[/tex] = [tex]2x^{3}[/tex]</p><p>2x = [tex]\\frac{2}{1 + 1} x^1^+^1[/tex] = [tex]\\frac{2}{2} x^2[/tex] = [tex]x^{2}[/tex]</p><p>___________________________</p><p>Maka, hasil Anti-turunan dari <strong>5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</strong> ialah<strong> </strong>[tex]x^{5}[/tex]<strong> - </strong>[tex]2x^{4}[/tex]<strong> + </strong>[tex]2x^{3}[/tex]<strong> - </strong>[tex]x^{2}[/tex]<strong> + C</strong></p><p></p><p>-//Semoga membantu~ :3</p><p></p><p><em>(!) Misal ada kesalahan dari penjelasan dan perhitungan, monggo dikoreksi ya~</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "220-meter-banding-32-km-tolong-dijawab-dengan-caranya-jangan-nga-896",
+            "question": "220 meter banding 3,2 km\r\ntolong dijawab dengan caranya jangan ngasal \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>11 : 160</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><u>PERBANDINGAN</u></p><p></p><p>1 km = 1.000 m</p><p></p><p>220 m : 3,2 km</p><p>= 220 : (3,2 \u00d7 1.000)</p><p>= 220 : 3.200</p><p>= 11 : 160 \u2714</p><p></p><p><strong>K</strong><strong>e</strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>:</strong></p><p>Semoga membantu.</p><p>Have a nice day :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-limas-segi-empat-dengan-panjang-sisinya-3-cm-jika-tinggi-734",
+            "question": "Sebuah limas segi empat dengan Panjang sisinya 3 cm, jika tinggi limas 4 cm. Maka volume limas tersebut adalah \u2026 cm3\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Bang</strong><strong>un</strong><strong> Ruang</strong></p><p></p><p>Volume Limas</p><p>= \u2153 \u00d7 luas alas \u00d7 tinggi</p><p>= \u2153 \u00d7 (3 \u00d7 3) \u00d7 4</p><p>= \u2153 \u00d7 9 \u00d7 4</p><p>= 3 \u00d7 4</p><p>= <strong><u>1</u></strong><strong><u>2</u></strong><strong><u> </u></strong><strong><u>cm\u00b3</u></strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>[tex]v = \\frac{1}{3} \\times 3 \\times 3 \\times 4[/tex]</p><p>[tex]v = 1 \\times 1 \\times 3 \\times 4[/tex]</p><p>[tex]v = 12 \\: cm ^{3} [/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "median-dari-nilai-ulangan-matematika-tersebut-adalah-a7-b8-c9-750",
+            "question": "Median dari nilai ulangan matematika tersebut adalah\r\nA.7 \r\nB.8\r\nC.9\r\nD.10\u200b",
+            "attachments": [
+                "question-attachments/median-dari-nilai-ulangan-matematika-tersebut-adalah-a7-b8-c9-750-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>Median ( nilai tengah )</p><p>5,5,5,6,6,6,6,6,6,6,6,7,7,7,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,8,8,8,9,9,9,9,9,9,10,10</p><p> </p><p>= 7+7 = 14 : 2</p><p> = 7 ( median )</p><p></p><p>semoga membantu.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kak-besok-dikumpulin-658",
+            "question": "Tolong kak besok dikumpulin\u200b",
+            "attachments": [
+                "question-attachments/tolong-kak-besok-dikumpulin-658-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong><em>M</em></strong><strong><em>a</em></strong><strong><em>a</em></strong><strong><em>f</em></strong><strong><em> </em></strong><strong><em>k</em></strong><strong><em>a</em></strong><strong><em>l</em></strong><strong><em>o</em></strong><strong><em> </em></strong><strong><em>k</em></strong><strong><em>u</em></strong><strong><em>r</em></strong><strong><em>a</em></strong><strong><em>n</em></strong><strong><em>g</em></strong><strong><em> </em></strong><strong><em>j</em></strong><strong><em>e</em></strong><strong><em>l</em></strong><strong><em>a</em></strong><strong><em>s</em></strong><strong><em>.</em></strong></p>",
+                    "attachments": [
+                        "answer-attachments/tolong-kak-besok-dikumpulin-658-1.jpg",
+                        "answer-attachments/tolong-kak-besok-dikumpulin-658-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "cara-mengerjakan-soal-satu-seri-606",
+            "question": "Cara mengerjakan soal satu seri\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>bergiat diri jangan lemas</p><p>yuk bisa yuk</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-berikut-rq8cm-pr45-panjang-bc-adalah-817",
+            "question": "Perhatikan gambar berikut!\r\nRQ=8cm\r\nPR=45\u00b0\r\npanjang BC adalah\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>mana gambarnya, kok tidak adaa</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

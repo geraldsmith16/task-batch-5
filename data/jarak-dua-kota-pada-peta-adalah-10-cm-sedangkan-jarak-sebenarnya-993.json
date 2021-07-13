@@ -1,0 +1,134 @@
+{
+    "question": "jarak dua kota pada peta adalah 10 cm sedangkan jarak sebenarnya adalah 20 km Tentukan skala peta tersebut!\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>1:200.000</p><p><em>maaf</em><em> </em><em>ya</em><em> kalau</em><em> salah</em><em>!</em><em> semoga</em><em> membantu</em><em>:</em><em>)</em></p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>1:200.000</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>JP=10 cm</p><p>JS=20 km</p><p>S=JS/JP</p><p>  =20 km/10 cm</p><p>   =2.000.000 cm/10 cm</p><p>   =200.000 cm</p><p>   =1:200.000</p><p></p><p>maaf kalau salah</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-dong-jawab-pertanyaan-ini-360",
+            "question": "Tolong dong jawab pertanyaan ini\u200b",
+            "attachments": [
+                "question-attachments/tolong-dong-jawab-pertanyaan-ini-360-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>[tex]\\green{\\huge{1.}}[/tex]</p><p><strong>Diketahui </strong><strong>:</strong><strong> </strong>Sebuah belah ketupat dengan :</p><p>[tex]d_1=24\\text{~cm~~~dan~~~}s=15\\text{~cm}[/tex]</p><p><strong>Ditanyakan </strong><strong>:</strong><strong> </strong>[tex]~d_2~=~?[/tex]</p><p><strong>Jawab </strong><strong>:</strong></p><p>[tex]\\begin{array}{rcl}d_2&amp;=&amp;2\\times \\sqrt{s^2-\\left(\\frac{1}{2}\\times d_1\\right)^2}\\\\&amp;=&amp;2\\times \\sqrt{15^2-\\left(\\frac{1}{2}\\times 24\\right)^2}\\\\&amp;=&amp;2\\times \\sqrt{15^2-12^2}\\\\&amp;=&amp;2\\times \\sqrt{225-144}\\\\&amp;=&amp;2\\times \\sqrt{81}\\\\&amp;=&amp;2\\times 9\\end{array}[/tex]</p><p>[tex]\\red{\\huge d_2=18\\text{~cm}}[/tex]</p><p>[tex]\\\\[/tex]</p><p>[tex]\\green{\\huge{2.}}[/tex]</p><p><strong>Diketahui :</strong> Sebuah belah ketupat dengan :</p><p>[tex]\\text{Keliling}=68\\text{~cm~~~dan~~~}d_1=16\\text{~cm}[/tex]</p><p><strong>Ditanyakan :</strong> [tex]\\text{~Luas~(~L~)}~=~?[/tex]</p><p><strong>Jawab :</strong></p><p>[tex]\\begin{array}{rcl}\\text{Keliling}&amp;=&amp;4\\times s\\\\4\\times s&amp;=&amp;68\\\\s&amp;=&amp;68\\div 4\\\\&amp;=&amp;17\\text{~cm}\\end{array}[/tex]</p><p>[tex]\\begin{array}{rcl}d_2&amp;=&amp;2\\times \\sqrt{s^2-\\left(\\frac{1}{2}\\times d_1\\right)^2}\\\\&amp;=&amp;2\\times \\sqrt{17^2-\\left(\\frac{1}{2}\\times 16\\right)^2}\\\\&amp;=&amp;2\\times \\sqrt{17^2-8^2}\\\\&amp;=&amp;2\\times \\sqrt{289-64}\\\\&amp;=&amp;2\\times \\sqrt{225}\\\\&amp;=&amp;2\\times 15\\\\&amp;=&amp;30\\text{~cm}\\end{array}[/tex]</p><p>[tex]\\begin{array}{rcl}\\text{L}&amp;=&amp;\\frac{1}{2}\\times d_1\\times d_2\\\\&amp;=&amp;\\frac{1}{2}\\times 16\\times 30\\end{array}[/tex]</p><p>[tex]\\red{\\huge \\text{L}=240\\text{~cm}^2}[/tex]</p><p>[tex]\\\\[/tex]</p><p>[tex]\\green{\\huge{3.}}[/tex]</p><p><strong>Diketahui </strong><strong>:</strong></p><p>OP = 26 cm  ;  QR = 24 cm  ;  OQ = 14 cm</p><p><strong>Ditanyakan </strong><strong>:</strong><strong> </strong>[tex]~\\text{PR}~=~?[/tex]</p><p><strong>Jawab </strong><strong>:</strong></p><p>QR adalah <strong>garis </strong><strong>singgung </strong><strong>persekutuan</strong><strong> </strong><strong>luar</strong><strong> </strong><strong>(</strong><strong>GSPL)</strong><strong> </strong>antara kedua lingkaran, yang rumusnya adalah : [tex]~\\boxed{\\boxed{\\text{GSPL}=\\sqrt{\\text{(jarak~pusat)}^2-\\left(r_{\\text{besar}}-r_{\\text{kecil}}\\right)^2}}}[/tex]</p><p>[tex]\\begin{array}{rcl}\\text{QR}&amp;=&amp;\\sqrt{\\text{OP}^2-\\left(\\text{OQ}-\\text{PR}\\right)^2}\\\\\\text{QR}^2&amp;=&amp;\\text{OP}^2-\\left(\\text{OQ}-\\text{PR}\\right)^2\\\\\\left(\\text{OQ}-\\text{PR}\\right)^2&amp;=&amp;\\text{OP}^2-\\text{QR}^2\\\\\\text{OQ}-\\text{PR}&amp;=&amp;\\sqrt{\\text{OP}^2-\\text{QR}^2}\\\\\\text{PR}&amp;=&amp;\\text{OQ}-\\sqrt{\\text{OP}^2-\\text{QR}^2}\\\\&amp;=&amp;14-\\sqrt{26^2-24^2}\\\\&amp;=&amp;14-\\sqrt{676-576}\\\\&amp;=&amp;14-\\sqrt{100}\\\\&amp;=&amp;14-10\\end{array}[/tex]</p><p>[tex]\\red{\\huge \\text{PR}=4\\text{~cm}}[/tex]</p><p>[tex]\\\\[/tex]</p><p>[tex]\\green{\\huge{4.}}[/tex]</p><p><strong>Diketahui </strong><strong>:</strong></p><p>[tex]r_1~[/tex]= 7 cm  ;[tex]~r_2~[/tex]= 3 cm ; jarak antar pusat = 16 cm</p><p><strong>Ditanyakan </strong><strong>:</strong><strong> </strong>kedudukan kedua lingkaran = ?</p><p><strong>J</strong><strong>awab </strong><strong>:</strong></p><p>[tex]r_1+r_2=7+3=10\\text{~cm}[/tex]</p><p>Didapatkan : [tex]~\\huge \\text{Jarak~pusat} &gt; \\left(r_1+r_2\\right)[/tex], <em>sehingga </em>: [tex]~\\red{\\text{kedua}}[/tex][tex]~\\red{\\text{lingkaran}}[/tex][tex]~\\huge \\red{\\text{saling}}[/tex][tex]~\\huge \\red{\\text{terpisah}}[/tex]</p><p>[tex]\\\\[/tex]</p><p>[tex]\\green{\\huge{5.}}[/tex]</p><p><strong>Diketahui </strong><strong>:</strong></p><p>[tex]r_{\\text{kecil}}~[/tex]= 3 cm  ;[tex]~r_{\\text{besar}}~[/tex]= 10 cm  ;  jarak pusat = 25 cm</p><p><strong>Ditanyakan </strong><strong>:</strong><strong> </strong>garis singgung persekutuan luar (<strong>GSPL</strong>) = ?</p><p><strong>Jawab </strong><strong>:</strong></p><p>[tex]\\begin{array}{rcl}\\text{GSPL}&amp;=&amp;\\sqrt{25^2-(10-3)^2}\\\\&amp;=&amp;\\sqrt{25^2-7^2}\\\\&amp;=&amp;\\sqrt{625-49}\\\\&amp;=&amp;\\sqrt{576}\\end{array}[/tex]</p><p>[tex]\\red{\\huge \\text{GSPL}=24\\text{~cm}}[/tex]</p><p>[tex]\\\\[/tex]</p><p>[tex]\\green{\\huge{6.}}[/tex]</p><p><strong>Diketahui </strong><strong>:</strong><strong> </strong>OP = 8 cm  ;  PQ = 15 cm</p><p><strong>Ditanyakan </strong><strong>:</strong><strong> </strong>OQ = ?</p><p><strong>Jawab </strong><strong>:</strong></p><p>Dengan menggunakan <strong>rumus</strong> <strong>Pythagoras</strong> :</p><p>[tex]\\begin{array}{rcl}\\text{OQ}^2&amp;=&amp;\\text{OP}^2+\\text{PQ}^2\\\\\\text{OQ}&amp;=&amp;\\sqrt{\\text{OP}^2+\\text{PQ}^2}\\\\&amp;=&amp;\\sqrt{8^2+15^2}\\\\&amp;=&amp;\\sqrt{64+225}\\\\&amp;=&amp;\\sqrt{289}\\end{array}[/tex]</p><p>[tex]\\red{\\huge \\text{OQ}=17\\text{~cm}}[/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-ya-kakmakasih-udah-bantult3-129",
+            "question": "Bantu jawab ya kak,makasih udah bantu&lt;3\u200b",
+            "attachments": [
+                "question-attachments/bantu-jawab-ya-kakmakasih-udah-bantult3-129-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2x + 3x +x = 180\u00b0</p><p>6x = 180\u00b0</p><p>x = 180\u00b0 : 6</p><p>x= 30\u00b0</p><p></p><p>Semoga membantu! </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diana-menjual-kipas-angin-dengan-harga-rp132000-dan-diana-mendap-841",
+            "question": "Diana menjual kipas angin dengan harga rp132.000 dan Diana mendapat untung sebesar 20% dari penjualan tersebut harga beli kipas angin tersebut adalah \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>JAWABAN</h2><p>[tex] \\frac{20}{100}  \\times 132.000[/tex]</p><p>[tex]20 \\times 1.320[/tex]</p><p>[tex]26.400[/tex]</p><p>.</p><p>132.000 + 26.400</p><p>= 158.400</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-ratus-tiga-puluh-dibagi-dua-dikali-minus-tujuh-belas-221",
+            "question": "Dua ratus tiga puluh dibagi dua dikali minus tujuh belas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>230 : 2 x (-17)</p><p>= -1955</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-butir-wijen-yang-terdapat-pada-satu-onde-onde-mohon-pence-124",
+            "question": "Berapa butir wijen yang terdapat pada satu onde-onde? Mohon pencerahannya...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Kamu itung aja kalau mau makan</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Sopan kah bertanya seperti itu:)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "abcd-adalah-trapesium-sama-kaki-hitunglah-akeliling-abcd-bpanj-369",
+            "question": "ABCD adalah trapesium sama kaki. Hitunglah a.keliling ABCD b.panjang bd\u200b",
+            "attachments": [
+                "question-attachments/abcd-adalah-trapesium-sama-kaki-hitunglah-akeliling-abcd-bpanj-369-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>mencari CB</p><p>21-9= 12</p><p>12:2= 6</p><p>pitagoras 8 dan 6= \u271364+36=\u2713100=10 cm</p><p>keliling= 9+10+21+10=50cm</p><p>panjang BD? kemungkinan 21+6=27cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-keliling-dua-buah-persegi-yang-memiliki-luas-81m2-da-294",
+            "question": "Perbandingan keliling dua buah persegi yang memiliki luas\r\n81m2 dan 225m2 adalah ...\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3 : 5</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>kll = \u221a81 = 9 x 4 = 36</p><p>kll = \u221a225 = 15 x 4 =60</p><p>36 : 60 sesama dibgi 12</p><p> 3  :  5</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dini-membeli-baju-di-sebuah-toko-seharga-rp-8500000-toko-terseb-471",
+            "question": "Dini membeli baju di sebuah toko seharga rp 85.000.00 toko tersebut diskon 20% untuk setiap pembelian berapakah uang yg harus dibayar oleh dini??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Rp. 68.000</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>85.000 x 20% = 17.000</p><p>jadi uang yg harus dibayar :</p><p>85.000 - 17.000 = 68.000,00</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-s-pada-perbandingan-45-1s-120-871",
+            "question": "Hitunglah nilai s pada perbandingan 4:5 = 1/s : 1/20 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawab:</p><p></p><p>Penjelasan dengan langkah-langkah:</p><p> 4:5 = 1/s : 1/20</p><p>4/5= 1/s x 20/1</p><p>4/5 = 20/s</p><p>s= 5x20/4= 25</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaa-pliss-115",
+            "question": "Tolong bantu yaa pliss\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-yaa-pliss-115-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a. 36x\u00b2</p><p>b. 10ab</p><p>3. 15a - 6b</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a. 12x.3x (12 dikali dengan 3, lalu x nya 12 juga dikali dengan x nya 3 yang hasilnya akan menjadi x pangkat 2) </p><p>b. 5a.2b (5 dikali dengan 2, lalu a dan b nya tetap, maka dari itu a dan b nya tetap ditulis ulang)</p><p>c. 3(15a - 6b) (menggunakan rumus distributif, 3 dikali dengan 15 dan juga 3 dikali 6)</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

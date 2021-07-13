@@ -1,0 +1,134 @@
+{
+    "question": "3. Sebuah benda yang tingginya 6 cm diletakkan 20 cm didepan sebuah cermin cekung dengan jari-jari    kelengkungan 30 cm. Tentukan :\r\nJarak bayangan\r\nb. Tinggi Bayangan\r\n\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>S&#039; = 60 cm</p><p>h&#039; = 18</p><p></p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>CERMIN</p><p></p><p>Cermin cekung memiliki jarak fokus positif sedangkan cermin cembung memiliki jarak fokus negatif.  </p><p>Berlaku persamaan : </p><p>1/f = 1/S + 1/S&#039;</p><p>dimana :</p><p>f = jarak fokus (cm)</p><p>S= jarak benda ke cermin (cm)</p><p>S&#039; = jarak bayangan ke cermin (cm)</p><p>Catatan :</p><p>S&#039; bertanda positif berarti bayangan nyata, didepan cermin</p><p>S&#039; bertanda negatif berarti bayangan maya, dibelakang cermin</p><p></p><p>Perbesaran Bayangan</p><p>M = |S&#039;/S| = |h&#039;/h|</p><p>h =:tinggi benda</p><p>h&#039; = tinggi bayangan</p><p></p><p>Diketahui</p><p>S = 20 cm</p><p>R = 30 cm</p><p>f = 1/2 R = 1/2 x 30 = 15 cm</p><p>h = 6 cm</p><p>Ditanya</p><p>Jarak bayangan</p><p>Tinggi bayangan</p><p>Penyelesaian</p><p>Jarak bayangan</p><p>1/f = 1/S + 1/S&#039;</p><p>1/15 = 1/20 + 1/S&#039;</p><p>(4 - 3)/60 = 1/S&#039;</p><p>S&#039; = 60 cm</p><p></p><p>Tinggi bayangan</p><p>M = |S&#039;/S| = |h&#039;/h|</p><p>    60/20 = h&#039;/6</p><p>           h&#039; = 18 cm</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "35-proses-yang-dialami-gas-dalam-ruang-tertutup-pada-suhu-tetap-221",
+            "question": "35. Proses yang dialami gas dalam ruang    tertutup pada suhu tetap di sebut.....\r\na. Proses animasi\r\nb. Proses Isokhorik\r\nc. Proses Adibiatik\r\nd. Proses Isobarik\r\ne. Proses Isoternal\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Proses isotermal</strong></p><p></p><p><strong>Penjelasan:</strong></p><p>Proses isotermal adalah proses yang dialami gas pada suhu tetap. Usaha yang dilakukan gas pada proses ini tidak dapat dihitung dengan persamaan W = p \u00d7 \u0394 V .</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-planet-p-dan-q-mengorbit-matahari-apabila-perbandingan-jarak-372",
+            "question": "Dua planet P dan Q mengorbit matahari apabila perbandingan jarak antara planet P dan planet Q terhadap matahari adalah 64 banding 25 dan periode planet B mengelilingi matahari 128 hari maka hitunglah periode planet Q mengelilingi matahari\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p>Pendahuluan :</p><p>Hi teman-teman, saya akan mencoba untuk menjawab pertanyaanmu. Jangan lupa dibaca bagian pembahasannya juga ya agar lebih mantap pendalaman materinya.</p><p></p><p>Langkah Penyelesaian :</p><p>Diketahui :</p><p></p><p>Rp : Rq = perbandingan jarak ke matahari = 4 : 9</p><p>Tp = periode planet P = 24 hari</p><p>Ditanya : Tq = periode planet Q = .... hari</p><p></p><p>Jawaban :</p><p></p><p>\\begin{gathered}\\frac {T_p\\:^{2}}{R_p\\:^{3}} = \\frac {T_q\\:^{2}}{R_q\\:^{3}} \\\\ \\frac {24^{2}}{4^{3}} = \\frac {T_q\\:^{2}}{9^{3}} \\\\ \\frac{(8 \\times 3)^{2} }{( {2}^{2} )^{3}} = \\frac {T_q\\:^{2}}{( {3}^{2}) ^{3}} \\\\ \\frac{( {2}^{3} \\times 3)^{2} }{ {2}^6} = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ \\frac{ \\cancel {{2}^{6}} \\times {3}^{2} }{\\cancel {{2}^{6}} } = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ {3}^{2} \\times {3}^{6} = {T_q\\:^{2}} \\\\ {3}^{8} = {T_q\\:^{2}} \\\\ \\sqrt{ {3}^{8} } = T_q \\\\ {3}^{ \\frac{8}{2} } = {T_q} \\\\ {3}^{4} = {T_q} \\\\ 81 \\: hari = T_q \\: \\end{gathered} </p><p>R </p><p>p</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>p</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>q</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>4 </p><p>3</p><p> </p><p>24 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>9 </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>(2 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>(8\u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>(3 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p>(2 </p><p>3</p><p> \u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p> </p><p>2 </p><p>6</p><p> </p><p> \u00d73 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>3 </p><p>2</p><p> \u00d73 </p><p>6</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> </p><p>\t</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>2</p><p>8</p><p>\t</p><p> </p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>4</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>81hari=T </p><p>q</p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Jadi, periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p><strong>Penjelasan:</strong></p><p>Pada hukum Kepler III ini kita membandingkan besarnya perbandingan antara hubungan periode dengan jari-jari orbit suatu planet. Karena berwujud perbandingan yang tidak tetap satuannya, maka satuan dapat disesuaikan sesuai dengan soal. Namun, secara umum hukum Kepler III ini dapat dirumuskan dengan :</p><p></p><p>\\boxed {\\bold {\\frac {T_a\\:^{2}}{R_a\\:^{3}} = \\frac {T_b\\:^{2}}{R_b\\:^{3}}}} \\: </p><p>R </p><p>a</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>a</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>b</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>b</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Dengan ketentuan :</p><p></p><p>Ta = periode planet A (tahun)</p><p>Tb = periode planet B (tahun)</p><p>Ra = jarak planet A ke matahari (km)</p><p>Rb = jarak planet B ke matahari (km)</p><p>a dan b dapat diganti dengan huruf apapun sesuai dengan soal, karena tidak memengaruhi penghitungan</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mesin-carnot-bekerja-pada-suhu-rendah-400-k-untuk-menghasilkan-ke-459",
+            "question": "Mesin Carnot bekerja pada suhu rendah 400 K untuk menghasilkan kerja mekanik. Jika mesin menyerap kalor 600 J dengan suhu tinggi 600 K, maka usaha yang dihasilkan adalah \u2026 Joule.\u00a0*\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Usaha yg dihasilkan adalah 200 J</p><p></p><p><strong>P</strong><strong>e</strong><strong>n</strong><strong>j</strong><strong>e</strong><strong>l</strong><strong>a</strong><strong>s</strong><strong>a</strong><strong>n</strong></p><p>Diketahui</p><p>T2 = 400 K</p><p>Q1 = 600 J</p><p>T1 = 600 K</p><p></p><p>Ditanya</p><p>Usaha yg dihadilkan mesin (W)</p><p></p><p>Penyelesaian</p><p>Siklus mesin carnot terdiri atas</p><p>2 proses isotermis</p><p>2 proses adiabatis</p><p></p><p>Mesin menyerap kalor Q1 saat suhu T1 (suhu tinggi) dan membuang kalor Q2 pada suhu T2 ( Suhu rendah).</p><p>Hubungan Q1, Q2 dan W adalah</p><p>Q1 = W + Q2</p><p>W = Q1 - Q2</p><p>W = Kerja atau usaha yg dihasilkan mesin</p><p></p><p>Efisiensi rill/mesin</p><p>\u03b7 = W/Q1 = (Q1 - Q2)/ Q1 = [ 1 - Q2/Q1] x 100%</p><p></p><p>Efisiensi maksimun</p><p>\u03b7 = [1 - T2/T1] x 100%</p><p></p><p>Jika disoal ada Usaha, Kalor dan Suhu, rumus effisiensi riil dan maksimum kita gahung, menjadi</p><p>\u03b7 = W/Q1 = 1 - T2/T1</p><p>     W/ 600 = 1 - 400/600</p><p>      W = 200 Joule</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantu-dong-kak-seorang-anak-kecil-mendorong-lemari-kayu-861",
+            "question": "Tolong dibantu dong kak    Seorang anak kecil mendorong lemari kayu dengan massa 75 kg. Gaya yang dikeluarkan adalah 50 N. jika lemari tidak bergerak maka usaha anak kecil tersebut adalah \u2026 joule.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabanya 125 semoga bermanfat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-cara-nya-dung-kak-hari-ini-harus-di-kumpulin-pls-kak-188",
+            "question": "Minta cara nya dung kak hari ini harus di kumpulin pls kak",
+            "attachments": [
+                "question-attachments/minta-cara-nya-dung-kak-hari-ini-harus-di-kumpulin-pls-kak-188-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.4 m/s bener</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yok-lah-jawab-373",
+            "question": "Yok lah jawab............\u200b",
+            "attachments": [
+                "question-attachments/yok-lah-jawab-373-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. Nama Motif : Batik Parang Kusumo </p><p>B. Asal : Solo </p><p>C. Makna : bahwa hidup selayaknya dilandasi perjuangan dan usaha untuk mencapai kemakmuran lahir batin dengan mengindahkan nilai kebudayaan Jawa.</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p>",
+                    "attachments": [
+                        "answer-attachments/yok-lah-jawab-373-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seorang-arsitek-bangunan-sedang-mengerjakan-sebuah-proyek-pembuat-345",
+            "question": "Seorang arsitek bangunan sedang mengerjakan sebuah proyek pembuatan bendungan, bahan dasar bendungan    tersebut terbuat dari beton yang mampu menahan tekanan maksimal sebesar 110.250 Pa. jika masa jenis air\r\n2.100 Kg/m' dan gaya gravitasi ditempat tersebut adalah 10 m/s\u201d. Berapakah ketinggian maksimal bendungan\r\nyang dapat dibuat oleh arsitek tersebut ...\r\nb. 52,5 meter\r\nd. 25,5 meter\r\na.\r\n5,25 meter\r\nc. 2.55 meter\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>JAWABANNYA 5,25 METER</p><p></p><p>JAFIKAN JAWABAN TERCERDAS YA</p>",
+                    "attachments": [
+                        "answer-attachments/seorang-arsitek-bangunan-sedang-mengerjakan-sebuah-proyek-pembuat-345-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "kalau-revolusi-suatu-planet-terhadap-matahari-adalah-a-tahun-tent-536",
+            "question": "kalau revolusi suatu planet terhadap matahari adalah a tahun tentukan jarak planet tersebut terhadap malam hari\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>revo = honda</p><p><strong>Penjelasan:</strong></p><p>kalau revo adalah motor dan lusi adalah polusi jadi revolusi adalah motor polusi</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-cara-nya-dung-plss-635",
+            "question": "Minta cara nya dung plss\u270c",
+            "attachments": [
+                "question-attachments/minta-cara-nya-dung-plss-635-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>B. 0,5 m/s </p><p></p><p><strong>Penjelasan:</strong></p><p></p><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><p></p><p>- m1  = 40 g </p><p>        = 0,04 kg </p><p>- v1   = 20 m/s</p><p>- m2 = 1,56 kg </p><p>- v2  = 0 m/s </p><p></p><p><strong>Ditanya </strong><strong>:</strong></p><p></p><p>- v&#039; ? </p><p></p><p><strong>Jawaban</strong><strong> </strong><strong>:</strong></p><p></p><p>Karena kedua bola menyatu, maka rumusnya adalah :</p><p></p><p>    m1 . v1 + m2 . v2 = ( m1 + m2 ) . v&#039; </p><p>0,04 . 20 + 1,56 . 0 = ( 0,04 + 1,56 ) . v&#039;</p><p>                   0,8 + 0 = 1,6v&#039; </p><p>                         0,8 = 1,6v&#039; </p><p>                         0,5 = v&#039; </p><p></p><p>Jadi, kecepatan kedua bola setelah tumbukan sebesar :</p><p></p><p>B. 0,5 m/s </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-dibantu-malam-ini-dikumpulin-278",
+            "question": "Kak, tolong dibantu \r\nmalam ini dikumpulin\u200b",
+            "attachments": [
+                "question-attachments/kak-tolong-dibantu-malam-ini-dikumpulin-278-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>\u03b1 = 11x10\u207b\u2075 /C\n</p><p>T = 30 C\n</p><p>T&#039; = 35 C\n</p><p>\u0394L = 0,055 m\n</p><p>Lo = ?\n</p><p>\n</p><p>\u0394L = Lo \u03b1 \u0394T\n</p><p>0,055 = Lo x 11x10\u207b\u2075 x (35-30)\n</p><p>Lo = 0,055/55x10\u207b\u2075\n</p><p>Lo = 100 m</p><p><strong>Penjelasan:</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "question": "tolong bantu jawab ya kk/abg, gpp kalo di jawab cuma nomor 7 atau cuma nomor 8, Terimakasih banyakk ^.^",
+    "attachments": [
+        "question-attachments/tolong-bantu-jawab-ya-kkabg-gpp-kalo-di-jawab-cuma-nomor-7-atau-675-1.png"
+    ],
+    "answers": [
+        {
+            "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>no.7</p><p>a = (2, -3, 3)</p><p>b = (3, -2, -4)</p><p>ab = [(2x3) + (-3) x (-2) + (3 x (-4)]</p><p>ab = (6 + 6 - 12)</p><p>ab = 0</p><p>cos\u03b8 = ab/|a|.|b|</p><p>karena ab = 0</p><p>maka :</p><p>cos\u03b8 = 0</p><p>\u03b8 = 90\u00b0</p><p>jadi sudut antara vektor a dan vektor b = 90\u00b0</p><p></p><p>no. 8</p><p>u = ( 6i\u0302 + 3j\u0302 - 7k\u0302 )</p><p>v = ( 2i\u0302 + 3j\u0302 - 1k\u0302 )</p><p>gunakan rumus :</p><p>w = [(u.v)/|v|\u00b2]v</p><p>cari nilai u.v</p><p>u.v = [(6 x 2) + (3 x 3) + (-7 x -1)]</p><p>u.v = (12 + 9 + 7)</p><p>u.v = 28</p><p>cari panjang vektor v</p><p>|v| = \u2713(2\u00b2 + 3\u00b2 + (-1)\u00b2)</p><p>|v| = \u2713(4 + 9 + 1)</p><p>|v| = \u271314</p><p>|v|\u00b2 =14</p><p>w = [(u.v)/|v|\u00b2]v</p><p>w = (28/14)( 2i\u0302 + 3j\u0302 - 1k\u0302 )</p><p>w = 2( 2i\u0302 + 3j\u0302 - 1k\u0302 )</p><p>w = 4i\u0302 + 6j\u0302 - 2k\u0302 </p><p>jadi proyeksi ortogonal u pada v</p><p>= 4i\u0302 + 6j\u0302 - 2k\u0302 </p><p></p><p>\" maaf kakau salah \"</p><p></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-fx-2-x-per-3-kurang-4-x-kurang-5-x-maka-f3-adalah-694",
+            "question": "Jika fx 2 X per 3 kurang 4 X kurang 5 X maka f(3) adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>f(x) = 2x/3 -4x-5x</p><p>nilai f(3) maka</p><p>f(3) = 2.3/3 -4.3-5.3</p><p>f(3) = 2-12-15</p><p>f(3) = (-25)</p><p>jadi, nilai f(3) adalah (-25)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f-x-15x-34x-12x-5x-3-tentukan-f-842",
+            "question": "Diketahui f (x) = 1/5x\u00b2 - 3/4x\u2074 + 1/2x\u00b2 - 5x + 3, tentukan f\u00b9 (x)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>f&#039;(x) = x\u2074 - 3x\u00b3 + x - 5</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>mungkin maksudnya f&#039;(x) ya.</p><p>f (x) = 1/5x\u2075 - 3/4x\u2074 + 1/2x\u00b2 - 5x + 3</p><p>f&#039;(x) = 5.1/5x\u2074 - 4.3/4x\u00b3 + 2.1/2x - 5</p><p>f&#039;(x) = x\u2074 - 3x\u00b3 + x - 5</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "turunan-pertama-dari-fx-3x2-6x23-646",
+            "question": "Turunan pertama dari f(x)= 3x\u00b2-6x\u00b2+3\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>f&#039;(x)= 6x-12x+3</p><p>f&#039;(x)= -6x+3</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suhu-mula2-ruang-penyimpanan-ikan-26cruang-penyimpanan-akan-di-584",
+            "question": "Suhu mula2 RUANG penyimpanan ikan 26\u00b0C,ruang penyimpanan akan di gunakan maka suhu dikurangi menjadi 4\u00b0C.    Pertanyaan:\r\n Saat digunakan untuk menyimpan ikan,listrik mati.maka RUANG penyimpanan tidak bisa mempertahankan suhunya.setiap 10 menit suhu menaik 1\u00b0C jika mati listrik 1 jam maka berapakah suhu saat listrik sudah menyala?(listrik mati selama 1 jam)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>suhu ruangan saat listrik sudah menyala setelah 1 jam listrik mati adalah 28 derajat celcius .</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menghitung-keliling-bangun-datar-681",
+            "question": "Menghitung keliling bangun datar\u200b",
+            "attachments": [
+                "question-attachments/menghitung-keliling-bangun-datar-681-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>keliling =  23 cm + 9 cm + ( 23 - 8 - 5 )  + 8 + 5 + 12 + 8 + 5 </p><p>= 23 + 9 + 10 + 8 + 5 + 12 + 8 + 5</p><p>= 88 cm</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "urut-kan-pecahan-campuran-berikut-dari-paling-besar-ke-paling-kec-683",
+            "question": "Urut kan pecahan campuran berikut dari paling besar ke paling kecil    1.3 1/3\r\n2.4 5/6\r\n3.4 1/2\r\n4.3 1/6\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>4,1,3,2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex] \\bf{ada \\: digambar \\: ya \\: kak}[/tex]</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/urut-kan-pecahan-campuran-berikut-dari-paling-besar-ke-paling-kec-683-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "luas-suatu-persegi-panjang-adalah-25-cm-2-jika-lebarnya-14-cm-mak-374",
+            "question": "Luas suatu persegi panjang adalah 25 cm 2 jika lebarnya 14 cm maka panjangnya adalah titik-titik cm a 16 b 27 c 18 d 6\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Luas suatu persegi panjang adalah 25 cm 2 jika lebarnya 14 cm maka panjangnya adalah <strong>1,78</strong><strong> </strong><strong>cm </strong>[tidak ada opsi]</p><p>a. 16 cm</p><p>b. 27 cm</p><p>c. 18 cm</p><p>d. 6 cm</p><h2>Pendahuluan</h2><p>Persegi panjang merupakan bangun datar yang sisi-sisi berhadapannya sama panjang dan keempat sudutnya siku-siku. Sifat-sifat persegi panjang:</p><ul><li>Mempunyai 2 pasang sisi yang sama panjang dan sejajar</li><li>Keempat sudutnya sama besar dan merupakan sudut siku-siku</li><li>Kedua diagonalnya saling berpotongan di tengah-tengah dan saling membagi dua sama panjang</li><li>Dapat menempati bingkainya dengan 4 cara</li></ul><p>Rumus luas persegi panjang</p><p>[tex]\\tt{ \\bold{ { L = p \\times l}}}[/tex]</p><p>Rumus keliling persegi panjang</p><p>[tex]\\tt{ \\bold{ { kll = 2 \\times (p + l)}}}[/tex]</p><h2>Penyelesaian</h2><p>Diketahui</p><ul><li>Luas 25 cm\u00b2</li><li>lebar 14 cm</li></ul><p>Ditanya</p><ul><li>Maka panjangnya adalah...</li></ul><p>Dijawab</p><p>[tex]{\\sf{ L = p \\times l }}[/tex]</p><p>[tex]{\\sf{  {25 \\: cm}^{2} = p \\times 14 \\: cm }}[/tex]</p><p>[tex]{\\sf{  \\frac{ {25 \\: cm}^{2} }{14 \\: cm}  = p}}[/tex]</p><p>[tex]{\\sf{1,78 \\: cm = p  }}[/tex]</p><p>Jadi, panjang persegi panjang tersebut yaitu<strong> </strong><strong>1,78</strong><strong> </strong><strong>cm</strong></p><p>.</p><h3>PELAJARI LEBIH LANJUT</h3><ul><li>https://brainly.co.id/tugas/26444276</li><li>https://brainly.co.id/tugas/20960870</li><li>https://brainly.co.id/tugas/27454515</li></ul><p>=====================================</p><p>[tex]{{\\mathscr{ DETAIL \\:  JAWABAN}}}[/tex]</p><p>Mapel : Matematika</p><p>Kelas : 3</p><p>Materi : Keliling dan luas persegi dan \npersegi panjang</p><p>Kata kunci : Luas, panjang, lebar</p><p>Kode soal : 2</p><p>Kode kategorisasi : 3.2.10</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koordinat-kutub-dari-titik-a-13-893",
+            "question": "Koordinat kutub dari titik A (-1,\u221a3)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>ini untuk caranya ya</p>",
+                    "attachments": [
+                        "answer-attachments/koordinat-kutub-dari-titik-a-13-893-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "15-25-dari-rp22500000-adalah-a-rp4500000-c-rp-762500-791",
+            "question": "15. 25% dari Rp.225.000,00 adalah    a. Rp.45.000,00 c. Rp. 76.250,0\r\nb. Rp.56.250,00 d. Rp.65.250,0\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong><em><u>A.Rp.45.000.00 </u></em></strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong><u>Maaf </u></strong><strong><u>Kalau </u></strong><strong><u>Salah</u></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-85-2-50-3-90-4-90-5-75-6-95-7-85-8-80-9-65-10-100-11-75-12-65-1-663",
+            "question": "1 85    2 50\r\n3 90\r\n4 90\r\n5 75\r\n6 95\r\n7 85\r\n8 80\r\n9 65\r\n10 100\r\n11 75\r\n12 65\r\n13 80\r\n14 80\r\n15 80\r\n16 95\r\n17 80\r\n18 95\r\n19 75\r\n20 85\r\ndiketahui sebuah nilai hasil tes prestasi belajar siswa sebanyak 20 siswa, masing-masing nilainya seperi tabel samping.\r\nujilah apakah nilai tersebut secara statistika mencapai target ketuntasan 75\r\na. tuliskan hipotesisnya\r\nb. hitung nilai t",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>b.hitung nilai t</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

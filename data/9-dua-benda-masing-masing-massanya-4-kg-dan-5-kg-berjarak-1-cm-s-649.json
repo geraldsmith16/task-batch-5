@@ -1,0 +1,128 @@
+{
+    "question": "9. Dua benda masing-masing massanya 4 kg dan 5 kg berjarak 1 cm satu sama lain,    maka gaya tarik-menarik antara keduanya adalah.... UN (G = 6,67.10-11 Nm /kg)\r\n(A) 13,3\r\n(D) 12,7\r\n(B) 1,33\r\n(E) 1,27\r\n(C) 0,133\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>ubah 1 cm = 0,01 m = 10^-2 m</p><p>F = G (m1.m2/r^2)</p><p>F = 6,67\u00d710^-11 (4\u00d75/(10^-2)^2)</p><p>F = 133\u00d710^-7 N</p><p>F = 1,33\u00d710^-5 N</p><p></p><p>ubah ke \u00b5N</p><p>F = 1,33\u00d710^-5 \u00d7 10^6</p><p>F = 1,33\u00d710^1</p><p>F = 13,3 \u00b5N</p><p></p><p>jawabannya  A</p><p></p><p><strong>Penjelasan:</strong></p><p>rumus besar gravitasi</p><p>F = G (m1.m2/r^2)</p><p>1 \u00b5N = 10^6 N</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-mesin-carnot-dengan-reservoir-suhu-tinggi-800-k-dan-reserv-497",
+            "question": "Sebuah mesin Carnot dengan reservoir suhu tinggi 800 K dan reservoir suhu rendah 200 K, tentukan efisiensi nya!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Effisiensi mesin = 75%</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>MESIN CARNOT</p><p>Siklus mesin carnot terdiri atas</p><p>2 proses isotermis</p><p>2 proses adiabatis</p><p></p><p>Proses pertama  ekspansi isotermis pada suhu T1 (suhu reservoir tinggi). Mesin menyerap kalor Q1.</p><p>Proses kedua ekpansi adiabatis, tidak ada kalor yg keluar atau masuk sistem. Pada kedua proses tadi gas melakukan usaha ( W positif) yg ditandai dengan volume sistem bertambah atau ekspansi.</p><p>Proses ketiga kompresi isotermis pada suhu T2 (suhu reservoir rendah).</p><p>Proses keempat kompresi adiabatis dimana sistem kembali ke kondisi awal. Pada kedua pproses terakhir sistem dikenai kerja (W negatif) yg ditandai dengan berkurangnya volume sistem atau kompresi.</p><p>Pada siklus carnot ini perubahan energi dalam (\u0394U) sama dengan nol</p><p>Hubungan Usaha dan kalor dinyatakan dengan</p><p>Q1 = W + Q2</p><p>W = Q1 - Q2</p><p>Effisiensi mesin atau riil dinyatan dengan</p><p>\u03b7 mesin/rill = W/Q1 = (Q1 - Q2)/ Q1 = [ 1 - Q2/ Q1 ] 100%</p><p>Effisuensi maksimum dinyatakan dengan</p><p>\u03b7 maksimum = (T1 - T2)/ T1 = [1 - T2/T1] 100%</p><p>Keterangan\u03b7</p><p>Q1 = Kalor serap pada T1 ( J)</p><p>Q2 = Kalor buang pada T2 (J)</p><p>W = Usaha/Kerja mesin (J)</p><p>T1 = Suhu reservoir tinggi ( K)</p><p>T2 = Suhu reservoir rendah (K)</p><p></p><p>Diketahui</p><p>T1 = 800 K</p><p>T2= 200 K</p><p>Ditanya</p><p>Besar effisiensi mesin</p><p>Penyelesaian</p><p>\u03b7   = [1 - T2/T1] 100%</p><p>     = [1 - 200/800] 100%</p><p>     = [1 - 1/4] 100 %</p><p>      = 75 %</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rani-tidak-dapat-membaca-tulisan-dengan-jarak-1-meter-tetapi-dapa-150",
+            "question": "Rani tidak dapat membaca tulisan dengan jarak 1 meter tetapi dapat membaca dengan jelas pada jarak 25 cm mata apakah yang dialami Rani dan bagaimanakah cara penanggulangannya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>mata minus atau rabun jauh </p><p>cara penanggulangannya adalah memakai kaca mata khusus minus. </p><p>semoga bermanfaat^^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ketiga-kapasitor-terangkai-seri-paralel-tentukan-energi-listrik-340",
+            "question": "Ketiga kapasitor terangkai seri-paralel. Tentukan energi listrik pada rangkaian\u200b",
+            "attachments": [
+                "question-attachments/ketiga-kapasitor-terangkai-seri-paralel-tentukan-energi-listrik-340-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>itu saya ga tauu karena </p><p><strong>Penjelasan:</strong></p><p>ga tauu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-planet-p-dan-q-mengorbit-matahari-apabila-perbandingan-jarak-372",
+            "question": "Dua planet P dan Q mengorbit matahari apabila perbandingan jarak antara planet P dan planet Q terhadap matahari adalah 64 banding 25 dan periode planet B mengelilingi matahari 128 hari maka hitunglah periode planet Q mengelilingi matahari\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p>Pendahuluan :</p><p>Hi teman-teman, saya akan mencoba untuk menjawab pertanyaanmu. Jangan lupa dibaca bagian pembahasannya juga ya agar lebih mantap pendalaman materinya.</p><p></p><p>Langkah Penyelesaian :</p><p>Diketahui :</p><p></p><p>Rp : Rq = perbandingan jarak ke matahari = 4 : 9</p><p>Tp = periode planet P = 24 hari</p><p>Ditanya : Tq = periode planet Q = .... hari</p><p></p><p>Jawaban :</p><p></p><p>\\begin{gathered}\\frac {T_p\\:^{2}}{R_p\\:^{3}} = \\frac {T_q\\:^{2}}{R_q\\:^{3}} \\\\ \\frac {24^{2}}{4^{3}} = \\frac {T_q\\:^{2}}{9^{3}} \\\\ \\frac{(8 \\times 3)^{2} }{( {2}^{2} )^{3}} = \\frac {T_q\\:^{2}}{( {3}^{2}) ^{3}} \\\\ \\frac{( {2}^{3} \\times 3)^{2} }{ {2}^6} = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ \\frac{ \\cancel {{2}^{6}} \\times {3}^{2} }{\\cancel {{2}^{6}} } = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ {3}^{2} \\times {3}^{6} = {T_q\\:^{2}} \\\\ {3}^{8} = {T_q\\:^{2}} \\\\ \\sqrt{ {3}^{8} } = T_q \\\\ {3}^{ \\frac{8}{2} } = {T_q} \\\\ {3}^{4} = {T_q} \\\\ 81 \\: hari = T_q \\: \\end{gathered} </p><p>R </p><p>p</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>p</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>q</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>4 </p><p>3</p><p> </p><p>24 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>9 </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>(2 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>(8\u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>(3 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p>(2 </p><p>3</p><p> \u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p> </p><p>2 </p><p>6</p><p> </p><p> \u00d73 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>3 </p><p>2</p><p> \u00d73 </p><p>6</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> </p><p>\t</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>2</p><p>8</p><p>\t</p><p> </p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>4</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>81hari=T </p><p>q</p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Jadi, periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p><strong>Penjelasan:</strong></p><p>Pada hukum Kepler III ini kita membandingkan besarnya perbandingan antara hubungan periode dengan jari-jari orbit suatu planet. Karena berwujud perbandingan yang tidak tetap satuannya, maka satuan dapat disesuaikan sesuai dengan soal. Namun, secara umum hukum Kepler III ini dapat dirumuskan dengan :</p><p></p><p>\\boxed {\\bold {\\frac {T_a\\:^{2}}{R_a\\:^{3}} = \\frac {T_b\\:^{2}}{R_b\\:^{3}}}} \\: </p><p>R </p><p>a</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>a</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>b</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>b</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Dengan ketentuan :</p><p></p><p>Ta = periode planet A (tahun)</p><p>Tb = periode planet B (tahun)</p><p>Ra = jarak planet A ke matahari (km)</p><p>Rb = jarak planet B ke matahari (km)</p><p>a dan b dapat diganti dengan huruf apapun sesuai dengan soal, karena tidak memengaruhi penghitungan</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "13-dalam-pelaksanaan-pembangunan-bangsa-dan-negara-saat-ini-sara-977",
+            "question": "13. Dalam pelaksanaan pembangunan bangsa dan negara saat ini sarana dan prasarana    merupakan hal yang mendorong masyarakat untuk kreatif dan produktif. Hal ini\r\nmerupakan salah satu sikap positif yang berkaitan dengan nilai-nilai yang terkandung\r\ndalam UUD NRI Tahun 1945 yaitu nilai\r\nA. keseimbangan\r\nB.kemanusiaan\r\nC.produktivitas D. religius\r\n\r\n\r\ncoba yg mau bantu\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>c. Produktivitas</p><p><strong>Penjelasan:</strong></p><p>Karena produktivitas terkait dengan pembangunan dari pemerintah ataupun masyarakat. Produktivitas juga dapat menumbuhkan produktif dan kreatifitas masyarakat.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalau-revolusi-suatu-planet-terhadap-matahari-adalah-a-tahun-tent-536",
+            "question": "kalau revolusi suatu planet terhadap matahari adalah a tahun tentukan jarak planet tersebut terhadap malam hari\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>revo = honda</p><p><strong>Penjelasan:</strong></p><p>kalau revo adalah motor dan lusi adalah polusi jadi revolusi adalah motor polusi</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-logam-mempunyai-massa-6-kg-dan-volume-005-m2-massa-jenis-287",
+            "question": "Suatu logam mempunyai massa 6 kg dan volume 0,05 m\u00b2 massa jenis logam adalah\r\n\r\nbantu kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>massa jenis logam = 120 kg/m3</p><p></p><p><strong>Penjelasan:</strong></p><p>Diketahui</p><p>m = 6 kg</p><p>V = 0,05 m3</p><p>Ditanya</p><p>Massa jenis logam</p><p>Penyelesaian</p><p>Massa jenis = massa benda /volume benda</p><p>\u03c1 = m/V</p><p>dimana</p><p>\u03c1 = massa jenis benda (kg/m3)</p><p>m = massa benda (kg)</p><p>V = volume benda (m3)</p><p></p><p>\u03c1 = 6/ 0,05</p><p>  = 120 kg/m3</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-cara-nya-dung-kak-hari-ini-harus-di-kumpulin-pls-kak-188",
+            "question": "Minta cara nya dung kak hari ini harus di kumpulin pls kak",
+            "attachments": [
+                "question-attachments/minta-cara-nya-dung-kak-hari-ini-harus-di-kumpulin-pls-kak-188-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.4 m/s bener</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-contoh-gerak-lemah-pada-tari-adalah-gerak-apohon-tumb-255",
+            "question": "Salah satu contoh gerak lemah pada tari adalah gerak    a.pohon tumbang\r\nb.hujan rintik-rintik\r\nc pohon bergoyang\r\nd.pohon tertiup angin\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C. pohon bergoyang</p><p><strong>Penjelasan:</strong></p><p>contoh kecilnya, lihat pohon yang bergerak oleh sepoi angin. dia bergerak meliuk-liuk. dan coba kamu praktik kan kepada tubuh atau gerak tanganmu.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-bantuin-no-8-11-ya-besok-dikumpul-180",
+            "question": "Kak Tolong bantuin No 8-11 ya besok dikumpul\u200b",
+            "attachments": [
+                "question-attachments/kak-tolong-bantuin-no-8-11-ya-besok-dikumpul-180-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>8.C</p><p>9.A</p><p>10.A</p><p>11.E</p><p><strong>Penjelasan:</strong></p><p>untuk penjelasannya bisa dm ig saya @pernahadaa_</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

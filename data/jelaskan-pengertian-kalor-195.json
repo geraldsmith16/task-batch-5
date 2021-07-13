@@ -1,0 +1,136 @@
+{
+    "question": "Jelaskan pengertian kalor\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Kalor merupakan panas yang bisa berpindah dari benda yang memiliki kelebihan kalor menuju benda yang kekurangan kalor. Kalor biasanya dinyatakan dalam suhu. Dalam satuan internasional, kalor dinyatakan dengan Joule.</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Dilansir dari Kementerian Pendidikan dan Kebudayaan Republik Indonesia, pengertian kalor adalah energi panas yang berpindah dari benda yang bersuhu lebih tinggi ke benda yang beruhu lebih rendah.</p><p><strong>Penjelasan:</strong></p><p>secara singkat kalor = panas</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-planet-p-dan-q-mengorbit-matahari-apabila-perbandingan-jarak-372",
+            "question": "Dua planet P dan Q mengorbit matahari apabila perbandingan jarak antara planet P dan planet Q terhadap matahari adalah 64 banding 25 dan periode planet B mengelilingi matahari 128 hari maka hitunglah periode planet Q mengelilingi matahari\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p>Pendahuluan :</p><p>Hi teman-teman, saya akan mencoba untuk menjawab pertanyaanmu. Jangan lupa dibaca bagian pembahasannya juga ya agar lebih mantap pendalaman materinya.</p><p></p><p>Langkah Penyelesaian :</p><p>Diketahui :</p><p></p><p>Rp : Rq = perbandingan jarak ke matahari = 4 : 9</p><p>Tp = periode planet P = 24 hari</p><p>Ditanya : Tq = periode planet Q = .... hari</p><p></p><p>Jawaban :</p><p></p><p>\\begin{gathered}\\frac {T_p\\:^{2}}{R_p\\:^{3}} = \\frac {T_q\\:^{2}}{R_q\\:^{3}} \\\\ \\frac {24^{2}}{4^{3}} = \\frac {T_q\\:^{2}}{9^{3}} \\\\ \\frac{(8 \\times 3)^{2} }{( {2}^{2} )^{3}} = \\frac {T_q\\:^{2}}{( {3}^{2}) ^{3}} \\\\ \\frac{( {2}^{3} \\times 3)^{2} }{ {2}^6} = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ \\frac{ \\cancel {{2}^{6}} \\times {3}^{2} }{\\cancel {{2}^{6}} } = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ {3}^{2} \\times {3}^{6} = {T_q\\:^{2}} \\\\ {3}^{8} = {T_q\\:^{2}} \\\\ \\sqrt{ {3}^{8} } = T_q \\\\ {3}^{ \\frac{8}{2} } = {T_q} \\\\ {3}^{4} = {T_q} \\\\ 81 \\: hari = T_q \\: \\end{gathered} </p><p>R </p><p>p</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>p</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>q</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>4 </p><p>3</p><p> </p><p>24 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>9 </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>(2 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>(8\u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>(3 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p>(2 </p><p>3</p><p> \u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p> </p><p>2 </p><p>6</p><p> </p><p> \u00d73 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>3 </p><p>2</p><p> \u00d73 </p><p>6</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> </p><p>\t</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>2</p><p>8</p><p>\t</p><p> </p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>4</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>81hari=T </p><p>q</p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Jadi, periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p><strong>Penjelasan:</strong></p><p>Pada hukum Kepler III ini kita membandingkan besarnya perbandingan antara hubungan periode dengan jari-jari orbit suatu planet. Karena berwujud perbandingan yang tidak tetap satuannya, maka satuan dapat disesuaikan sesuai dengan soal. Namun, secara umum hukum Kepler III ini dapat dirumuskan dengan :</p><p></p><p>\\boxed {\\bold {\\frac {T_a\\:^{2}}{R_a\\:^{3}} = \\frac {T_b\\:^{2}}{R_b\\:^{3}}}} \\: </p><p>R </p><p>a</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>a</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>b</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>b</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Dengan ketentuan :</p><p></p><p>Ta = periode planet A (tahun)</p><p>Tb = periode planet B (tahun)</p><p>Ra = jarak planet A ke matahari (km)</p><p>Rb = jarak planet B ke matahari (km)</p><p>a dan b dapat diganti dengan huruf apapun sesuai dengan soal, karena tidak memengaruhi penghitungan</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "13-dalam-pelaksanaan-pembangunan-bangsa-dan-negara-saat-ini-sara-977",
+            "question": "13. Dalam pelaksanaan pembangunan bangsa dan negara saat ini sarana dan prasarana    merupakan hal yang mendorong masyarakat untuk kreatif dan produktif. Hal ini\r\nmerupakan salah satu sikap positif yang berkaitan dengan nilai-nilai yang terkandung\r\ndalam UUD NRI Tahun 1945 yaitu nilai\r\nA. keseimbangan\r\nB.kemanusiaan\r\nC.produktivitas D. religius\r\n\r\n\r\ncoba yg mau bantu\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>c. Produktivitas</p><p><strong>Penjelasan:</strong></p><p>Karena produktivitas terkait dengan pembangunan dari pemerintah ataupun masyarakat. Produktivitas juga dapat menumbuhkan produktif dan kreatifitas masyarakat.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-definisi-getaran-189",
+            "question": "Jelaskan definisi getaran\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Getaran merupakan gerakan bolak-balik pada suatu benda dalam selang waktu tertentu melalui titik keseimbangannya.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-batu-bermassa-05-kg-jatuh-bebas-dari-ketinggian-2-mete-725",
+            "question": "1. Sebuah batu bermassa 0,5 kg jatuh bebas dari ketinggian 2 meter dan jatuh tepat di atas hamparan pasir. Jika batu masuk sedalam 1 cm ke dalam pasir sebelum kemudian berhenti, maka gaya rata \u2013 rata yang dilakukan pasir untuk menghambat batu adalah\u2026.    2. Sebuah balok bermassa 5 kg terletak di atas meja licin dalam keadaan diam. Balok tersebut mengalami percepatan sebesar 2 m/s2 selama 2 detik dan selanjutnya bergerak dengan kecepatan konstan selama 4 sekon. Besar usaha yang dilakukan balok selama gerak tersebut adalah\u2026.\r\n\r\n 3. Sebuah mobil bermassa 1000 kg bergerak dengan kelajuan 10 m/s pada arah mendatar. Tiba-tiba pengemudi mengurangi kelajuan mobil. Jika usaha yang dilakukan pengemudi pada mobil tersebut 6.000 Joule, maka kecepatan mobil sekarang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>1. F  = - 1000 N</p><p>2. W = 40 J</p><p>3. Vt = 9,4 m/s</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>Usaha adalah Kemampuan melakukan kerja, satuan Joule</p><p>Usaha yg dilakukan gaya pada benda dapat dihitung dengan :</p><p>1. Usaha oleh Gaya</p><p>W = F x s</p><p>Jika pada benda bekerja lebih dari 1 gaya maka F adalah resultan gaya</p><p>dimana:</p><p>W = Usaha yang dikerjakan oleh Gaya (Joule)</p><p>F = Gaya yg dikerjakan pada benda (N)</p><p>s = Perpindahan benda (m)</p><p></p><p>2.Usaha sama dengan perubahan energi</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>Vt = kecepatan akhir (m/s)</p><p>Vo = kecepatan awal (m/s)</p><p>Usaha karena perubahan ketinggian/posisi</p><p>W = perubahan energi potensial</p><p>    = Ept - Epo</p><p>    = mg ht - mg ho</p><p>    = mg ( ht - ho )</p><p>ht = ketinggian/ posisi akhir (m)</p><p>ho = ketinggian/ posisi awal (m)</p><p></p><p>1.Diketahui</p><p>m = 0,5 kg</p><p>ho = 2 m</p><p>ht  = 0</p><p>s = 1 cm = 10^-2 m</p><p>Ditanya</p><p>Gaya hambat rata rata pasir</p><p>Penyelesaian</p><p>Kita pakai konsep usaha karena gaya dan perubahan energi potensial</p><p>W = \u0394 Ep</p><p>F x s = Ept - Epo</p><p>        = m g ht - m g ho</p><p>F x s  = m g (ht - ho)</p><p>      F = 0,5 x 10 (0- 2)/ 10^-2</p><p>      F  = - 1000 N</p><p>Tanda negatif menunjukkan arah gaya berlawanan dengan arah gerak benda (gaya hambat)</p><p></p><p>2.Diketahui</p><p>   m = 5 kg</p><p>   Vo = 0</p><p>    a  = 2 m/s2</p><p>     t  = 2 s</p><p>     kemudian kecepatan konstan selama 4 s</p><p>Ditanya</p><p>Usaha yg dilakukan balok</p><p>Penyelesaian</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>Vt = Vo + a t</p><p>    = 0 + 2 x 2</p><p>    = 4 m/s2</p><p>W = 1/2 \u00d7 5 x 4^2 - 0</p><p> W = 40 J</p><p>Jika kecepatan konstan, W= 0</p><p></p><p>3. Diketahui</p><p>m = 1000 kg</p><p>Vo = 10 m/s</p><p>W = - 6000 J </p><p>( Tanda negatif menunjukkan usaha melawan arah gerak benda sehingga kecepatan mobil berkurang)</p><p>Ditanya</p><p>Kecepatan akhir mobil</p><p>Penyelesaian</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>-6000  = 1/2 1000 Vt^2 - 1/2 1000 10^2</p><p>-6000  = 500 Vt^2 -50 000</p><p>44 000 = 500 Vt^2</p><p>     Vt^2 = 88</p><p>      Vt = 9,4 m/s</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-bantuin-no-8-11-ya-besok-dikumpul-180",
+            "question": "Kak Tolong bantuin No 8-11 ya besok dikumpul\u200b",
+            "attachments": [
+                "question-attachments/kak-tolong-bantuin-no-8-11-ya-besok-dikumpul-180-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>8.C</p><p>9.A</p><p>10.A</p><p>11.E</p><p><strong>Penjelasan:</strong></p><p>untuk penjelasannya bisa dm ig saya @pernahadaa_</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yg-bisa-jawab-ku-kasih-20-poin-595",
+            "question": "Yg bisa jawab\r\n ku kasih\r\n 20 poin",
+            "attachments": [
+                "question-attachments/yg-bisa-jawab-ku-kasih-20-poin-595-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>jawab</p><p>D. 2,3, dan 4</p><p>penjelasan</p><p>pernyataan no 1 salah, no 1 itu adalah dinding sel</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>D. 2,3,4</p><p><strong>Penjelasan:</strong></p><p>Maaf kalau salah</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gaya-f-bekerja-pada-benda-yang-bermasa-ml-menghasilkan-4-ms2-j-698",
+            "question": "Gaya f bekerja pada benda yang bermasa ml menghasilkan 4 m/s\u00b2. Jika gaya f ini bekerja    pada benda kedua yang bermasa m2 dan menghasilkan percepatan 12 m/s? berapakah nilai m 1\r\ndan m 2\r\n\r\ntolong dijawab ya bg/kk\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>M</strong><strong>\u00b9</strong><strong> </strong><strong>=</strong><strong> </strong><strong>3</strong></p><p><strong>M</strong><strong>\u00b2</strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong></p><p><strong>Penjelasan:</strong></p><p>F, M\u00b9,A =  4 M / S\u00b2      </p><p>F, M\u00b2,A = 12 M / S</p><p>M\u00b9 = 12 = 3</p><p>M\u00b2 = 4 = 1</p><p>JADI, NILAI M\u00b9 DAN M\u00b2 ADALAH <strong>3</strong><strong> </strong>DAN <strong>1</strong></p><p></p><p><strong>SEMOGA</strong><strong> </strong><strong>MEMBANTU</strong><strong> </strong><strong>^</strong><strong>_</strong><strong>^</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-cara-jalanya-dung-kak-plss-dikumpulin-hari-ini-476",
+            "question": "Minta cara jalanya dung kak plss dikumpulin hari ini",
+            "attachments": [
+                "question-attachments/minta-cara-jalanya-dung-kak-plss-dikumpulin-hari-ini-476-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>kak kolo ini sisa kakak donlod kanda</p><p><strong>Penjelasan:</strong></p><p>maaf karena aku ngak kasih jawaban nya</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-batang-dengan-panjang-1-meter-dan-luas-penampang-8cm2saat-346",
+            "question": "sebuah batang dengan panjang 1 meter dan luas penampang 8cm2.saat di tarik dengan gaya 100N,batang tersebut memanjang menjadi 104cm hitunglah A.regangan batang B.tegangan batang C.modulus young batang\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A.regangan batang ngabbbb</p><p><strong>Penjelasan:</strong></p><p>vvvvvvv</p><p>lupaaaaaaaaaa ngaaaaabbbbbbbb::::::::::::\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "arus-listrik-3-a-mengalir-melalui-seutas-kawat-penghantar-ketika-518",
+            "question": "Arus listrik 3 a mengalir melalui seutas kawat penghantar ketika beda potensial 24 v diberikan pada ujung-ujungnya. tentukan hambatan listrik pada kawat tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>8 ohm</p><p><strong>Penjelasan:</strong></p><p>i = 3 A</p><p>v = 24 V</p><p>R = v . i = 24 / 3 = 8 ohm</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

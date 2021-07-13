@@ -1,0 +1,132 @@
+{
+    "question": "Sebuah alat pengangkat mobil memiliki luas penampang kecil a1 sebesar 20 cm2 dan penampang besar a2 sebesar 50 cm2. tentukanlah gaya yang harus diberikan untuk mengangkat mobil 1000 n!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>F1 =  400 N</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>Tekanan</p><p>Tekanan yg dialami suatu penampang adalah perbandingan besarnya gaya tekan pada penampang dengan luas penampang, dinyatakan dengan:</p><p>P = F / A</p><p>dimana:</p><p>P = Besar tekanan akibat gaya (N)</p><p>F = Gaya tekan yang dialami penampang (m2)</p><p>A = Luas penampang (m2)</p><p>Satuan tekanan : atm, Pa</p><p>1 atm = 10^5 Pa</p><p></p><p>Hukum Pascal</p><p>Apabila tekanan diberikan kepada fluida dalam ruang tertutup maka tekanan tersebut akan diteruskan oleh fluida ke segala arah dengan besar yang sama.</p><p>Contoh penerapan konsep hukum Pascal ini adalah pada dongkrak hidrolik.</p><p>Konsep :     P1 = P2</p><p>               F1/A1 = F2/A2</p><p>Jika penampang berbentuk lingkaran, maka</p><p> A= \u03c0r^2 = 1/4\u03c0d^2</p><p>sehingga, berlaku :</p><p>                  F1/r1^2 = F2/r2^2</p><p>                  F1/d1^2 = F2/d2^2</p><p>dimana:</p><p>F1 = gaya/beban pada penampang 1 (N)</p><p>F2= gaya/beban pada penampang 2 (N)</p><p>A1 = luas penampang 1 (m2)</p><p>A2 = luas penampang 2 (m2)</p><p>r1 = jari-jari penampang 1 (m)</p><p>r2:= jari-jari penampang 2 (m)</p><p>d1 = diameter penampang 1 (m)</p><p>d2 = diameter penampang 2 (m)</p><p>Diketahui</p><p>a1 = 20 cm2</p><p>a2 = 50 cm2 </p><p>F2 = 1 000 N </p><p>Ditanya</p><p>Gaya yang diberikan</p><p>Penyelesaian</p><p>F1/a1 = F2/a2</p><p>F1/20 = 1 000/50</p><p>F1 =  400 N</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-penyelam-menyelam-dengan-kedalaman-3-m-massa-jenis-air-1-659",
+            "question": "Seorang penyelam menyelam dengan kedalaman 3 m, massa jenis air 1.000 kg/m3, konstanta gravitasi pada tempat tersebut adalah 10 n/kg. besar tekanan hidrostatisnya adalah\u2026n/m3 *",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Jawaban:</h2><p>Ph = 30.000 N/m\u00b2</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Tekanan Hidrostatis</strong> adalah <u>suatu tekanan yang disebabkan oleh zat cair diam pada suatu kedalaman tertentu ke semua arah.</u></p><p></p><p>Rumus Tekanan Hidrostatis:</p><p>Ph = \u03c1 \u00d7 g \u00d7 h</p><p></p><p>Keterangan:</p><p>Ph = Tekanan Hidrostatis (N/m\u00b2 atau Pa)</p><p>\u03c1 = massa jenis zat (kg/m\u00b3)</p><p>g = percepatan gravitasi (m/s\u00b2 atau N/kg)</p><p>h = kedalaman (m)</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>Massa jenis air (\u03c1) = 1.000 kg/m\u00b3</p><p>Percepatan gravitasi (g) = 10 N/kg</p><p>Kedalaman air (h) = 3 m</p><p></p><p>Ditanya: Ph (Tekanan Hidrostatis) = ?</p><p></p><p>Dijawab:</p><p>Ph = \u03c1 \u00d7 g \u00d7 h</p><p>     = 1.000 \u00d7 10 \u00d7 3</p><p>     = 1.000 \u00d7 30</p><p>     = 30.000 N/m\u00b2</p><p></p><p>Jadi, besar tekanan hidrostatisnya adalah <strong><u>3</u></strong><strong><u>0</u></strong><strong><u>.</u></strong><strong><u>0</u></strong><strong><u>0</u></strong><strong><u>0</u></strong><strong><u> </u></strong><strong><u>N</u></strong><strong><u>/</u></strong><strong><u>m</u></strong><strong><u>\u00b2</u></strong>.</p><p></p><h2>Detail Jawaban</h2><p>Mapel: Fisika</p><p>Kelas: 8 SMP</p><p>Materi: Bab 3 - Fluida</p><p>Kode Soal: 6</p><p>Kode Kategorisasi: 8.6.3</p><p>Kata Kunci: Tekanan Hidrostatis, Massa Jenis Air, Percepatan Gravitasi, Kedalaman Air</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-kalor-yang-diperlukan-untuk-melebur-5-kg-alumunium-jika-876",
+            "question": "berapakah kalor yang diperlukan untuk melebur 5 kg alumunium jika kalor lebur alumunium 403.000 J/kg?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>jawaban tertera di atas</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/berapakah-kalor-yang-diperlukan-untuk-melebur-5-kg-alumunium-jika-876-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "hasil-pengukuran-diameter-suatu-benda-menggunakan-jangka-sorong-d-541",
+            "question": "Hasil pengukuran diameter suatu benda menggunakan jangka sorong ditunjukkan oleh gambar berikut. diameter minimum benda sebesar \u2026 a. 9,775 cm b. 9,778 cm c. 9,782 cm d. 9,785 cm e. 9,788 cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a. 9,775</p><p><strong>Penjelasan:</strong></p><p>PEMBAHASAN :</p><p></p><p></p><p>SU = 9,7 cm</p><p></p><p>SN minimum = 0,075 cm</p><p></p><p>Hasil = 9,7 + 0,075 = 9,775 cm</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "usaha-dapat-dihitung-dengan-mengalikan-besaran-dan-168",
+            "question": "Usaha dapat dihitung dengan mengalikan besaran... dan ...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Besar dan kecil dapat di hitung</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-diletakkan-25-cm-di-depan-cermin-datar-cermin-diges-895",
+            "question": "Sebuah benda diletakkan 25 cm di depan cermin datar. cermin digeser sejauh 3 cm ke arah benda. tentukan jarak antara posisi bayangan asli dan bayangan akhir yang terlihat di cermin",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Bayangan asli : 25 cm Bayangan akhir : 22 cm</p><p><strong>Penjelasan:</strong></p><p>#Sifat cermin datar</p><p>Maya, Tegak, Sama Besar</p><p></p><p>#Penyelesaian</p><p>Jadi, Jarak benda maupun jarak bayangan akan selalu sama</p><p></p><p>Jarak Bayangan asli = jarak benda mula-mula </p><p>Yaitu( 25 cm = 25 cm)</p><p></p><p>Jarak Bayangan akhir = jarak benda akhir</p><p>Yaitu 25 cm - 3 cm =( 25 cm = 25 cm)</p><p></p><p>Jadikan Jawaban terbaik ya!!!</p><p></p><p>Follow Akun Instagram dan subscribe channel ku ya!!!</p><p></p><p>Instagram : conqueror games</p><p>YouTube   : Conqueror game&#039;s</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-radio-bekerja-pada-panjang-gelombang-12m-jika-cepat-ramb-340",
+            "question": "Sebuah radio bekerja pada panjang gelombang 1,2m. jika cepat rambat gelombang radio 3000 m/s, stasiun radio tersebut bekerja pada frekuensi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3000/1,2 = 2500</p><p>jadi jawabannya 2500hz</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-bumi-menyusut-menjadi-setengah-semula-namun-massanya-tetap-883",
+            "question": "Jika bumi menyusut menjadi setengah semula namun massanya tetap, maka massa benda-benda yang ada di permukaan bumi adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Gajsiwkhakwbjsjshsuwmhshs</p><p><strong>Penjelasan:</strong></p><p>Karna begitu sulit untuk di jawab </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sistem-peredaran-darah-yang-mengalirkan-darah-dari-jantung-ke-sel-298",
+            "question": "Sistem peredaran darah yang mengalirkan darah dari jantung ke seluruh tubuh disebut dengan \u2026. * a. peredaran darah besar b. peredaran darah tertutup c. peredaran darah terbuka d. peredaran darah kecil",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>c.</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A.Peredaran darah besar</p><p><strong>Penjelasan:</strong></p><p>ini bermula ketika darah yang kaya02 di pompa olehbilik kiri untk diedarkan keseluruh tubuh melalui aorta</p><p></p><p><strong><em>s</em></strong><strong><em>e</em></strong><strong><em>m</em></strong><strong><em>o</em></strong><strong><em>g</em></strong><strong><em>a</em></strong><strong><em>a</em></strong><strong><em> </em></strong><strong><em>m</em></strong><strong><em>e</em></strong><strong><em>m</em></strong><strong><em>b</em></strong><strong><em>a</em></strong><strong><em>n</em></strong><strong><em>t</em></strong><strong><em>u</em></strong><strong><em> </em></strong><strong><em>y</em></strong><strong><em>a</em></strong><strong><em>h</em></strong><strong><em>,</em></strong><strong><em>m</em></strong><strong><em>a</em></strong><strong><em>a</em></strong><strong><em>f</em></strong><strong><em> </em></strong><strong><em>k</em></strong><strong><em>a</em></strong><strong><em>l</em></strong><strong><em>a</em></strong><strong><em>u</em></strong><strong><em> </em></strong><strong><em>k</em></strong><strong><em>u</em></strong><strong><em>r</em></strong><strong><em>a</em></strong><strong><em>m</em></strong><strong><em>g</em></strong><strong><em> </em></strong><strong><em>t</em></strong><strong><em>e</em></strong><strong><em>p</em></strong><strong><em>a</em></strong><strong><em>t</em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-salah-satu-organ-penyusun-sistem-mengalami-kerusakan-apa-yan-402",
+            "question": "Jika salah satu organ penyusun sistem mengalami kerusakan apa yang terjadi pada sistem organ tersebut?dapatkah sistem organ tersebut berfungsi dengan baik?    jawab yang benar ya ;')\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jika salah satu organ penyusun sistem mengalami kerusakan maka yang akan terjadi :</p><p>1. Tubuh akan merasa sakit</p><p>2. Kinerja tubuh dalam melakukan berbagai aktivitas fisik maupun non- fisik akan terganggu..</p><p>3. Organ penyusun sistem yang lainnya tidak dapat bekerja dengan optimal</p><p>4. Tubuh akan merasa lelah karena terus bekerja dalam mengobati organ yang rusak</p><p>5. Perkembangan tubuh akan terhambat karena nutrisi yang dimasukkan kedalam tubuh akan dipakai untuk menyembuhkan organ yang rusak</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-yang-merupakan-persamaan-linier-satu-variabel-plsv-608",
+            "question": "Manakah yang merupakan persamaan linier satu variabel (PLSV)\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Persamaan linear satu variabel disingkat PLSV adalah kalimat terbuka yang memiliki suku dengan variabel berpangkat satu serta relasi bertanda sama dengan (\u201c = \u201d}. Variabel adalah peubah berlambang huruf kecil yang mewakili sebarang anggota suatu himpunan semesta. Suku ax memiliki variabel x berpangkat 1.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu maaf kalo salah </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Persamaan linear satu variabel disingkat PLSV adalah kalimat terbuka yang memiliki suku dengan variabel berpangkat satu serta relasi bertanda sama dengan(\u201c = \u201d}. Variabel adalah peubah berlambang huruf kecil yang mewakili sebarang anggota suatu himpunan semesta. Suku ax memiliki variabel x berpangkat 1.</p><p></p><p></p><p>#maaf klo salah</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

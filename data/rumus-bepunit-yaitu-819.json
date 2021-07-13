@@ -1,0 +1,144 @@
+{
+    "question": "Rumus BEPUnit yaitu...\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong> </strong><strong>Jawaban</strong><strong> </strong><strong>:</strong><strong> </strong><strong><em>Ada dua cara menghitung BEP, yaitu menggunakan rumus unit dan rupiah atau nominal mata uang. Berikut rumusnya: BEP = Biaya Tetap / (Harga Per Unit / Biaya Variabel Per Unit) BEP = Biaya Tetap / (Kontribusi Margin Per Unit / Harga Per Unit)</em></strong></p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>rumus</p><p>BEP unit =  biaya tetap [f] / ( harga jual per unit [p] - harga variabel [v] )</p><p></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "7525-brapa-nilai-511",
+            "question": "-75+.....=25 brapa nilai...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>50 jawabannya</p><p><strong>Penjelasan:</strong></p><p>maap kalo salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>-75 + n = 25</p><p>n = 25 + 75 </p><p>n = 100</p><p></p><p>-75 + 100 = 25 </p><p></p><p>semoga membantu</p><p> </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-carnot-dengan-reservoir-suhu-tinggi-800-k-dan-reserv-497",
+            "question": "Sebuah mesin Carnot dengan reservoir suhu tinggi 800 K dan reservoir suhu rendah 200 K, tentukan efisiensi nya!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Effisiensi mesin = 75%</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>MESIN CARNOT</p><p>Siklus mesin carnot terdiri atas</p><p>2 proses isotermis</p><p>2 proses adiabatis</p><p></p><p>Proses pertama  ekspansi isotermis pada suhu T1 (suhu reservoir tinggi). Mesin menyerap kalor Q1.</p><p>Proses kedua ekpansi adiabatis, tidak ada kalor yg keluar atau masuk sistem. Pada kedua proses tadi gas melakukan usaha ( W positif) yg ditandai dengan volume sistem bertambah atau ekspansi.</p><p>Proses ketiga kompresi isotermis pada suhu T2 (suhu reservoir rendah).</p><p>Proses keempat kompresi adiabatis dimana sistem kembali ke kondisi awal. Pada kedua pproses terakhir sistem dikenai kerja (W negatif) yg ditandai dengan berkurangnya volume sistem atau kompresi.</p><p>Pada siklus carnot ini perubahan energi dalam (\u0394U) sama dengan nol</p><p>Hubungan Usaha dan kalor dinyatakan dengan</p><p>Q1 = W + Q2</p><p>W = Q1 - Q2</p><p>Effisiensi mesin atau riil dinyatan dengan</p><p>\u03b7 mesin/rill = W/Q1 = (Q1 - Q2)/ Q1 = [ 1 - Q2/ Q1 ] 100%</p><p>Effisuensi maksimum dinyatakan dengan</p><p>\u03b7 maksimum = (T1 - T2)/ T1 = [1 - T2/T1] 100%</p><p>Keterangan\u03b7</p><p>Q1 = Kalor serap pada T1 ( J)</p><p>Q2 = Kalor buang pada T2 (J)</p><p>W = Usaha/Kerja mesin (J)</p><p>T1 = Suhu reservoir tinggi ( K)</p><p>T2 = Suhu reservoir rendah (K)</p><p></p><p>Diketahui</p><p>T1 = 800 K</p><p>T2= 200 K</p><p>Ditanya</p><p>Besar effisiensi mesin</p><p>Penyelesaian</p><p>\u03b7   = [1 - T2/T1] 100%</p><p>     = [1 - 200/800] 100%</p><p>     = [1 - 1/4] 100 %</p><p>      = 75 %</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "arus-listrik-3-a-mengalir-melalui-seutas-kawat-penghantar-ketika-518",
+            "question": "Arus listrik 3 a mengalir melalui seutas kawat penghantar ketika beda potensial 24 v diberikan pada ujung-ujungnya. tentukan hambatan listrik pada kawat tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>8 ohm</p><p><strong>Penjelasan:</strong></p><p>i = 3 A</p><p>v = 24 V</p><p>R = v . i = 24 / 3 = 8 ohm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dipengaruhi-gaya-tetap-sebesar-5-n-jika-massa-bola-0-984",
+            "question": "Sebuah bola dipengaruhi gaya tetap    sebesar 5 N. Jika massa bola 0,5 kg,\r\npercepatan yang dialami bola adalah . *\r\nO\r\na. 10 m/s2\r\nO b. 25 m/s2\r\nO c. 5 m/s2\r\nO d. 0,25 m/s2\r\nO e. 1 m/s2\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Percepatan yang dialami bola adalah [tex]\\boxed{\\sf{10 \\: m/s^2}}[/tex]</p><p></p><h2>PEMBAHASAN</h2><p>Hai! Soal tersebut adalah berkaitan dengan hukum newton. Sesuai dengan nama nya hukum newton ditemukan oleh Sir Isaac Newton. Hukum newton sendiri juga terbagi menjadi 3, yaitu :</p><ul><li><strong><u>Hukum Newton I.</u></strong></li></ul><p><strong>Rumus umum :</strong></p><p>[tex]\\sf{\\sum F = 0}[/tex]</p><p><strong>Dengan ketentuan :</strong></p><p>[tex]\\sf{\\sum F}[/tex] = resultan gaya. </p><p></p><ul><li><strong><u>Hukum Newton II.</u></strong></li></ul><p><strong>Rumus menghitung persamaan menghitung gaya yang bekerja :</strong></p><p>[tex]\\sf{\\sum F =  m \\times a}[/tex]</p><p><strong>Dengan ketentuan :</strong></p><p>[tex]\\sf{\\sum F}[/tex] = resultan gaya. </p><p>[tex]\\sf{m}[/tex] = massa benda. </p><p>[tex]\\sf{a}[/tex] = percepatan gerak. </p><p></p><ul><li><strong><u>Hukum Newton III. </u></strong></li></ul><p><strong>Rumus umum :</strong></p><p>[tex]\\sf{F_{aksi} = -F_{reaksi}}[/tex]</p><p><strong>Dengan ketentuan :</strong></p><p>[tex]\\sf{F_{aksi}}[/tex] = gaya aksi benda.</p><p>[tex]\\sf{F_{reaksi}}[/tex] = gaya reaksi benda. </p><p></p><h3>LANGKAH PENYELESAIAN</h3><p><strong>Diketahui :</strong></p><p>Massa = 0,5 kg. </p><p>Gaya = 5 N. </p><p></p><p><strong>Ditanya :</strong></p><p>Percepatan yang dialami bola adalah ?</p><p></p><p><strong>Dijawab :</strong></p><p>[tex]\\sf{a = \\frac{\\sum F}{m}}[/tex]</p><p>[tex]\\sf{a = \\frac{5}{0,5}}[/tex]</p><p>[tex]\\sf{a = 10 \\: m/s^2}[/tex]</p><p></p><p><strong>KESIMPULAN : </strong>Jadi percepatan yang dialami bola adalah [tex]\\boxed{\\sf{10 \\: m/s^2}}[/tex]</p><p></p><h3>PELARI LEBIH LANJUT</h3><ul><li><strong>Materi tentang hukum newton</strong> https://brainly.co.id/tugas/20886390 https://brainly.co.id/tugas/18907952 https://brainly.co.id/tugas/21206554</li></ul><p></p><h3>DETAIL JAWABAN</h3><p><strong>Kelas</strong> : 10</p><p><strong>Mapel</strong> : fisika</p><p><strong>Bab</strong> : 6 - hukum newton (gerak) </p><p><strong>Kode kategori</strong> : 10.6.6</p><p><strong>Kata kunci</strong> : hukum newton II, gaya, massa, percepatan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikut-ini-yang-penyakit-pada-sistem-urinaria-kecuali-a-poli-268",
+            "question": "Berikut ini yang penyakit pada sistem urinaria, kecuali ?    A. Poliuria\r\nB. Gagal ginjal\r\nC. Diabetes melitus\r\nD. Bronkitis\r\nE. Batu ginjal\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>D.bronkitis</p><p><strong>Penjelasan:</strong></p><p>SEMOGA MEMBANTU DAN DI LIKE</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>D. bronkitis</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-minta-cara-nya-dung-pls-kak-841",
+            "question": "Kak minta cara nya dung pls kak\u270c",
+            "attachments": [
+                "question-attachments/kak-minta-cara-nya-dung-pls-kak-841-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C.25 Hz | Semoga membantu:)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-plis-dua-keping-konduktor-sejajar-yang-tiap-keping-846",
+            "question": "*bantu jawab plis*    dua keping konduktor sejajar yang tiap keping nya berbentuk persegi panjang (panjang = 4 cm dan lebar = 2 cm), diberi muatan sama tetapi berlawanan jenis sebesar 1,5 c. tentukanlah \r\n\r\na. rapat muatan pada keping\r\nb. kuat medan listrik antara kedua keping jika \u00b0 = 8,85 x 10-\u00b9\u00b2 c\u00b2/nm\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawaban:a. rapat muatan</p><p></p><p>\u03c3 = q/A</p><p></p><p>\u03c3 = 6/0,16 = 37,5 C/m\u00b2</p><p></p><p></p><p>b. Kuat medan listrik</p><p></p><p>E = \u03c3/\u03b5\u2080 = 37,5/(8,85.10\u207b\u00b9\u00b2)</p><p></p><p>E = 4,23.10\u00b9\u00b2 N/C</p><p></p><p>Penjelasan:</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mesin-carnot-bekerja-pada-suhu-rendah-400-k-untuk-menghasilkan-ke-459",
+            "question": "Mesin Carnot bekerja pada suhu rendah 400 K untuk menghasilkan kerja mekanik. Jika mesin menyerap kalor 600 J dengan suhu tinggi 600 K, maka usaha yang dihasilkan adalah \u2026 Joule.\u00a0*\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Usaha yg dihasilkan adalah 200 J</p><p></p><p><strong>P</strong><strong>e</strong><strong>n</strong><strong>j</strong><strong>e</strong><strong>l</strong><strong>a</strong><strong>s</strong><strong>a</strong><strong>n</strong></p><p>Diketahui</p><p>T2 = 400 K</p><p>Q1 = 600 J</p><p>T1 = 600 K</p><p></p><p>Ditanya</p><p>Usaha yg dihadilkan mesin (W)</p><p></p><p>Penyelesaian</p><p>Siklus mesin carnot terdiri atas</p><p>2 proses isotermis</p><p>2 proses adiabatis</p><p></p><p>Mesin menyerap kalor Q1 saat suhu T1 (suhu tinggi) dan membuang kalor Q2 pada suhu T2 ( Suhu rendah).</p><p>Hubungan Q1, Q2 dan W adalah</p><p>Q1 = W + Q2</p><p>W = Q1 - Q2</p><p>W = Kerja atau usaha yg dihasilkan mesin</p><p></p><p>Efisiensi rill/mesin</p><p>\u03b7 = W/Q1 = (Q1 - Q2)/ Q1 = [ 1 - Q2/Q1] x 100%</p><p></p><p>Efisiensi maksimun</p><p>\u03b7 = [1 - T2/T1] x 100%</p><p></p><p>Jika disoal ada Usaha, Kalor dan Suhu, rumus effisiensi riil dan maksimum kita gahung, menjadi</p><p>\u03b7 = W/Q1 = 1 - T2/T1</p><p>     W/ 600 = 1 - 400/600</p><p>      W = 200 Joule</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-ikan-bernafas-menggunakan-insang-jelaskan-260",
+            "question": "Mengapa ikan bernafas menggunakan insang jelaskan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Hewan yang hidup di air atau ikan, bernapas dengan menggunakan insang. Insang pada ikan berfungsi menyaring oksigen yang ada di air.</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ikan, bernapas dengan menggunakan insang. Insang pada ikan berfungsi menyaring oksigen yang ada di air.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "siswa-bergerak-ke-utara-sejauh-6-km-kemudiaan-berbelok-ke-timur-478",
+            "question": "siswa bergerak ke Utara sejauh 6 km ,kemudiaan berbelok ke timur se jauh 12 km ,lalu berhenti tentukan jarak yg di tempuh siswa\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><h2>Jarak tempuh = 18 Km</h2><h2>Perpindahan = 13,41 Km</h2><p></p><p><strong>Penjelasan:</strong></p><p><strong>J</strong><strong>a</strong><strong>r</strong><strong>a</strong><strong>k</strong><strong> </strong><strong>t</strong><strong>e</strong><strong>m</strong><strong>p</strong><strong>u</strong><strong>h</strong><strong> </strong></p><p>= 12 km + 6 km</p><p>= 18 km</p><p></p><p><u><strong>p</strong><strong>e</strong><strong>r</strong><strong>p</strong><strong>i</strong><strong>n</strong><strong>d</strong><strong>a</strong><strong>h</strong><strong>a</strong><strong>n</strong></u></p><p>[tex] =  \\sqrt{ {12}^{2} +  {6}^{2}  } [/tex]</p><p>[tex] =  \\sqrt{144 + 36} [/tex]</p><p>[tex] =  \\sqrt{180} [/tex]</p><p>[tex] = 13.41 \\: km[/tex]</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>13,41 km</p><p><strong>Penjelasan:</strong></p><p>karena kalo siswa bergerak ke utara sejauh 6 km itu kasian jauh cape trus ditambah belok ke timur 12 km wah kasian tuh kakinya ga keitung capenya</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

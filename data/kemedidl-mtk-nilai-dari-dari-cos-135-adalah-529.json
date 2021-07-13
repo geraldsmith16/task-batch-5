@@ -1,0 +1,128 @@
+{
+    "question": "Kemedidl\r\nMTK\r\nNilai dari\r\ndari Cos 135\u00b0 adalah\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>[tex] -  \\frac{1}{2}  \\sqrt{2 \\:}  </p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-6101418adalah-673",
+            "question": "Rumus suku ke-n dari barisan :6,10,14,18,..adalah\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Jawaban:</h2><p>Un = 4n + 2</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Barisan aritmatika</strong>\u00a0adalah <u>suatu baris yang nilai setiap sukunya didapatkan dari suku sebelumnya melalui\u00a0penjumlahan\u00a0atau\u00a0pengurangan\u00a0dengan suatu bilangan.</u></p><p></p><p>Rumus barisan aritmatika:</p><p>Un = U1 + (n - 1) \u00d7 b</p><p>\u00a0\u00a0\u00a0\u00a0 = a + (n - 1) \u00d7 b</p><p></p><p>-------</p><p></p><p><strong>Deret aritmatika</strong> adalah <u>suatu penjumlahan suku-suku dari barisan aritmatika.</u></p><p></p><p>Rumus deret aritmatika:</p><p>Sn = \u00bd \u00d7 n \u00d7 (a + Un)</p><p>\u00a0\u00a0\u00a0\u00a0 = \u00bd \u00d7 n \u00d7 (2a + (n - 1) \u00d7 b)</p><p></p><p>Keterangan:</p><p>Un = suku ke-n</p><p>U1 = a = suku pertama</p><p>b = beda</p><p>n = banyak suku pada barisan aritmatika</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>a = 6</p><p>b = 10 - 6 = 4</p><p></p><p>Ditanya: Rumus suku ke-n dari barisan tersebut (Un) = ?</p><p></p><p>Dijawab:</p><p>Un = a + (n - 1) \u00d7 b</p><p>     = 6 + (n - 1) \u00d7 4</p><p>     = 6 + 4n - 4</p><p>     = 4n + 2</p><p></p><p>Jadi, rumus suku ke-n dari barisan tersebut adalah <strong><u>4</u></strong><strong><u>n</u></strong><strong><u> </u></strong><strong><u>+</u></strong><strong><u> </u></strong><strong><u>2</u></strong>.</p><p></p><h2>Detail Jawaban</h2><p>Mapel: MTK</p><p>Kelas: 9 SMP</p><p>Materi: Bab 2 - Barisan dan Deret Bilangan</p><p>Kode Soal: 2</p><p>Kode Kategorisasi: 9.2.2</p><p>Kata Kunci: Barisan Aritmatika, Rumus Suku ke-n, Suku Pertama, Beda</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-pqr-mempunyai-kordinat-titik-p11-q-10-dan-781",
+            "question": "Sebuah segitiga PQR mempunyai kordinat titik P(1,1), Q(-1,0) dan R (2,-2) dicerminkan terhadap sumbu Y . tentukan kordinat bayangan titik Q     plis jwb dong ulangan \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>sebuah segitiga pqr mempunyai koordinat titik p(1,1),q(-1,0) dan r (2,-2) dicerminkan terhadap sumbu y. koordinat bayangan titik Q adalah Q&#039;(1,0)</p><p></p><p>Penjelasan:</p><p></p><p>Materi Transformasi Geometri terbagi menjadi 4 bagian yakni:</p><p></p><p>Transalasi</p><p>Refleksi</p><p>Rotasi</p><p>Dilatasi</p><p>Pada soal kali ini kita akan membahas Materi Refleksi, Umumnya Refleksi atau yang disebut Pencerminan terbagi menjadi 7 cara yakni</p><p></p><p>Maaf kalau salah :(</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "15-27-1-25-5-35-14-3-78-23-532",
+            "question": "1/5 + 2/7 =\r\n 1 2/5 + 5 3/5 =\r\n 1/4 + 3 7/8 + 2/3 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><ol><li>[tex] \\frac{17}{35} [/tex]</li><li>7</li><li>[tex]4 \\frac{19}{24} [/tex]</li></ol><p><strong>Penjelasan dengan langkah-langkah:</strong></p><ol><li>[tex] \\frac{1}{5}  +  \\frac{2}{7}  \\\\  =  \\frac{7 + 10}{35}  \\\\  =  \\frac{17}{35} [/tex]</li><li>[tex]1 \\frac{2}{5}  +  5\\frac{3}{5}  \\\\  = (1 + 5) + ( \\frac{2}{5}  +  \\frac{3}{5} ) \\\\  = 6 + 1 \\\\  = 7[/tex]</li><li>[tex] \\frac{1}{4}  + 3 \\frac{7}{8}  +  \\frac{2}{3}  \\\\  =  \\frac{1}{4}  +  \\frac{31}{8}  +  \\frac{2}{3}  \\\\  =  \\frac{115}{24}  \\\\  = 4 \\frac{19}{24} [/tex]</li></ol>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kerucut-begaris-tengah-28-cm-dan-tingginya-40-cm-hitungla-315",
+            "question": "Sebuah kerucut begaris tengah 28 cm dan tingginya 40 cm.\r\nHitunglah volume kerucut tersebut!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Volume kerucut adalah <strong>8</strong><strong>.</strong><strong>2</strong><strong>1</strong><strong>3</strong><strong>,</strong><strong>3</strong><strong>3</strong><strong> </strong><strong>cm\u00b3</strong></p><p></p><h2>Pendahuluan</h2><p>Kerucut adalah limas yang bentuk alasnya berbentuk lingkaran. Kerucut memiliki daerah selimut yang berbentuk juring lingkaran. Sifat-sifat kerucut antara lain yaitu :</p><ol><li>Memiliki 2 sisi</li><li>Memiliki 1 sudut</li><li>Memiliki 1 rusuk lengkung</li></ol><p></p><h2>Penyelesaian</h2><h3>Diketahui</h3><ul><li>garis tengah (d) = 28 cm</li><li>jari-jari (r) = d \u00f7 2 = 28 \u00f7 2 \u2248 14 cm</li></ul><h3>Ditanyakan</h3><p>Volume kerucut</p><h3>Jawab</h3><p>Volume = \u2153 \u00d7 \u03c0r\u00b2t</p><p>              = \u2153 \u00d7 \u00b2\u00b2\u2215\u2087 \u00d7 14\u00b2 \u00d7 40</p><p>              = \u2153 \u00d7 \u00b2\u00b2\u2215\u2087 \u00d7 196 \u00d7 40</p><p>              = \u2153 \u00d7 22 \u00d7 28 \u00d7 40</p><p>              = 8.213,33 cm\u00b3</p><p></p><h2>Pelajari lebih lanjut</h2><ul><li>Rumus Volume Kerucut : <u>brainly.co.id/tugas/2480276</u></li><li>Rumus luas permukaan kerucut : <u>brainly.co.id/tugas/6404699</u></li><li>Sifat-sifat kerucut : <u>brainly.co.id/tugas/3166954</u></li></ul><h2>Detail jawaban</h2><p>Kelas : 9</p><p>Mapel : Matematika</p><p>Materi : Bab 5 \u2014 Bangun ruang sisi lengkung</p><p>Kode Mapel : 2</p><p>Kode Kategorisasi : 9.2.5</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-632",
+            "question": "\u2022=2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1300000000000000000000</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-turunan-pertama-dari-fungsi2-9x-2x-1-4x2-1-343",
+            "question": "Tentukan turunan pertama dari fungsi\u00b2 9(x) =(2x-1) (4x\u00b2-1)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>u.v=u&#039;.v+u.v&#039;</p><p></p><p>u=(2x-1) --&gt; u&#039;= 2</p><p>v=(4x\u00b2-1) --&gt; v&#039;= 2.4x=8x</p><p></p><p>g(x)=2.(4x\u00b2-1)+(2x-1).8x</p><p>     = (8x\u00b2-2) + (16x\u00b2-8x)</p><p>     = 8x\u00b2-2+16x\u00b2-8x</p><p>     = 24x\u00b2-8x-2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "quis-peraturan-jawab-yang-benar-no-ngasal-590",
+            "question": "{QUIS}\r\n\r\n\r\n\u26a0\ufe0fPeraturan\r\nJawab Yang benar\r\nNO Ngasal \u274c\u200b",
+            "attachments": [
+                "question-attachments/quis-peraturan-jawab-yang-benar-no-ngasal-590-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1. 12 cm</p><p>caranya 48\u00f74</p><p>2. 3 cm</p><p>L=p\u00d7l</p><p>36= 12\u00d7l</p><p>l= 36\u00f712</p><p>lebar nya adalah= 3</p><p>3. </p><p>4.</p><p>5.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>3,4,5 nya bisa sendiri kan ya? menggambar gitu aja</p><p>Semoga bermanfaat ya:) </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-bantu-jawab-346",
+            "question": "Kak tolong bantu jawab\u200b",
+            "attachments": [
+                "question-attachments/kak-tolong-bantu-jawab-346-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>jawaban dan cara ada di foto ok</p>",
+                    "attachments": [
+                        "answer-attachments/kak-tolong-bantu-jawab-346-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "lim-x1x2-4x-bantuanya-kk-101",
+            "question": "Lim x\u21921(x\u00b2-4x)=\r\nbantuanya kk\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1\u00b2 - 4.1  = 1 - 4 = -3</p><p></p><p>nilai x dari fungsi di ganti 1</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinjau-barisan-bilangan-yang-didefenisikan-sebagai-berikut-a-s-951",
+            "question": "Tinjau barisan bilangan yang didefenisikan sebagai berikut :    a. Sm,n = 0, jika m = 0 dan n =0\r\n b. Sm-1,.n + 1, jika n = 0\r\n c. Sm, n \u2013 1 + 1, jika n \u2260 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>gtw ingin dpt poin aj mamsks</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

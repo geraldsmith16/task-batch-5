@@ -1,0 +1,138 @@
+{
+    "question": "2. Hitunglah volume bangun berikut!\r\n\u200b",
+    "attachments": [
+        "question-attachments/2-hitunglah-volume-bangun-berikut-169-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<p></p><h2><strong>Penjelasan dengan langkah-langkah:</strong></h2><p></p><h3>Volume kubus </h3><p>[tex]v =  {s}^{3} [/tex]</p><p>[tex] =  {16}^{3} [/tex]</p><p>[tex] = 16 \\times 16 \\times 16[/tex]</p><p>[tex] = 256 \\times 16[/tex]</p><p>[tex] = 4.096  \\:  {cm}^{3} [/tex]</p><p></p><h3>Volume balok </h3><p>[tex]v = p \\times l \\times t[/tex]</p><p>[tex] = 30 \\times 16 \\times 15[/tex]</p><p>[tex] = 480 \\times 15[/tex]</p><p>[tex] = 7.200 \\:  {cm}^{3} [/tex]</p><p></p><h3>Volume gabungan </h3><p>4.096 + 7.200 = 11.296 cm\u00b3</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>V kubus </p><p>V = s \u00d7 s \u00d7 s </p><p>    = 16 \u00d7 16 \u00d7 16</p><p>    = 256 \u00d7 16</p><p>    = 4.096 cm\u00b3</p><p></p><p>V balok</p><p>V = p \u00d7 l \u00d7 t</p><p>   = 30 \u00d7 16 \u00d7 15</p><p>   = 480 \u00d7 15</p><p>   = 7.200 cm\u00b3</p><p></p><p>V gabungan = 4.096 + 7.200</p><p>                     <strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>1</strong><strong>.</strong><strong>2</strong><strong>9</strong><strong>6</strong><strong> </strong><strong>c</strong><strong>m</strong><strong>\u00b3</strong></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "luas-suatu-persegi-panjang-adalah-25-cm-2-jika-lebarnya-14-cm-mak-374",
+            "question": "Luas suatu persegi panjang adalah 25 cm 2 jika lebarnya 14 cm maka panjangnya adalah titik-titik cm a 16 b 27 c 18 d 6\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Luas suatu persegi panjang adalah 25 cm 2 jika lebarnya 14 cm maka panjangnya adalah <strong>1,78</strong><strong> </strong><strong>cm </strong>[tidak ada opsi]</p><p>a. 16 cm</p><p>b. 27 cm</p><p>c. 18 cm</p><p>d. 6 cm</p><h2>Pendahuluan</h2><p>Persegi panjang merupakan bangun datar yang sisi-sisi berhadapannya sama panjang dan keempat sudutnya siku-siku. Sifat-sifat persegi panjang:</p><ul><li>Mempunyai 2 pasang sisi yang sama panjang dan sejajar</li><li>Keempat sudutnya sama besar dan merupakan sudut siku-siku</li><li>Kedua diagonalnya saling berpotongan di tengah-tengah dan saling membagi dua sama panjang</li><li>Dapat menempati bingkainya dengan 4 cara</li></ul><p>Rumus luas persegi panjang</p><p>[tex]\\tt{ \\bold{ { L = p \\times l}}}[/tex]</p><p>Rumus keliling persegi panjang</p><p>[tex]\\tt{ \\bold{ { kll = 2 \\times (p + l)}}}[/tex]</p><h2>Penyelesaian</h2><p>Diketahui</p><ul><li>Luas 25 cm\u00b2</li><li>lebar 14 cm</li></ul><p>Ditanya</p><ul><li>Maka panjangnya adalah...</li></ul><p>Dijawab</p><p>[tex]{\\sf{ L = p \\times l }}[/tex]</p><p>[tex]{\\sf{  {25 \\: cm}^{2} = p \\times 14 \\: cm }}[/tex]</p><p>[tex]{\\sf{  \\frac{ {25 \\: cm}^{2} }{14 \\: cm}  = p}}[/tex]</p><p>[tex]{\\sf{1,78 \\: cm = p  }}[/tex]</p><p>Jadi, panjang persegi panjang tersebut yaitu<strong> </strong><strong>1,78</strong><strong> </strong><strong>cm</strong></p><p>.</p><h3>PELAJARI LEBIH LANJUT</h3><ul><li>https://brainly.co.id/tugas/26444276</li><li>https://brainly.co.id/tugas/20960870</li><li>https://brainly.co.id/tugas/27454515</li></ul><p>=====================================</p><p>[tex]{{\\mathscr{ DETAIL \\:  JAWABAN}}}[/tex]</p><p>Mapel : Matematika</p><p>Kelas : 3</p><p>Materi : Keliling dan luas persegi dan \npersegi panjang</p><p>Kata kunci : Luas, panjang, lebar</p><p>Kode soal : 2</p><p>Kode kategorisasi : 3.2.10</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-fungsi-didefinisikan-dengan-rumus-fx-xkuadrat-3x-5nila-642",
+            "question": "Suatu fungsi didefinisikan dengan rumus f(x) =xkuadrat -3x-5.nilai f-4=\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>5</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>f(x)= x</p><p>x= -3x - 5</p><p>4x= -5</p><p>f-4= -5</p><p>f= 5</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyiku-dan-pelurus-dari-54-890",
+            "question": "Tentukan penyiku dan pelurus dari 54\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3><strong>Jawaban:</strong></h3><p>Sudut penyiku = 36\u00b0</p><p>Sudut pelurus = 126\u00b0</p><p></p><h3><strong>Penjelasan dengan langkah-langkah:</strong></h3><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><p>Besar sudut = 54\u00b0</p><p><strong>Ditanya</strong><strong> </strong><strong>:</strong></p><p>Sudut penyiku = ?</p><p>Sudut pelurus = ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>Besar sudut yang saling berpenyiku adalah 90\u00b0.<strong> </strong>Maka :</p><p>Sudut penyiku = 90\u00b0 - 54\u00b0</p><p>Sudut penyiku = <strong>36\u00b0</strong></p><p>Besar sudut yang saling berpelurus adalah 180\u00b0.<strong> </strong>Maka :</p><p>Sudut pelurus = 180\u00b0 - 54\u00b0</p><p>Sudut pelurus = <strong>126\u00b0</strong></p><p></p><h3>Detail Jawaban:</h3><ul><li>Mapel : Matematika</li><li>Kelas : VII (7 SMP)</li><li>Materi : Bab 3 - Garis dan Sudut</li><li>Kata kunci : sudut penyiku, sudut pelurus</li><li>Kode soal : 2</li><li>Kode kategorisasi : 7.2.3</li></ul><p></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Sudut penyiku dari 54\u00b0</p><p>90 - 54 = 36\u00b0</p><p></p><p>Sudut pelurus = 126\u00b0 </p><p></p><p>Maap kalo salah :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "864-lusin-berapa-gros-924",
+            "question": "864 lusin\r\n berapa gros?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>72 gros</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>smoga membantu kawan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-invers-dari-fx-adalah-996",
+            "question": "Fungsi invers dari F(x) adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>mengawankan pada masing-masing elemen B</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>itu jawabanya</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-persegi-adalah-48cmhitunglah-panjang-sisi-sisiny-719",
+            "question": "Keliling sebuah persegi adalah 48cm.hitunglah panjang sisi-sisinya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>S</strong><strong> </strong><strong>=</strong><strong> </strong><strong>keliling</strong><strong> </strong><strong>:</strong><strong> </strong><strong>4</strong></p><p><strong>S</strong><strong> </strong><strong>=</strong><strong> </strong><strong>4</strong><strong>8</strong><strong> </strong><strong>:</strong><strong> </strong><strong>4</strong></p><p><strong>S </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>2</strong><strong> </strong><strong>cm</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><h3>12 CM</h3><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>S = keliling : 4 </p><p>S = 48 : 4 </p><p>   =  12</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "796",
+            "question": "\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>[tex] \\red{ \\sf{ \\: 2 \\times 2 = 4}}[/tex]</p><p><strong><em>Kesimpulan</em></strong><strong><em> </em></strong><strong><em>:</em></strong></p><p><strong><em>[tex] \\orange{ \\sf{ \\: hasil \\: dari \\:  \\sqrt[2]{4}   }}[/tex]</em></strong></p><p><strong><em>[tex] \\green{ \\ \\:  = { \\boxed{ \\sf{ \\: 2}}}}[/tex]</em></strong></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawab-iyah-teman-601",
+            "question": "Tolong dijawab iyah teman\"",
+            "attachments": [
+                "question-attachments/tolong-dijawab-iyah-teman-601-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>keliling yg berjumlah 16 adalah E</p><p></p><p>keliling E= 2x(p+l)= 2(5+3)= 16 satuan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pernyataan-yang-benar-jika-dua-garis-yang-sejajar-dipotong-oleh-s-926",
+            "question": "Pernyataan yang benar jika dua garis yang sejajar dipotong oleh sebuah garis adalah sebagai berikut, kecuali     A. Sudut-Sudut yang berhadapan sama besar.\r\n B.Sudut-Sudut dalam berseberangan sama besar.\r\n C. Sudut-Sudut luar sepihak sama besar\r\n D. Sudut-Sudut dalam sepihak berjumlah 180\u00b0.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C </p><p>MAAF YA KALO SALAH MAKASIH </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-benda-bukan-segi-banyak-719",
+            "question": "Contoh benda bukan segi banyak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>jawaban </p><p>kursi,meja,jam dinding/jam tangan,tisu,cincin,kalung, hp, televisi</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

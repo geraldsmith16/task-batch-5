@@ -1,0 +1,128 @@
+{
+    "question": "Tolong dibantu dong kak    Seorang anak kecil mendorong lemari kayu dengan massa 75 kg. Gaya yang dikeluarkan adalah 50 N. jika lemari tidak bergerak maka usaha anak kecil tersebut adalah \u2026 joule.\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>jawabanya 125 semoga bermanfat</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "3-sebuah-benda-yang-tingginya-6-cm-diletakkan-20-cm-didepan-sebu-490",
+            "question": "3. Sebuah benda yang tingginya 6 cm diletakkan 20 cm didepan sebuah cermin cekung dengan jari-jari    kelengkungan 30 cm. Tentukan :\r\nJarak bayangan\r\nb. Tinggi Bayangan\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>S&#039; = 60 cm</p><p>h&#039; = 18</p><p></p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>CERMIN</p><p></p><p>Cermin cekung memiliki jarak fokus positif sedangkan cermin cembung memiliki jarak fokus negatif.  </p><p>Berlaku persamaan : </p><p>1/f = 1/S + 1/S&#039;</p><p>dimana :</p><p>f = jarak fokus (cm)</p><p>S= jarak benda ke cermin (cm)</p><p>S&#039; = jarak bayangan ke cermin (cm)</p><p>Catatan :</p><p>S&#039; bertanda positif berarti bayangan nyata, didepan cermin</p><p>S&#039; bertanda negatif berarti bayangan maya, dibelakang cermin</p><p></p><p>Perbesaran Bayangan</p><p>M = |S&#039;/S| = |h&#039;/h|</p><p>h =:tinggi benda</p><p>h&#039; = tinggi bayangan</p><p></p><p>Diketahui</p><p>S = 20 cm</p><p>R = 30 cm</p><p>f = 1/2 R = 1/2 x 30 = 15 cm</p><p>h = 6 cm</p><p>Ditanya</p><p>Jarak bayangan</p><p>Tinggi bayangan</p><p>Penyelesaian</p><p>Jarak bayangan</p><p>1/f = 1/S + 1/S&#039;</p><p>1/15 = 1/20 + 1/S&#039;</p><p>(4 - 3)/60 = 1/S&#039;</p><p>S&#039; = 60 cm</p><p></p><p>Tinggi bayangan</p><p>M = |S&#039;/S| = |h&#039;/h|</p><p>    60/20 = h&#039;/6</p><p>           h&#039; = 18 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-batu-bermassa-05-kg-jatuh-bebas-dari-ketinggian-2-mete-725",
+            "question": "1. Sebuah batu bermassa 0,5 kg jatuh bebas dari ketinggian 2 meter dan jatuh tepat di atas hamparan pasir. Jika batu masuk sedalam 1 cm ke dalam pasir sebelum kemudian berhenti, maka gaya rata \u2013 rata yang dilakukan pasir untuk menghambat batu adalah\u2026.    2. Sebuah balok bermassa 5 kg terletak di atas meja licin dalam keadaan diam. Balok tersebut mengalami percepatan sebesar 2 m/s2 selama 2 detik dan selanjutnya bergerak dengan kecepatan konstan selama 4 sekon. Besar usaha yang dilakukan balok selama gerak tersebut adalah\u2026.\r\n\r\n 3. Sebuah mobil bermassa 1000 kg bergerak dengan kelajuan 10 m/s pada arah mendatar. Tiba-tiba pengemudi mengurangi kelajuan mobil. Jika usaha yang dilakukan pengemudi pada mobil tersebut 6.000 Joule, maka kecepatan mobil sekarang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>1. F  = - 1000 N</p><p>2. W = 40 J</p><p>3. Vt = 9,4 m/s</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>Usaha adalah Kemampuan melakukan kerja, satuan Joule</p><p>Usaha yg dilakukan gaya pada benda dapat dihitung dengan :</p><p>1. Usaha oleh Gaya</p><p>W = F x s</p><p>Jika pada benda bekerja lebih dari 1 gaya maka F adalah resultan gaya</p><p>dimana:</p><p>W = Usaha yang dikerjakan oleh Gaya (Joule)</p><p>F = Gaya yg dikerjakan pada benda (N)</p><p>s = Perpindahan benda (m)</p><p></p><p>2.Usaha sama dengan perubahan energi</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>Vt = kecepatan akhir (m/s)</p><p>Vo = kecepatan awal (m/s)</p><p>Usaha karena perubahan ketinggian/posisi</p><p>W = perubahan energi potensial</p><p>    = Ept - Epo</p><p>    = mg ht - mg ho</p><p>    = mg ( ht - ho )</p><p>ht = ketinggian/ posisi akhir (m)</p><p>ho = ketinggian/ posisi awal (m)</p><p></p><p>1.Diketahui</p><p>m = 0,5 kg</p><p>ho = 2 m</p><p>ht  = 0</p><p>s = 1 cm = 10^-2 m</p><p>Ditanya</p><p>Gaya hambat rata rata pasir</p><p>Penyelesaian</p><p>Kita pakai konsep usaha karena gaya dan perubahan energi potensial</p><p>W = \u0394 Ep</p><p>F x s = Ept - Epo</p><p>        = m g ht - m g ho</p><p>F x s  = m g (ht - ho)</p><p>      F = 0,5 x 10 (0- 2)/ 10^-2</p><p>      F  = - 1000 N</p><p>Tanda negatif menunjukkan arah gaya berlawanan dengan arah gerak benda (gaya hambat)</p><p></p><p>2.Diketahui</p><p>   m = 5 kg</p><p>   Vo = 0</p><p>    a  = 2 m/s2</p><p>     t  = 2 s</p><p>     kemudian kecepatan konstan selama 4 s</p><p>Ditanya</p><p>Usaha yg dilakukan balok</p><p>Penyelesaian</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>Vt = Vo + a t</p><p>    = 0 + 2 x 2</p><p>    = 4 m/s2</p><p>W = 1/2 \u00d7 5 x 4^2 - 0</p><p> W = 40 J</p><p>Jika kecepatan konstan, W= 0</p><p></p><p>3. Diketahui</p><p>m = 1000 kg</p><p>Vo = 10 m/s</p><p>W = - 6000 J </p><p>( Tanda negatif menunjukkan usaha melawan arah gerak benda sehingga kecepatan mobil berkurang)</p><p>Ditanya</p><p>Kecepatan akhir mobil</p><p>Penyelesaian</p><p>Usaha karena perubahan kecepatan</p><p>W = perubahan energi Kinetik</p><p>    = Ekt - Eko</p><p>    = 1/2mVt^2 - 1/2 mVo^2</p><p>-6000  = 1/2 1000 Vt^2 - 1/2 1000 10^2</p><p>-6000  = 500 Vt^2 -50 000</p><p>44 000 = 500 Vt^2</p><p>     Vt^2 = 88</p><p>      Vt = 9,4 m/s</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-minta-cara-nya-dung-pls-kak-841",
+            "question": "Kak minta cara nya dung pls kak\u270c",
+            "attachments": [
+                "question-attachments/kak-minta-cara-nya-dung-pls-kak-841-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C.25 Hz | Semoga membantu:)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-awal-udara-didalam-ban-adalah-350-kpa-dengan-suhu-25cs-851",
+            "question": "Tekanan awal udara didalam ban adalah 350 KPa Dengan suhu 25\u00b0C.setelah ban mengalami perjalanan,maka tekanan udara di dalam ban menjadi 490 KPa jika pemuaian ban di abaikan,maka berapakah suhu di dalam ban\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Suhu akhir udara dalam ban = 144\u00b0C</p><p></p><p><strong>Penjelasan:</strong></p><p>Diketahui</p><p>P1 = 350 kPa</p><p>T1 = 25 \u00b0C = 298 K</p><p></p><p>P2 = 490 kPa</p><p></p><p>Ditanya</p><p>Suhu akhir udara dalam ban</p><p></p><p>Penyelesaian</p><p>Pemuaian ban diabaikan, berarti proses isokhorik</p><p>P1/T1 = P2/T2</p><p>T2 = P2 x T1/P1</p><p>     = 490 \u00d7 298/350</p><p>     = 417 K = 144 \u00b0C</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ketiga-kapasitor-terangkai-seri-paralel-tentukan-energi-listrik-340",
+            "question": "Ketiga kapasitor terangkai seri-paralel. Tentukan energi listrik pada rangkaian\u200b",
+            "attachments": [
+                "question-attachments/ketiga-kapasitor-terangkai-seri-paralel-tentukan-energi-listrik-340-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>itu saya ga tauu karena </p><p><strong>Penjelasan:</strong></p><p>ga tauu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-planet-p-dan-q-mengorbit-matahari-apabila-perbandingan-jarak-372",
+            "question": "Dua planet P dan Q mengorbit matahari apabila perbandingan jarak antara planet P dan planet Q terhadap matahari adalah 64 banding 25 dan periode planet B mengelilingi matahari 128 hari maka hitunglah periode planet Q mengelilingi matahari\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p>Pendahuluan :</p><p>Hi teman-teman, saya akan mencoba untuk menjawab pertanyaanmu. Jangan lupa dibaca bagian pembahasannya juga ya agar lebih mantap pendalaman materinya.</p><p></p><p>Langkah Penyelesaian :</p><p>Diketahui :</p><p></p><p>Rp : Rq = perbandingan jarak ke matahari = 4 : 9</p><p>Tp = periode planet P = 24 hari</p><p>Ditanya : Tq = periode planet Q = .... hari</p><p></p><p>Jawaban :</p><p></p><p>\\begin{gathered}\\frac {T_p\\:^{2}}{R_p\\:^{3}} = \\frac {T_q\\:^{2}}{R_q\\:^{3}} \\\\ \\frac {24^{2}}{4^{3}} = \\frac {T_q\\:^{2}}{9^{3}} \\\\ \\frac{(8 \\times 3)^{2} }{( {2}^{2} )^{3}} = \\frac {T_q\\:^{2}}{( {3}^{2}) ^{3}} \\\\ \\frac{( {2}^{3} \\times 3)^{2} }{ {2}^6} = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ \\frac{ \\cancel {{2}^{6}} \\times {3}^{2} }{\\cancel {{2}^{6}} } = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ {3}^{2} \\times {3}^{6} = {T_q\\:^{2}} \\\\ {3}^{8} = {T_q\\:^{2}} \\\\ \\sqrt{ {3}^{8} } = T_q \\\\ {3}^{ \\frac{8}{2} } = {T_q} \\\\ {3}^{4} = {T_q} \\\\ 81 \\: hari = T_q \\: \\end{gathered} </p><p>R </p><p>p</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>p</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>q</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>4 </p><p>3</p><p> </p><p>24 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>9 </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>(2 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>(8\u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>(3 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p>(2 </p><p>3</p><p> \u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p> </p><p>2 </p><p>6</p><p> </p><p> \u00d73 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>3 </p><p>2</p><p> \u00d73 </p><p>6</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> </p><p>\t</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>2</p><p>8</p><p>\t</p><p> </p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>4</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>81hari=T </p><p>q</p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Jadi, periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p><strong>Penjelasan:</strong></p><p>Pada hukum Kepler III ini kita membandingkan besarnya perbandingan antara hubungan periode dengan jari-jari orbit suatu planet. Karena berwujud perbandingan yang tidak tetap satuannya, maka satuan dapat disesuaikan sesuai dengan soal. Namun, secara umum hukum Kepler III ini dapat dirumuskan dengan :</p><p></p><p>\\boxed {\\bold {\\frac {T_a\\:^{2}}{R_a\\:^{3}} = \\frac {T_b\\:^{2}}{R_b\\:^{3}}}} \\: </p><p>R </p><p>a</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>a</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>b</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>b</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Dengan ketentuan :</p><p></p><p>Ta = periode planet A (tahun)</p><p>Tb = periode planet B (tahun)</p><p>Ra = jarak planet A ke matahari (km)</p><p>Rb = jarak planet B ke matahari (km)</p><p>a dan b dapat diganti dengan huruf apapun sesuai dengan soal, karena tidak memengaruhi penghitungan</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-carnot-dengan-reservoir-suhu-tinggi-800-k-dan-reserv-497",
+            "question": "Sebuah mesin Carnot dengan reservoir suhu tinggi 800 K dan reservoir suhu rendah 200 K, tentukan efisiensi nya!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Effisiensi mesin = 75%</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>MESIN CARNOT</p><p>Siklus mesin carnot terdiri atas</p><p>2 proses isotermis</p><p>2 proses adiabatis</p><p></p><p>Proses pertama  ekspansi isotermis pada suhu T1 (suhu reservoir tinggi). Mesin menyerap kalor Q1.</p><p>Proses kedua ekpansi adiabatis, tidak ada kalor yg keluar atau masuk sistem. Pada kedua proses tadi gas melakukan usaha ( W positif) yg ditandai dengan volume sistem bertambah atau ekspansi.</p><p>Proses ketiga kompresi isotermis pada suhu T2 (suhu reservoir rendah).</p><p>Proses keempat kompresi adiabatis dimana sistem kembali ke kondisi awal. Pada kedua pproses terakhir sistem dikenai kerja (W negatif) yg ditandai dengan berkurangnya volume sistem atau kompresi.</p><p>Pada siklus carnot ini perubahan energi dalam (\u0394U) sama dengan nol</p><p>Hubungan Usaha dan kalor dinyatakan dengan</p><p>Q1 = W + Q2</p><p>W = Q1 - Q2</p><p>Effisiensi mesin atau riil dinyatan dengan</p><p>\u03b7 mesin/rill = W/Q1 = (Q1 - Q2)/ Q1 = [ 1 - Q2/ Q1 ] 100%</p><p>Effisuensi maksimum dinyatakan dengan</p><p>\u03b7 maksimum = (T1 - T2)/ T1 = [1 - T2/T1] 100%</p><p>Keterangan\u03b7</p><p>Q1 = Kalor serap pada T1 ( J)</p><p>Q2 = Kalor buang pada T2 (J)</p><p>W = Usaha/Kerja mesin (J)</p><p>T1 = Suhu reservoir tinggi ( K)</p><p>T2 = Suhu reservoir rendah (K)</p><p></p><p>Diketahui</p><p>T1 = 800 K</p><p>T2= 200 K</p><p>Ditanya</p><p>Besar effisiensi mesin</p><p>Penyelesaian</p><p>\u03b7   = [1 - T2/T1] 100%</p><p>     = [1 - 200/800] 100%</p><p>     = [1 - 1/4] 100 %</p><p>      = 75 %</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "termometer-x-dan-y-menunjukkan-angka-30x-dan-20y-saat-menguk-935",
+            "question": "Termometer X dan Y menunjukkan angka 30\u00b0X dan    -20\u00b0Y saat mengukur air membeku. Saat mengukur\r\nair mendidih, masing-masing menunjukkan angka\r\n150\u00b0X dan 250\u00b0Y. Jika suatu benda dapat terukur\r\nsuhunya sebesar 60\u00b0 X, maka skala yang\r\nditunjukkan pada termometer Y adalah ....\r\na. 37,5\r\nd. 52,5\r\nb. 47,5\r\ne. 55\r\nc. 50\r\n\r\n\r\ntolong dibantu\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>TY = 47,5 \u00b0Y</p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>TERMOMETER</p><p>Termometer Skala Reamur, Celcius, Fahrenheit dan Kelvin menggunakan batas titik beku air dan titik didih air sebagai acuan untuk membuat skala pengukurannya.</p><p></p><p>                              R       C           F          K</p><p>Titik Beku Air        0        0          32       273</p><p>Titik Didih Air       80      100       212      373</p><p>Selisih suhu         80       100      180       100.......bagi 20</p><p>Rumus                 4n       5n       9n+32   5n+273</p><p>Jadi kita dapat  rumus masing masing skala</p><p>TR = 4n</p><p>TC = 5n</p><p>TF = 9n + 32</p><p>TK = 5n + 273 </p><p>Catatan : Tentukan dulu nilai n dari suhu/skala yg diketahui di soal.</p><p></p><p>Diketahui</p><p>TbX = 30\u00b0X </p><p>TbY = -20\u00b0Y</p><p>TdX =  150\u00b0X</p><p>TdY =  250\u00b0Y</p><p>TX = 60\u00b0X</p><p>Ditanya</p><p>TY</p><p>Penyelesaian          </p><p>                                Y               X</p><p></p><p>Titik Beku Air         -20            30</p><p>Titik Didih Air         250           150</p><p>Selisih skala           270           120.....bagi 30</p><p>Rumus                 9n -20         4n + 30</p><p></p><p></p><p>TX = 3n + 30 = 60</p><p>               4n = 30</p><p>                 n = 7,5</p><p>TY = 9n - 20</p><p>      = 9\u00d77,5 - 20</p><p>      = 47,5\u00b0Y</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "frekuansi-golombang-bunyi-antara-20hz-smpai-20000hz-adalah-428",
+            "question": "Frekuansi golombang bunyi antara 20hz smpai 20.000hz adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Audiosonic</p><p><strong>Penjelasan:</strong></p><p>contoh : sapi, kambing , kucing. dll</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-arsitek-bangunan-sedang-mengerjakan-sebuah-proyek-pembuat-345",
+            "question": "Seorang arsitek bangunan sedang mengerjakan sebuah proyek pembuatan bendungan, bahan dasar bendungan    tersebut terbuat dari beton yang mampu menahan tekanan maksimal sebesar 110.250 Pa. jika masa jenis air\r\n2.100 Kg/m' dan gaya gravitasi ditempat tersebut adalah 10 m/s\u201d. Berapakah ketinggian maksimal bendungan\r\nyang dapat dibuat oleh arsitek tersebut ...\r\nb. 52,5 meter\r\nd. 25,5 meter\r\na.\r\n5,25 meter\r\nc. 2.55 meter\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>JAWABANNYA 5,25 METER</p><p></p><p>JAFIKAN JAWABAN TERCERDAS YA</p>",
+                    "attachments": [
+                        "answer-attachments/seorang-arsitek-bangunan-sedang-mengerjakan-sebuah-proyek-pembuat-345-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Menceritakan matematika dalam kehidupan sehari\"",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Aritmatika untuk membantu orang-orang berhitung saat transaksi jual-beli, menghitung hasil penjualan, untung rugi, dan modal yang ada. Rata-rata (Mean) dan statistik digunakan guru saat menghitung nilai siswa di sekolah.</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tugas-matematika-caranya-bagaimana-ya-mohon-bantuannya-584",
+            "question": "Tugas matematika, caranya bagaimana ya, mohon bantuannya\u200b",
+            "attachments": [
+                "question-attachments/tugas-matematika-caranya-bagaimana-ya-mohon-bantuannya-584-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>no.18</p><p>sisi sisi segitiga</p><p>a = 28 cm ; b = 26 cm ; c = 30 cm</p><p>cari dulu setengah keliling (s)</p><p>s = 1/2 (28 + 26 + 30)</p><p>s = 42</p><p>L = \u2713[s(s - a)(s - b)(s - c)]</p><p>L = \u2713[42(42 - 28)(42 - 26)(42 - 30)]</p><p>L = \u2713[42(14)(16)(12)]</p><p>L = \u2713112896</p><p>L = 336 cm\u00b2</p><p>jadi luasnya = 336 cm\u00b2</p><p></p><p>no. 19</p><p>BC = AB x sin30\u00b0</p><p>BC = 10 x 1/2</p><p>BC = 5 cm</p><p>AC = AB x cos30\u00b0</p><p>AC = 10 x 1/2\u27133</p><p>AC = 5\u27133</p><p>Luas (L)</p><p>L = 1/2 x BC x AC</p><p>L = 1/2 x 5 x 5\u27133</p><p>L = (25/2)\u27133</p><p>L = 12,5 \u27133</p><p></p><p>no. 20</p><p>f(x) = x + 5</p><p>g(x) = x\u00b2 - 16</p><p>(fog)(x) = (x\u00b2 - 16) + 5</p><p>(fog)(x) = x\u00b2 - 11.......................(1)</p><p>(gof)(x) = (x + 5)\u00b2 - 16</p><p>(gof)(x) = (x\u00b2 + 10x + 25) - 16</p><p>(gof)(x) = x\u00b2 + 10x + 9.............(2)</p><p></p><p>no. 21</p><p>f(x) = x\u00b2 + 4x</p><p>g(x) = 3x + 4</p><p>(fog)(x) = (3x + 4)\u00b2 + 4(3x + 4)</p><p>(fog)(x) = (9x\u00b2 + 24x + 16) + (12x + 16)</p><p>(fog)(x) = 9x\u00b2 + 36x + 32...............(1)</p><p>(gof)(x) = 3(x\u00b2 + 4x) + 4</p><p>(gof)(x) = 3x\u00b2 + 12x +....................(2)</p><p></p><p>no. 22</p><p>f(x) = (2 - x)/(x + 3)</p><p>y = (2 - x)/(x + 3)</p><p>(x + 3)y = 2 - x</p><p>xy + 3y = 2 - x</p><p>xy + x = -3y + 2</p><p>x(y + 1) = -3y + 2</p><p>x = (-3y + 2)/(y + 1)</p><p>f&#039;(x) = (-3x + 2)/(x + 1</p><p>jadi invers dari f(x) adalah </p><p>f&#039;(x) = (-3x + 2)/(x + 1)</p><p></p><p>no. 23</p><p>f(x) = \u2713(x - 1)</p><p>y = \u2713(x - 1)</p><p>y\u00b2 = (x - 1)</p><p>x = y\u00b2 + 1</p><p>f&#039;(x) = x\u00b2 + 1</p><p>jadi invers dari f(x) adalah </p><p>f&#039;(x) = x\u00b2 + 1</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "37-diketahui-skala-suatu-peta-adalah-1-1250000-hitunglah-a-186",
+            "question": "37. Diketahui skala suatu peta adalah 1. 1.250.000. Hitunglah    A. Jarak sebenarnya kota A dan B.jika jarak kota A dan B pada peta 6 cm\r\n\r\nB. Jarak pada peta kota C dan D, jika jarak kota C dan D sebenarnya 150 km\r\n\r\ntolong jawab kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>a. Jarak kota A dan B sebenarnya</p><p>=\u300bDiket:</p><p>\u2022 Jarak pada peta = 6 cm</p><p>\u2022 Skala = 1 : 1.250.000</p><p>=\u300bJawab:</p><p>[tex]jarak \\: sebenarnya =  \\frac{jarak \\: pada \\: peta}{skala}  \\\\  =  \\frac{6}{ \\frac{1}{1.250.000} }  \\\\  = 6 \\times 1.250.000 \\\\  = 7.500.000 \\: cm \\\\  = 75 \\: km[/tex]</p><p>b. Jarak kota C dan D pada peta</p><p>=\u300bDiket:</p><p>\u2022 Jarak sebenarnya = 150 km = 15.000.000 cm</p><p>\u2022 Skala= 1 : 1.250.000</p><p>=\u300bJawab:</p><p>[tex]jarak \\: pada \\: peta = skala \\times jarak \\: sebenarnya \\\\  =  \\frac{1}{1.250.000}  \\times 15.000.000 \\\\  =  \\frac{15.000.000}{1.250.000}  \\\\  = 12 \\: cm[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-rak-buku-dapat-memuat-42-eks-buku-yang-tebal-nya-5-mm-bera-756",
+            "question": "sebuah rak buku dapat memuat 42 eks buku yang tebal nya 5 mm berapa banyak buku yang tebal nya 14 mm dapat di taruh pada rak tersebut?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>15</strong><strong> </strong><strong>buku</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Sebuah rak memuat 42 buku dengan tebal 5 mm</p><p>maka, sebuah buku dapat menampung :</p><p>42 \u00d7 5 = 210 mm </p><p>jika tiap buku memiliki tebal 14 mm, maka :</p><p>210 \u00f7 14 = 15 buku</p><p></p><p><strong>JADI</strong><strong>,</strong><strong> </strong><strong>BANYAK</strong><strong> </strong><strong>RAK</strong><strong> </strong><strong>BUKU</strong><strong> </strong><strong>YANG</strong><strong> </strong><strong>DAPAT</strong><strong> </strong><strong>DITARUH</strong><strong> </strong><strong>DALAM</strong><strong> </strong><strong>RAK</strong><strong> </strong><strong>TERSEBUT</strong><strong> </strong><strong>ADALAH</strong><strong> </strong><strong>15</strong><strong> </strong><strong>BUKU</strong></p><p></p><p><strong>JANGAN LUPA JADIKAN JAWABAN TERBAIK YAA</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-data-golongan-darah-kelas-v-berikut-merupakan-diagram-data-go-695",
+            "question": "10.    Data Golongan Darah Kelas V\r\nBerikut merupakan diagram data golongan darah siswa kelas V\r\nsekolah dasar.\r\n10\r\n8\r\nlumlah Siswa\r\nill\r\n2\r\nBerikut pernyataan yang sesuai dengan diagram batang di samping\r\nadalah ...\r\nSelisih banyak siswa bergolongan darah A dan O adalah 3 orang.\r\nBanyak siswa bergolongan darah A dan O adalah 15 orang.\r\nBanyak siswa bergolongan darah B dan O adalah 15 orang.\r\nBanyak siswa kelas 5 seluruhnya adalah 30 orang.\r\nA\r\nB\r\nAB\r\nGolongan Darah:(\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>10mshwywjbw8ahywg</p><p>biw72nu ni shwqk</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gas-nitrogen-pada-suhu-27c-memiliki-volume-25-liter-dan-tekanan-517",
+            "question": "gas nitrogen pada suhu 27\u00b0c memiliki volume 25 liter dan tekanan 5 atm.tentukan volume gas tersebut jika tekanannya diubah menjadi 10 atm pada suhu 50\u00b0c.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Gas nitrogen pada suhu 27\u00b0C memiliki volume 25 liter dan tekanan 105 N/ m\u00b2. Maka volume gas tersebut jika tekanannya diubah menjadi 2\u00d7105 N/m\u00b2 pada suhu 127\u00b0C adalah: 16,67 liter</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-juring-lingkaran-dengan-jari-jari-7cm-dan-sudut-pusat-30-230",
+            "question": "luas juring lingkaran dengan jari jari 7cm dan sudut pusat 30\u2070 adalah ....cm\u00b2.(\u03c0 = 22/7).  tolong di bantu ya kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawab:</p><p></p><p>Penjelasan dengan langkah-langkah:</p><p>Luas juring = sudut/360\u00b0 x luas lingkaran</p><p>= 30/360 x \u03c0r\u00b2</p><p>= 1/12 x 22/7 x 7 x 7</p><p>=(22 x 7) /12</p><p>= 12,83cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-bantuin-donk-ini-aku-mohon-yah-498",
+            "question": "Kak Bantuin donk ini :) Aku Mohon yah\u200b",
+            "attachments": [
+                "question-attachments/kak-bantuin-donk-ini-aku-mohon-yah-498-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>hshabbssbbshsj</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>harga Rp Rp Rp Rp Rp Rp</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-semua-persegi-memiliki-lebar-19-cm-berapa-keliling-tersebut-432",
+            "question": "Jika semua persegi memiliki lebar 19 cm Berapa keliling tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p> </p><p>keliling persegi</p><p>K=4\u00d7s</p><p>K=4\u00d719</p><p>K=76</p><p></p><p></p><p>maaf yah kalau salah</p><p> </p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>luas =p\u00d71=25\u00d719=475</p><p>cmkeliling=2\u00d7(p+1)=2\u00d7(25+19)2\u00d744=88</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-vektor-a-3i-5k-dan-vektor-b-2ij-k-maka-proyeksi-625",
+            "question": "Diketahui vektor a= 3i-5k dan vektor b = -2i+j -k , maka proyeksi skalar vektor 2a pada vektor b adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>-2/\u221a6 atau -\u221a6/3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a = 3i-5k = (3,0,-5)</p><p>b = -2i+j-k = (-2,1,-1)</p><p></p><p>2a= 2(3,0,-5) = (6,0,-10)</p><p></p><p>2a \u00d7 b = (6,0,-10) (-2,1,-1) = -12+0+10 = -2</p><p>|b| = \u221a(-2)\u00b2+1\u00b2+(-1)\u00b2 =\u221a4+1+1 = \u221a6</p><p></p><p>proyeksi skalar 2a pada b</p><p>2a \u00d7 b / |b| = -2/\u221a6 atau -\u221a6/3</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-jarum-jam-menunjukkan-pukul-0900-maka-jarum-panjang-dan-jar-591",
+            "question": "jika jarum jam menunjukkan pukul 09.00 maka jarum panjang dan jarum pendek akan membentuk sudut sebesar... \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p><strong>Jika</strong><strong> </strong><strong>jarum</strong><strong> </strong><strong>jam</strong><strong> </strong><strong>menunjukkan</strong><strong> </strong><strong>pukul</strong><strong> </strong><strong>0</strong><strong>9</strong><strong>.</strong><strong>0</strong><strong>0</strong><strong>,</strong><strong> </strong><strong>maka</strong><strong> </strong><strong>jarum</strong><strong> </strong><strong>jam</strong><strong> </strong><strong>dan</strong><strong> </strong><strong>jarum</strong><strong> </strong><strong>pendek</strong><strong> </strong><strong>akan</strong><strong> </strong><strong>membentuk</strong><strong> </strong><strong>sudut</strong><strong> </strong><strong>sebesar</strong><strong> </strong><strong>9</strong><strong>0</strong><strong>\u00b0</strong><strong> </strong></p><p></p><p><strong>Semoga</strong><strong> </strong><strong>membantu</strong><strong> </strong><strong>dan</strong><strong> </strong><strong>tetap</strong><strong> </strong><strong>semangat</strong><strong> </strong><strong>belajar</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p></p><p>Begitupun dengan pukul 09.00. Secara teori, perputaran pada pukul 09.00 membentuk sudut 270. Karena Perputaran jam membentuk sudut 360, maka aslinya sudut yang dibentuk pukul 09.00 sama saja dengan 360 - 270 = 90 derajat</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

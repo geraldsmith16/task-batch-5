@@ -1,0 +1,138 @@
+{
+    "question": "Luas sebuah persegi panjang 91,2cm\u00b2 dan panjang 12cm.hitunglah lebar persegi panjang tersebut",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Lebar persegi panjang adalah <strong>7</strong><strong>,</strong><strong>6</strong><strong> </strong><strong>cm</strong></p><p></p><h2>Pendahuluan</h2><p>Persegi panjang adalah bangun datar yang memiliki dua buah sisi sejajar. Sifat-sifat persegi panjang antara lain yaitu :</p><ol><li>Memiliki empat buah sisi</li><li>Memiliki dua diagonal</li><li>Memiliki dua simetri lipat</li><li>Memiliki dua simetri putar</li></ol><p></p><h2>Penyelesaian</h2><h3>Diketahui</h3><ul><li>Luas = 91,2 cm\u00b2</li><li>panjang (p) = 12 cm</li></ul><h3>Ditanyakan</h3><p>lebar (\u2113)</p><h3>Jawab</h3><p>Luas = p \u00d7 \u2113</p><p>  91,2 = 12 \u00d7 \u2113</p><p>       \u2113 = 91,2 \u00f7 12</p><p>       \u2113 = 7,6 cm</p><p></p><h2>Pelajari lebih lanjut</h2><ul><li>sebuah persegi panjang berukuran panjang 62 cm dan lebar 38cm kelilingnya adalah : <u>brainly.co.id/tugas/21956519</u></li><li>Jika luas persegi panjang 120 cm dan lebarnya 15 cm, maka panjangnya adalah...... : <u>brainly.co.id/tugas/10822864</u></li></ul><h2>Detail jawaban</h2><p>Kelas : 3</p><p>Mapel : Matematika</p><p>Materi : Bab 10 \u2014 Persegi dan persegi panjang</p><p>Kode Mapel : 2</p><p>Kode Kategorisasi : 3.2.10</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-pekerjaan-dapat-disselesaikan-oleh-25-pekerja-dalam-wakru-6-649",
+            "question": "suatu pekerjaan dapat disselesaikan oleh 25 pekerja dalam wakru 60 hari jika pekerjaan itu diselesaikan oleh 20 pekerja berapa hari pekerjaan itu selesai\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>25 pekerja, 60 hari</p><p>20 pekerja, x</p><p></p><p>Perbandingan berbalik nilai, semakin banyak pekerja maka semakin sedikit waktu yang diperlukan. </p><p></p><p>[tex] \\frac{25}{20}  =  \\frac{x}{60}  =  \\\\ 1500 = 20x \\\\ x = 1500 \\div 20 \\\\ x = 75[/tex]</p><p>Jadi, oleh 25 pekerja pekerjaan akan selesai dalam waktu 75 hari. Semoga membantu! </p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>75 hari</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>25 orang &gt; 60 hari</p><p>20 orang &gt; x hari</p><p></p><p>semakin sedikit orang maka akan memerlukan waktu lebih banyak</p><p>maka menggunakan perbandingan berbalik nilai</p><p>x/60=25/20</p><p>x=25/20\u00d760</p><p>x=75 hari</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gunakan-informasi-di-bawah-ini-untuk-menjawab-soal-nomor-6-8-seor-178",
+            "question": "Gunakan informasi di bawah ini untuk menjawab soal nomor 6-8    Seorang penjual nasi goreng mengeluarkan\r\nmodal sebesar Rp1.000.000,00. untuk\r\nmenjalankan usahanya. Dia mematok harga\r\nnasi gorengnya adalah Rp8.000,00 perporsi.\r\n6. Jika pada hari dia berhasil menjual sebanyak 160 porsi maka persentase keeuntungannya adalah ...\r\na. 50 %\r\nc. 28 %\r\nb. 36 %\r\nd. 16%\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>C. 28 %</p><p></p><p>Hasil Penjualan = 8.000\u00d7160 = 1.280.000</p><p></p><p>Keuntungan = 1.000.000 - 1.280.000 = 280.000</p><p></p><p>280.000= y/100 dikali 1.000.000 =28%</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-limit-fungsi-berikut-lim-8x3-823",
+            "question": "HITUNGLAH\r\n\r\n LiMiT FUNGSI BERIKUT?\r\n\r\n Lim 8x\u00b3=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Bab Limit</p><p></p><p>Matematika SMA Kelas XI</p><p></p><p></p><p>lim ((8x\u00b3 + 3x\u00b2 - 4x + 7) / (2x\u00b3 - 5x + 17))</p><p></p><p>x\u2192\u221e</p><p>perhatikan pangkat tertinggi saja</p><p></p><p>= 8x\u00b3 / 2x\u00b3</p><p></p><p>= 8/2</p><p></p><p>= 4</p><h3>penjelasan langah langkah:</h3><h3></h3><h3>\n</h3><h3> jika pangkat x dari a=pangkat x dari b</h3><h3></h3><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-sisi-gabungan-bangun-ruang-pada-gambar-di-samping-315",
+            "question": "Hitunglah luas sisi gabungan bangun ruang pada gambar di samping ini\u200b",
+            "attachments": [
+                "question-attachments/hitunglah-luas-sisi-gabungan-bangun-ruang-pada-gambar-di-samping-315-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>MABAR YOK CiL ID gua ni 2660024636 </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lapangan-bermain-berbentuk-lingkaran-dengan-jari-jari-35m-638",
+            "question": "Sebuah lapangan bermain berbentuk lingkaran dengan jari-jari 35m,luas lapangan tersebut adalah ..\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3.850 cm\u00b2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jari-jari = 35 m</p><p>luas = \u03c0 x r x r</p><p>        = 22/7 x 35 x 35</p><p>        = 22 x 5 x 35</p><p>        = 3.850 cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-pliss-besok-udah-dikumpul-tolong-bngettt-540",
+            "question": "Bantu jawab pliss besok udah dikumpul\u200b \r\ntolong bngettt....",
+            "attachments": [
+                "question-attachments/bantu-jawab-pliss-besok-udah-dikumpul-tolong-bngettt-540-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1. </p><p>[tex] \\frac{ {a}^{ - 3} (6 {b}^{ - 2}  {)}^{2} {c}^{2}  }{9 {a}^{ - 2}  {c}^{4} }  \\\\  \\\\  \\frac{36 {b}^{ - 4} }{9a {c}^{2} }  \\\\  \\\\  \\frac{ {4b}^{ - 4} }{ {ac}^{2} }  \\\\  \\\\  \\frac{4}{a {c}^{2} {b}^{4}  }  =  \\frac{4}{ {ab}^{4}  {c}^{2} } [/tex]</p><p>2. </p><p>[tex] \\sqrt{21 + 4 \\sqrt{5} }  \\\\  \\\\  \\sqrt{(1 + 2 \\sqrt{5} {)}^{2}  }   = 1 + 2 \\sqrt{5} [/tex]</p><p>3. </p><p>[tex] \\sqrt{75}  + 2 \\sqrt{12}  -  \\sqrt{27}  \\\\  \\\\ 5 \\sqrt{3} + 4 \\sqrt{3}   - 3 \\sqrt{3}  = 6 \\sqrt{3} [/tex]</p><p>4. </p><p>[tex] {2}^{3}  \\times ( {2}^{2}  {)}^{3}  \\\\  \\\\  {2}^{3} \\times  {2}^{6}  =  {2}^{9}  [/tex]</p><p>5. </p><p>[tex] \\frac{4}{ \\sqrt{5 -  \\sqrt{3} } }  \\times  \\frac{ \\sqrt{5 -  \\sqrt{3} } }{ \\sqrt{5 -  \\sqrt{3} } }  \\\\  \\\\  \\frac{4 \\sqrt{5 -  \\sqrt{3} } }{5 -  \\sqrt{3} }  \\\\  \\\\  \\frac{4 \\sqrt{ 5 -  \\sqrt{3} } }{5 -  \\sqrt{3} }  \\times  \\frac{5 +  \\sqrt{3} }{5 +  \\sqrt{3} }  \\\\  \\\\  \\frac{4 \\sqrt{5 -  \\sqrt{3} } (5 +  \\sqrt{3} )}{25 - 3}  \\\\  \\\\ \\frac{4 \\sqrt{5 -  \\sqrt{3} } (5 +  \\sqrt{3} )}{22} \\\\  \\\\ \\frac{2 \\sqrt{5 -  \\sqrt{3} } (5 +  \\sqrt{3} )}{11} \\\\  \\\\  \\frac{10 \\sqrt{5 -  \\sqrt{3} }  + 2 \\sqrt{(5 -  \\sqrt{3}) }  \\times 3}{11} \\\\  \\\\   \\frac{10 \\sqrt{5 -  \\sqrt{3} }  + 2 \\sqrt{15 - 3 \\sqrt{3} } }{11}[/tex]</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kerjakan-dan-foto-caranya-sekarang-160",
+            "question": "Tolong kerjakan dan foto caranya sekarang\u200b",
+            "attachments": [
+                "question-attachments/tolong-kerjakan-dan-foto-caranya-sekarang-160-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>pahami jawabannya,jangan cuma copas doank </p>",
+                    "attachments": [
+                        "answer-attachments/tolong-kerjakan-dan-foto-caranya-sekarang-160-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-20-dari-barisan-aritmatika-2-58-adalah-215",
+            "question": "Suku ke-20 dari barisan aritmatika 2, 5,8 adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><h2><strong><em><u>59</u></em></strong></h2><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>a = 2</p><p>b = 5-2 = 3</p><p></p><p>Un = a+(n-1)b</p><p>Un = 2 +(n-1)3</p><p>Un = 2 + 3n = 3</p><p>Un = -1 + 3n</p><p>Un = 3n-1</p><p></p><p>U20 = 3n - 1</p><p>U20 = 3 x 20 - 1</p><p>U20 = 60-1</p><p>U20 = 59</p><p></p><p>JADIKAN JAWABAN TERBAIK JIKA ANDA MERASA TERBANTU\u2728</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3n=1</p><p>Suku ke 1=3.1 - 1=2</p><p>Suku ke 4=3.4 - 1=11</p><p>Suku ke 20=3.20 - 1= 59</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>59</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-1-34-2-141-13-adalah-510",
+            "question": "Hasil dari 1 3/4 \u22362 1/4+1 1/3 adalah \u2026",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1 3/4 : 2 1/4 + 1 1/3 </p><p></p><p>7/4 : 9/4 + 4/3 </p><p></p><p>7/4 \u00d7 4/9 + 4/3</p><p></p><p>7/9 + 4/3 </p><p></p><p>7/9 + 12/9 </p><p></p><p>19/9 = 2 1/9</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-lingkaran-dengan-pusat-20-dan-diameter-14-adalah-407",
+            "question": "Persamaan lingkaran dengan pusat(-2,0) dan diameter =14 adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>maaf tidak tahu............</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

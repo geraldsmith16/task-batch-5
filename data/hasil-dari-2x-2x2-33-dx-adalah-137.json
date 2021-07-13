@@ -1,0 +1,140 @@
+{
+    "question": "Hasil dari 2x (2x\u00b2 - 3)\u00b3 dx adalah\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>[tex]\\int\\limits {2x(2x^2-3)^3}\\,dx\\\\ misal:u=2x^2-3\\\\\\frac{du}{dx} =4x\\\\dx=\\frac{du}{4x}[/tex]</p><p>[tex]\\int\\limits {2x(2x^2-3)^3}\\,dx\\\\ \\\\=\\int\\limits {2x(u)^3}\\,\\frac{du}{4x} \\\\ \\\\=\\int\\limits {u^3}\\,\\frac{du}{2} \\\\ \\\\=\\frac{1}{2}\\int\\limits {u^3}\\,du \\\\ \\\\=\\frac{1}{2}.\\frac{1}{3+1} u^{3+1}\\\\\\\\=\\frac{1}{2}.\\frac{u^4}{4} \\\\\\\\=\\frac{u^4}{8}[/tex]</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "perbandingan-dari-15-banding-33-dan-40-banding-48-tolong-dijawab-657",
+            "question": "Perbandingan dari 15 banding 33 dan 40 banding 48 \r\ntolong dijawab dengan benar jangan ngasal \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3 : 5</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>48 : 16 = 3</p><p>80 : 16 = 5</p><p>jadi jawabannya 3 : 5</p><p></p><p>maaf klu salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx6x42x3-4x2x8untuk-x3-313",
+            "question": "F(x)=6x\u2074+2x\u00b3-4x\u00b2+x+8.untuk x=3\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>f(x) = 6x\u2074 + 2x\u00b3 - 4x\u00b2 + x + 8</p><p>f(3) = 6(3)\u2074 + 2(3)\u00b3 - 4(3)\u00b2 + (3) + 8</p><p>f(3) = 6(81) + 2(27) - 4(9) + 3 + 8</p><p>f(3) = 486 + 54 - 36 + 11</p><p>f(3) = 515</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kerucut-begaris-tengah-28-cm-dan-tingginya-40-cm-hitungla-315",
+            "question": "Sebuah kerucut begaris tengah 28 cm dan tingginya 40 cm.\r\nHitunglah volume kerucut tersebut!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Volume kerucut adalah <strong>8</strong><strong>.</strong><strong>2</strong><strong>1</strong><strong>3</strong><strong>,</strong><strong>3</strong><strong>3</strong><strong> </strong><strong>cm\u00b3</strong></p><p></p><h2>Pendahuluan</h2><p>Kerucut adalah limas yang bentuk alasnya berbentuk lingkaran. Kerucut memiliki daerah selimut yang berbentuk juring lingkaran. Sifat-sifat kerucut antara lain yaitu :</p><ol><li>Memiliki 2 sisi</li><li>Memiliki 1 sudut</li><li>Memiliki 1 rusuk lengkung</li></ol><p></p><h2>Penyelesaian</h2><h3>Diketahui</h3><ul><li>garis tengah (d) = 28 cm</li><li>jari-jari (r) = d \u00f7 2 = 28 \u00f7 2 \u2248 14 cm</li></ul><h3>Ditanyakan</h3><p>Volume kerucut</p><h3>Jawab</h3><p>Volume = \u2153 \u00d7 \u03c0r\u00b2t</p><p>              = \u2153 \u00d7 \u00b2\u00b2\u2215\u2087 \u00d7 14\u00b2 \u00d7 40</p><p>              = \u2153 \u00d7 \u00b2\u00b2\u2215\u2087 \u00d7 196 \u00d7 40</p><p>              = \u2153 \u00d7 22 \u00d7 28 \u00d7 40</p><p>              = 8.213,33 cm\u00b3</p><p></p><h2>Pelajari lebih lanjut</h2><ul><li>Rumus Volume Kerucut : <u>brainly.co.id/tugas/2480276</u></li><li>Rumus luas permukaan kerucut : <u>brainly.co.id/tugas/6404699</u></li><li>Sifat-sifat kerucut : <u>brainly.co.id/tugas/3166954</u></li></ul><h2>Detail jawaban</h2><p>Kelas : 9</p><p>Mapel : Matematika</p><p>Materi : Bab 5 \u2014 Bangun ruang sisi lengkung</p><p>Kode Mapel : 2</p><p>Kode Kategorisasi : 9.2.5</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-83-23-x-53-adalah-tolong-y-ka-459",
+            "question": "Hasil dari 8\u00b3 + 2\u00b3 x 5\u00b3 adalah ...... \r\ntolong y ka\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>8\u00b3+2\u00b3\u00d75\u00b3</p><p>=512+8\u00d7125</p><p>=1.512</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1512</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>8\u00b3 + 2\u00b3 x 5\u00b3 </p><p>512 + 8 \u00d7 125</p><p>1512</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-limit-fungsi-berikut-lim-8x3-823",
+            "question": "HITUNGLAH\r\n\r\n LiMiT FUNGSI BERIKUT?\r\n\r\n Lim 8x\u00b3=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Bab Limit</p><p></p><p>Matematika SMA Kelas XI</p><p></p><p></p><p>lim ((8x\u00b3 + 3x\u00b2 - 4x + 7) / (2x\u00b3 - 5x + 17))</p><p></p><p>x\u2192\u221e</p><p>perhatikan pangkat tertinggi saja</p><p></p><p>= 8x\u00b3 / 2x\u00b3</p><p></p><p>= 8/2</p><p></p><p>= 4</p><h3>penjelasan langah langkah:</h3><h3></h3><h3>\n</h3><h3> jika pangkat x dari a=pangkat x dari b</h3><h3></h3><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-rak-buku-dapat-memuat-42-eks-buku-yang-tebal-nya-5-mm-bera-756",
+            "question": "sebuah rak buku dapat memuat 42 eks buku yang tebal nya 5 mm berapa banyak buku yang tebal nya 14 mm dapat di taruh pada rak tersebut?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>15</strong><strong> </strong><strong>buku</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Sebuah rak memuat 42 buku dengan tebal 5 mm</p><p>maka, sebuah buku dapat menampung :</p><p>42 \u00d7 5 = 210 mm </p><p>jika tiap buku memiliki tebal 14 mm, maka :</p><p>210 \u00f7 14 = 15 buku</p><p></p><p><strong>JADI</strong><strong>,</strong><strong> </strong><strong>BANYAK</strong><strong> </strong><strong>RAK</strong><strong> </strong><strong>BUKU</strong><strong> </strong><strong>YANG</strong><strong> </strong><strong>DAPAT</strong><strong> </strong><strong>DITARUH</strong><strong> </strong><strong>DALAM</strong><strong> </strong><strong>RAK</strong><strong> </strong><strong>TERSEBUT</strong><strong> </strong><strong>ADALAH</strong><strong> </strong><strong>15</strong><strong> </strong><strong>BUKU</strong></p><p></p><p><strong>JANGAN LUPA JADIKAN JAWABAN TERBAIK YAA</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "disediakan-kawat-yang-panjangnya-6-m-akan-dibuat-kerangka-balok-b-634",
+            "question": "disediakan kawat yang panjangnya 6 m akan dibuat kerangka balok berukuran 13 cm*9cm*8 cm Tentukan banyak kerangka balok yang dapat dibuat\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>13+9+8=30     jadi 6\u00d7100=600:30=20 \u00f74=5 kerangka balok</p><p></p><p>semoga membantu kakak..</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-nilai-x-adalah-681",
+            "question": "Perhatikan gambar Nilai x adalah\u200b",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-nilai-x-adalah-681-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>120\u2070 = (7x + 8)</p><p>120\u2070 - 8\u2070 = 7x</p><p>112\u2070 = 7x</p><p>16\u2070 = x</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>#semogamembantu #maafkalausalah </p><p>-thank you-</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-balok-kayu-di-atas-adalah-jawab-ya-633",
+            "question": "Volume Balok Kayu Di Atas Adalah\r\n\r\n\r\nJawab Ya:))\u200b",
+            "attachments": [
+                "question-attachments/volume-balok-kayu-di-atas-adalah-jawab-ya-633-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>V= P\u00d7l\u00d7t</p><p>   = 50\u00d720\u00d715</p><p>   = <em><u>1</u></em><em><u>5</u></em><em><u>.</u></em><em><u>0</u></em><em><u>0</u></em><em><u>0</u></em></p><p></p><h2><strong>Maaf</strong><strong> </strong><strong>kakak</strong><strong> </strong><strong>kalau</strong><strong> </strong><strong>salah</strong><strong>.</strong><strong>.</strong><strong>.</strong></h2><p><strong>Semoga</strong><strong> </strong><strong>membantu</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Diketahui :</p><p>P = 50 cm</p><p>L = 20 cm</p><p>t = 15 cm</p><p></p><p>Ditanya : Volume </p><p></p><p>Dijawab :</p><p>V =  P \u00d7 L \u00d7 t</p><p>V = 50 \u00d7 20 \u00d7 15</p><p>V = 15,000 cm3</p><p></p><p><strong>JANGAN LUPA JADIKAN JAWABAN TERBAIK YAA</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-ya-ka-jangan-ngasal-842",
+            "question": "Tolong jawab ya ka jangan ngasal\u200b",
+            "attachments": [
+                "question-attachments/tolong-jawab-ya-ka-jangan-ngasal-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>34. 54 cm\u00b2</p><p>35. 225 cm\u00b2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>34. 2 x ( p + l )</p><p>= 2 x ( 20 + 7 )</p><p>= 2 x 27</p><p>= 54 cm\u00b2</p><p></p><p>35. s x s</p><p>= 15 x 15</p><p>= 225 cm\u00b2</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1. kel. persegi panjang </p><p>=2*p + 2*l </p><p>= 2*20 + 2*7</p><p>=54 cm</p><p></p><p>2. luas persegi = s*s</p><p> 15*15 = 225 cm\u00b2</p><p> </p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

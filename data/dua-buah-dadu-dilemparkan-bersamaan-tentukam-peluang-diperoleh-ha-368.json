@@ -1,0 +1,162 @@
+{
+    "question": "Dua buah dadu dilemparkan bersamaan tentukam peluang diperoleh hasil 7",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>jawaban: </p><p>peluang hasil 7 adalah 1/6</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2 buah dadu maka s(n)=36</p><p></p><p>hasil 7= (1,6),(2,5),(3,4),(5,2),(6,1),(4,3)</p><p>mana A(n)=6</p><p></p><p>P= A(n)/S(n)</p><p>  = 6/36</p><p>  = 1/6</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-mobil-mermelukan-5-liter-bensin-untuk-menempuh-jarak-60-km-895",
+            "question": "Sebuah mobil mermelukan 5 liter bensin untuk menempuh jarak 60 km.jika mobil menghabiskan 40 liter bensin maka jarak yg di tempuh ada lah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>40/5=x/60</p><p>5x= 40x60</p><p>5x=2,400</p><p>x=2,400/5</p><p>x=480</p><p>jadi jika mobil menghabiskan 40 liter bensin maka jarak yang ditempuh adalah sejauh 480km. </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nomor-9-dan-nomor-10-bantuin-kak-928",
+            "question": "Nomor 9 dan nomor 10 bantuin kak\u200b",
+            "attachments": [
+                "question-attachments/nomor-9-dan-nomor-10-bantuin-kak-928-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p> <strong>Pengumpulan data dapat dikumpulkan dengan</strong><strong> </strong><strong>cara :</strong></p><p></p><ol><li>Wawancara</li><li>Quisioner</li><li>Observasi</li></ol><p></p><h2>Pembahasan</h2><p></p><p>\u272f    <strong>Statistika</strong> adalah pengetahuan yang saling berhubungan dengan cara-cara pengumpulan data, pengolahan, Dan penarikan kesimpulan dari sebuah daya yang diperoleh.</p><p></p><ul><li>   <strong>Populasi</strong><strong> </strong>adalah himpunan semua objek yang menjadi sebuah sasaran pengamatan.</li></ul><p></p><ul><li>   <strong>Sam</strong><strong>pel </strong>adalah himpunan bagian dari  sebuah populasi yang di ambil secara acak untuk dijadikan objek pengamatan secara langsung dan dapat dijadikan dasar dalam penarikan kesimpulan</li></ul><p></p><p><strong><u>Pengumpulan</u></strong><strong><u> </u></strong><strong><u>Data</u></strong></p><p></p><p>Data dapat dibagi menjadi dua, yaitu sebagai berikut :</p><p></p><ol><li>Data kuantitatif adah data yang terbentuk angka/bilangan</li><li>Data kualitatif adalah data yang bukan terbentuk angka/bilangan</li></ol><p></p><p>Data Kuantitatif terbagi menjadi dua bagian, yaitu :</p><p></p><ul><li>Data cacahan (diskrit), data yang      diperoleh dengan cara menghitung</li><li>Data ukuran (kontinu), data yang diperoleh dengan cara mengukur. </li></ul><p></p><p>Data dapat dikumpulkan antara lain dengan cara wawancara, lembar pertanyaan (quisioner), pengamatan (observasi), mengolah atau menggunakan data yang sudah ada.</p><p></p><p><strong><u>Penyajian</u></strong><strong><u> </u></strong><strong><u>Data</u></strong></p><p></p><p>Data yang kita peroleh dari suatu hasil penelitian atau pengukuran dapat berupa data sederhana atau tunggal atau data dikelompokkan.</p><p></p><p>Penyajian data dapat di sajikan dalam bentuk :</p><p></p><ul><li>Tabel</li><li>Diagram (batang, garis, lingkaran gambar/piktogram)</li></ul><p></p><p><strong><u>Mencari</u></strong><strong><u> </u></strong><strong><u>Sudut </u></strong><strong><u>Dalam </u></strong><strong><u>Statistika</u></strong></p><p></p><p>[tex]{{{\\boxed{\\ \\: \\tt  \\frac{frekuensi}{jumlah \\: frekuensi} \\times 360 ^{o}    \\:\\:\\:}}}}[/tex]</p><p></p><p><strong><u>Mencari Persentase Dalam </u></strong><strong><u>Statistika</u></strong></p><p></p><p><strong><u>[tex]{{{\\boxed{\\ \\: \\tt  \\frac{frekuensi}{jumlah \\: frekuensi} \\times 100\\%   \\:\\:\\:}}}}[/tex]</u></strong></p><p></p><h3></h3><h3>Pelajari Lebih Lanjut</h3><p></p><ol><li>Materi tentang diagram batang :                           brainly.co.id/tugas/15939697</li><li>Materi tentang Ukuran tedensi sentral :                                             brainly.co.id/tugas/17623908</li><li>Materi tentang diagram :                           brainly.co.id/tugas/22388912</li></ol><p></p><h3>DETAIL JAWABAN </h3><p></p><p>Kelas : 7</p><p>Mapel : Matematika</p><p>Bab : 9 - Statistika</p><p>Kode : 7.2.9</p><p>Kata Kunci : Mengumpulkan Data, Penyajian Data, Diagram Lingkaran</p><p></p><p>#BelajarBersamaBrainly</p>",
+                    "attachments": [
+                        "answer-attachments/nomor-9-dan-nomor-10-bantuin-kak-928-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "terdapat-dua-buah-persegi-yaitu-persegi-a-dan-persegi-b-peesegi-a-239",
+            "question": "terdapat dua buah persegi yaitu persegi A dan persegi B peesegi A mempunyai panjang sisi 46cm sedangkan panjang sisi persegi B adalah 8cm lebih pendek dari persegi A berapakah selisih keliling persegi A dan B? bantuin dong\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Selisih keliling persegi A dan persegi B adalah <u>32 cm</u></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Keliling persegi A</p><p>= 4 \u00d7 sisi</p><p>= 4 \u00d7 46 cm</p><p>= 184 cm</p><p></p><p>Keliling persegi B</p><p>= 4 \u00d7 sisi</p><p>= 4 \u00d7 (sisi persegi A - 8 cm)</p><p>= 4 \u00d7 (46 cm - 8 cm)</p><p>= 4 \u00d7 38 cm</p><p>= 152 cm</p><p></p><p>Selisih keliling persegi A dan persegi B</p><p>= Keliling persegi A - Keliling persegi B</p><p>= 184 cm - 152 cm</p><p>= 32 cm</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Persegi A</p><p>sisi: <strong>46 cm</strong></p><p>keliling = 4 x s </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 x 46 </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = <strong>184 cm\u00b2</strong></p><p>Persegi B </p><p>sisi: 46 - 8 = <strong>38 cm </strong></p><p>keliling = 4 x s</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 x 38 </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = <strong>152 cm\u00b2</strong></p><p>184 - 152 = <u><strong>32 cm</strong></u></p><p><u><strong></strong></u></p><p><u><strong>Semangat belajarnya :D</strong></u></p><p><u><strong>Semoga sukses!</strong></u></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-kk-bg-de-plis-mohon-di-bantu-besok-di-kumpul-nnti-sa-294",
+            "question": "Tolong jawab kk bg de    plis mohon di bantu\r\nbesok di kumpul \r\nnnti saya folow \r\n\r\ntentukan besar untung / rugi nya \u200b",
+            "attachments": [
+                "question-attachments/tolong-jawab-kk-bg-de-plis-mohon-di-bantu-besok-di-kumpul-nnti-sa-294-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Rugi = 5.100</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p> Semoga membantu hehe</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "20-penyajian-data-yang-paling-tepat-untuk-menggambarkan-jenis-pe-388",
+            "question": "20. Penyajian data yang paling tepat untuk    menggambarkan jenis persentase jenis pekerjaan\r\norang tua siswa kelas 7 adalah...\r\na. diagram batang\r\nc. diagram baris\r\nb. diagram lingkaran\r\nd. diagram lambang\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>B. diagram lingkaran</p><p></p><p>semoga membantu.</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>diagram lingkaran</p><p></p><p>maaf kalo slh!</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "notif-sepi-kka-882-612-190-142-172-457",
+            "question": "Notif sepi kka , :)    88\u00b2 - 61\u00b2 = . . .\r\n190 + 14\u00b2 = . . .\r\n17\u00b2 + 188 = . . .\r\n\r\nCara ! \r\n\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>88\u00b2 - 61\u00b2 = 4.023</p><p>190 + 14\u00b2 = 386</p><p>17\u00b2 + 188 = 477</p><h2>\u2712PEMBAHASAN</h2><p>Definisi dari bilangan berpangkat adalah perpangkatan perkalian berulang dari sebuah bilangan dengan bilangan itu tersendiri. Bilangan berpangkat juga merupakan perpangkatan dengan bentuk sederhana dari perkalian yang berulang-ulang.</p><p></p><h2>\u270e PENYELESAIAN</h2><p>1). 88\u00b2 - 61\u00b2</p><p>  = (88\u00d788) - (61\u00d761)</p><p>  = 7.744 - 3.721</p><p>  = <strong><u>4.023</u></strong></p><p></p><p>2). 190 + 14\u00b2</p><p>  = 190 + (14\u00d714)</p><p>  = 190 + 196</p><p>  = <strong><u>3</u></strong><strong><u>8</u></strong><strong><u>6</u></strong></p><p></p><p>3). 17\u00b2 + 188</p><p>  = (17\u00d717) + 188</p><p>  = 289 + 188</p><p>  = <strong><u>4</u></strong><strong><u>7</u></strong><strong><u>7</u></strong></p><p></p><h3>\u2712 Kesimpulan</h3><p>1. Hasil dari 88\u00b2 - 61\u00b2 adalah <strong>4</strong><strong>.</strong><strong>0</strong><strong>2</strong><strong>3</strong></p><p>2. Hasil dari 190 + 14\u00b2 adalah <strong>3</strong><strong>8</strong><strong>6</strong></p><p>3. Hasil dari 17\u00b2 + 188 adalah <strong>4</strong><strong>7</strong><strong>7</strong></p><p></p><h3>\u2712 PELAJARI LEBIH LANJUT:</h3><p>\u2022 Pengertian dari bilangan berpangkat: brainly.co.id/tugas/6661348</p><p>\u2022 Sifat-sifat dari bilangan berpangkat: brainly.co.id/tugas/311484</p><p>\u2022 Soal bilangan berpangkat: brainly.co.id/tugas/3236302</p><h3>\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f\u272f</h3><p></p><h2>Detail Jawaban:</h2><p>\u270fMapel: Matematika</p><p>\u270fKelas: 9</p><p>\u270fMateri: Perpangkatan dan bentuk akar</p><p>\u270fKode: 2</p><p>\u270fKode Kategorisasi: 9.2.1</p><p>\u270fKata Kunci : Penjumlahan dan pengurangan bilangan berpangkat</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>#KoreksiYaKak</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>88\u00b2 - 61\u00b2 </p><p>= ( 88 \u00d7 88 ) - ( 61 \u00d7 61 )</p><p>= 7.744 - 3.721</p><p><strong>=</strong><strong> </strong><strong>4.023</strong></p><p></p><p><strong>&lt;</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>&gt;</strong></p><p></p><p>190 + 14\u00b2 </p><p>= 190 + 196</p><p><strong>=</strong><strong> </strong><strong>3</strong><strong>8</strong><strong>6</strong></p><p></p><p><strong>&lt;</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>&gt;</strong></p><p></p><p>17\u00b2 + 188</p><p>= ( 17 \u00d7 17 ) + 188</p><p>= 289 + 188</p><p><strong>=</strong><strong> </strong><strong>4</strong><strong>7</strong><strong>7</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-berikut-c-20cm-13cm-0-5cm-a-b-hitunglah-luas-da-145",
+            "question": "Perhatikan gambar berikut    C\r\n20cm\r\n13cm\r\n0 5cm A\r\nB\r\nHitunglah luas dan keliling segitiga ABC!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Tolong tulis soalnya nya dengan benarr.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-luas-segitiga-pqr-tersebut-471",
+            "question": "Tentukan luas segitiga pqr tersebut\u200b",
+            "attachments": [
+                "question-attachments/tentukan-luas-segitiga-pqr-tersebut-471-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1/2 x alas x tinggi</p><p>= 1/2 x 5 cm x 13 cm</p><p>=......</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>sya cuma memberi rumus saja:)</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>L= \u00bd\u00d7a\u00d7t</p><p>=\u00bd\u00d75\u00d713</p><p>=2,5\u00d713</p><p>=32,5 cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pakai-cara-kakmakasih-313",
+            "question": "Pakai cara kak.makasih\u200b",
+            "attachments": [
+                "question-attachments/pakai-cara-kakmakasih-313-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><h3></h3><p>langkah pengerjaan ada pada lampiran di atas</p>",
+                    "attachments": [
+                        "answer-attachments/pakai-cara-kakmakasih-313-1.jpg",
+                        "answer-attachments/pakai-cara-kakmakasih-313-2.jpg"
+                    ]
+                },
+                {
+                    "answer": "<h2>Jawaban ada pada gambar</h2><p><strong>TERIMAKASIH</strong><strong>.</strong></p>",
+                    "attachments": [
+                        "answer-attachments/pakai-cara-kakmakasih-313-1.jpg",
+                        "answer-attachments/pakai-cara-kakmakasih-313-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "ok-google-diketahui-dua-lingkaran-dengan-jari-jari-berbeda-jika-j-252",
+            "question": "Ok google diketahui dua lingkaran dengan jari-jari berbeda jika jarak kedua pusat lingkaran 20 cm panjang jari-jari lingkaran besar 10 cm dan jari-jari lingkaran kecil 2 cm maka panjang garis singgung persekutuan dalam kedua lingkaran adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><ol><li>hhoh</li><li>huuoo</li><li>hujihhhyyyyyu</li></ol><p><strong>Penjelasan dengan langkah-langkah:</strong></p><ul><li>HH+hghhjk</li><li>hhjhop</li></ul>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>jarak kedua pusat lingkaran maka kita simbolkan sebagai</p><p>p = 20cm</p><p>jari jari lingkaran besar di simbolkan R</p><p>R = 10cm</p><p>jari jari lingkaran kecil di simbolkan r</p><p>r = 2cm</p><p></p><p>yang di tanya adalah panjang garis singgung persekutuan dalam, kita simbolkan d</p><p>d?</p><p></p><p>rumus nya adalah</p><p>d = \u221ap\u00b2-\u221a(R+r)\u00b2</p><p>d = \u221a20\u00b2-\u221a(12)\u00b2</p><p>d = 20-12</p><p>d = 8cm</p><p></p><p>jadikan jawaban yang terbaik jika jawaban ini benar :) terima kasih</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

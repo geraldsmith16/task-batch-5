@@ -1,0 +1,134 @@
+{
+    "question": "Sebuah mesin Carnot dengan reservoir suhu tinggi 800 K dan reservoir suhu rendah 200 K, tentukan efisiensi nya!\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Effisiensi mesin = 75%</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>MESIN CARNOT</p><p>Siklus mesin carnot terdiri atas</p><p>2 proses isotermis</p><p>2 proses adiabatis</p><p></p><p>Proses pertama  ekspansi isotermis pada suhu T1 (suhu reservoir tinggi). Mesin menyerap kalor Q1.</p><p>Proses kedua ekpansi adiabatis, tidak ada kalor yg keluar atau masuk sistem. Pada kedua proses tadi gas melakukan usaha ( W positif) yg ditandai dengan volume sistem bertambah atau ekspansi.</p><p>Proses ketiga kompresi isotermis pada suhu T2 (suhu reservoir rendah).</p><p>Proses keempat kompresi adiabatis dimana sistem kembali ke kondisi awal. Pada kedua pproses terakhir sistem dikenai kerja (W negatif) yg ditandai dengan berkurangnya volume sistem atau kompresi.</p><p>Pada siklus carnot ini perubahan energi dalam (\u0394U) sama dengan nol</p><p>Hubungan Usaha dan kalor dinyatakan dengan</p><p>Q1 = W + Q2</p><p>W = Q1 - Q2</p><p>Effisiensi mesin atau riil dinyatan dengan</p><p>\u03b7 mesin/rill = W/Q1 = (Q1 - Q2)/ Q1 = [ 1 - Q2/ Q1 ] 100%</p><p>Effisuensi maksimum dinyatakan dengan</p><p>\u03b7 maksimum = (T1 - T2)/ T1 = [1 - T2/T1] 100%</p><p>Keterangan\u03b7</p><p>Q1 = Kalor serap pada T1 ( J)</p><p>Q2 = Kalor buang pada T2 (J)</p><p>W = Usaha/Kerja mesin (J)</p><p>T1 = Suhu reservoir tinggi ( K)</p><p>T2 = Suhu reservoir rendah (K)</p><p></p><p>Diketahui</p><p>T1 = 800 K</p><p>T2= 200 K</p><p>Ditanya</p><p>Besar effisiensi mesin</p><p>Penyelesaian</p><p>\u03b7   = [1 - T2/T1] 100%</p><p>     = [1 - 200/800] 100%</p><p>     = [1 - 1/4] 100 %</p><p>      = 75 %</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "7525-brapa-nilai-511",
+            "question": "-75+.....=25 brapa nilai...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>50 jawabannya</p><p><strong>Penjelasan:</strong></p><p>maap kalo salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>-75 + n = 25</p><p>n = 25 + 75 </p><p>n = 100</p><p></p><p>-75 + 100 = 25 </p><p></p><p>semoga membantu</p><p> </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-awal-udara-didalam-ban-adalah-350-kpa-dengan-suhu-25cs-526",
+            "question": "Tekanan awal udara didalam ban adalah 350 KPa Dengan suhu 25\u00b0C.setelah ban mengalami perjalanan,maka tekanan udara di dalam ban menjadi 490 KPa jika pemuaian ban di abaikan,maka berapakah suhu di dalam ban\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>150\u00b0C</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah hehehehehehehe</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-yang-bukan-termasuk-jenis-jenis-rapat-yang-bersifat-ti-977",
+            "question": "Salah satu yang bukan termasuk jenis-jenis rapat yang bersifat tidak mengikat adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>rapat desa,rapat ormas,rapat rt/rw</p><p><strong>Penjelasan:</strong></p><p>ya karena rapat itu tidak mengikat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yah-bsok-deadline-pada-sebuah-meja-billiard-terdapat-2-bu-474",
+            "question": "Tolong yah bsok deadline    pada sebuah meja billiard, terdapat 2 buah bola yang bermassa sama yaitu 1 kg. seorang pemain billiard memberikan gaya sebesar 100 n selama 0,1 detik pada salah satu bola (tepat pada pusat bola) hingga menyebabkan benda bergerak dengan kecepatan tertentu. kemudian, bola ini menumbuk bola lain pada meja billiard tepat pada pusat bola tersebut. maka, kecepatan bola tersebut setelah tumbukan adalah (anggap tumbukan terjadi secara elastik) ...\r\n\r\na. 10 m/s\r\n\r\nb. 20 m/s\r\n\r\nc. 30 m/s\r\n\r\nd. 0,1 m/s\r\n\r\ne. 1 m/s\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong><em>c</em></strong><strong><em>. </em></strong><strong><em> </em></strong><strong><em> </em></strong></p><p></p><p></p><p><strong><em>penjelasan </em></strong><strong><em>:</em></strong></p><p><strong><em>maaf </em></strong><strong><em>klok </em></strong><strong><em>salah</em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-bantuin-no-8-11-ya-besok-dikumpul-180",
+            "question": "Kak Tolong bantuin No 8-11 ya besok dikumpul\u200b",
+            "attachments": [
+                "question-attachments/kak-tolong-bantuin-no-8-11-ya-besok-dikumpul-180-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>8.C</p><p>9.A</p><p>10.A</p><p>11.E</p><p><strong>Penjelasan:</strong></p><p>untuk penjelasannya bisa dm ig saya @pernahadaa_</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-planet-p-dan-q-mengorbit-matahari-apabila-perbandingan-jarak-372",
+            "question": "Dua planet P dan Q mengorbit matahari apabila perbandingan jarak antara planet P dan planet Q terhadap matahari adalah 64 banding 25 dan periode planet B mengelilingi matahari 128 hari maka hitunglah periode planet Q mengelilingi matahari\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p>Pendahuluan :</p><p>Hi teman-teman, saya akan mencoba untuk menjawab pertanyaanmu. Jangan lupa dibaca bagian pembahasannya juga ya agar lebih mantap pendalaman materinya.</p><p></p><p>Langkah Penyelesaian :</p><p>Diketahui :</p><p></p><p>Rp : Rq = perbandingan jarak ke matahari = 4 : 9</p><p>Tp = periode planet P = 24 hari</p><p>Ditanya : Tq = periode planet Q = .... hari</p><p></p><p>Jawaban :</p><p></p><p>\\begin{gathered}\\frac {T_p\\:^{2}}{R_p\\:^{3}} = \\frac {T_q\\:^{2}}{R_q\\:^{3}} \\\\ \\frac {24^{2}}{4^{3}} = \\frac {T_q\\:^{2}}{9^{3}} \\\\ \\frac{(8 \\times 3)^{2} }{( {2}^{2} )^{3}} = \\frac {T_q\\:^{2}}{( {3}^{2}) ^{3}} \\\\ \\frac{( {2}^{3} \\times 3)^{2} }{ {2}^6} = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ \\frac{ \\cancel {{2}^{6}} \\times {3}^{2} }{\\cancel {{2}^{6}} } = \\frac {T_q\\:^{2}}{ {3}^6} \\\\ {3}^{2} \\times {3}^{6} = {T_q\\:^{2}} \\\\ {3}^{8} = {T_q\\:^{2}} \\\\ \\sqrt{ {3}^{8} } = T_q \\\\ {3}^{ \\frac{8}{2} } = {T_q} \\\\ {3}^{4} = {T_q} \\\\ 81 \\: hari = T_q \\: \\end{gathered} </p><p>R </p><p>p</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>p</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>q</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>4 </p><p>3</p><p> </p><p>24 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>9 </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>(2 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>(8\u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>(3 </p><p>2</p><p> ) </p><p>3</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p>(2 </p><p>3</p><p> \u00d73) </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>2 </p><p>6</p><p> </p><p> </p><p>2 </p><p>6</p><p> </p><p> \u00d73 </p><p>2</p><p> </p><p>\t</p><p> = </p><p>3 </p><p>6</p><p> </p><p>T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>3 </p><p>2</p><p> \u00d73 </p><p>6</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> =T </p><p>q</p><p>\t</p><p>  </p><p>2</p><p> </p><p>3 </p><p>8</p><p> </p><p>\t</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>2</p><p>8</p><p>\t</p><p> </p><p> =T </p><p>q</p><p>\t</p><p> </p><p>3 </p><p>4</p><p> =T </p><p>q</p><p>\t</p><p> </p><p>81hari=T </p><p>q</p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Jadi, periode planet Q mengelilingi matahari adalah selama 81 hari.</p><p></p><p><strong>Penjelasan:</strong></p><p>Pada hukum Kepler III ini kita membandingkan besarnya perbandingan antara hubungan periode dengan jari-jari orbit suatu planet. Karena berwujud perbandingan yang tidak tetap satuannya, maka satuan dapat disesuaikan sesuai dengan soal. Namun, secara umum hukum Kepler III ini dapat dirumuskan dengan :</p><p></p><p>\\boxed {\\bold {\\frac {T_a\\:^{2}}{R_a\\:^{3}} = \\frac {T_b\\:^{2}}{R_b\\:^{3}}}} \\: </p><p>R </p><p>a</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>a</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> = </p><p>R </p><p>b</p><p>\t</p><p>  </p><p>3</p><p> </p><p>T </p><p>b</p><p>\t</p><p>  </p><p>2</p><p> </p><p>\t</p><p> </p><p>\t</p><p> </p><p></p><p>Dengan ketentuan :</p><p></p><p>Ta = periode planet A (tahun)</p><p>Tb = periode planet B (tahun)</p><p>Ra = jarak planet A ke matahari (km)</p><p>Rb = jarak planet B ke matahari (km)</p><p>a dan b dapat diganti dengan huruf apapun sesuai dengan soal, karena tidak memengaruhi penghitungan</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gaya-f-bekerja-pada-benda-yang-bermasa-ml-menghasilkan-4-ms2-j-963",
+            "question": "Gaya f bekerja pada benda yang bermasa ml menghasilkan 4 m/s\u00b2. Jika gaya f ini bekerja    pada benda kedua yang bermasa m2 dan menghasilkan percepatan 12 m/s? berapakah nilai ml\r\ndan m2?\r\n\r\nmksih bnyak bgi yg sudah menjawab\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Jawaban:M\u00b9 = 3</strong></p><p><strong>Jawaban:M\u00b9 = 3M\u00b2 = 1</strong></p><p><strong>Jawaban:M\u00b9 = 3M\u00b2 = 1Penjelasan:</strong></p><p><strong>Jawaban:M\u00b9 = 3M\u00b2 = 1Penjelasan:F, M\u00b9,A =  4 M / S\u00b2      </strong></p><p><strong>Jawaban:M\u00b9 = 3M\u00b2 = 1Penjelasan:F, M\u00b9,A =  4 M / S\u00b2      F, M\u00b2,A = 12 M / S</strong></p><p><strong>Jawaban:M\u00b9 = 3M\u00b2 = 1Penjelasan:F, M\u00b9,A =  4 M / S\u00b2      F, M\u00b2,A = 12 M / SM\u00b9 = 12 = 3</strong></p><p><strong>Jawaban:M\u00b9 = 3M\u00b2 = 1Penjelasan:F, M\u00b9,A =  4 M / S\u00b2      F, M\u00b2,A = 12 M / SM\u00b9 = 12 = 3M\u00b2 = 4 = 1</strong></p><p><strong>Jawaban:M\u00b9 = 3M\u00b2 = 1Penjelasan:F, M\u00b9,A =  4 M / S\u00b2      F, M\u00b2,A = 12 M / SM\u00b9 = 12 = 3M\u00b2 = 4 = 1JADI, NILAI M\u00b9 DAN M\u00b2 ADALAH 3 DAN 1</strong></p><p></p><p><strong>Jawaban:M\u00b9 = 3M\u00b2 = 1Penjelasan:F, M\u00b9,A =  4 M / S\u00b2      F, M\u00b2,A = 12 M / SM\u00b9 = 12 = 3M\u00b2 = 4 = 1JADI, NILAI M\u00b9 DAN M\u00b2 ADALAH 3 DAN 1SEMOGA MEMBANTU ^_^</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-gaya-gravitasi-ditentukan-oleh-239",
+            "question": "Besar gaya gravitasi ditentukan oleh\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>massa dan bentuk benda </p><p><strong>Penjelasan:</strong></p><p>semoga membantu </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>masa benda</p><p>dan jarak (ketinggian)</p><p>antara kedua benda</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-cara-nya-dung-kak-hari-ini-harus-di-kumpulin-pls-kak-188",
+            "question": "Minta cara nya dung kak hari ini harus di kumpulin pls kak",
+            "attachments": [
+                "question-attachments/minta-cara-nya-dung-kak-hari-ini-harus-di-kumpulin-pls-kak-188-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.4 m/s bener</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalor-yang-digunakan-untuk-meleburkan-01kg-es-pada-suhu-0-adal-479",
+            "question": "Kalor yang digunakan untuk meleburkan 0,1kg es pada suhu 0\u00b0 adalah\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kalor untuk melebur 0,1 kg es = 33600 J</p><p></p><p><strong>Penjelasan:</strong></p><p>Diketahui</p><p>m es = 0,1 kg</p><p>To = 0\u00b0C</p><p>Ditanya</p><p>Kalor yg dibutuhkan untuk melebur esn diatas</p><p>Penyelesaian</p><p>Kalor untuk mengubah wujud</p><p>(Saat perubahan wujud, suhu tetap)</p><p>Q = m x L</p><p>m= massa benda (kg)</p><p>L = kalor laten (J/kg)</p><p></p><p>Kalor untuk melebur es</p><p>(L lebur = 336 000 J/kg)</p><p>Q = m x L lebur</p><p>    = 0,1 x 336 000</p><p>    = 33600 J</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

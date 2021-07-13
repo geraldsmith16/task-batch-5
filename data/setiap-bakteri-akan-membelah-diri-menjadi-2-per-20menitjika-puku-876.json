@@ -1,0 +1,144 @@
+{
+    "question": "Setiap bakteri akan membelah diri menjadi 2 per 20menit.Jika pukul 10:00 banyak bakteri 25,banyak bakteri pukul 11:20 adalah    sama caranya ya biar mengerti\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2>Diketahui</h2><ul><li>Pada Jam 10:00 Jumlah awal virus = <strong>25</strong></li></ul><ul><li>Kemudian masing masing virus membelah diri menjadi dua setiap <strong>20 menit</strong></li></ul><h2>Ditanya</h2><ul><li>Jumlah total virus setelah Jam 11:20 = ..?</li></ul><h2>Pembahasan</h2><p>Karena masing-masing virus membelah diri setiap 20 menit, Maka terdapat <strong>4 kali</strong> pembelahan diri. Sehingga diperoleh</p><p>[tex]= 25 \\times 2\\times 2\\times 2\\times 2[/tex]</p><p>[tex]= 25\\times2^4[/tex]</p><p>[tex]= \\boxed{400}[/tex]</p><p>Jadi, Jumlah total virus setelah jam 11:20 kemudian adalah <strong>400</strong></p><h2>Semoga membantu</h2>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bantu-jawab-laaaaa-144",
+            "question": "BANTU JAWAB LAAAAA!!!!",
+            "attachments": [
+                "question-attachments/bantu-jawab-laaaaa-144-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> maaf aku nggak ngerti kak</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-jarum-jam-menunjukkan-pukul-0900-maka-jarum-panjang-dan-jar-591",
+            "question": "jika jarum jam menunjukkan pukul 09.00 maka jarum panjang dan jarum pendek akan membentuk sudut sebesar... \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p><strong>Jika</strong><strong> </strong><strong>jarum</strong><strong> </strong><strong>jam</strong><strong> </strong><strong>menunjukkan</strong><strong> </strong><strong>pukul</strong><strong> </strong><strong>0</strong><strong>9</strong><strong>.</strong><strong>0</strong><strong>0</strong><strong>,</strong><strong> </strong><strong>maka</strong><strong> </strong><strong>jarum</strong><strong> </strong><strong>jam</strong><strong> </strong><strong>dan</strong><strong> </strong><strong>jarum</strong><strong> </strong><strong>pendek</strong><strong> </strong><strong>akan</strong><strong> </strong><strong>membentuk</strong><strong> </strong><strong>sudut</strong><strong> </strong><strong>sebesar</strong><strong> </strong><strong>9</strong><strong>0</strong><strong>\u00b0</strong><strong> </strong></p><p></p><p><strong>Semoga</strong><strong> </strong><strong>membantu</strong><strong> </strong><strong>dan</strong><strong> </strong><strong>tetap</strong><strong> </strong><strong>semangat</strong><strong> </strong><strong>belajar</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p></p><p>Begitupun dengan pukul 09.00. Secara teori, perputaran pada pukul 09.00 membentuk sudut 270. Karena Perputaran jam membentuk sudut 360, maka aslinya sudut yang dibentuk pukul 09.00 sama saja dengan 360 - 270 = 90 derajat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-jawabbbbbbbbbb-729",
+            "question": "Bantuin jawabbbbbbbbbb",
+            "attachments": [
+                "question-attachments/bantuin-jawabbbbbbbbbb-729-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>(3,-9,6)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>3c-2b+a=3(3,-1,2)-2(5,4,1)+(4,22)</p><p>             = (9,-3,6)-(10,8,2)+(4,2,2)</p><p>             = (9-10+4,-3-8+2,6-2+2)</p><p>             = (3,-9,6)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mula-mula-terdapat-2-virus-corona-jika-virus-koronatersebut-membe-558",
+            "question": "mula mula terdapat 2 virus Corona jika virus koronatersebut membelah diri menjadi 2 setiap 4 jam,maka jumlah virus koronatersebut setelah 24 jam adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Diketahui</h2><ul><li>Jumlah awal virus = <strong>2</strong></li></ul><ul><li>Kemedian masing masing virus membelah diri menjadi dua setiap <strong>4 Jam</strong></li></ul><h2>Ditanya</h2><ul><li>Jumlah total virus setelah 24 Jam = ..?</li></ul><h2>Pembahasan</h2><p>Karena masing-masing virus membelah diri setiap 4 Jam, Maka terdapat 6 kali pembelahan diri. Sehingga diperoleh</p><p>[tex]= 2 \\times 2\\times 2\\times 2\\times 2\\times 2 \\times 2[/tex]</p><p>[tex]= 2^7[/tex]</p><p>[tex]= \\boxed{128}[/tex]</p><p>Jadi, Jumlah total virus setelah 24 jam kemudian adalah <strong>128</strong></p><h2>Semoga membantu</h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "18-perhatikan-gambar-berikut-4y-27-2y-15-nilai-y-adal-109",
+            "question": "18. Perhatikan gambar berikut    (4y - 27)\"\r\n(2y + 15)\u00b0\r\nNilai y adalah...\r\nA. 43\r\nB. 17\r\nC. 13\r\nD. 9\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>4y-27=0</p><p>2y+15=17 jadi nilai y adalah 17</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-lingkaran-yang-berpusat-di-titik-p-dan-q-jari-jari-ling-793",
+            "question": "Dua buah lingkaran yang berpusat di titik P dan Q, jari-jari lingkaran P adalah 7 cm dan jari-jari lingkaran Q adalah 5 cm. Jarak kedua pusat lingkaran tersebut 15 cm. sehingga panjang garis singgung persekutuan dalam kedua lingkatran tersebut adalah \u2026.    help",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>terjemahkan Tujuan Organisasi Budi Utomo adalah Kemajuan Jawa dan Madura Sampai akhirnya tujuan organisasi Budi Utomo diperluas dengan jangkauan yang kelak memungkinkan berdirinya organisasi Budi Utomo. ... Tak lama, tujuan organisasi Budi Utomo berubah menjadi memperoleh kemajuan yang harmonis bagi nusa dan bangsa di Jawa dan Madura dari Melayu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-luas-bidang-di-bawah-adalahpersegi-satuan-138",
+            "question": "1. Luas bidang di bawah adalah........persegi satuan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>gambarnya dimana?</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>#semogamembantu #maafkalausalah </p><p>-thank you-</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-nilai-x-adalah-681",
+            "question": "Perhatikan gambar Nilai x adalah\u200b",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-nilai-x-adalah-681-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>120\u2070 = (7x + 8)</p><p>120\u2070 - 8\u2070 = 7x</p><p>112\u2070 = 7x</p><p>16\u2070 = x</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>#semogamembantu #maafkalausalah </p><p>-thank you-</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-hitunglah-volume-bangun-berikut-169",
+            "question": "2. Hitunglah volume bangun berikut!\r\n\u200b",
+            "attachments": [
+                "question-attachments/2-hitunglah-volume-bangun-berikut-169-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p></p><h2><strong>Penjelasan dengan langkah-langkah:</strong></h2><p></p><h3>Volume kubus </h3><p>[tex]v =  {s}^{3} [/tex]</p><p>[tex] =  {16}^{3} [/tex]</p><p>[tex] = 16 \\times 16 \\times 16[/tex]</p><p>[tex] = 256 \\times 16[/tex]</p><p>[tex] = 4.096  \\:  {cm}^{3} [/tex]</p><p></p><h3>Volume balok </h3><p>[tex]v = p \\times l \\times t[/tex]</p><p>[tex] = 30 \\times 16 \\times 15[/tex]</p><p>[tex] = 480 \\times 15[/tex]</p><p>[tex] = 7.200 \\:  {cm}^{3} [/tex]</p><p></p><h3>Volume gabungan </h3><p>4.096 + 7.200 = 11.296 cm\u00b3</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>V kubus </p><p>V = s \u00d7 s \u00d7 s </p><p>    = 16 \u00d7 16 \u00d7 16</p><p>    = 256 \u00d7 16</p><p>    = 4.096 cm\u00b3</p><p></p><p>V balok</p><p>V = p \u00d7 l \u00d7 t</p><p>   = 30 \u00d7 16 \u00d7 15</p><p>   = 480 \u00d7 15</p><p>   = 7.200 cm\u00b3</p><p></p><p>V gabungan = 4.096 + 7.200</p><p>                     <strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>1</strong><strong>.</strong><strong>2</strong><strong>9</strong><strong>6</strong><strong> </strong><strong>c</strong><strong>m</strong><strong>\u00b3</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perusahaan-motor-memproduksi-x-unit-p-x2x2-3x-3-sedangkan-ha-893",
+            "question": "Perusahaan motor memproduksi x unit p (x)=2x^2 +3x-3 sedangkan harga jual per satu unit motor dinyatakan f(x)= x+5 (dalam satuan rupiah)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>SELAMAT</strong><strong> </strong><strong>BELAJAR</strong><strong> </strong><strong>DAN</strong><strong> </strong><strong>SEMOGA</strong><strong> </strong><strong>MEMBANTU</strong><strong></strong></p>",
+                    "attachments": [
+                        "answer-attachments/perusahaan-motor-memproduksi-x-unit-p-x2x2-3x-3-sedangkan-ha-893-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3+3+5+6+7+8=jambu</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><h3><strong><em><u>jgkfhfaiavhakjvbjabvvbjskskhhvbsjakgvv</u></em></strong></h3>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

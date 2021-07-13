@@ -1,0 +1,139 @@
+{
+    "question": "mula mula terdapat 2 virus Corona jika virus koronatersebut membelah diri menjadi 2 setiap 4 jam,maka jumlah virus koronatersebut setelah 24 jam adalah\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2>Diketahui</h2><ul><li>Jumlah awal virus = <strong>2</strong></li></ul><ul><li>Kemedian masing masing virus membelah diri menjadi dua setiap <strong>4 Jam</strong></li></ul><h2>Ditanya</h2><ul><li>Jumlah total virus setelah 24 Jam = ..?</li></ul><h2>Pembahasan</h2><p>Karena masing-masing virus membelah diri setiap 4 Jam, Maka terdapat 6 kali pembelahan diri. Sehingga diperoleh</p><p>[tex]= 2 \\times 2\\times 2\\times 2\\times 2\\times 2 \\times 2[/tex]</p><p>[tex]= 2^7[/tex]</p><p>[tex]= \\boxed{128}[/tex]</p><p>Jadi, Jumlah total virus setelah 24 jam kemudian adalah <strong>128</strong></p><h2>Semoga membantu</h2>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pak-andi-membuat-pintu-berbentuk-persegi-panjang-dengan-panjang-1-281",
+            "question": "Pak Andi membuat pintu berbentuk persegi panjang dengan panjang 10 cm dan lebar 5 cm. Hitunglah keliling pintu tersebut \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>250</p><p></p><p>Caranya:</p><p>10 \u00d7 5 \u00d7 5</p><p>= 250</p><p></p><p><strong>S</strong><strong>E</strong><strong>M</strong><strong>O</strong><strong>G</strong><strong>A</strong><strong> </strong><strong>M</strong><strong>E</strong><strong>M</strong><strong>B</strong><strong>A</strong><strong>N</strong><strong>T</strong><strong>U</strong></p><p><strong>S</strong><strong>E</strong><strong>M</strong><strong>A</strong><strong>N</strong><strong>G</strong><strong>A</strong><strong>T</strong><strong>T</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong></p><p></p><p></p><h2><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>A</strong><strong>N</strong><strong>S</strong><strong>W</strong><strong>E</strong><strong>R</strong><strong> </strong><strong>B</strong><strong>Y</strong><strong> </strong><strong>F</strong><strong>A</strong><strong>I</strong><strong>Z</strong><strong>A</strong></h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-trigono-meteri-dari-tan-300-adalah-602",
+            "question": "Tentukan nilai trigono meteri dari tan(-300) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>tan 300\u00b0</p><p>= tan(360\u00b0 - 300\u00b0)</p><p>= - tan 60\u00b0</p><p>= -\u221a3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-25p-3-22p-752",
+            "question": "Tentukan penyelesaian dari 2(5p-3) = 2(2p+)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong><em><u>p </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>1</u></em></strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>2(5p -3) = 2(2p)</p><p>10p - 6 = 4p</p><p>        -6 = 4p - 10p</p><p>        -6 = -6p</p><p>         6 = 6p</p><p>          1 = p</p><p></p><p><em>semoga</em><em> bermanfaat</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-dari-suatu-barisan-aritmetika-adalah-7-sedangkan-be-958",
+            "question": "Suku pertama dari suatu barisan aritmetika adalah 7, sedangkan bedanya -4. suku yang nilainya sama dengan -68 adalah suku ke\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>99 semoga bermanfaat maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-berikut-ini-adalah-data-pembeli-di-kantin-sekolah-selama-1-mi-480",
+            "question": "10. Berikut ini adalah data pembeli di kantin sekolah selama 1 minggu.    Hari\r\nHasil yang dicapai\r\nSenin\r\n70\r\nSelasa\r\n80\r\nRabu\r\n60\r\nKamis\r\n50\r\nJum'at\r\n90\r\nSabtu\r\n70\r\nBuatlah diagram gambar dari data di atas!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>kira kira begini diagram gambarnya</p>",
+                    "attachments": [
+                        "answer-attachments/10-berikut-ini-adalah-data-pembeli-di-kantin-sekolah-selama-1-mi-480-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-aritmetika-50433629-adalah-816",
+            "question": "Rumus suku ke-n dari barisan aritmetika 50,43,36,29 adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Pola : 50, 43, 36, 29, ...</p><p>a = 50</p><p>b = 43 - 50 = -7</p><p></p><p>Un = a + (n - 1) . b</p><p>Un = 50 + (n - 1) . -7</p><p>Un = 50 - 7n + 7</p><p>Un = 57 - 7n</p><p></p><p>____________________________</p><p>Semangattt ya&#039;</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Dik : a = U1 = 50 \u00a0dan b = U2 - U1 = 43-50 = -7\n</p><p>Dit = Rumus suku ke-n</p><p>Penyelesaian :\n</p><p></p><p>Un \u00a0= a + (n-1)b\n</p><p>\nUn = 50 + (n-1)(-7)\n</p><p>\nUn = 50 - 7n + 7</p><p>\n<strong>Un = - 7n + 57</strong></p><p><strong></strong></p><p><em>Jadi, Rumus suku ke-n adalah </em><u><em>Un = - 7n + 57</em></u></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-invers-dari-fx-adalah-996",
+            "question": "Fungsi invers dari F(x) adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>mengawankan pada masing-masing elemen B</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>itu jawabanya</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "11-jika-banyak-siswa-yang-menyukai-pmr-ada-50-siswa-maka-banyak-306",
+            "question": "11. Jika banyak siswa yang menyukai PMR ada 50 siswa, maka banyak siswa seluruh ada ... Siswa    12. Jumlah siswa yang gemar Pramuka adalah.. siswa \r\n 13 selisih jumlah siswa yang gemar Pramuka dan basket adalah... Siswa\r\n\r\n Kak tolong bantu jawab plissss!!!!",
+            "attachments": [
+                "question-attachments/11-jika-banyak-siswa-yang-menyukai-pmr-ada-50-siswa-maka-banyak-306-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>11. 180 orang</p><p>12. 45 orang</p><p>13. 16 orang</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga membantu ya.</p><p>Jangan lupa untuk like dan follow ya.</p><p>Jadikanlah jawaban terbaik.</p>",
+                    "attachments": [
+                        "answer-attachments/11-jika-banyak-siswa-yang-menyukai-pmr-ada-50-siswa-maka-banyak-306-1.jpg",
+                        "answer-attachments/11-jika-banyak-siswa-yang-menyukai-pmr-ada-50-siswa-maka-banyak-306-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawab-teman-702",
+            "question": "Tolong dijawab teman\"",
+            "attachments": [
+                "question-attachments/tolong-dijawab-teman-702-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>yang segitiga</p><p></p><p>Maaf kalau salah :) </p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>persegi panjang</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>keliling p+1=8\u00d72=16</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "25-perhatikan-diagram-berikut-30-tinggi-badan-165-160-155-150-f-836",
+            "question": "25. Perhatikan diagram berikut!    30\r\nTinggi Badan\r\n165\r\n160\r\n155\r\n150\r\nFrekuensi\r\n8\r\n3\r\n4\r\n9\r\nBerdasarkan data tersebut diagram lingkaran\r\nyang tepat untuk tabel adalah ....\r\nA.\r\n\u0441.\r\n150\r\n165\r\n37,5% B4%\r\n155\r\n21%\r\n1160\r\n29%\r\n150\r\n1%\r\n7165\r\n33%\r\n160\r\n155 15%\r\n17%\r\nB\r\n165\r\n17 %\r\n155\r\n160\r\n33%\r\n160\r\n174 12,5%\r\n150\r\n38%\r\n155\r\n12%\r\n150\r\n165\r\n33V\r\n38%\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>mohon bantuannya</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

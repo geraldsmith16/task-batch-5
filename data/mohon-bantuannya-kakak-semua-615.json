@@ -1,0 +1,136 @@
+{
+    "question": "Mohon bantuannya kakak semua",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>mohon bantuannya apa ya ada apa emgnya</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "gabungan-beberapa-sel-pada-microsoft-excel-di-sebut-258",
+            "question": "Gabungan beberapa sel pada Microsoft Excel di sebut \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>RANGE adalah gabungan dari beberapa sel atau bisa juga diartikan gabungan dari beberapa kolom atau berapa baris misal range A1:45</p><p></p><p><strong>Maaf</strong><strong> </strong><strong>kalau</strong><strong> </strong><strong>salah</strong></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-slur-sebutkan-contoh-nama-mic-dan-jelakan-implementas-245",
+            "question": "Bantu jawab slur    sebutkan contoh nama mic dan jelakan implementasi kegunaannya pada masing-masing jenis polar pattern dari omni directional, uni directional dan bidirectional",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Polar pattern adalah pola penangkapan suara dari microphone. Macam \u2013 macam polar pattern menjadi salah satu hal yang perlu diketahui ketika hendak menggunakan microphone tersebut. Kepekaan suara yang direspon oleh microphone berbeda-beda dari tiap arah sumber suaranya. Berbagai percobaan dan pengukuran akhirnya menghasilkan apa yang disebut sebagai directivity. Hal inilah yang membuat adanya pola pattern. Arah depan pada pola pattern merupakan arah 0 derajat atau disebut on axis. Semakin ke samping, semakin tidak sensitif dan arah sensitifitas paling buruk adalah arah belakang (rear) biasanya disebut null angle.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-kegunaan-mengatur-dokumen-294",
+            "question": "Jelaskan kegunaan mengatur dokumen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3>Jawaban+penjelasan</h3><p>Agar mencari sesuatu yang penting di dokumen tidak susah susah atau repot </p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-langkah-langkah-membuat-garis-pada-microsoft-excel-642",
+            "question": "Tuliskan langkah langkah membuat garis pada Microsoft Excel \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Penjelasan:</p><p></p><p>-Pertama\u2013tama seleksilah terlebih dahulu sel yang akan diberi garis, misalnya sel A1:C7.</p><p>-Berikutnya tekanlah segitiga kecil pada icon borders yang ada di dalam Tab Home bagian Font.</p><p>-Kemudian Pilihlah opsi All Borders.</p><p></p><h3>Semoga Bermanfaat Ya</h3>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Membuat garis/grafik</p><p></p><p>a. Blok data yang akan dibuat garis</p><p></p><p>b. Pilih menu insert, pilih jenis grafik pada group Chart, hingga memunculkan dialog</p><p></p><p>c. Pilih jenis grafik pada Chart Style dan pilih model tampilan grafik/garis. Lakukan pengeditan dgn klik double lada gambar grafik</p><p></p><h2>Semoga Membantu</h2><h2>Jadikan Jawaban Tercerdas</h2>",
+                    "attachments": [
+                        "answer-attachments/tuliskan-langkah-langkah-membuat-garis-pada-microsoft-excel-642-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "fitur-yang-digunakan-untuk-menampilkan-kotak-pesan-pada-fmx-frame-126",
+            "question": "Fitur yang digunakan untuk menampilkan kotak pesan pada FMX Framework adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><em>fitur</em><em> </em><em>fitur</em><em> </em><em>yg</em><em> </em><em>langsung</em><em> </em><em>lengkap</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menu-insert-sheet-rows-digunakan-untuk-a-menambah-baris-sheet-189",
+            "question": "Menu Insert sheet rows digunakan untuk...     A. Menambah baris sheet\r\nB. Menambah kolom sheet\r\nC.\r\nMengatur tinggi baris\r\nD. Mengatur lebar kolom\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jawabanya adalah A</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. Menambah baris sheet</p><p><strong>Penjelasan:</strong></p><p>Misalkan dalam program Ms. Excel 2016, Insert Sheet Rows termasauk perintah yg dapat dilakukan melalui tab ribbon Home di menu Insert.</p><p>Untuk lebih jelasnya, perhatikan gambar berikut ini (ditunjukkan tanda panah merah).</p><p>maaf kalau salah semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-pointer-775",
+            "question": "Jelaskan fungsi pointer\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Pointer berguna untuk mentransfer data yang memiliki kapasitas besar, melalui suatu fungsi. Pointer sangat erat kaitannya dengan array, sehingga variabel pointer dapat menggantikan fungsi dan variabel array. ... Membuat program untuk menyimpan bilangan pecahan acak sebanyak 12 bilangan, disimpan dalam suatu array.</p><p><strong>Penjelasan:</strong></p><p>Terimakasih semoga membantu dan bermanfaat (\u25d5\u1d17\u25d5\u273f)</p><p>maaf jika ada kesalahan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4-sistem-operasi-jaringan-adalah-sistem-operasi-yang-mendukung-c-231",
+            "question": "4. Sistem operasi jaringan adalah sistem operasi yang mendukung cara kerja jaringan pada suatu    sistem, jika kalian melakukan troubleshooting pada sistem operasi jaringan apa saja yg kalian\r\nsiapkan dan bagaimana cara melakukan troubleshooting pada sistem operasi jaringan?\r\n5. Tuliskan proses kerja pada:\r\na. File Server\r\nb. Mail Server\r\nc. Remote Server\r\nd. DHCP Server\r\ne. FTP Server\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>harga diriku sendiri lah yang menjadi dasar bagi para wanita yang cantik makanya dicurik orang lain bernama lengkap ratu Atut</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tools-apa-saja-yang-sering-digunakan-dalam-implementasi-komputasi-265",
+            "question": "Tools apa saja yang sering digunakan dalam implementasi komputasi grid pada sistem terdistribusi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Software merupakan suatu perangkat yang menghubungkan semua middleware-nya. Middleware itu sendiri adalah bagian dari software, yaitu lapisan sofware yang terletak antara sistem operasi dan aplikasi yang berfungsi sebagai penghubung komunikasi antar-objek dari sistem yang berbeda. Unsur-unsur dasar suatu middleware adalah keamanan (security), pengaturan sumber daya (resource management), pengaturan data (data management), dan layanan informasi (information services). Contoh beberapa middleware adalah Globus Toolkit, Gridbus, Microsoft\u2019s COM/DCOM, Unicore, dan masih banyak contoh-contoh middleware lainnya.</p><p><strong></strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-teknologi-berbasis-komputer-106",
+            "question": "Apa yang dimaksud dengan teknologi berbasis komputer??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Teknologi Berbasis Komputer merupakan cara-cara memproduksi dan menyampaikan bahan dengan menggunakan perangkat yang bersumber pada mikroprosesor.</p><p><strong>Penjelasan:</strong></p><p>SEMOGA BERMANFAAT</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>teknologi berbasis komputer merupakan cara cara memproduksi dan menyampaikan bahan dengan menggunakan perangkat yang bersumber dari mikroprosesor .</p><p>berbasis komputer bukan berarti secara daring atau online , melainkan hanya dilakukan lewat perangkat komputer dan tak terhubung internet .</p><p></p><p>semoga membantu</p><p>maaf kalau ada salah</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

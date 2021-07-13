@@ -1,0 +1,132 @@
+{
+    "question": "Pada sebuah wadah terdapat sejumlah kelereng yang terdiri atas 12 kelereng merah, 10 kelereng putih, dan 18 kelereng hitam, jika diambil sebuah kelereng, tentukan peluang terambilnya :    a,. kelereng merah\r\nb. kelereng putih\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p></p><p>a. ) kelereng merah memiliki peluang 3 / 10</p><p></p><p>b. ) kelereng putih memiliki peluang 1 / 4</p><p></p><p>note : </p><p>jalan ada di foto jawaban</p><p></p><p></p><p></p><p></p><p><strong><em><u>SEMOGA MEMBANTU YA </u></em></strong></p>",
+            "attachments": [
+                "answer-attachments/pada-sebuah-wadah-terdapat-sejumlah-kelereng-yang-terdiri-atas-12-113-1.jpg"
+            ]
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>a). p (m) = 3/10</p><p>b). p (p ) = 1/4</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Merah : n (m)= 12</p><p>Putih :  n (p) = 10</p><p>Hitam : n (h) = 18</p><p></p><p>Total kelereng = 12 + 10 + 18 = 40</p><p>n ( S ) = 40</p><p></p><p>a).  p(m) = n(m) / n(s)</p><p>              = 12 / 40 = 3/10</p><p></p><p>b).  p(p) = n (p) / n(s)</p><p>             = 10 / 40  = 1/4</p><p></p><p>p(h) = n(h) / n(s)</p><p>       = 18 /40 = 9/20</p><p></p><p> p ( m + p ) =  n(m) + n(p)</p><p>                    ----------------</p><p>                          n (s )</p><p>                = ( 18+10 ) / 40</p><p>                = 22 / 40</p><p>                = 11 / 20</p><p></p><p>p ( p+ h ) = n (p) + n ( h )</p><p>                  ------------------</p><p>                         n (s )</p><p>               = ( 10 + 18 )</p><p>               = 28/ 40</p><p>               = 7 / 10</p><p>                       </p><p></p><p></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tinjau-barisan-bilangan-yang-didefenisikan-sebagai-berikut-a-s-951",
+            "question": "Tinjau barisan bilangan yang didefenisikan sebagai berikut :    a. Sm,n = 0, jika m = 0 dan n =0\r\n b. Sm-1,.n + 1, jika n = 0\r\n c. Sm, n \u2013 1 + 1, jika n \u2260 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>gtw ingin dpt poin aj mamsks</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-volume-di-samping-adalah-cm3-10cm-5cm-4cm-311",
+            "question": "Tentukan volume di samping adalah ....cm\u00b3 10cm 5cm 4cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabannya 200cm\u00b3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>10kali5 50kali4 200</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-jenis-jenis-transformasi-geometritk-beserta-masing-masin-723",
+            "question": "Tuliskan Jenis-jenis transFormasi Geometritk\r\nbeserta masing-masing contohnya.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Mengubah setiap koordinat titik (titik2 dr suatu bangunan)menjd koordinat lainnya pd bidang dg satu aturan tertentu.misalnya transFormasi  T terhadap titik P(x,y) menghasilkan bayangan P&#039;(x&#039;,y&#039;,)</p><p>Peluang:</p><p>dpt dhitung melalui frekuensi relatif, pd dasar nya,peluang terbagi menjd 2 yaitu peluang empirik (frekuensi relatif) dan peluang teoretik nilanya P(K)=n(K)/n(S)</p><p>Statistika :: membuat tabel,, diagram atau gradik data!! rumusyah pke median,modus ,mean</p><p>nopas</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hasil-dari-operasi-aritmatika-berikut-1-111-2-100-432",
+            "question": "Tentukan hasil dari operasi Aritmatika berikut :    1. 111 (2) + 1001 (2)\r\n2. 63 (10) + 99 (10)\r\n3. 2201 (8) - 6572 (8)\r\n4. 1111 (16) + 1011 (16)\r\n5. 223 (16) + 77D (16)\r\nJAWABAN\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>422525363637474848484858</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>maaf kalau soal itu aku ngak tai ngak masuk ke akal ku</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-mira-membeli-satu-karung-beras-dengan-tara-1-harga-satu-karun-278",
+            "question": "Bu mira membeli satu karung beras dengan tara 1% harga satu karung yg berisi 50 kg beras adalah rp 540.000.00,beras tersebut di jual kembali secara eceran dengan harga rp 12.000.00 per kg hitunglah besar keutungan yg di peroleh\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Netto = (100-1) % x 50 Kg</p><p></p><p>= 99% x 50 Kg = 49.5 Kg</p><p></p><p>Pernyataan A Salah</p><p></p><p>Hasil Penjualan = 49.5 x 12.000</p><p></p><p>= 594.000</p><p></p><p>Pernyataan B Benar</p><p></p><p>Keuntungan = 594.000</p><p></p><p>=594.000 - 540.000</p><p></p><p>=54.000</p><p></p><p>Pernyataan C Benar</p><p></p><p>Persentase Keuntungan 10%</p><p></p><p>%Keuntungan :</p><p></p><p></p><p></p><p>Pernyataan D Benar</p><p></p><p>Jadi! Pernyataan yang Salah adalah Pernyataan A</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-5x4-8x3-6x2-2x-tentukan-f-x-680",
+            "question": "Diketahui f'(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x, tentukan f (x)!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>Terdapat sebuah persamaan yang telah mengalami turunan bernilai f&#039;(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</p><p>Maka, untuk mencari f(x), masing-masing variabel pada persamaan yang diketahui harus dilakukan metode Integral pada umumnya</p><p>Misalkan kita akan mencoba mengembalikan nilai 5x\u2074 ke persamaan awal dengan menerapkan rumus berikut: </p><p>[tex]\\frac{a}{n + 1} x^n^+^1[/tex] = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>Sekiranya untuk membuktikan turunan dari [tex]x^{5}[/tex], dirumuskan sebagai berikut:</p><p>Rumus turunan: [tex](n)x^{n - 1}[/tex]</p><p>[tex]x^{5}[/tex] = [tex](5)x^{5 - 1}[/tex] = [tex]5x^{4}[/tex]</p><p></p><p>Maka hasil akan sama. Dengan begitu, bisa disolusikan untuk mencari f(x) dengan cara integral seperti berikut:</p><p>\u222b (5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x) dx</p><p>= \u00a0([tex]\\frac{5}{4 + 1} x^4^+^1[/tex]) - ([tex]\\frac{8}{3 + 1} x^3^+^1[/tex]) + ([tex]\\frac{6}{2 + 1} x^2^+^1[/tex]) - ([tex]\\frac{2}{1 + 1} x^1^+^1[/tex]) \u00a0+C</p><p>= \u00a0([tex]\\frac{5}{5} x^5[/tex]) - ([tex]\\frac{8}{4} x^4[/tex]) + ([tex]\\frac{6}{3} x^3[/tex]) - ([tex]\\frac{2}{2} x^2[/tex]) + C</p><p>= [tex]x^{5}[/tex] - [tex]2x^{4}[/tex] + [tex]2x^{3}[/tex] - [tex]x^{2}[/tex] + C</p><p>___________________________</p><p>Detail dari masing-masing variabel:</p><p>5x\u2074 = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>8x\u00b3 = [tex]\\frac{8}{3 + 1} x^3^+^1[/tex] = [tex]\\frac{8}{4} x^4[/tex] = [tex]2x^{4}[/tex]</p><p>6x\u00b2 = [tex]\\frac{6}{2 + 1} x^2^+^1[/tex] = [tex]\\frac{6}{3} x^3[/tex] = [tex]2x^{3}[/tex]</p><p>2x = [tex]\\frac{2}{1 + 1} x^1^+^1[/tex] = [tex]\\frac{2}{2} x^2[/tex] = [tex]x^{2}[/tex]</p><p>___________________________</p><p>Maka, hasil Anti-turunan dari <strong>5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</strong> ialah<strong> </strong>[tex]x^{5}[/tex]<strong> - </strong>[tex]2x^{4}[/tex]<strong> + </strong>[tex]2x^{3}[/tex]<strong> - </strong>[tex]x^{2}[/tex]<strong> + C</strong></p><p></p><p>-//Semoga membantu~ :3</p><p></p><p><em>(!) Misal ada kesalahan dari penjelasan dan perhitungan, monggo dikoreksi ya~</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-fungsi-infres-dari-fx-65-fx-24-fx-4x6-516",
+            "question": "Tentukan fungsi infres dari \r\nf(x) =6\u00d7+5. \r\nf(x) = 2\u00d7+4 \r\nf(x) = 4x+6. \r\n_______\r\n3x-4\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>maaf saya tidak mengetahui</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-nilai-dari-222324-adalah-902",
+            "question": "1 ) nilai dari 2\u00b2.2\u00b3.2\u2074 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>2\u00b2.2\u00b3.2\u2074</p><p>= (2 \u00d7 2)(2 \u00d7 2 \u00d7 2)(2 \u00d7 2 \u00d7 2 \u00d7 2)</p><p>= (4)(8)(16)</p><p>= 512</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "9-berikut-adalah-nilai-ulangan-matematika-siswa-kelas-y-65-60-75-782",
+            "question": "9. Berikut adalah nilai ulangan Matematika siswa kelas y    65\r\n60\r\n75\r\n75\r\n80\r\n80\r\n75\r\n75\r\n75\r\n85\r\ni \u016f u &amp; a\r\n85\r\n75\r\n75\r\n80\r\n80\r\n85\r\n85\r\n85\r\n85\r\n90\r\n&amp;\r\n80\r\n90\r\n65\r\n95\r\n90\r\n95\r\nPertanyaan\r\nBuatlah tabel frekuensi dari daftar nilai di atas!\r\nBerapa banyak siswa yang mengikuti ulangan Matematika?\r\nBerapa banyak siswa yang mendapatkan nilai 80?\r\nBerapa banyak anak nilainya kurang dari 75?\r\nBerapa siswa yang mendapat nilai tertinggi?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>berapa anak yang mendapatkan nilai 80=5</p><p>berapa banyak anak nilainya kurang dari 75=3</p><p>berapa siswa yang mendapat nilai tertinggi =5</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-pangkat-3-7293-64-788",
+            "question": "Hasil dari pangkat 3 729\u00d73 64=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>5184</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalau salahhh</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

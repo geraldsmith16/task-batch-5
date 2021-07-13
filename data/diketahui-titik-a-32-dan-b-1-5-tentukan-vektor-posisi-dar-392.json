@@ -1,0 +1,144 @@
+{
+    "question": "diketahui titik A (3,2) dan B (-1.-5). tentukan vektor posisi dari titik A dan B berikut panjangnya masing masing\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p></p><p><em>Diketahui </em><em>titik </em><em>A(</em><em>3</em><em>,</em><em>2</em><em>)</em><em> </em><em>dan </em><em>B(</em><em>-</em><em>1</em><em>.</em><em>-</em><em>5</em><em>)</em><em> </em><em>tentukan </em><em>vektor </em><em>posisi </em><em>dari </em><em>titik </em><em>A </em><em>dan </em><em>B </em><em>berikut </em><em>panjangnya </em><em>masing </em><em>masing</em></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p><strong>A=</strong><strong>(</strong><strong>a1,</strong><strong>a2)</strong><strong> </strong><strong> </strong><strong>B(</strong><strong>b1,</strong><strong>b2)</strong></p><p></p><p><strong>vektor </strong><strong>posisi </strong><strong>A=</strong><strong> </strong><strong>a</strong><strong> </strong><strong>=</strong><strong>(</strong><strong>3</strong><strong>,</strong><strong>2</strong><strong>)</strong></p><p><strong>vektor </strong><strong>posisi </strong><strong>B=</strong><strong> </strong><strong>b </strong><strong>=</strong><strong>(</strong><strong>-</strong><strong>1</strong><strong>,</strong><strong>-</strong><strong>5</strong><strong>)</strong></p><p></p><p><strong>A=</strong><strong>(</strong><strong>a1,</strong><strong>a2)</strong></p><p></p><p></p><p><strong>|</strong><strong>a|</strong><strong>=</strong><strong>\u221a</strong><strong>a</strong><strong>1</strong><strong>\u00b2</strong><strong>+</strong><strong>a</strong><strong>2</strong><strong>\u00b2</strong></p><p><strong>|</strong><strong>a|</strong><strong>=</strong><strong>\u221a</strong><strong>3</strong><strong>\u00b2</strong><strong>+</strong><strong>2</strong><strong>\u00b2</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong>\u221a</strong><strong>9</strong><strong>+</strong><strong>4</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong>\u221a</strong><strong>1</strong><strong>3</strong></p><p></p><p><strong>|</strong><strong>b|</strong><strong>=</strong><strong>\u221a</strong><strong>(</strong><strong>-</strong><strong>1</strong><strong>)</strong><strong>\u00b2</strong><strong>+</strong><strong>(</strong><strong>-</strong><strong>5</strong><strong>)</strong><strong>\u00b2</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong>\u221a</strong><strong>1</strong><strong>+</strong><strong>2</strong><strong>5</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong>\u221a</strong><strong>2</strong><strong>6</strong></p><p></p><p><em><u>jadi </u></em><em><u>panjang</u></em><em><u> </u></em><em><u>vektor </u></em><em><u>posisi </u></em><em><u>A </u></em><em><u>adalah</u></em><em><u> </u></em><em><u>\u221a</u></em><em><u>1</u></em><em><u>3</u></em></p><p><em><u>dan </u></em><em><u>panjang </u></em><em><u>vektor </u></em><em><u>posisi </u></em><em><u>B </u></em><em><u>adalah</u></em><em><u> </u></em><em><u>\u221a</u></em><em><u>2</u></em><em><u>6</u></em></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-koordinat-titik-p-12-dan-koordinat-titik-q-4-6-750",
+            "question": "Diketahui koordinat titik P =(1,2) dan koordinat titik Q =(4,-6) maka panjang vektor posisi PQ adalah.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Panjang vektor posisi PQ adalah <strong>(</strong><strong>3</strong><strong>,</strong><strong> </strong><strong>-</strong><strong>8</strong><strong>)</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>vektor posisi PQ</p><p>= (4 - 1 , (-6) - 2)</p><p>= <u><strong>(</strong><strong>3</strong><strong>,</strong><strong> </strong><strong>-</strong><strong>8</strong><strong>)</strong></u><strong> </strong></p><p></p><p>Jadi, panjang vektor posisi PQ adalah <strong>(</strong><strong>3</strong><strong>,</strong><strong> </strong><strong>-</strong><strong>8</strong><strong>)</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-sudut-bergabung-membentuk-sudut-lurus-besar-sudut-pertama-ad-363",
+            "question": "Dua sudut bergabung membentuk sudut lurus. Besar sudut pertama adalah 94\u00b0. Berapakah besar sudut kedua?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>86\u00b0</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><u>SUDUT</u></p><p></p><p>Jika dua sudut saling berpelurus, maka jumlah dari kedua sudut tersebut adalah 180\u00b0. </p><p></p><p>Besar sudut kedua</p><p>= 180\u00b0 - Besar sudut pertama</p><p>= 180\u00b0 - 94\u00b0</p><p>= 86\u00b0 \u2714</p><p></p><p><strong>K</strong><strong>e</strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>:</strong></p><p>Semoga membantu.</p><p>Have a nice day :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jarak-antara-pusat-lingkaran-a-dan-b-adalah-20-cm-memi-269",
+            "question": "Diketahui jarak antara pusat lingkaran A dan B adalah 20 cm, memiliki jari-jari berturut-turut 22 cm dan 6 cm, panjang garis singgung persekutuan luarnya adalah \u2026.    5 poin\r\n\r\na. 9 cm\r\n\r\nb. 12 cm\r\n\r\nc. 17 cm\r\n\r\nd. 30 cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3><u>Penjelasan dan langkah - langkah:</u></h3><h2>Jawaban :</h2><p></p><p>B. 12 cm</p><p></p><h2>Penyelesaian :</h2><p></p><p><strong>Garis singgung persekutuan </strong><strong>luar(</strong><strong>GSPL)</strong></p><p></p><p>[tex]\\tt \\:GSPL =  \\sqrt{20^{2} - (22 - 6)^{2}  }  \\\\ \\tt \\: =  \\sqrt{20^{2}  - 16 ^{2} }  \\\\ \\tt \\:  = \\sqrt{400 - 256}  \\\\ \\tt \\:  = \\sqrt{144}  \\\\  \\tt \\:= 12 \\: cm[/tex]</p><h2>Kesimpulan :</h2><p></p><p>Jadi, Garis singgung persekutuan luar tersebut adalah 12 cm</p><p></p><p>[tex]{\\boxed{ \\tt \\: \\: \\red{ semoga \\: membantu}{ }}}[/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-nama-bangun-datar-abcd-di-atas-360",
+            "question": "Apa nama bangun datar abcd di atas\u200b",
+            "attachments": [
+                "question-attachments/apa-nama-bangun-datar-abcd-di-atas-360-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>bangun datar layang layang</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantuu ^_^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-spldv-berikut-dengan-cara-ya-1-2x-y-5-x-3y-5-879",
+            "question": "Selesaikan SPLDV berikut    dengan cara ya\r\n\r\n1. 2x + y = 5\r\n x + 3y = 5\r\n2. x + 3y = 10\r\n 2x - 3y = 2\r\n3. -2x + y = -1\r\n x + 3y = 4\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong><em><u>1</u></em></strong><strong><em><u>.</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>(</u></em></strong><strong><em><u>2</u></em></strong><strong><em><u>,</u></em></strong><strong><em><u>1</u></em></strong><strong><em><u>)</u></em></strong></p><p><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u>x </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>2</u></em></strong></p><p><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u>y </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>1</u></em></strong></p><p></p><p><strong><em><u>2</u></em></strong><strong><em><u>.</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>(</u></em></strong><strong><em><u>4</u></em></strong><strong><em><u>,</u></em></strong><strong><em><u>2</u></em></strong><strong><em><u>)</u></em></strong></p><p><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u>x </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>4</u></em></strong></p><p><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u>y </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>2</u></em></strong></p><p></p><p><strong><em><u>3</u></em></strong><strong><em><u>.</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>(</u></em></strong><strong><em><u>1</u></em></strong><strong><em><u>,</u></em></strong><strong><em><u>1</u></em></strong><strong><em><u>)</u></em></strong></p><p><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u>x </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>1</u></em></strong></p><p><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u> </u></em></strong><strong><em><u>y </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>1</u></em></strong></p><p></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>1. 2x + y = 5 |kali 1|</p><p>   x + 3y = 5 |kali 2|</p><p>menjadi :</p><p>  2x + y = 5</p><p> 2x + 6y = 10</p><p>-------------------- -</p><p>          -5y = -5</p><p>            5y = 5</p><p>               y= 1</p><p></p><p>substitusi y=1 ke salah satu persamaan :</p><p></p><p>2x + y = 5</p><p>2x + 1 = 5</p><p>2x = 4</p><p> x = 2</p><p></p><p>jadi , (2, 1)</p><p></p><p>2. x + 3y =10</p><p>   2x -3y = 2</p><p>------------------- +</p><p>3x          = 12</p><p> x           = 4</p><p></p><p>substitusi x = 4 ke salah satu persamaan;</p><p></p><p>x + 3y = 10</p><p>4 + 3y = 10</p><p>      3y = 10 - 4</p><p>      3y = 6</p><p>        y = 2</p><p></p><p>jadi, (4, 2)</p><p></p><p></p><p>3. -2x + y = -1 |kali 3|</p><p>      x + 3y = 4 |kali 1|</p><p>menjadi:</p><p></p><p>-6x + 3y = -3</p><p>    x + 3y = 4</p><p>-------------------- -</p><p>-7x          = -7</p><p>    x         = 1</p><p></p><p>substitusi x = 1 ke salah satu persamaan;</p><p></p><p>x + 3y = 4</p><p>1 + 3y = 4</p><p>     3y = 3</p><p>        y = 1</p><p></p><p>jadi, (1,1)</p><p></p><p></p><p><em>semoga</em><em> bermanfaat</em><em>;</em><em>)</em></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suatu-olimpiade-matematika-setiap-jawaban-benar-mendapatkan-536",
+            "question": "Pada suatu olimpiade Matematika setiap jawaban    benar mendapatkan skor 3, setiap jawaban salah\r\nakan medapat skor 2, dan setiap soal yang\r\ntidak dijawab mendapat skor -1. Data akhir\r\njawaban peserta tersebut disajikan pada tabel\r\nberikut:\u200b",
+            "attachments": [
+                "question-attachments/pada-suatu-olimpiade-matematika-setiap-jawaban-benar-mendapatkan-536-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban nya arman dan Bambang</strong></p><p><strong></strong></p><p><strong>Maaf kalo salah</strong></p><p></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>        </p><p>         Diketahui = skor yang benar = 3</p><p>                             skor yang salah = -2 </p><p>                       skor yg tidak dijawab = -1 </p><p></p><p>    * Nilai Arman </p><p></p><p>        <strong>Jawaban </strong><strong>yang </strong><strong>benar </strong><strong>=</strong><strong> </strong>50 - ( 6+4) </p><p>                                            = 50 - 10 </p><p>                                        <strong>    = 40 </strong></p><p>                                            </p><p>       <strong>poin </strong><strong>total </strong><strong>=</strong><strong> </strong><strong>(</strong><strong> </strong><strong>4</strong><strong>0</strong><strong> </strong><strong>x </strong><strong>3</strong><strong> </strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>6</strong><strong> </strong><strong>x </strong><strong>-</strong><strong>2</strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>4</strong><strong> </strong><strong>x </strong><strong>-</strong><strong>1</strong><strong>)</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>2</strong><strong>0</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>-</strong><strong>1</strong><strong>2</strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>-</strong><strong>4</strong><strong>)</strong><strong> </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>4</strong><strong> </strong></p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong>* Nilai Bambang </p><p></p><p>          <strong>Jawaban </strong><strong>yang </strong><strong>benar </strong><strong>=</strong><strong> </strong><strong>4</strong><strong>0</strong><strong> </strong></p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>poin </strong><strong>total </strong><strong>=</strong><strong> </strong><strong>(</strong><strong> </strong><strong>4</strong><strong>0</strong><strong> </strong><strong>x </strong><strong>3</strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>4</strong><strong> </strong><strong>x </strong><strong>-</strong><strong>2</strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>6</strong><strong> </strong><strong>x </strong><strong>-</strong><strong>1</strong><strong>)</strong><strong> </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>2</strong><strong>0</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>-</strong><strong>8</strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong>-</strong><strong>6</strong><strong>)</strong><strong> </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>6</strong><strong> </strong></p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong>* Nilai Clara </p><p>     </p><p>        <strong>Jawaban </strong><strong>yang </strong><strong>benar </strong><strong>=</strong> 50 - ( 5 + 6)</p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong>50 - 11</p><p>                     <strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>3</strong><strong>9</strong></p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>poin </strong><strong>total </strong><strong>=</strong><strong> </strong><strong>(</strong><strong> </strong><strong>3</strong><strong>9</strong><strong> </strong><strong>x </strong><strong>3</strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>5</strong><strong> </strong><strong>x </strong><strong>-</strong><strong>2</strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong>6</strong><strong> </strong><strong>x </strong><strong>-</strong><strong>1</strong><strong>)</strong><strong> </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>1</strong><strong>7</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>-</strong><strong>1</strong><strong>0</strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong>-</strong><strong>6</strong><strong>)</strong><strong> </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>1</strong><strong> </strong></p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong> * Nilai Dodi </p><p></p><p>           <strong>Jawaban </strong><strong>yg </strong><strong>benar </strong><strong>=</strong><strong> </strong><strong>3</strong><strong>9</strong><strong> </strong></p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>poin </strong><strong>total </strong><strong>=</strong><strong> </strong><strong>(</strong><strong> </strong><strong>3</strong><strong>9</strong><strong> </strong><strong>x </strong><strong>3</strong><strong> </strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>6</strong><strong> </strong><strong>x </strong><strong>-</strong><strong>2</strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>5x </strong><strong>-</strong><strong>1</strong><strong>)</strong><strong> </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>1</strong><strong>7</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong> </strong><strong>-</strong><strong>1</strong><strong>2</strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong>-</strong><strong>5</strong><strong>)</strong><strong> </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>0</strong></p><p></p><p></p><p>   Nilai tertinggi didapat oleh <strong>Bambang / B </strong></p><p>   </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-cari-keliling-dan-luasnya-840",
+            "question": "Tolong bantu cari keliling dan luasnya\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-cari-keliling-dan-luasnya-840-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab: keliling 40 </strong></p><p><strong>luas 100</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong> keliling = 10+10+10+10 = 40 </p><p>luasnya = sxs = 10 x10 = 100</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-berikut-ini-adalah-data-pembeli-di-kantin-sekolah-selama-1-mi-480",
+            "question": "10. Berikut ini adalah data pembeli di kantin sekolah selama 1 minggu.    Hari\r\nHasil yang dicapai\r\nSenin\r\n70\r\nSelasa\r\n80\r\nRabu\r\n60\r\nKamis\r\n50\r\nJum'at\r\n90\r\nSabtu\r\n70\r\nBuatlah diagram gambar dari data di atas!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>kira kira begini diagram gambarnya</p>",
+                    "attachments": [
+                        "answer-attachments/10-berikut-ini-adalah-data-pembeli-di-kantin-sekolah-selama-1-mi-480-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "25-diketahui-panjang-sisi-suatu-persegi-adalah-6-cm-keliling-pe-968",
+            "question": "25. Diketahui panjang sisi suatu persegi adalah 6 cm. keliling persegi tersebut adalah    12 cm\r\nb. 24 cm\r\n36 cm\r\nd 60 cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>K</strong><strong>eliling </strong><strong>=</strong><strong> </strong><strong>4</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>s</strong></p><p><strong>Keliling</strong><strong> </strong><strong>=</strong><strong> </strong><strong>4</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>6</strong></p><p><strong>Keliling</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>4</strong><strong> </strong><strong>cm</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>24cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Keliling Persegi = 4 x s = 4 x 6 = 24cm</p><p></p><p>Selamat Belajar :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-sisi-ab-pada-gambar-segitiga-abc-adalahcm-a-12-b-12-549",
+            "question": "Panjang sisi AB pada\r\ngambar segitiga ABC\r\nadalah...cm\r\nA. 12\r\nB. 12\u221a2\r\nC. 24\r\nD. 24\u221a2\u200b",
+            "attachments": [
+                "question-attachments/panjang-sisi-ab-pada-gambar-segitiga-abc-adalahcm-a-12-b-12-549-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><h3>B. 12\u221a2</h3><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Diketahui:</p><p>AC (c) = 24 cm</p><p>Ditanya AB (a)</p><p>AB = BC. Maka</p><p>c\u00b2 = a\u00b2 + a\u00b2</p><p>c\u00b2 = 2a\u00b2</p><p>a\u00b2 = c\u00b2/2</p><p>a\u00b2 = 24\u00b2/2</p><p>a\u00b2 = 576/2</p><p>a\u00b2 = 288</p><p>a = \u221a288</p><p>a = \u221a144\u221a2</p><p><strong>a = 12\u221a2 (B)</strong></p><p>Jawaban <strong>B. 12\u221a2</strong></p><p>- \u5609\u8aa0 -</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>[tex]\\huge \\orange{\\underbrace{\\overbrace{\\sf{\\bold{\\blue{Ambiziuz02}}}}}}[/tex] </p><p>_______________________________________________</p><p>[tex]{\\boxed{\\mathfrak{\\huge\\blue{{\\boxed{\\mathfrak{\\huge\\red{Penyelesaian}}}}}}}}[/tex]</p><p>_______________________________________________</p><p>Perhatikan bahwa AB = BC dengan AC = 24 cm</p><p>Maka panjang AB : </p><p>\u25aa [tex]\\large AC = \\sqrt{AB^2 + BC^2}   [/tex] </p><p>\u25aa [tex]\\large 24 = \\sqrt{2~AB^2}   [/tex] ==&gt; (Kuadratkan Kedua Ruas) </p><p>\u25aa [tex]\\large 24^2 = (\\sqrt{2~AB^2})^2  [/tex]</p><p>\u25aa [tex]\\large 576 = 2~AB^2   [/tex] </p><p>\u25aa [tex]\\large AB^2 = \\displaystyle \\frac{576}{2}  [/tex]</p><p>\u25aa [tex]\\large AB = \\sqrt{ \\displaystyle \\frac{576}{2}}[/tex] </p><p>\u25aa [tex]\\large AB = \\sqrt{288}[/tex] </p><p>\u25aa [tex]\\large AB = \\sqrt{144 \u00d7 2}   [/tex]</p><p>\u25aa [tex]\\large \\red{AB = 12\\sqrt{2}~\\sf{cm}}[/tex]</p><p>_______________________________________________</p><p>[tex]\\large\\bigstar[/tex] Detail Jawaban [tex]\\large\\bigstar[/tex] </p><p></p><p>\u261e Mapel : Matematika</p><p>\u261e Cabang : Geometri </p><p>\u261e Materi : Teorema Pythagoras</p><p>\u261e Kelas/Jenjang : 8 SMP</p><p>\u261e Kata Kunci : Segitiga Siku-Siku</p><p> _______________________________________________</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

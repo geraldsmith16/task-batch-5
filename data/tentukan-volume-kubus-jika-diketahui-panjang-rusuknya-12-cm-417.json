@@ -1,0 +1,132 @@
+{
+    "question": "Tentukan volume kubus jika diketahui panjang rusuknya 12 cm?\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>1.728 cm\u00b3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>V = s\u00b3</p><p><strong>diketahui</strong><strong>:</strong></p><p>s = 12 cm</p><p><strong>ditanya</strong><strong>:</strong><strong> </strong>Volume kubus?</p><p><strong>jawab:</strong></p><p>V = s\u00b3</p><p>   = 12 x 12 x 12</p><p>   = 1.728 cm\u00b3</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><h3>Rumus Volume kubus : Sisi Pangkat 3</h3><p>Jadi jika di ketahui panjang rusuk nya 12 cm </p><p>Maka , 12 pangkat 3 = 12\u00d712\u00d712 </p><p>                                   =1.728 cm </p><p></p><p>Jadi volume kubus itu adalag 1.728 cm </p><p></p><p></p><h2>Keterangan :</h2><ul><li>Rusuk dan sisi sama </li><li>Untuk pangkat maaf saya tidak bisa buat angka di atas </li></ul><p>           yang kecil jadi saya tulis \"pangkat\" </p><p></p><p></p><p></p><h2>Semoga membantu dan bermanfaat</h2><h2>Terimakasih</h2><h3></h3>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "3-tentukan-peternak-mempunyai-persediaan-pakan-yang-tidak-cukup-842",
+            "question": "3. tentukan peternak mempunyai persediaan pakan yang tidak cukup untuk 60 ekor ayam peliharaan selama 12 hari jika ia menjual ayamnya sebanyak 20 ekor , berapa hari persediaan paakan itu akan habis ?    jwb plisss \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><h3>8 hari mungkin<em><u> </u></em><em><u>m</u></em><em><u>a</u></em><em><u>a</u></em><em><u>f</u></em><em><u> </u></em><em><u>k</u></em><em><u>a</u></em><em><u>l</u></em><em><u>o</u></em><em><u> </u></em><em><u>s</u></em><em><u>a</u></em><em><u>l</u></em><em><u>a</u></em><em><u>h</u></em></h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-sifat-sifat-sisi-dan-diagonal-pada-persegi-panjang-512",
+            "question": "Sebutkan sifat - sifat sisi dan diagonal pada persegi panjang!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Masing-masing sisi yang berhadapan mempunyai ukuran sama panjang dan sejajar.</p><p>Seluruh sudutnya ialah sudut siku-siku.</p><p>Memiliki dua buah diagonal yang sama panjang dan saling berpotongan di titik pusat bangun persegi panjang.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-5x4-8x3-6x2-2x-tentukan-f-x-680",
+            "question": "Diketahui f'(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x, tentukan f (x)!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>Terdapat sebuah persamaan yang telah mengalami turunan bernilai f&#039;(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</p><p>Maka, untuk mencari f(x), masing-masing variabel pada persamaan yang diketahui harus dilakukan metode Integral pada umumnya</p><p>Misalkan kita akan mencoba mengembalikan nilai 5x\u2074 ke persamaan awal dengan menerapkan rumus berikut: </p><p>[tex]\\frac{a}{n + 1} x^n^+^1[/tex] = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>Sekiranya untuk membuktikan turunan dari [tex]x^{5}[/tex], dirumuskan sebagai berikut:</p><p>Rumus turunan: [tex](n)x^{n - 1}[/tex]</p><p>[tex]x^{5}[/tex] = [tex](5)x^{5 - 1}[/tex] = [tex]5x^{4}[/tex]</p><p></p><p>Maka hasil akan sama. Dengan begitu, bisa disolusikan untuk mencari f(x) dengan cara integral seperti berikut:</p><p>\u222b (5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x) dx</p><p>= \u00a0([tex]\\frac{5}{4 + 1} x^4^+^1[/tex]) - ([tex]\\frac{8}{3 + 1} x^3^+^1[/tex]) + ([tex]\\frac{6}{2 + 1} x^2^+^1[/tex]) - ([tex]\\frac{2}{1 + 1} x^1^+^1[/tex]) \u00a0+C</p><p>= \u00a0([tex]\\frac{5}{5} x^5[/tex]) - ([tex]\\frac{8}{4} x^4[/tex]) + ([tex]\\frac{6}{3} x^3[/tex]) - ([tex]\\frac{2}{2} x^2[/tex]) + C</p><p>= [tex]x^{5}[/tex] - [tex]2x^{4}[/tex] + [tex]2x^{3}[/tex] - [tex]x^{2}[/tex] + C</p><p>___________________________</p><p>Detail dari masing-masing variabel:</p><p>5x\u2074 = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>8x\u00b3 = [tex]\\frac{8}{3 + 1} x^3^+^1[/tex] = [tex]\\frac{8}{4} x^4[/tex] = [tex]2x^{4}[/tex]</p><p>6x\u00b2 = [tex]\\frac{6}{2 + 1} x^2^+^1[/tex] = [tex]\\frac{6}{3} x^3[/tex] = [tex]2x^{3}[/tex]</p><p>2x = [tex]\\frac{2}{1 + 1} x^1^+^1[/tex] = [tex]\\frac{2}{2} x^2[/tex] = [tex]x^{2}[/tex]</p><p>___________________________</p><p>Maka, hasil Anti-turunan dari <strong>5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</strong> ialah<strong> </strong>[tex]x^{5}[/tex]<strong> - </strong>[tex]2x^{4}[/tex]<strong> + </strong>[tex]2x^{3}[/tex]<strong> - </strong>[tex]x^{2}[/tex]<strong> + C</strong></p><p></p><p>-//Semoga membantu~ :3</p><p></p><p><em>(!) Misal ada kesalahan dari penjelasan dan perhitungan, monggo dikoreksi ya~</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "11-tentukan-koordinat-titik-a-jika-a-13-20-merupakan-bayangan-646",
+            "question": "11. Tentukan koordinat titik A jika A' (13-20) merupakan bayangan titik A karena    translasi B (10,-7), yaitu:\r\nA(-13,-13)\r\nD.(3,-13)\r\nB. (311)\r\nE. (-3,-13)\r\nC. (-13,3)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>b (311)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>koloh salah tidak apa apa ko</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "22-luas-sebuah-trapesium-150-cm2-dan-panjang-sisi-sisi-sejajarny-894",
+            "question": "22. Luas sebuah trapesium 150 cm2 dan panjang sisi-sisi    sejajarnya 10 cm dan 15 cm. Maka tinggi trapesium adalah\r\nA. 6 cm\r\nC. 12 cm\r\nB. 8 cm\r\nD. 24 cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>[tex]L =  \\frac{1}{2} \\times  (a + b) \\times t \\\\ 150 {  \\: cm }^{2}  =  \\frac{1}{2}  \\times (10  \\: cm+ 15 \\: cm) \\times t \\\\   150 {  \\: cm  }^{2}   = \\frac{1}{2}  \\times 25 \\: cm \\times t \\\\ 150 { \\: cm}^{2}  =  \\frac{25}{2 }  \\: cm \\times t \\\\  150 { \\: cm}^{2} \\times  \\frac{2}{25}   cm=  t \\\\ 6 \\times 2 \\: cm = t \\\\ 12 \\: cm = t \\: (C)[/tex]</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-93-adalah-tolong-jawab-sekarang-171",
+            "question": "Hasil dari 9\u00b3 adalah \r\ntolong jawab sekarang\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>9\u00b3 = 9\u00d79\u00d79=729</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Maaf Kalau Salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>9\u00b3 = ( 9 \u00d7 9 \u00d7 9 )</p><p>     <strong>=</strong><strong> </strong><strong>7</strong><strong>2</strong><strong>9</strong><strong> </strong><strong>\u2714</strong></p><p></p><p>Hasil dari 9\u00b3 adalah 729</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "formula-fx-jika-diketahui-gx-x-2-dan-fogx-5x-12-279",
+            "question": "Formula f(x) jika diketahui g(x) = x + 2 dan (fog)(x) = 5x+ 12\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>f(x)=5x+2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>diketahui=</p><p>g(x)=x+2</p><p>(f o g)(x)=5x+12</p><p></p><p>ditanya=</p><p>f(x)?</p><p></p><p>jawab=</p><p>(f o g)(x)= 5x+12</p><p>f(g(x))    = 5x+12</p><p>f(x+2)    = 5x+12</p><p>misal x+2=p,x=p-2</p><p></p><p>f(p)=5x+12</p><p>     =5(p-2)+12</p><p>     =5p - 10 +12</p><p>     =5p +2</p><p>f(x)=5x+2</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "petunjuk-umum-1-perhatikan-dan-ikuti-petunjuk-pengisian-lembar-993",
+            "question": "Petunjuk Umum:    1. Perhatikan dan ikuti petunjuk pengisian Lembar Jawaban yang disediakan;\r\n2. Periksa dan bacalah soal-soal sebelum Anda menjawab;\r\n3. Laporkan kepada pengawas kalau terdapat tulisan yang kurang jelas, rusak atau jumlah\r\nsoal kurang;\r\n4. Dahulukan mengerjakan soal-soal yang Anda\r\nanggap\r\nmudah;\r\n5. Pilihlah salah satu jawaban yang paling benar dengan menghitamkan bulatan jawaban;\r\n7. Periksalah seluruh pekerjaan Anda sebelum diserahkan kepada pengawas.\r\n1. Perhatikan gambar disamping, rumus teorema phytagoras yang tepat untuk sisi b adalah ..\r\nb\r\nA. b=a+c\r\nB. b=c+a\r\nC. b=b+a\r\nD. A dan B benar\r\na\r\n\u0441\r\n2.\r\n8cm\r\n?\r\n15cm\r\nPanjang sisi miring pada segitiga di atas adalah ...\r\nA. 15cm\r\nB. 16cm\r\nC. 17cm\r\nD. 18cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> 2. C</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2. Ibaratkan sisi miring itu c , maka:</p><p></p><p>     c\u00b2=\u221a(a\u00b2+b\u00b2)</p><p>     c\u00b2=\u221a(8\u00b2+15\u00b2)</p><p>     c\u00b2=\u221a(64+125)</p><p>     c\u00b2=\u221a189 </p><p>     c= 17 cm</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-jawab-ya-kkabg-gpp-kalo-di-jawab-cuma-nomor-7-atau-675",
+            "question": "tolong bantu jawab ya kk/abg, gpp kalo di jawab cuma nomor 7 atau cuma nomor 8, Terimakasih banyakk ^.^",
+            "attachments": [
+                "question-attachments/tolong-bantu-jawab-ya-kkabg-gpp-kalo-di-jawab-cuma-nomor-7-atau-675-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>no.7</p><p>a = (2, -3, 3)</p><p>b = (3, -2, -4)</p><p>ab = [(2x3) + (-3) x (-2) + (3 x (-4)]</p><p>ab = (6 + 6 - 12)</p><p>ab = 0</p><p>cos\u03b8 = ab/|a|.|b|</p><p>karena ab = 0</p><p>maka :</p><p>cos\u03b8 = 0</p><p>\u03b8 = 90\u00b0</p><p>jadi sudut antara vektor a dan vektor b = 90\u00b0</p><p></p><p>no. 8</p><p>u = ( 6i\u0302 + 3j\u0302 - 7k\u0302 )</p><p>v = ( 2i\u0302 + 3j\u0302 - 1k\u0302 )</p><p>gunakan rumus :</p><p>w = [(u.v)/|v|\u00b2]v</p><p>cari nilai u.v</p><p>u.v = [(6 x 2) + (3 x 3) + (-7 x -1)]</p><p>u.v = (12 + 9 + 7)</p><p>u.v = 28</p><p>cari panjang vektor v</p><p>|v| = \u2713(2\u00b2 + 3\u00b2 + (-1)\u00b2)</p><p>|v| = \u2713(4 + 9 + 1)</p><p>|v| = \u271314</p><p>|v|\u00b2 =14</p><p>w = [(u.v)/|v|\u00b2]v</p><p>w = (28/14)( 2i\u0302 + 3j\u0302 - 1k\u0302 )</p><p>w = 2( 2i\u0302 + 3j\u0302 - 1k\u0302 )</p><p>w = 4i\u0302 + 6j\u0302 - 2k\u0302 </p><p>jadi proyeksi ortogonal u pada v</p><p>= 4i\u0302 + 6j\u0302 - 2k\u0302 </p><p></p><p>\" maaf kakau salah \"</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kawat-sepanjang-5-meter-akan-dibuat-jaring-jaring-balok-berukuran-178",
+            "question": "Kawat Sepanjang 5 meter akan dibuat jaring-jaring balok berukuran yang Panjang 9cm,lebar 5cm, tinggi 3cm,, Banyak kerangka balok yang bisa dibuat adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>pejabat eselon empat orang tua kita kudu njaga di Jakarta</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

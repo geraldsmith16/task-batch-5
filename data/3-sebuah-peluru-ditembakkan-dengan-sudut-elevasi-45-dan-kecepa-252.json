@@ -1,0 +1,132 @@
+{
+    "question": "3.    Sebuah peluru ditembakkan dengan sudut elevasi 45\u00b0 dan kecepatan awal 100 m/s. Jika percepatan\r\ngravitasi g= 10 m/s? kedudukan peluru saat i 1=3V2 sekon adalah...\r\nA = 300, y = 210 m\r\nD. x = 300 m; y = 300 m\r\nB. = 50/2m; y =50 V2 m\r\nE. x = 300 m; y = 90 m\r\nC. r= 50 V2m;y -210 m\r\n11- tai\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>(A)</p><p>X = 300 m</p><p>Y = 210 m </p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>GERAK PARABOLA</p><p>Gerak benda dimana kecepatan awal membentuk sudut dengan horizontal, sudut yg dibentuk kecepatan awal terhadap horizontal di sebut sudut elevasi (\u03b8)</p><p>Gerak benda kita proyeksi terhadap sumbu-x (GLB) dan sumbu- y (GLBB)</p><p>Jarak Tempuh/Perpindahan</p><p>Sumbu - x (GLB)</p><p>X = Vo cos \u03b8 \u00d7 t</p><p>dimana</p><p>X = Jarak mendatar yang ditempuh benda saat t (m)</p><p>Vo = kecepatan awal benda (m/s)</p><p>t = waktu tempuh (s)</p><p>Sumbu-y (GLBB)</p><p>Y= Vo sin\u03b8 t - 1/2 gt^2</p><p>dimana</p><p>Y = ketinggian yg ditempuh benda saat t (m)</p><p> g = percepatan gravitasi bumi (m/s2)</p><p>Perpindahan (r)</p><p>r^2 = x^2 + y^2</p><p></p><p>Kecepatan</p><p>Sumbu -x</p><p>Vx = Vo cos \u03b8</p><p>Sumbu- y</p><p>Vy = Vo sin \u03b8 - gt</p><p>Vy^2 = Vo^2 sin^2 \u03b8 - 2g Y</p><p>Kecepatan benda</p><p>V^2 = Vx^2 + Vy^2</p><p></p><p>Saat benda di ketinggian maksimum,  Vy = 0</p><p>t maks = Vo sin \u03b8/ g</p><p>t udara = 2 Vosin \u03b8 / g</p><p>Y maks = Vo^2 sin^2 \u03b8/ 2g</p><p></p><p>Jarak Mendatar Maksimum</p><p>X maks = Vo^2 sin 2\u03b8/ g</p><p></p><p>Diketahui</p><p>Vo = 100 m/s</p><p>\u03b8  =  45\u00b0</p><p>g = 10 m/s\u00b2</p><p>t = 3\u221a2 s</p><p>Ditanya</p><p>Kedudukan peluru saat t</p><p>Penyelesaian</p><p>X = Vo cos \u03b8 \u00d7 t</p><p>   = 100  cos 45\u00b0 \u00d7 3\u221a2</p><p>   = 100\u00d7 1/2\u221a2 \u00d7 3\u221a2</p><p>X = 300 m</p><p>Y= Vo sin\u03b8 t - 1/2 g t^2</p><p>  = 100 sin 45\u00b0 \u00d7 3\u221a2 - 1/2\u00d710\u00d7 (3\u221a2)^2</p><p>  = 100\u00d71/2\u221a2 \u00d7 3\u221a2 - 1/2 \u00d710\u00d7 18</p><p>  = 300 - 90</p><p>Y = 210 m</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "termometer-x-dan-y-menunjukkan-angka-30x-dan-20y-saat-menguk-935",
+            "question": "Termometer X dan Y menunjukkan angka 30\u00b0X dan    -20\u00b0Y saat mengukur air membeku. Saat mengukur\r\nair mendidih, masing-masing menunjukkan angka\r\n150\u00b0X dan 250\u00b0Y. Jika suatu benda dapat terukur\r\nsuhunya sebesar 60\u00b0 X, maka skala yang\r\nditunjukkan pada termometer Y adalah ....\r\na. 37,5\r\nd. 52,5\r\nb. 47,5\r\ne. 55\r\nc. 50\r\n\r\n\r\ntolong dibantu\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>TY = 47,5 \u00b0Y</p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>TERMOMETER</p><p>Termometer Skala Reamur, Celcius, Fahrenheit dan Kelvin menggunakan batas titik beku air dan titik didih air sebagai acuan untuk membuat skala pengukurannya.</p><p></p><p>                              R       C           F          K</p><p>Titik Beku Air        0        0          32       273</p><p>Titik Didih Air       80      100       212      373</p><p>Selisih suhu         80       100      180       100.......bagi 20</p><p>Rumus                 4n       5n       9n+32   5n+273</p><p>Jadi kita dapat  rumus masing masing skala</p><p>TR = 4n</p><p>TC = 5n</p><p>TF = 9n + 32</p><p>TK = 5n + 273 </p><p>Catatan : Tentukan dulu nilai n dari suhu/skala yg diketahui di soal.</p><p></p><p>Diketahui</p><p>TbX = 30\u00b0X </p><p>TbY = -20\u00b0Y</p><p>TdX =  150\u00b0X</p><p>TdY =  250\u00b0Y</p><p>TX = 60\u00b0X</p><p>Ditanya</p><p>TY</p><p>Penyelesaian          </p><p>                                Y               X</p><p></p><p>Titik Beku Air         -20            30</p><p>Titik Didih Air         250           150</p><p>Selisih skala           270           120.....bagi 30</p><p>Rumus                 9n -20         4n + 30</p><p></p><p></p><p>TX = 3n + 30 = 60</p><p>               4n = 30</p><p>                 n = 7,5</p><p>TY = 9n - 20</p><p>      = 9\u00d77,5 - 20</p><p>      = 47,5\u00b0Y</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-mencegah-persaingan-yg-tidak-sehat-sesama-pedagang-belanda-859",
+            "question": "Untuk mencegah persaingan yg tidak sehat sesama pedagang Belanda, maka pada tahun 1602 didirikan VOC, gubenur pertama VOC adalah    a.cornelis de houtman\r\nb.jendral Pieter both\r\nc.Douwis dekker \r\nd .Jan Pieterzoon coen\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Gubernur pertama VOC adalah Jendral Pieter both</p><p><strong>Penjelasan:</strong></p><p>Semoga membantu :D</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><em><u>b.</u></em><em><u> </u></em><em><u>Jendral </u></em><em><u>Pieter </u></em><em><u>Both</u></em></p><p></p><p><strong><em>Gubernur </em></strong><strong><em>pertama </em></strong><strong><em>VOC </em></strong><strong><em>ialah </em></strong><u><strong><em>Jendral </em></strong><strong><em>Pieter</em></strong><strong><em> </em></strong></u><strong><em><u>Both</u></em></strong></p><p></p><h2><strong><em>Semoga</em></strong><strong><em> membantu</em></strong><strong><em>!</em></strong><strong><em> </em></strong><strong><em>jadikan</em></strong><strong><em> jawaban</em></strong><strong><em> tercerdas</em></strong><strong><em> ya</em></strong></h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rani-tidak-dapat-membaca-tulisan-dengan-jarak-1-meter-tetapi-dapa-150",
+            "question": "Rani tidak dapat membaca tulisan dengan jarak 1 meter tetapi dapat membaca dengan jelas pada jarak 25 cm mata apakah yang dialami Rani dan bagaimanakah cara penanggulangannya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>mata minus atau rabun jauh </p><p>cara penanggulangannya adalah memakai kaca mata khusus minus. </p><p>semoga bermanfaat^^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pembangkit-listrik-yg-memanfaatkan-energi-dari-matahari-d-sebut-253",
+            "question": "Pembangkit listrik yg memanfaatkan energi dari matahari d sebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Panel surya</p><p></p><p>SEMOGA BERMANFAAT:)</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Pembangkit Listrik Tenaga Surya ( PLTS )</p><p><strong>Penjelasan:</strong></p><p>Pembangkit Listrik Tenaga Surya ( PLTS ) pembangkit listrik yang memanfaatkan energi matahari</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hukum-archimedes-1-diketahui-massa-jenis-air-20p-1000-kgm3-hit-371",
+            "question": "HUKUM ARCHIMEDES    1. Diketahui massa jenis air 20p\r\n1000 kg/m3. Hitunglah volume\r\nbatu yang tercelup ke dalam air\r\njika berat air yang dipindahkan\r\noleh batu 80 N*\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>dik:</p><p>massa jenis air = 1000 kg/m^3</p><p>w = 80 N</p><p>dit: V?</p><p></p><p>F = 1000\u00d7V\u00d79,8</p><p>80 = 9800 V</p><p>V = 122,5 m^3</p><p></p><p><strong>Penjelasan:</strong></p><p>Rumus hukum archimedes</p><p>F = massa jenis\u00d7Volume\u00d7gravitasi</p><p>dengan F = w air yang dipindahkan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-cara-nya-dung-kak-hari-ini-harus-di-kumpulin-pls-kak-188",
+            "question": "Minta cara nya dung kak hari ini harus di kumpulin pls kak",
+            "attachments": [
+                "question-attachments/minta-cara-nya-dung-kak-hari-ini-harus-di-kumpulin-pls-kak-188-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.4 m/s bener</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-dengan-lengkap-konsep-bunyi-346",
+            "question": "Jelaskan dengan lengkap konsep bunyi!!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Dalam fisika, bunyi atau suara adalah adalah getaran yang merambat sebagai gelombang akustik, melalui media transmisi seperti gas, cairan atau padat.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-yang-mengalami-pemuaian-saat-terkena-panas-adalah-287",
+            "question": "Benda yang mengalami pemuaian saat terkena panas adalah??\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Salah satunya yaitu :</p><p><strong>Rel </strong><strong>K</strong><strong>ereta</strong><strong> </strong><strong>Api</strong></p><p>memuai saat terkena </p><p>sinar matahari.</p><p></p><p><strong>P</strong><strong>enjelasan:</strong></p><p><strong><em>Semoga</em></strong><strong><em> </em></strong><strong><em>bermanfaat</em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikut-ini-tentang-factor-factor-gerak-rotasi-208",
+            "question": "Berikut ini tentang factor-factor gerak rotasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Dalam gerak rotasi memiliki besaran-besaran seperti sudut dan radian, kecepatan sudut dan percepatan sudut. Disamping itu, ada beberapa faktor yang mempengaruhi gerak rotasi pada suatu benda, yaitu momen inersia, momen gaya, titik berat, momentum sudut, dan hukum kekekalan momentum sudut.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-proses-pembentukan-urine-diawali-oleh-tahap-filtrasipenyari-298",
+            "question": "Pada Proses Pembentukan urine diawali oleh tahap Filtrasi(Penyaringan) oleh glomerolus ,apabila glomerolus terjadi kerusakan maka akan terjadi\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Urine adalah hasil sisa metabolisme yang melalui proses sekresi dari ginjal yang kemudian dikeluarkan dari dalam tubuh melalui saluran kemih. Urine biasanya mengandung zat yang sudah tidak diperlukan oleh tubuh, sehingga perlu dikeluarkan karena dapat meracuni tubuh.</p><p>Jika satu atau beberapa dari organ tersebut mengalami masalah urologi, proses pembentukan urine pun ikut terganggu. Kenali apa saja organ yang bekerja dalam proses pembentukan urine di tubuh manusia.</p><p></p><p>Ginjal</p><p>Ginjal termasuk organ penting dalam pembentukan urine. Dua organ berbentuk kacang ini terletak di bawah tulang rusuk dekat bagian tengah punggung. Ada beberapa fungsi ginjal yang turut berkontribusi agar Anda bisa buang air kecil sebagai berikut.</p><p></p><p>Membuang limbah dan cairan berlebih dari tubuh.</p><p>Menyeimbangan kadar air dan elektrolit di tubuh.</p><p>Melepaskan hormon yang mengontrol produksi sel darah merah.</p><p>Membantu menjaga kesehatan tulang dengan mengontrol kalsium dan fosfor.</p><p>Ginjal nantinya akan mengeluarkan urea dari darah lewat unit penyaringan kecil yang disebut nefron. Setiap nefron biasanya terdiri atas bola yang dibentuk dari kapiler darah kecil (glomerulus) dan tabung kecil (tubulus ginjal).</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "question": "Suku ke-13 dari 4 suku barisan 1 2 4 8 adalah\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>\u25cf Materi : Bab 2 - Barisan dan deret</p><p>\u25cf Kode Kategorisasi : 9.2.2</p><p></p><h2>U13 = 4096</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1, 2, 4, 8</p><p>a = 1</p><p>r = 2/1 = 2</p><p></p><p>Un = a . r^(n - 1)</p><p>U13 = 1 . 2^(13 - 1)</p><p>U13 = 2^12</p><p><strong>U13 = 4096</strong></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-fungsi-didefinisikan-dengan-rumus-fx-xkuadrat-3x-5nila-642",
+            "question": "Suatu fungsi didefinisikan dengan rumus f(x) =xkuadrat -3x-5.nilai f-4=\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>5</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>f(x)= x</p><p>x= -3x - 5</p><p>4x= -5</p><p>f-4= -5</p><p>f= 5</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-limit-fungsi-berikut-lim-8x3-823",
+            "question": "HITUNGLAH\r\n\r\n LiMiT FUNGSI BERIKUT?\r\n\r\n Lim 8x\u00b3=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Bab Limit</p><p></p><p>Matematika SMA Kelas XI</p><p></p><p></p><p>lim ((8x\u00b3 + 3x\u00b2 - 4x + 7) / (2x\u00b3 - 5x + 17))</p><p></p><p>x\u2192\u221e</p><p>perhatikan pangkat tertinggi saja</p><p></p><p>= 8x\u00b3 / 2x\u00b3</p><p></p><p>= 8/2</p><p></p><p>= 4</p><h3>penjelasan langah langkah:</h3><h3></h3><h3>\n</h3><h3> jika pangkat x dari a=pangkat x dari b</h3><h3></h3><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-persatuan-dan-kesatuan-sangat-dibutuhkan-oleh-bangsa-indonesia-274",
+            "question": "1. Persatuan dan kesatuan sangat dibutuhkan oleh bangsa Indonesia karena hal-hal    berikut, kecuali ....\r\na. wilayah Indonesia yang luas\r\nb. tingginya rasa cinta tanah air\r\nc. keragaman budaya di Indonesia\r\nd. banyaknya pulau di Indonesia\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>b. tingginya rasa cinta tanah air</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p> </p><p></p><p>Rasa cinta tanah air termasuk sikap Nasionalisme jadi jawabannya B (karena kecuali)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-sebuah-tabung-yaitu-20790-cm-3jika-tingggi-tabung-15-cm-970",
+            "question": "volume sebuah tabung yaitu 20790 cm \u00b3.jika tingggi tabung 15 cm maka panjang jari jari tabung tersebut adalah ...cm.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabannya 311,850</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga lulus ys</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-nilai-c2-a2-b2-maka-akan-membentuk-segitiga-802",
+            "question": "Jika nilai c2 = a2 + b2 maka akan membentuk segitiga \u2026\u2026.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>segitiga siku siku</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>rumus phytagoras dalam mencari sisi miring pada segitiga siku siku c\u00b2=a\u00b2 + b\u00b2</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong><u>Seg</u></strong><strong><u>itiga</u></strong><strong><u> </u></strong><strong><u>siku</u></strong><strong><u>-siku</u></strong></p><p></p><p>c\u00b2 = a\u00b2 + b\u00b2 merupakan rumus phytagoras pada sisi hipotunesa</p><p></p><p>Rumus\u00b2 phytagoras segitiga siku\u00b2</p><p>\u2022 a\u00b2 = c\u00b2 - b\u00b2</p><p>\u2022 b\u00b2 = c\u00b2 - a\u00b2</p><p>\u2022 c\u00b2 = a\u00b2 + b\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-ab-2i-3j-6k-dan-a-b-13-hasil-dari-ab-253",
+            "question": "Diketahui a+b = -2i + 3j + 6k Dan | a-b | = \u221a13. Hasil dari a.b adalah    a. 9\r\nb. 11\r\nc. 61/4\r\nd. 62/4\r\ne. 16\r\n\r\ntolong jawab dengan caranya ya kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>maaf saya tidak bisa menjawabnya</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-segitiga-abc-siku-siku-di-b-sudut-a-30-derajat-dan-panjan-264",
+            "question": "Suatu segitiga ABC siku-siku di B sudut a = 30 derajat dan panjang AB = 15 cm panjang sisi AC adalah...    A.5 cm\r\nB.10 cm\r\nC.10\u221a3 cm\r\nD.15\u221a3 cm\r\nE.30 cm\r\n\r\ntolong bantuu\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C. 10akar3 cm</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>satu segitiga 180\u00b0</p><p>siku-siku= 90\u00b0</p><p></p><p>rumus= a/sinA = b/sinB = c/sinC</p><p></p><p>disini kita pakai b/sinB= c/sinC</p><p>jadi,</p><p>b/sin90\u00b0 = 15/sin60\u00b0</p><p>b/1 = 15/akar3/2</p><p>b= 30/akar 3</p><p>dirasionalisasi</p><p>b= 10akar3</p><p></p><p>jawabannya C</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-wadah-terdapat-sejumlah-kelereng-yang-terdiri-atas-12-113",
+            "question": "Pada sebuah wadah terdapat sejumlah kelereng yang terdiri atas 12 kelereng merah, 10 kelereng putih, dan 18 kelereng hitam, jika diambil sebuah kelereng, tentukan peluang terambilnya :    a,. kelereng merah\r\nb. kelereng putih\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>a. ) kelereng merah memiliki peluang 3 / 10</p><p></p><p>b. ) kelereng putih memiliki peluang 1 / 4</p><p></p><p>note : </p><p>jalan ada di foto jawaban</p><p></p><p></p><p></p><p></p><p><strong><em><u>SEMOGA MEMBANTU YA </u></em></strong></p>",
+                    "attachments": [
+                        "answer-attachments/pada-sebuah-wadah-terdapat-sejumlah-kelereng-yang-terdiri-atas-12-113-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a). p (m) = 3/10</p><p>b). p (p ) = 1/4</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Merah : n (m)= 12</p><p>Putih :  n (p) = 10</p><p>Hitam : n (h) = 18</p><p></p><p>Total kelereng = 12 + 10 + 18 = 40</p><p>n ( S ) = 40</p><p></p><p>a).  p(m) = n(m) / n(s)</p><p>              = 12 / 40 = 3/10</p><p></p><p>b).  p(p) = n (p) / n(s)</p><p>             = 10 / 40  = 1/4</p><p></p><p>p(h) = n(h) / n(s)</p><p>       = 18 /40 = 9/20</p><p></p><p> p ( m + p ) =  n(m) + n(p)</p><p>                    ----------------</p><p>                          n (s )</p><p>                = ( 18+10 ) / 40</p><p>                = 22 / 40</p><p>                = 11 / 20</p><p></p><p>p ( p+ h ) = n (p) + n ( h )</p><p>                  ------------------</p><p>                         n (s )</p><p>               = ( 10 + 18 )</p><p>               = 28/ 40</p><p>               = 7 / 10</p><p>                       </p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-jenis-jenis-transformasi-geometritk-beserta-masing-masin-723",
+            "question": "Tuliskan Jenis-jenis transFormasi Geometritk\r\nbeserta masing-masing contohnya.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Mengubah setiap koordinat titik (titik2 dr suatu bangunan)menjd koordinat lainnya pd bidang dg satu aturan tertentu.misalnya transFormasi  T terhadap titik P(x,y) menghasilkan bayangan P&#039;(x&#039;,y&#039;,)</p><p>Peluang:</p><p>dpt dhitung melalui frekuensi relatif, pd dasar nya,peluang terbagi menjd 2 yaitu peluang empirik (frekuensi relatif) dan peluang teoretik nilanya P(K)=n(K)/n(S)</p><p>Statistika :: membuat tabel,, diagram atau gradik data!! rumusyah pke median,modus ,mean</p><p>nopas</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "221956-pliss-jawab-195",
+            "question": "\u00b2\u221a21.956=????\r\n pliss jawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\u221a21.956 = tidak ada hasil..</p><p><strong><em><u>Mohon maaf mungkin yg dimaksud itu </u></em></strong></p><p><strong><em>\u221a</em></strong><strong><em>2</em></strong><strong><em>1</em></strong><strong><em>.</em></strong><strong><em>9</em></strong><strong><em>5</em></strong><strong><em>2</em></strong><strong><em> </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>2</em></strong><strong><em>8</em></strong></p><p><strong><em>2</em></strong><strong><em>8</em></strong><strong><em> </em></strong><strong><em>x</em></strong><strong><em> </em></strong><strong><em>2</em></strong><strong><em>8</em></strong><strong><em> </em></strong><strong><em>x</em></strong><strong><em> </em></strong><strong><em>2</em></strong><strong><em>8</em></strong><strong><em> </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>2</em></strong><strong><em>1</em></strong><strong><em>.</em></strong><strong><em>9</em></strong><strong><em>5</em></strong><strong><em>2</em></strong><strong><em> </em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "question": "2.    Perhatikan gambar berikut!\r\nSalah satu bentuk aplikasi percakapan\r\nyang sesuai dengan gambar berikut, dapat\r\ndikategorikan sebagai ....\r\na.FTP\r\nb.IRC\r\nc.HTTP\r\nd.WWW\r\n\u200b",
+    "attachments": [
+        "question-attachments/2-perhatikan-gambar-berikut-salah-satu-bentuk-aplikasi-percakap-592-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><h2>B.IRC</h2><p><strong>Penjelasan:</strong></p><p>MAAF YA KALAU SALAH</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hyukk-bntu-jwb-pren-660",
+            "question": "Hyukk bntu jwb pren-!!!!\u200b",
+            "attachments": [
+                "question-attachments/hyukk-bntu-jwb-pren-660-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p><strong>Penjelasan:</strong></p><p><strong>a)</strong></p><p>[tex]\\displaystyle 25_{(10)} = 5^2\\\\\\\\25_{(10)} = (2^2+1)^2 = \\sum\\limits_{0\\leq k \\leq 2} \\binom{2}{k} \\cdot 2^{2k}\\\\\\\\\\binom{2}{k} = 2 \\text{ ketika k = 1, maka ketika k = 1 : }  \\binom{2}{k} \\cdot 2^{2k} = 2^{2+1} = 2^3\\\\\\\\\\text{pangkat 2 yang aktif dan tidak aktif pada } \\sum\\limits_{0\\leq k \\leq 2} \\binom{2}{k} \\cdot 2^{2k} \\; :\\\\\\\\\\text{Pangkat aktif : }4, 3, 0\\\\\\\\\\text{Pangkat tidak aktif : }2, 1\\\\\\\\25_{(10)} = 1\\cdot 2^4 + 1\\cdot 2^3 + 0\\cdot 2^2 + 0\\cdot 2^1 + 1\\cdot 2^0\\\\\\\\[/tex]</p><p>[tex]\\boxed{\\boxed{\\textbf{\\Huge{$\\boldsymbol{25_{(10)} = 11001_{(2)} }$}}}}[/tex]</p><p>b) </p><p>[tex]\\displaystyle 100_{(10)} = 10^2\\\\\\\\100_{(10)} = (2^3+2)^2 = \\sum\\limits_{0\\leq k \\leq 2} \\binom{2}{k} \\cdot 2^{2(k+1)}\\\\\\\\\\binom{2}{k} = 2 \\text{ ketika k = 1, maka ketika k = 1 : }  \\binom{2}{k} \\cdot 2^{2(k+1)} = 2^{4+1} = 2^5\\\\\\\\\\text{pangkat 2 yang aktif dan tidak aktif pada } \\sum\\limits_{0\\leq k \\leq 2} \\binom{2}{k} \\cdot 2^{2(k+1)} \\; :\\\\\\\\\\text{Pangkat aktif : }6, 5, 2\\\\\\\\\\text{Pangkat tidak aktif : }4,3,1,0[/tex]</p><p>[tex]100_{(10)} = 1\\cdot 2^6 + 1\\cdot 2^5 + 0\\cdot 2^4+ 0\\cdot 2^3+ 1\\cdot 2^2 + 0\\cdot 2^1 + 0\\cdot 2^0[/tex]</p><p>[tex]\\boxed{\\boxed{\\textbf{\\Huge{$\\boldsymbol{100_{(10)} = 1100100_{(2)} }$}}}}[/tex]</p><p>atau karena 100 = 25*4 maka biner dari 25 bisa dikalikan biner 4 :</p><p>25\u2081\u2080 = 11001\u2082 , 4\u2081\u2080 = 100\u2082</p><p><strong>perkalian biner : 0*1 = 1*0 = 0, 1*1 = 1, 0*0 = 0</strong></p><p><strong>penjumlahan biner : 0+0 = 0, 1+0 = 0+1 = 1, 1+1 = 10 = 0 sisa 1 \u00a0</strong></p><p><strong>(10 dalam basis biner/basis 2 sama dengan 2 dalam basis desimal/basis 10, jadi sama seperti desimal, jika hasil jumlahnya lebih dari 10 maka muncul sisa penjumlahan untuk dijumlahkan ke penjumlahan selanjutnya)</strong></p><p></p><p>[tex]\\begin{aligned} &amp;\\quad 11001 \\\\&amp;\\quad \\quad 100\\\\&amp;\\noindent\\rule{5em}{1pt} \\quad\\text{x}\\\\&amp; \\;\\;\\;\\; 00000\\\\&amp;\\;\\;00000\\\\&amp; 11001\\\\&amp;\\noindent\\rule{5em}{1pt} \\quad\\text{+}\\\\&amp; \\bold{1100100_{(2)} = 100_{(10)}}\\end{aligned}[/tex]</p><p></p><p>5 bintang + tombol thanks nya + brainliest</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-4-dampak-positif-dari-perkembangan-teknologi-informasi-209",
+            "question": "Sebutkan 4 dampak positif dari perkembangan teknologi informasi\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.Memberikan berbagai kemudahan.</p><p>2.Mempercepat dan mempermudah proses\u00a0informasi\u00a0dan distribusi dalam kegiatan ekonomi.</p><p>3.Menambah efektifitas dan efisiensi dalam interaksi sosial masyarakat.</p><p>4.Peningkatan di bidang produksi.</p><p></p><p>semoga bermanfaat bantu follow gua ye dan kasih bintang jawaban gua ae kgk maksa UwU</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "terangkan-sejarah-awal-kata-komputer-124",
+            "question": "Terangkan sejarah awal kata \"komputer\"\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Kata \"komputer\" berasal dari bahasa Latin computare, \"menghitung\". Komputer pada awalnya adalah kalkulator mekanik atau seseorang yang melakukan perhitungan di mana mereka dibutuhkan (seperti perusahaan teknik), pertama dengan tangan, kemudian dengan bantuan kalkulator mekanik. Sebagian besar matematika yang diperlukan untuk program ruang angkasa awal dilakukan oleh komputer manusia, kebanyakan dari mereka adalah wanita.\n</p><p>\nJadi bagaimana, dari penjabaran matematika sejati ke komputer komersial pertama yang dijual pada tahun 1951 (UNIAC), ke Komputer Pribadi (PC) pertama oleh IBM pada tahun 1981 hingga antarmuka grafis Windows 95, apakah kita dapat sampai di tempat kita sekarang? Dunia telah beralih dari Era Industri ke Era Informasi.\n</p><p>Tetapi Roma tidak dibangun dalam sehari: komputasi modern didirikan selama beberapa dekade dengan bantuan puluhan ahli matematika, dokter, dan ahli teori.\n</p><p>\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "a-pilihan-line-spacing-terdapat-pada-tab-home-group-p-382",
+            "question": "A.    . pilihan line spacing terdapat pada ....\r\ntab home \u2192 group paragraph line and paragraph spacing\r\nb. tab home \u2192 group paragraph line and page breaks\r\ntab home \u2192 group paragraph general\r\nd. tab home group paragraph ---&gt; indentation\r\nc.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>tab home \u2192 group paragraph line and paragraph spacing</p><p><strong>Penjelasan:</strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/a-pilihan-line-spacing-terdapat-pada-tab-home-group-p-382-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bantu-ya-ka-soal-ada-d-atas-658",
+            "question": "Bantu ya ka, soal ada d atas\u200b",
+            "attachments": [
+                "question-attachments/bantu-ya-ka-soal-ada-d-atas-658-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A.NO,NIS, NAMA,NILAI</p><p>MAAF KALAU SALAH</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikut-yang-tidak-termasuk-tipe-data-numeric-adalah-a-boolea-964",
+            "question": "Berikut yang tidak termasuk tipe data numeric adalah...    a. Boolean\r\nb. Recordlist\r\nc. Character\r\nd. Enumerasi\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Berikut yang tidak termasuk tipe data numeric adalah...</strong></p><p><strong>a. Boolean</strong></p><p><strong>b. Recordlist</strong><strong>\u2705</strong></p><p><strong>c. Character</strong></p><p><strong>d. Enumerasi</strong></p><p></p><p></p><p></p><p></p><p><strong>SEMOGA</strong><strong> </strong><strong>MEMBANTU</strong><strong> </strong></p><p></p><h3><strong><em>#JADIKANJAWABANTERBAIK</em></strong><strong><em> </em></strong></h3><p></p><h2><strong><em>#BELAJARBERSAMABRAINLY</em></strong></h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-nama-icon-gambar-di-samping-tolong-di-jawab-280",
+            "question": "Apakah nama icon Gambar di samping..?\r\n\r\n\r\n\r\n\r\ntolong di jawab\u200b",
+            "attachments": [
+                "question-attachments/apakah-nama-icon-gambar-di-samping-tolong-di-jawab-280-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban</strong><strong> dan</strong><strong> penjelasan</strong><strong>:</strong></p><p></p><p>ikon <strong>B </strong>adalah untuk menebalkan tulisan yang sudah dituliskan di handphone atau laptop.</p><p></p><p>ikon <strong><em>I </em></strong>adalah untuk memiringkan tulisan yang sudah dituliskan di handphone atau laptop.</p><p></p><p>ikon <strong><u>U</u> </strong>adalah untuk<strong> </strong>menggaris bawahi kata kata penting yang sudah dituliskan di handphone atau laptop.</p><p></p><p></p><p></p><p></p><p></p><p>SEMOGA BERMANFAAT :D</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Nama iconnya adalah tombol pintas</p><p><strong></strong></p><p><strong>Penjelasan:</strong></p><p>Fungsi-fungsinya adalah :</p><p><strong>B </strong>singkatan dari <strong>Bold</strong> berfungsi untuk menebalkan teks</p><p><strong>I</strong><em> </em>adalah singkatan dari <em>italic</em> berfungsi untuk <em>memiringkan</em> teks</p><p><strong>U </strong>singkatan dari <u>underline</u> berfungsi untuk <u>menggarisbawahi</u> teks </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setruktur-control-percabangan-if-then-yg-benar-189",
+            "question": "Setruktur control percabangan if then yg benar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawaban:If control then statement </p><p></p><p>Penjelasan:</p><p>Semoga membantu maaf kalo salah ya kak^_^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "model-rakitan-yang-merupakan-komputer-mekanis-per-tama-rancangan-968",
+            "question": "Model rakitan yang merupakan komputer mekanis per Tama rancangan Charles Babbage adalah\r\n.......\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Analitic Engine </p><p><strong></strong></p><p><strong>Penjelasan:</strong></p><p>Analitic Engine adalah komputer mekanis pertama yang dirancang dan dibangun sebagian oleh Charles Babbage</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-langkah-langkah-menyimpan-dokumen-atau-file-pada-ms-word-590",
+            "question": "Tuliskan langkah-langkah menyimpan dokumen atau file pada MS Word 2013\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ctrl+s - pilih folder untuk menyimpan - isi nama dokumen yang mau disimpan - klik save </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

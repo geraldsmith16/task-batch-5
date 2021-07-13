@@ -1,0 +1,128 @@
+{
+    "question": "Terangkan sejarah awal kata \"komputer\"\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Kata \"komputer\" berasal dari bahasa Latin computare, \"menghitung\". Komputer pada awalnya adalah kalkulator mekanik atau seseorang yang melakukan perhitungan di mana mereka dibutuhkan (seperti perusahaan teknik), pertama dengan tangan, kemudian dengan bantuan kalkulator mekanik. Sebagian besar matematika yang diperlukan untuk program ruang angkasa awal dilakukan oleh komputer manusia, kebanyakan dari mereka adalah wanita.\n</p><p>\nJadi bagaimana, dari penjabaran matematika sejati ke komputer komersial pertama yang dijual pada tahun 1951 (UNIAC), ke Komputer Pribadi (PC) pertama oleh IBM pada tahun 1981 hingga antarmuka grafis Windows 95, apakah kita dapat sampai di tempat kita sekarang? Dunia telah beralih dari Era Industri ke Era Informasi.\n</p><p>Tetapi Roma tidak dibangun dalam sehari: komputasi modern didirikan selama beberapa dekade dengan bantuan puluhan ahli matematika, dokter, dan ahli teori.\n</p><p>\n</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jelaskan-kegunaan-dari-perintah-copy-dan-paste-dalam-microsoft-ex-696",
+            "question": "Jelaskan kegunaan dari perintah copy dan paste dalam Microsoft Excel\r\n\r\nbantu\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>cut =&gt; perintah untuk memindahkan objek dari dokumen ke clipboard. copy =&gt; perintah untuk menyalin hasil salinan objek. paste =&gt; perintah untuk menempel hasil salinan objek</p><p><strong>Penjelasan:</strong></p><p>semoga membantu </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "a-a-f1-d-letak-monitor-didepan-kita-14-tombol-yang-digunakan-un-360",
+            "question": "A    a f1\r\nd. Letak monitor didepan kita\r\n14. Tombol yang digunakan untuk membuat huruf capital/ besar\r\nadalah...\r\na. Enter\r\nc. Space Bar\r\nb. Backspace\r\nd. Capslock\r\n15. Proses awal menghidupkan computer disebut..\r\na Scanning\r\nc. Booting\r\nb. Loading\r\nd. Waiting\r\n16. Perangkat lunak yang digunakan untuk mengolah data angka\r\ndisebut.\r\na. Microsoft Word c. Winamp\r\nb. Microsoft Excell d. Games\r\n17. Perangkat yang digunakan untuk mengolah data kata-kata atau\r\nhuruf disebut...\r\na. Microsoft Word C. Winamp\r\nb. Microsoft Excell d. Games\r\n18. Tombol yang digunakan untuk mematikan computer adalah....\r\nc.f2.\r\nb. f10\r\nd.f8\r\n19. Tombol pada keyboard yang digunakan untuk membatalkan\r\nperintah adalah...\r\na. Ctrl\r\nc Esc\r\nb. Shift\r\nd. Alt\r\n20. Gambar yang menjadi latar belakang tampilan pada destop\r\ndisebut...\r\na. Walipaper\r\nc. Shortcut\r\nb. Taskbar\r\nd. Icon\r\n21. Alat komunikasi dua arah, kita dapat bergantian berkomunikasi,\r\nsaling tanya jawab disebut...\r\na Televisi\r\nc. Telefon\r\nb. Radio\r\nd. Komputer\r\n22. Pada zaman purba/kuno, manusia berkomunikasi menggunakan...\r\na. Telefon\r\nC. Televisi\r\nb. Asap\r\nd. HT\r\n23. Alat komunikasi zaman dulu yang masih digunakan samapai\r\ndengan saat ini adalah...\r\na. Telefon\r\nC. Asap\r\nb. Kentongan\r\nd. Terompet\r\n24. Peranan TIK dalam kehidupan sehari-hari, kecuali...\r\na. Berbagi hasil penelitian\r\nb. Diskusi Online\r\nc. Konsultasi dengan pakar\r\nd. Menulis manual\r\n25. Proses menghidupkan computer dari keadaan mati merupakan\r\npenegertian dari...\r\na. Warperang \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>14. d. Capslock</p><p>15. c. Booting</p><p>16. b. Microsoft Excell</p><p>17. a. Microsoft Word</p><p>18. Jawaban kurang lengkap</p><p>19. c. Esc</p><p>20. a. Walipaper</p><p>21. \u00a0c. Telefon</p><p>22. \u00a0b. Asap</p><p>23. b. Kentongan</p><p>24. d. Menulis manual</p><p>25. Jawaban kurang lengkap</p><p><strong>Penjelasan:</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hyukk-bntu-jwb-pren-660",
+            "question": "Hyukk bntu jwb pren-!!!!\u200b",
+            "attachments": [
+                "question-attachments/hyukk-bntu-jwb-pren-660-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p><strong>Penjelasan:</strong></p><p><strong>a)</strong></p><p>[tex]\\displaystyle 25_{(10)} = 5^2\\\\\\\\25_{(10)} = (2^2+1)^2 = \\sum\\limits_{0\\leq k \\leq 2} \\binom{2}{k} \\cdot 2^{2k}\\\\\\\\\\binom{2}{k} = 2 \\text{ ketika k = 1, maka ketika k = 1 : }  \\binom{2}{k} \\cdot 2^{2k} = 2^{2+1} = 2^3\\\\\\\\\\text{pangkat 2 yang aktif dan tidak aktif pada } \\sum\\limits_{0\\leq k \\leq 2} \\binom{2}{k} \\cdot 2^{2k} \\; :\\\\\\\\\\text{Pangkat aktif : }4, 3, 0\\\\\\\\\\text{Pangkat tidak aktif : }2, 1\\\\\\\\25_{(10)} = 1\\cdot 2^4 + 1\\cdot 2^3 + 0\\cdot 2^2 + 0\\cdot 2^1 + 1\\cdot 2^0\\\\\\\\[/tex]</p><p>[tex]\\boxed{\\boxed{\\textbf{\\Huge{$\\boldsymbol{25_{(10)} = 11001_{(2)} }$}}}}[/tex]</p><p>b) </p><p>[tex]\\displaystyle 100_{(10)} = 10^2\\\\\\\\100_{(10)} = (2^3+2)^2 = \\sum\\limits_{0\\leq k \\leq 2} \\binom{2}{k} \\cdot 2^{2(k+1)}\\\\\\\\\\binom{2}{k} = 2 \\text{ ketika k = 1, maka ketika k = 1 : }  \\binom{2}{k} \\cdot 2^{2(k+1)} = 2^{4+1} = 2^5\\\\\\\\\\text{pangkat 2 yang aktif dan tidak aktif pada } \\sum\\limits_{0\\leq k \\leq 2} \\binom{2}{k} \\cdot 2^{2(k+1)} \\; :\\\\\\\\\\text{Pangkat aktif : }6, 5, 2\\\\\\\\\\text{Pangkat tidak aktif : }4,3,1,0[/tex]</p><p>[tex]100_{(10)} = 1\\cdot 2^6 + 1\\cdot 2^5 + 0\\cdot 2^4+ 0\\cdot 2^3+ 1\\cdot 2^2 + 0\\cdot 2^1 + 0\\cdot 2^0[/tex]</p><p>[tex]\\boxed{\\boxed{\\textbf{\\Huge{$\\boldsymbol{100_{(10)} = 1100100_{(2)} }$}}}}[/tex]</p><p>atau karena 100 = 25*4 maka biner dari 25 bisa dikalikan biner 4 :</p><p>25\u2081\u2080 = 11001\u2082 , 4\u2081\u2080 = 100\u2082</p><p><strong>perkalian biner : 0*1 = 1*0 = 0, 1*1 = 1, 0*0 = 0</strong></p><p><strong>penjumlahan biner : 0+0 = 0, 1+0 = 0+1 = 1, 1+1 = 10 = 0 sisa 1 \u00a0</strong></p><p><strong>(10 dalam basis biner/basis 2 sama dengan 2 dalam basis desimal/basis 10, jadi sama seperti desimal, jika hasil jumlahnya lebih dari 10 maka muncul sisa penjumlahan untuk dijumlahkan ke penjumlahan selanjutnya)</strong></p><p></p><p>[tex]\\begin{aligned} &amp;\\quad 11001 \\\\&amp;\\quad \\quad 100\\\\&amp;\\noindent\\rule{5em}{1pt} \\quad\\text{x}\\\\&amp; \\;\\;\\;\\; 00000\\\\&amp;\\;\\;00000\\\\&amp; 11001\\\\&amp;\\noindent\\rule{5em}{1pt} \\quad\\text{+}\\\\&amp; \\bold{1100100_{(2)} = 100_{(10)}}\\end{aligned}[/tex]</p><p></p><p>5 bintang + tombol thanks nya + brainliest</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "quizz-malam-1-apa-itu-insecurejelaskan-2-bagaimana-cara-408",
+            "question": "QUIZZ MALAM\u2665\ufe0f    1. apa itu insecure?jelaskan!\r\n2. bagaimana cara mengatasi insecure?\r\n3. sebutkan contoh\" insecure\r\n\r\n~NO COPY GOOGLE!\r\n~NO AMBIL POIN \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>insecure adalah saat diri kita sesang merasakan tidak percaya diri atau percaya diri rendah,hal ini disebabkan karena kita membanding2 kan diri kita dengan orang lain</p><p></p><p>cara mengatasi insecure adalah : belajar menerima diri sendiri, mencintai diri sendiri, tidak membanding2kan kelebihan orang lain dengan kekurangan kita, yang terakhir bersyukur</p><p></p><p>contoh insecure : insecure saat fisik orang lain lebih indah dari diri sendiri, insecure karna kemampuan/ilmu orang lain lebih banyak dari kita ( lebih pintar ), insecure karena orang lain lebih mampu ( kaya ) dari kita</p><p><strong>Penjelasan:</strong></p><p>semoga membantu, maaf yaa kalau salah, jadikan jawaban terbaik yaa makasih^^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-tiga-kesalahan-yang-dapat-terjadi-pada-program-614",
+            "question": "Sebutkan tiga kesalahan yang dapat terjadi pada program\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>1.</strong><strong> </strong><strong>Tidak bisa membedakan function (method) dan variable (attribute)</strong></p><p></p><p><strong>2.</strong><strong> </strong><strong>Penamaan method, attribute atau class</strong></p><p></p><p><strong>3</strong><strong>.</strong><strong> </strong><strong>Lupa membuat variabel</strong></p><p></p><p></p><p></p><p></p><p><strong>SEMOGA</strong><strong> </strong><strong>MEMBANTU</strong><strong> </strong></p><p></p><h3><strong><em>#JADIKANJAWABANTERBAIK</em></strong><strong><em> </em></strong></h3><p></p><h2><strong><em>#BELAJARBERSAMABRAINLY</em></strong><strong><em> </em></strong></h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setruktur-control-percabangan-if-then-yg-benar-189",
+            "question": "Setruktur control percabangan if then yg benar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawaban:If control then statement </p><p></p><p>Penjelasan:</p><p>Semoga membantu maaf kalo salah ya kak^_^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kriteria-yang-digunakan-untuk-menganalisis-teks-eksplanasi-komple-598",
+            "question": "Kriteria yang digunakan untuk menganalisis teks eksplanasi kompleks adalah \u2026\u00a0*",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><h2>fungsi, dan kelengkapan struktur teks</h2><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><h3>maaf kalo salah</h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tanya-kalo-untuk-scroll-cepat-pake-apa-ya-tekat-ctr-977",
+            "question": "Tanya kalo untuk scroll cepat pake apa ya tekat ctr + ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Untuk</strong><strong> </strong><strong>scroll</strong><strong> </strong><strong>cepat</strong><strong> </strong><strong>gunakan</strong><strong> </strong><strong>tombol</strong><strong> </strong><strong>Ctrl</strong><strong> </strong><strong>+</strong><strong> </strong><strong>Shift</strong><strong> </strong><strong>+</strong><strong> </strong><strong>Abjad</strong></p><p></p><p></p><p><strong>SEMOGA</strong><strong> </strong><strong>MEMBANTU</strong><strong> </strong></p><p></p><h3><strong><em>#JADIKANJAWABANTERBAIK</em></strong><strong><em> </em></strong></h3><p></p><h2><strong><em>#BELAJARBERSAMABRAINLY</em></strong><strong><em> </em></strong></h2><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Untuk scroll cepat pada Microsoft Excel dan Word apabila hanya untuk ke halaman teratas gunakan <strong>ctrl + home</strong> dan terbawah gunakan <strong>ctrl + end</strong></p><p><strong></strong></p><p><strong><em>semoga membantu</em></strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "model-rakitan-yang-merupakan-komputer-mekanis-per-tama-rancangan-968",
+            "question": "Model rakitan yang merupakan komputer mekanis per Tama rancangan Charles Babbage adalah\r\n.......\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Analitic Engine </p><p><strong></strong></p><p><strong>Penjelasan:</strong></p><p>Analitic Engine adalah komputer mekanis pertama yang dirancang dan dibangun sebagian oleh Charles Babbage</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-langkah-langkah-menyimpan-dokumen-atau-file-pada-ms-word-590",
+            "question": "Tuliskan langkah-langkah menyimpan dokumen atau file pada MS Word 2013\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ctrl+s - pilih folder untuk menyimpan - isi nama dokumen yang mau disimpan - klik save </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

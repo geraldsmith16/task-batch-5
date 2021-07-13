@@ -1,0 +1,144 @@
+{
+    "question": "Sebuah limas dengan alas berbentuk belah ketupat. Panjang diagonal-diagonal nya 6 cm dan 8 cm. Jika tinggi    limas 12 cm, tentukan volume limas\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Diketahui: </p><p>diagonal = 6 dan 8</p><p>tinggi limas = 12</p><p>Ditanya: Volume limas</p><p>Jawab:</p><p></p><p>Untuk mencari luas alas limas yg berebntuk belav ketupat maka rumusnya: </p><p>L = 1/2 \u00d7 d1 \u00d7 d2</p><p>   = 1/2 \u00d7 6 \u00d7 8</p><p>   = 3 \u00d7 8</p><p>   = 24 cm</p><p></p><p>Untuk mencari Volume limas maka rumusnya:</p><p>V = 1/3 \u00d7 L alas \u00d7 t</p><p>   = 1/3 \u00d7 24 \u00d7 12</p><p>   = 8 \u00d7 12</p><p>   = 96 cm </p><p>Jadi volume limas adalah 96 cm kubik</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "minta-tolong-kasih-penjelasan-y-671",
+            "question": "Minta tolong................\u200b\r\nKasih penjelasan y",
+            "attachments": [
+                "question-attachments/minta-tolong-kasih-penjelasan-y-671-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]f(x) = 2x + 4 \\\\ f(g(x)) = 2(g(x)) + 4 \\\\ fog(x) = 2( \\frac{x}{x - 1} ) + 4 \\\\ h(x) =  \\frac{2x}{x - 1}  +  \\frac{4(x - 1)}{x - 1}  \\\\ y =  \\frac{2x + 4x - 4}{x - 1}  \\\\ y =  \\frac{6x - 4}{x - 1}  \\\\ y(x - 1) = 6x - 4 \\\\ xy - y = 6x - 4 \\\\ xy  -  6x = y - 4 \\\\ x(y  - 6) = y - 4 \\\\ x =  \\frac{y - 4}{y - 6} [/tex]</p><p>maka</p><p>[tex] {h}^{ - 1} (x) =  \\frac{x - 4}{x - 6} [/tex]</p><p>[tex]x \\ne 6[/tex]</p><p></p><p>option B</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-di-bantu-jawab-222",
+            "question": "Tolong di bantu jawab... \u200b",
+            "attachments": [
+                "question-attachments/tolong-di-bantu-jawab-222-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab: A. 3 menit</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jarak: 1440</p><p></p><p>8m = 1 detik</p><p>1m = 1/8 detik</p><p>1440m = 180 detik</p><p></p><p>180 detik = 3 menit</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Diketahui V (kecepatan) = 8 m/s, Jarak = 1.440 m</p><p></p><p>rumus kecepatan = Jarak / waktu , maka rumus mencari waktu = Jarak / kecepatan</p><p></p><p>waktu = 1.440 / 8 = 180 sekon ( karena tadi kecepatan satuannya meter/sekon maka satuannya masih sekon)</p><p></p><p>untuk mengubah ke menit = 180 / 60 = 3 menit</p><p></p><p>Jawaban : A</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4-dari-60-kali-pelemparan-sebuah-dadu-maka-frekuensi-harapan-mu-252",
+            "question": "4. Dari 60 kali pelemparan sebuah dadu,    maka frekuensi harapan munculnya mata\r\ndadu faktor dari 6 adalah\r\na. 10 kali\r\nc. 30 kali\r\nb. 20 kali\r\nd. 40 kali\u200b\r\npakai cara ya kak jangan ngasal ok",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>faktor 6 = 2 dan 3</p><p>peluang = 2/6 x 60 = 20 kali</p><p></p><p>~ Les\u2022Online ~</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-dibantu-kisi-kisinya-mau-ulangan-besok-873",
+            "question": "MOHON DIBANTU KISI KISINYA MAU ULANGAN BESOK\u200b",
+            "attachments": [
+                "question-attachments/mohon-dibantu-kisi-kisinya-mau-ulangan-besok-873-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>[tex]{\\huge{\\orange{\\tt{Penyelesaian \\: No. \\: 14}}}}[/tex]</p><ul><li>B. 2 buah</li></ul><p>[tex]{\\huge{\\orange{\\tt{Penyelesaian \\: No. \\: 15}}}}[/tex]</p><ul><li>d\u00b2 = p\u00b2 - (R - r)\u00b2</li><li>(R - r)\u00b2 = p\u00b2 - d\u00b2</li><li>(10 + r)\u00b2 = 17\u00b2 - 8\u00b2</li><li>(10 + r)\u00b2 = 289 - 64</li><li>(10 + r)\u00b2 = 225</li><li>(10 + r) = \u221a225</li><li>10 + r = 15</li><li>r = 15 - 10</li><li>r = 5 cm</li></ul><p>[tex]{\\huge{\\orange{\\tt{Penyelesaian \\: No. \\: 16}}}}[/tex]</p><ul><li>B. 2</li></ul><p>[tex]{\\huge{\\orange{\\tt{Penyelesaian \\: No. \\: 17}}}}[/tex]</p><ul><li>Jumlah rusuk kubus = 12 </li><li>84 \u00f7 12 = 7 </li><li>L = 6 \u00d7 (sisi \u00d7 sisi) </li><li>L = 6 \u00d7 (7 \u00d7 7)</li><li>L = 6 \u00d7 49</li><li>L = 294 cm\u00b2 </li></ul><p>[tex]{\\huge{\\orange{\\tt{Penyelesaian \\: No. \\: 18}}}}[/tex]</p><ul><li>L = 6 \u00d7 sisi\u00b2</li><li>L = 6 \u00d7 294</li><li>L = 294 \u00f7 6</li><li>L = 49</li><li>sisi = \u221a49 = 7 cm</li><li>V = sisi \u00d7 sisi \u00d7 sisi</li><li>V = 7 \u00d7 7 \u00d7 7</li><li>V = 343 cm\u00b3</li></ul><p>[tex]\\purple{\\huge\\boxed{\\fcolorbox{red}{pink}{\u2661FAYY\u2606ILMI\u2661}}}[/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-dong-jawab-jan-ngasal-ngasal-di-lapor-pake-cara-please-b-386",
+            "question": "Bantu dong jawab\r\n*Jan ngasal\r\n*ngasal di lapor\r\n*pake cara\r\nplease bantu\r\n\u200b",
+            "attachments": [
+                "question-attachments/bantu-dong-jawab-jan-ngasal-ngasal-di-lapor-pake-cara-please-b-386-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B. 7,5 jam</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1.800/1,5 = 9.000/x</p><p>1.800x = 13.500</p><p>x = 13.500/1.800</p><p>x = 7,5 jam</p><p></p><p>Jadi, waktu yang diperlukan untuk mengetik naskah cerita sebanyak 9.000 kata adalah <strong>7</strong><strong>,</strong><strong>5</strong><strong> </strong><strong>j</strong><strong>a</strong><strong>m</strong>.</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kolam-renang-pak-ketut-yang-berbentuk-lingkaran-mempunyai-kelilin-163",
+            "question": "Kolam renang pak ketut yang berbentuk lingkaran mempunyai keliling 40 meter.tentukanlah jari jari kolam renang tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Penyelesaian</p><p></p><p>Dik: Keliling kolam = 44m</p><p></p><p>Dit: Jari-jari kolam = ?</p><p></p><p>Mencari diameter</p><p></p><p>Karena besar keliling surah diketahui, maka bisa menerapkan rumus mencari keliling.</p><p></p><p>44m = 22/7 \u00d7 d</p><p></p><p>44m 22/7 = d</p><p></p><p>44m x 7/22 = d</p><p></p><p>14m</p><p></p><p>= d</p><p></p><p>Mencari jari-jari</p><p></p><p>r=d=2</p><p></p><p>r = 14m = 2</p><p></p><p>r = 7mPEMBAHASAN</p><p></p><p>Diameter adalah garis lurus pada lingkaran yang melewati titik pusat dan menghubungkan 2 titik lengkung pada lingkaran.</p><p></p><p>Jari-jari adalah garis lurus pada lingkarang yang menghubungkan antara titik pusat dengan 1 titik lengkung pada lingkaran.</p><p></p><p>rumus</p><p></p><p>L = xr\u00b2</p><p></p><p>Penyelesaian</p><p></p><p>Dik: Keliling kolam = 44m</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-data-sebaran-berikut-950662169201100347-nilai-rata-r-608",
+            "question": "perhatikan data sebaran berikut : 950662169201100347 Nilai rata-rata dan modus dari sebaran data di atas adalah...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>jawabanya 0</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Modus nya adalah= 0</strong></p><p><strong>Nilai rata-rata nya adalah= 54,2</strong></p><p><strong></strong></p><p><strong>Maaf kalo salah, Semoga membantu</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-dibantu-ya-kaa-327",
+            "question": "Mohon dibantu ya kaa\u200b",
+            "attachments": [
+                "question-attachments/mohon-dibantu-ya-kaa-327-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Besar sudut pelurus adalah 180\u00b0, maka dibentuk persamaan</p><p></p><p>BOA + BOC = 180\u00b0</p><p>3x + 2x = 180\u00b0</p><p>5x = 180\u00b0</p><p>x = 180\u00b0/5</p><p>x = 36</p><p></p><p>Besar sudut BOA</p><p>= 3x</p><p>= 3(36)</p><p>= 108\u00b0</p><p></p><p>____________________________</p><p>Semangattt ya&#039;</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>BOA = 108\u00b0</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>180\u00b0 \u00f7 ( 3x + 2x = 5x ) = 36 </p><p>BOA= 36 \u00d7 3 = 108\u00b0</p><p>BOC= 72\u00b0</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagai-mana-cara-kerja-termos-untuk-dapat-menyimpan-panas-lebih-la-629",
+            "question": "Bagai mana cara kerja termos untuk dapat menyimpan panas lebih lama \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Untuk menyimpan air panas</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-ketiga-kepingan-uang-logam-di-lemparkan-sekaligus-jumlah-kej-376",
+            "question": "jika ketiga kepingan uang logam di lemparkan sekaligus jumlah kejadian yang mungkin terjadi seliruh nya sebanyak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>(AAA), (AAG), (AGA), (AGG), (GAA), (GAG), (GGA), (GGG) = 8 kali</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga membantu.</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

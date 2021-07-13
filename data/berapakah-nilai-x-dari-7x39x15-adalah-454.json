@@ -1,0 +1,136 @@
+{
+    "question": "Berapakah nilai x dari 7x+3\u22659x+15 adalah\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>2344785699856808660986</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suku-ke-13-dari-4-suku-barisan-1-2-4-8-adalah-271",
+            "question": "Suku ke-13 dari 4 suku barisan 1 2 4 8 adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\u25cf Materi : Bab 2 - Barisan dan deret</p><p>\u25cf Kode Kategorisasi : 9.2.2</p><p></p><h2>U13 = 4096</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1, 2, 4, 8</p><p>a = 1</p><p>r = 2/1 = 2</p><p></p><p>Un = a . r^(n - 1)</p><p>U13 = 1 . 2^(13 - 1)</p><p>U13 = 2^12</p><p><strong>U13 = 4096</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pecahan-dari-1-jam-25-menit-414",
+            "question": "Pecahan dari 1 jam 25 menit?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>[tex]1  \\frac{25}{60}  \\: atau \\: 1\\frac{5}{12} [/tex]</p><p>60 didapat karena dalam waktu 1 jam ada 60 menit disamakan dalam menit</p><p></p><p></p><p></p><p><strong><em>SEMOGA MEMBANTU</em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "24-nilai-dari-s-sin-5x-dx-4-1-a-cos-4x-c-4-1-b-cos-4-176",
+            "question": "24. Nilai dari \u017f sin 5x dx =...    4\r\n-1\r\nA. cos 4x + c\r\n4\r\n-1\r\nB.\r\ncos 4x + c\r\n5\r\n1\r\nC. cos 5x + c\r\n4\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>[tex]\u222b \\sin \\: 5x \\: dx =  -  \\frac{1}{5}  \\cos \\: 5x +C \\\\ [/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-wadah-terdapat-sejumlah-kelereng-yang-terdiri-atas-12-113",
+            "question": "Pada sebuah wadah terdapat sejumlah kelereng yang terdiri atas 12 kelereng merah, 10 kelereng putih, dan 18 kelereng hitam, jika diambil sebuah kelereng, tentukan peluang terambilnya :    a,. kelereng merah\r\nb. kelereng putih\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>a. ) kelereng merah memiliki peluang 3 / 10</p><p></p><p>b. ) kelereng putih memiliki peluang 1 / 4</p><p></p><p>note : </p><p>jalan ada di foto jawaban</p><p></p><p></p><p></p><p></p><p><strong><em><u>SEMOGA MEMBANTU YA </u></em></strong></p>",
+                    "attachments": [
+                        "answer-attachments/pada-sebuah-wadah-terdapat-sejumlah-kelereng-yang-terdiri-atas-12-113-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a). p (m) = 3/10</p><p>b). p (p ) = 1/4</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Merah : n (m)= 12</p><p>Putih :  n (p) = 10</p><p>Hitam : n (h) = 18</p><p></p><p>Total kelereng = 12 + 10 + 18 = 40</p><p>n ( S ) = 40</p><p></p><p>a).  p(m) = n(m) / n(s)</p><p>              = 12 / 40 = 3/10</p><p></p><p>b).  p(p) = n (p) / n(s)</p><p>             = 10 / 40  = 1/4</p><p></p><p>p(h) = n(h) / n(s)</p><p>       = 18 /40 = 9/20</p><p></p><p> p ( m + p ) =  n(m) + n(p)</p><p>                    ----------------</p><p>                          n (s )</p><p>                = ( 18+10 ) / 40</p><p>                = 22 / 40</p><p>                = 11 / 20</p><p></p><p>p ( p+ h ) = n (p) + n ( h )</p><p>                  ------------------</p><p>                         n (s )</p><p>               = ( 10 + 18 )</p><p>               = 28/ 40</p><p>               = 7 / 10</p><p>                       </p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "796",
+            "question": "\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>[tex] \\red{ \\sf{ \\: 2 \\times 2 = 4}}[/tex]</p><p><strong><em>Kesimpulan</em></strong><strong><em> </em></strong><strong><em>:</em></strong></p><p><strong><em>[tex] \\orange{ \\sf{ \\: hasil \\: dari \\:  \\sqrt[2]{4}   }}[/tex]</em></strong></p><p><strong><em>[tex] \\green{ \\ \\:  = { \\boxed{ \\sf{ \\: 2}}}}[/tex]</em></strong></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "0-sebuah-kebun-jagung-berbentuk-persegi-panjang-memiliki-ukuran-348",
+            "question": "0. Sebuah kebun jagung berbentuk persegi panjang memiliki ukuran    panjang 90 cm dan lebar 7 m Berapa area luasnya?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Luas Kebun Jagung = 63.000 cm\u00b2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Luas Persegi Panjang = p x l</p><p>Panjang = 90 cm</p><p>Lebar = 7 m (disamakan menjadi cm) = 7 x 100 = 700 cm</p><p>maka Luas kebun jagung = 90 x 700 = 63.000 cm\u00b2</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h2>[tex]{\\huge{{\\mathbb{MATEMATIKA}}}}[/tex]</h2><p></p><h3><strong><em><u>Pertanyaan</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>:</u></em></strong></h3><p>Sebuah kebun jagung berbentuk persegi panjang memiliki ukuran</p><p>panjang 90 cm dan lebar 7 m Berapa area luasnya?</p><p></p><h3><strong><em><u>Jawaban</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>:</u></em></strong></h3><ul><li><strong>LUAS</strong><strong> </strong><strong>KEBUN</strong><strong> </strong><strong>JAGUNG</strong></li></ul><p>= Panjang \u00d7 Lebar</p><p>= 90 \u00d7 ( 7 \u00d7 100 )</p><p>= 90 \u00d7 700</p><p>= 63.000 cm\u00b2</p><p>= 630 m\u00b2</p><p></p><p><em><u>Jadi</u></em><em><u>,</u></em><em><u> </u></em><em><u>luas</u></em><em><u> </u></em><em><u>kebun</u></em><em><u> </u></em><em><u>tersebut</u></em><em><u> </u></em><em><u>adalah</u></em><em><u> </u></em><em><u>6</u></em><em><u>3</u></em><em><u>0</u></em><em><u> </u></em><em><u>m</u></em><em><u>\u00b2</u></em><em><u>.</u></em><em><u> </u></em></p><p></p><h2>\u2756\u25c6\u25c7\u25c6\u25c7\u25c6\u25c7\u25c6\u25c7\u2756\u25c6\u25c7\u25c6\u25c7\u25c6\u25c7\u25c6\u25c7\u2756</h2><p></p><p></p><p>[tex]\\huge{\\purple{\\boxed{\\orange{Sem}{\\pink{oga}{\\blue{Memb}{\\green{antu}}}}}}}[/tex]</p><p></p><p>[tex]{\\boxed{ \\boxed{ \\pink{JanganLupaFollowDanLove}}}}[/tex]</p><p></p><p>[tex] \\huge{ \\purple{ \\boxed{ \\orange{\u2606farach}{ \\pink{azz}{ \\blue{a7x\u2606}}}}}}[/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-sudut-keliling-dan-sudut-pusat-menghadap-busur-yang-sama-ji-144",
+            "question": "suatu sudut keliling dan sudut pusat menghadap busur yang sama jika sudut pusat berukuran 130drajat maka besar sudut keliling tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>65</strong><strong>\u00b0</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><u>Besar</u><u> </u><u>sudut</u><u> </u><u>pusat</u><u> </u><u>adalah</u><u> </u><u>dua</u><u> </u><u>kali</u><u> </u><u>sudut</u><u> </u><u>keliling</u></p><p></p><p><strong>Sudut</strong><strong> </strong><strong>Keliling</strong></p><p>= \u00bd (sudut pusat) </p><p>= \u00bd (130)</p><p>= 65\u00b0</p><p></p><p><strong><em>Semoga</em></strong><strong><em> </em></strong><strong><em>Membantu</em></strong><strong><em> </em></strong><strong><em>:</em></strong><strong><em>)</em></strong><strong><em> </em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sisa-jika-fx-xpangkat-empat-2-maka-f2-bantuannya-kk-804",
+            "question": "Sisa\r\nJika f(x)= x(pangkat empat) + 2, maka f'(2) = bantuannya kk\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>f(x) = x\u2074+ 2</p><p>f&#039;(x) = 4x\u00b3</p><p>f&#039;(2) = 4 \u00d7 2\u00b3</p><p>       = 4 \u00d7 8</p><p>       = 32</p><p>jd f&#039;(2) = 32</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-tempo-pada-gerak-tari-untuk-memberikan-kesan-dinamis-sehin-573",
+            "question": "Fungsi tempo pada gerak tari untuk memberikan kesan dinamis sehingga enak untuk dinikmati, unsure tempo    dalam gerak tari meliputi ritme dan tempo; ritme dalam gerak tari menunjukkan....\r\na. intensitas dalam gerak tari C. ukuran waktu dari tiap perubahan detail gerak\r\nb. kualitas dalm gerak tari\r\nd. mengarah pada ukuran cepat lambatnya gerakan tari\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C.ukuran waktu dari tiap perubahan detail gerak </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong><em><u>maaf</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>kalo</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>salah</u></em></strong><strong><em><u> </u></em></strong></p><p></p><p><strong><em><u>SEMOGA</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>MEMBANTU</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>^</u></em></strong><strong><em><u>_</u></em></strong><strong><em><u>^</u></em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-segi-banyak-beraturan-183",
+            "question": "Apa yang dimaksud segi banyak beraturan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Bangun segi banyak beraturan adalah bangun yang memiliki semua sisi sama panjang dan sudut yang sama besar biasa disebut dengan poligon.</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Bangun segi banyak beraturan adalah bangun yang memiliki semua sisi sama panjang dan sudut yang sama besar biasa disebut dengan poligon.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Contoh segi banyak beraturan</p><p>persegi,peersegi panjang,segitiga,dll</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

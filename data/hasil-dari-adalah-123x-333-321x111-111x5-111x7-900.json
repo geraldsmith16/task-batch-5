@@ -1,0 +1,132 @@
+{
+    "question": "Hasil dari\r\nadalah.\r\n123x(-333) + 321x111\r\n111x5 + 111x7\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>=</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Samadengan nya gak kebawa</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diberikan-barisan-geometri-tak-konstan-abc-jika-abc-27-dan-9a-296",
+            "question": "Diberikan barisan geometri tak konstan a,b,c jika abc =27 dan 9a+b+c=33 maka 6a+7b+..... ?    kakk mohon penjelasannnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>6a + 7b = 39</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>abc = 27     geometri :  b\u00b2 = a.c</p><p>a.c.b = 27</p><p>b\u00b2.b = 27</p><p>b\u00b3 = 27</p><p>b = 3 --&gt;  a.c = 9</p><p>                c = 9/ a</p><p>untuk a= 3   --&gt;    c =  9/3 </p><p>                                = 3</p><p></p><p>9a + b + c = 33</p><p>9a + 3 + 9/a = 33a</p><p>9a\u00b2 + (3a - 33a ) + 9 = 0</p><p>9a\u00b2 -30a + 9 = 0</p><p>3a2 - 10a + 3 = 0</p><p>( 3a -1) ( a-3 )  = 0</p><p>a = 1 /3</p><p>[tex] \\sqrt{a \\: }  = 3[/tex]</p><p>Maka,  6a + 7b </p><p>           = ( 6. 3 ) + ( 7. 3 )</p><p>           =  18 + 21</p><p>           =  39</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dong-jawab-pertanyaan-ini-360",
+            "question": "Tolong dong jawab pertanyaan ini\u200b",
+            "attachments": [
+                "question-attachments/tolong-dong-jawab-pertanyaan-ini-360-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>[tex]\\green{\\huge{1.}}[/tex]</p><p><strong>Diketahui </strong><strong>:</strong><strong> </strong>Sebuah belah ketupat dengan :</p><p>[tex]d_1=24\\text{~cm~~~dan~~~}s=15\\text{~cm}[/tex]</p><p><strong>Ditanyakan </strong><strong>:</strong><strong> </strong>[tex]~d_2~=~?[/tex]</p><p><strong>Jawab </strong><strong>:</strong></p><p>[tex]\\begin{array}{rcl}d_2&amp;=&amp;2\\times \\sqrt{s^2-\\left(\\frac{1}{2}\\times d_1\\right)^2}\\\\&amp;=&amp;2\\times \\sqrt{15^2-\\left(\\frac{1}{2}\\times 24\\right)^2}\\\\&amp;=&amp;2\\times \\sqrt{15^2-12^2}\\\\&amp;=&amp;2\\times \\sqrt{225-144}\\\\&amp;=&amp;2\\times \\sqrt{81}\\\\&amp;=&amp;2\\times 9\\end{array}[/tex]</p><p>[tex]\\red{\\huge d_2=18\\text{~cm}}[/tex]</p><p>[tex]\\\\[/tex]</p><p>[tex]\\green{\\huge{2.}}[/tex]</p><p><strong>Diketahui :</strong> Sebuah belah ketupat dengan :</p><p>[tex]\\text{Keliling}=68\\text{~cm~~~dan~~~}d_1=16\\text{~cm}[/tex]</p><p><strong>Ditanyakan :</strong> [tex]\\text{~Luas~(~L~)}~=~?[/tex]</p><p><strong>Jawab :</strong></p><p>[tex]\\begin{array}{rcl}\\text{Keliling}&amp;=&amp;4\\times s\\\\4\\times s&amp;=&amp;68\\\\s&amp;=&amp;68\\div 4\\\\&amp;=&amp;17\\text{~cm}\\end{array}[/tex]</p><p>[tex]\\begin{array}{rcl}d_2&amp;=&amp;2\\times \\sqrt{s^2-\\left(\\frac{1}{2}\\times d_1\\right)^2}\\\\&amp;=&amp;2\\times \\sqrt{17^2-\\left(\\frac{1}{2}\\times 16\\right)^2}\\\\&amp;=&amp;2\\times \\sqrt{17^2-8^2}\\\\&amp;=&amp;2\\times \\sqrt{289-64}\\\\&amp;=&amp;2\\times \\sqrt{225}\\\\&amp;=&amp;2\\times 15\\\\&amp;=&amp;30\\text{~cm}\\end{array}[/tex]</p><p>[tex]\\begin{array}{rcl}\\text{L}&amp;=&amp;\\frac{1}{2}\\times d_1\\times d_2\\\\&amp;=&amp;\\frac{1}{2}\\times 16\\times 30\\end{array}[/tex]</p><p>[tex]\\red{\\huge \\text{L}=240\\text{~cm}^2}[/tex]</p><p>[tex]\\\\[/tex]</p><p>[tex]\\green{\\huge{3.}}[/tex]</p><p><strong>Diketahui </strong><strong>:</strong></p><p>OP = 26 cm  ;  QR = 24 cm  ;  OQ = 14 cm</p><p><strong>Ditanyakan </strong><strong>:</strong><strong> </strong>[tex]~\\text{PR}~=~?[/tex]</p><p><strong>Jawab </strong><strong>:</strong></p><p>QR adalah <strong>garis </strong><strong>singgung </strong><strong>persekutuan</strong><strong> </strong><strong>luar</strong><strong> </strong><strong>(</strong><strong>GSPL)</strong><strong> </strong>antara kedua lingkaran, yang rumusnya adalah : [tex]~\\boxed{\\boxed{\\text{GSPL}=\\sqrt{\\text{(jarak~pusat)}^2-\\left(r_{\\text{besar}}-r_{\\text{kecil}}\\right)^2}}}[/tex]</p><p>[tex]\\begin{array}{rcl}\\text{QR}&amp;=&amp;\\sqrt{\\text{OP}^2-\\left(\\text{OQ}-\\text{PR}\\right)^2}\\\\\\text{QR}^2&amp;=&amp;\\text{OP}^2-\\left(\\text{OQ}-\\text{PR}\\right)^2\\\\\\left(\\text{OQ}-\\text{PR}\\right)^2&amp;=&amp;\\text{OP}^2-\\text{QR}^2\\\\\\text{OQ}-\\text{PR}&amp;=&amp;\\sqrt{\\text{OP}^2-\\text{QR}^2}\\\\\\text{PR}&amp;=&amp;\\text{OQ}-\\sqrt{\\text{OP}^2-\\text{QR}^2}\\\\&amp;=&amp;14-\\sqrt{26^2-24^2}\\\\&amp;=&amp;14-\\sqrt{676-576}\\\\&amp;=&amp;14-\\sqrt{100}\\\\&amp;=&amp;14-10\\end{array}[/tex]</p><p>[tex]\\red{\\huge \\text{PR}=4\\text{~cm}}[/tex]</p><p>[tex]\\\\[/tex]</p><p>[tex]\\green{\\huge{4.}}[/tex]</p><p><strong>Diketahui </strong><strong>:</strong></p><p>[tex]r_1~[/tex]= 7 cm  ;[tex]~r_2~[/tex]= 3 cm ; jarak antar pusat = 16 cm</p><p><strong>Ditanyakan </strong><strong>:</strong><strong> </strong>kedudukan kedua lingkaran = ?</p><p><strong>J</strong><strong>awab </strong><strong>:</strong></p><p>[tex]r_1+r_2=7+3=10\\text{~cm}[/tex]</p><p>Didapatkan : [tex]~\\huge \\text{Jarak~pusat} &gt; \\left(r_1+r_2\\right)[/tex], <em>sehingga </em>: [tex]~\\red{\\text{kedua}}[/tex][tex]~\\red{\\text{lingkaran}}[/tex][tex]~\\huge \\red{\\text{saling}}[/tex][tex]~\\huge \\red{\\text{terpisah}}[/tex]</p><p>[tex]\\\\[/tex]</p><p>[tex]\\green{\\huge{5.}}[/tex]</p><p><strong>Diketahui </strong><strong>:</strong></p><p>[tex]r_{\\text{kecil}}~[/tex]= 3 cm  ;[tex]~r_{\\text{besar}}~[/tex]= 10 cm  ;  jarak pusat = 25 cm</p><p><strong>Ditanyakan </strong><strong>:</strong><strong> </strong>garis singgung persekutuan luar (<strong>GSPL</strong>) = ?</p><p><strong>Jawab </strong><strong>:</strong></p><p>[tex]\\begin{array}{rcl}\\text{GSPL}&amp;=&amp;\\sqrt{25^2-(10-3)^2}\\\\&amp;=&amp;\\sqrt{25^2-7^2}\\\\&amp;=&amp;\\sqrt{625-49}\\\\&amp;=&amp;\\sqrt{576}\\end{array}[/tex]</p><p>[tex]\\red{\\huge \\text{GSPL}=24\\text{~cm}}[/tex]</p><p>[tex]\\\\[/tex]</p><p>[tex]\\green{\\huge{6.}}[/tex]</p><p><strong>Diketahui </strong><strong>:</strong><strong> </strong>OP = 8 cm  ;  PQ = 15 cm</p><p><strong>Ditanyakan </strong><strong>:</strong><strong> </strong>OQ = ?</p><p><strong>Jawab </strong><strong>:</strong></p><p>Dengan menggunakan <strong>rumus</strong> <strong>Pythagoras</strong> :</p><p>[tex]\\begin{array}{rcl}\\text{OQ}^2&amp;=&amp;\\text{OP}^2+\\text{PQ}^2\\\\\\text{OQ}&amp;=&amp;\\sqrt{\\text{OP}^2+\\text{PQ}^2}\\\\&amp;=&amp;\\sqrt{8^2+15^2}\\\\&amp;=&amp;\\sqrt{64+225}\\\\&amp;=&amp;\\sqrt{289}\\end{array}[/tex]</p><p>[tex]\\red{\\huge \\text{OQ}=17\\text{~cm}}[/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-s-pada-perbandingan-45-1s-120-871",
+            "question": "Hitunglah nilai s pada perbandingan 4:5 = 1/s : 1/20 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawab:</p><p></p><p>Penjelasan dengan langkah-langkah:</p><p> 4:5 = 1/s : 1/20</p><p>4/5= 1/s x 20/1</p><p>4/5 = 20/s</p><p>s= 5x20/4= 25</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-besar-sudut-adb-115",
+            "question": "Hitunglah besar sudut ADB?\u200b",
+            "attachments": [
+                "question-attachments/hitunglah-besar-sudut-adb-115-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong><em><u>&lt;</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>D</u></em></strong><strong><em><u>B</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>+</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>&lt;</u></em></strong><strong><em><u>BDC</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>1</u></em></strong><strong><em><u>8</u></em></strong><strong><em><u>0</u></em></strong><strong><em><u>\u00b0</u></em></strong></p><p><strong><em><u>(</u></em></strong><strong><em><u>2</u></em></strong><strong><em><u>x</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>+</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>5</u></em></strong><strong><em><u>)</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>+</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>5</u></em></strong><strong><em><u>7</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>1</u></em></strong><strong><em><u>8</u></em></strong><strong><em><u>0</u></em></strong><strong><em><u>\u00b0</u></em></strong></p><p><strong><em><u>2</u></em></strong><strong><em><u>x</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>+</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>6</u></em></strong><strong><em><u>2</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>1</u></em></strong><strong><em><u>8</u></em></strong><strong><em><u>0</u></em></strong><strong><em><u>\u00b0</u></em></strong></p><p><strong><em><u>2</u></em></strong><strong><em><u>x</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>1</u></em></strong><strong><em><u>8</u></em></strong><strong><em><u>0</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>-</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>6</u></em></strong><strong><em><u>2</u></em></strong></p><p><strong><em><u>x</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>1</u></em></strong><strong><em><u>1</u></em></strong><strong><em><u>8</u></em></strong><strong><em><u>/</u></em></strong><strong><em><u>2</u></em></strong></p><p><strong><em><u>x</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>5</u></em></strong><strong><em><u>9</u></em></strong><strong><em><u>\u00b0</u></em></strong></p><p></p><p><strong><em><u>S</u></em></strong><strong><em><u>e</u></em></strong><strong><em><u>h</u></em></strong><strong><em><u>i</u></em></strong><strong><em><u>n</u></em></strong><strong><em><u>g</u></em></strong><strong><em><u>g</u></em></strong><strong><em><u>a</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>S</u></em></strong><strong><em><u>u</u></em></strong><strong><em><u>d</u></em></strong><strong><em><u>u</u></em></strong><strong><em><u>t</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>D</u></em></strong><strong><em><u>B</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>=</u></em></strong></p><p><strong><em><u>2</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>\u00d7</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>x</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>+</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>5</u></em></strong></p><p><strong><em><u>2</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>\u00d7</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>5</u></em></strong><strong><em><u>9</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>+</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>5</u></em></strong></p><p><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>1</u></em></strong><strong><em><u>2</u></em></strong><strong><em><u>3</u></em></strong><strong><em><u>\u00b0</u></em></strong></p><p></p><p><strong><em><u>J</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>D</u></em></strong><strong><em><u>I</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>S</u></em></strong><strong><em><u>U</u></em></strong><strong><em><u>D</u></em></strong><strong><em><u>U</u></em></strong><strong><em><u>T</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>D</u></em></strong><strong><em><u>B</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>=</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>1</u></em></strong><strong><em><u>2</u></em></strong><strong><em><u>3</u></em></strong><strong><em><u>\u00b0</u></em></strong></p><p></p><h2><strong><em><u>S</u></em></strong><strong><em><u>E</u></em></strong><strong><em><u>M</u></em></strong><strong><em><u>O</u></em></strong><strong><em><u>G</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>M</u></em></strong><strong><em><u>E</u></em></strong><strong><em><u>M</u></em></strong><strong><em><u>B</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>N</u></em></strong><strong><em><u>T</u></em></strong><strong><em><u>U</u></em></strong></h2><h3><strong><em><u>J</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>D</u></em></strong><strong><em><u>I</u></em></strong><strong><em><u>K</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>N</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>J</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>W</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>B</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>N</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>T</u></em></strong><strong><em><u>E</u></em></strong><strong><em><u>R</u></em></strong><strong><em><u>B</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>I</u></em></strong><strong><em><u>K</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>Y</u></em></strong><strong><em><u>A</u></em></strong></h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-permukaan-sebuah-balok-yang-panjangnya-14-cm-lebarnya-10-cm-851",
+            "question": "Luas    permukaan sebuah \r\n\r\nbalok yang panjangnya 14 cm, lebarnya 10 cm, dan tinggi \r\n\r\n7 cm adalah ....\r\n\r\nA. 313 cm\u00b2\r\n\r\nC. 516 cm\u00b2\r\n\r\nB. 413 cm\u00b2\r\n\r\nD. 616 cm\u00b2\r\n__\r\nPakai Penyelesaian-Nya.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Luas permukaan Balok = <strong>D</strong><strong>.</strong><strong> </strong><strong>6</strong><strong>1</strong><strong>6</strong><strong> </strong><strong>Cm\u00b2</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>langkah cara ada di gambar</p>",
+                    "attachments": [
+                        "answer-attachments/luas-permukaan-sebuah-balok-yang-panjangnya-14-cm-lebarnya-10-cm-851-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<h3>~Bangun Ruang</h3><p>_______________</p><p>[tex]\\:[/tex]</p><p>Luas permukaan sebuah balok yang panjangnya 14 cm, lebarnya 10 cm, dan tinggi nya 7 cm adalah ....</p><p>A. 313 cm\u00b2</p><p>C. 516 cm\u00b2</p><p>B. 413 cm\u00b2</p><p><strong><u>D. 616 cm\u00b2</u></strong> \u279e <strong>O</strong><strong>p</strong><strong>s</strong><strong>i</strong><strong> </strong><strong>y</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong> </strong><strong>t</strong><strong>e</strong><strong>p</strong><strong>a</strong><strong>t</strong><strong>\u2714</strong></p><p>[tex]\\:[/tex]</p><h2>\u2013 Pendahuluan</h2><p>[tex]\\:[/tex]</p><p><strong>Balok</strong> adalah Salah satu Bangun Ruang yang memiliki 3 Pasang sisi, Yaitu Sisi Panjang, Lebar dan Tinggi .</p><p>[tex]\\:[/tex]</p><h3>Ciri-ciri Balok</h3><ul><li>Memiliki 12 Rusuk</li><li>Memiliki 6 Sisi</li><li>Memiliki 8 Titik Sudut</li><li>Sisi Balok berbentuk Persegi atau Persegi Panjang</li></ul><p>[tex]\\:[/tex]</p><h3>-Rumus-rumus Balok-</h3><p>[tex]\\:[/tex]</p><p><strong>Rumus menentukan Volume Balok</strong></p><p>[tex]{\\boxed{\\rm{V =\u00a0 p\u00a0 \\times l\u00a0 \\times t }}}[/tex]</p><p><strong>Rumus menentukan Luas Permukaan Balok</strong></p><p>[tex]{\\boxed{\\rm{Lp = 2(( p \\times l) + ( p \\times t ) + ( l \\times t))}}}[/tex]</p><p><strong>Rumus menentukan Panjang Balok, Jika diketahui Volume, Lebar &amp; Tinggi</strong></p><p>[tex]{\\boxed{\\rm{p = \\frac{V}{l \\times t}}}}[/tex]</p><p><strong>Rumus menentukan Lebar Balok, Jika diketahui Volume, Panjang &amp; Tinggi</strong></p><p>[tex]{\\boxed{\\rm{l = \\frac{V}{p \\times t}}}}[/tex]</p><p><strong>Rumus menentukan Tinggi Balok, Jika diketahui Volume, Panjang &amp; Lebar </strong></p><p>[tex]{\\boxed{\\rm{t = \\frac{V}{p \\times l}}}}[/tex]</p><p><strong>Rumus menentukan Panjang Balok, Jika diketahui Luas Permukaan, Lebar &amp; Tinggi</strong></p><p>[tex]{\\boxed{\\rm{t = \\frac{V}{p \\times l}}}}[/tex]</p><p><strong>Rumus menentukan Panjang Balok, Jika diketahui Luas Permukaan, Lebar &amp; Tinggi</strong></p><p>[tex]{\\boxed{\\rm{p = \\frac{\\frac{Lp}{2} \\times ( l \\times t)}{(l + t)}}}}[/tex]</p><p><strong>Rumus menentukan Lebar Balok, Jika diketahui Luas Permukaan, Panjang &amp; Tinggi</strong></p><p>[tex]{\\boxed{\\rm{l = \\frac{\\frac{Lp}{2} \\times ( p \\times t)}{(p + t)}}}}[/tex]</p><p><strong>Rumus menentukan Tinggi Balok, Jika diketahui Luas Permukaan, Lebar &amp; Panjang</strong></p><p>[tex]{\\boxed{\\rm{t = \\frac{\\frac{Lp}{2} \\times ( p \\times l)}{(l + p)}}}}[/tex]</p><h3>Keterangan</h3><ul><li>V \u27a1\ufe0f Volume</li><li>Lp \u27a1\ufe0f Luas Permukaan</li><li>p \u27a1\ufe0f Panjang</li><li>l \u27a1\ufe0f Lebar</li><li>t \u27a1\ufe0f Tinggi</li></ul><p>[tex]\\:[/tex]</p><h2>\u2013 Penyelesaian Soal</h2><p>[tex]\\:[/tex]</p><h3>Diketahui</h3><ul><li>p = 14 cm</li><li>l = 10 cm</li><li>t = 7 cm</li></ul><p>[tex]\\:[/tex]</p><h3>Ditanya</h3><p>Luas Permukaan Balok ( Lp Balok )</p><p>[tex]\\:[/tex]</p><h3>~Penyelesaian</h3><p>V Balok \u279e 2((p \u00d7 l) + (p \u00d7 t) + (l \u00d7 t))</p><p>V Balok \u279e 2((14 \u00d7 10) + (14 \u00d7 7) + (10 \u00d7 7))</p><p>V Balok \u279e 2(140 + 98 + 70)</p><p>V Balok \u279e 2(308)</p><p>V Balok \u279e 2 \u00d7 308</p><p>V Balok \u279e <strong><u>6</u></strong><strong><u>1</u></strong><strong><u>6</u></strong><strong><u> </u></strong><strong><u>c</u></strong><strong><u>m</u></strong><strong><u>\u00b2</u></strong><strong><u>\u2714</u></strong></p><p></p><p>[tex]\\:[/tex]</p><p>======================================</p><h2>\u2013 Detail Jawaban</h2><p>Mapel : Matematika</p><p>Kelas : VI ( 6 SD ) </p><p>Materi : Bangun Ruang</p><p>Kode Kategorisasi : 6.2.4</p><p>Kode Soal : 2</p><p>Kata Kunci : Volume Balok, Luas Permukaan Balok, Panjang Balok, Lebar Balok, Tinggi Balok</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-persekutuan-terbesar-dari-bilangan18-dan-32-adalah-apa-541",
+            "question": "Faktor persekutuan terbesar dari bilangan18 dan 32 adalah apa??!?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>18 = 2.3\u00b2</p><p>32 = 2\u00b3.4</p><p>FPB = 2</p><p></p><p>Maaf jika salah:)</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-belah-ketupat-diketahui-panjang-sisinya-17-cm-dan-salah-sa-327",
+            "question": "sebuah belah ketupat diketahui panjang sisinya 17 cm dan salah satu diagonalnya 16 cm Tentukan luas belah ketupat tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2> <strong><em><u>30cm</u></em></strong></h2><p></p><p> </p><p></p><p>x\u00b2 = 17\u00b2 - 8\u00b2</p><p>x = \u221a289-64</p><p>x = \u221a225</p><p>x = 15 cm</p><p></p><p>panjang salah satu diagonal = 15 x 2 = 30 cm</p><p></p><p>Jadikan Jawaban terbaik jika anda merasa terbantu \u2728</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumah-mustofa-berjarak-07-km-di-sebelah-barat-sekolah-adapun-ru-940",
+            "question": "Rumah mustofa berjarak 0,7 km di sebelah barat sekolah. adapun rumah anton berjarak 2,4 km di sebelah utara sekolah. jarak rumah keduanya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\u25cf Materi :\u00a0Teorema Pythagoras</p><p>\u25cf Kode Kategorisasi :\u00a08.2.4.</p><p></p><h2>2,5 Km</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex] =  \\sqrt{ {0.7}^{2}  +  {2.4}^{2} } [/tex]</p><p>[tex] =  \\sqrt{0.49 + 5.76} [/tex]</p><p>[tex] =  \\sqrt{6.25} [/tex]</p><p>[tex] = 2.5 \\: km[/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-mean-dari-masing-masing-kumpulan-data-di-bawah-ini-a-7-399",
+            "question": "Tentukan mean dari masing-masing kumpulan data di bawah ini!    a. 7, 6, 8, 9, 6, 6, 7, 8\r\nb. 5, 9,5,7,5, 7, 8, 6, 9,7\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>\u2740Penyelesaian-\u2728</h2><p>[tex]\\:[/tex]</p><h3>Bagian A) :</h3><p>[tex]\u21d2\\sf \\frac{7+6+8+9+6+6+7+8}{8} \\\\\u21d2\\sf \\frac{57}{8} \\\\\u21d2\\sf{7,125} [/tex]</p><h3>------------------</h3><h3>Bagian B) :</h3><p>[tex]\u21d2\\sf \\frac{5+9+5+7+5+7+8+6+9+7}{10} \\\\\u21d2\\sf \\frac{68}{10} \\\\\u21d2\\sf{6,8} [/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2x-3y-dikurangkan-dari-2x-3y-hasilnya-adalah-421",
+            "question": "-2x + 3y dikurangkan dari 2x + 3y hasilnya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>-4x</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>=(-2x  + 3y) - (2x + 3y)</p><p>= -2x - 2x + 3y - 3y</p><p>= -4x</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

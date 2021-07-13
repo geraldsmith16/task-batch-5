@@ -1,0 +1,146 @@
+{
+    "question": "1.diketahui data sebagai berikut 7,8,8,9,4,3,7,9,5,7,6,5,6 modus dari data tersebut adalah?    2. diketahui data sebagai berikut 8,9,4,7,9,5,7,6,5,6,8,7,3 jangkauan kuartil dari data tersebut adalah?\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>1.Diurutkan datanya terlebih dahulu</p><p>3,4,5,5,6,6,7,7,7,8,8,9,9</p><p></p><p></p><p></p><p></p><p>Jumlah nilai</p><p>=3+4+5+5+6+6+7+7+7+8+8+9+9         =84</p><p></p><p>Frekuensi:13</p><p></p><p></p><p></p><p>Jumlah nilai\u00f7Frekuensi</p><p>=84\u00f713</p><p>=6,46</p><p></p><p></p><p></p><p></p><p></p><p>=Nilai ke-(N+1)\u00f72</p><p>=Nilai ke-(13+1)\u00f72</p><p>=Nilai ke-14\u00f72</p><p>=Nilai ke-7</p><p>=7</p><p></p><p></p><p>MODUS</p><p>=7(karena muncul sebanyak 3 kali)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalu salah</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-jika-sebuah-kubus-memiliki-rusuk-dengan-panjang-25-cm-tentuka-803",
+            "question": "1. Jika Sebuah Kubus memiliki rusuk dengan panjang 25\r\ncm. Tentukan Volume kubus tersebut!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>V = s \u00d7 s \u00d7 s</p><p>   = 25 \u00d7 25 \u00d7 25</p><p>   = 625 \u00d7 25</p><p>   <strong>=</strong><strong> </strong><strong>15</strong><strong>.</strong><strong>625</strong><strong> </strong><strong>c</strong><strong>m</strong><strong>\u00b3</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>V = S \u00d7 S \u00d7 S </p><p>   = 25 cm \u00d7 25 cm \u00d7 25 cm</p><p>   = 625 cm \u00d7 25 cm</p><p>   = 15.625 cm\u00b3 </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-di-bantu-ya-kk-317",
+            "question": "Tolong di bantu ya kk\u200b",
+            "attachments": [
+                "question-attachments/tolong-di-bantu-ya-kk-317-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]f(x) = 4( {2x - 7)}^{9}  \\\\ f&#039;(x) = 4(9)( {2x - 7)}^{9 - 1} (2) \\\\  = 72( {2x - 7)}^{8} [/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuuuuuuuuuuu-444",
+            "question": "Bantuuuuuuuuuuu;))))\u200b",
+            "attachments": [
+                "question-attachments/bantuuuuuuuuuuu-444-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>La r\u00e9ponse est sur la photo.</p>",
+                    "attachments": [
+                        "answer-attachments/bantuuuuuuuuuuu-444-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-5x4-8x3-6x2-2x-tentukan-f-x-680",
+            "question": "Diketahui f'(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x, tentukan f (x)!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>Terdapat sebuah persamaan yang telah mengalami turunan bernilai f&#039;(x) = 5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</p><p>Maka, untuk mencari f(x), masing-masing variabel pada persamaan yang diketahui harus dilakukan metode Integral pada umumnya</p><p>Misalkan kita akan mencoba mengembalikan nilai 5x\u2074 ke persamaan awal dengan menerapkan rumus berikut: </p><p>[tex]\\frac{a}{n + 1} x^n^+^1[/tex] = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>Sekiranya untuk membuktikan turunan dari [tex]x^{5}[/tex], dirumuskan sebagai berikut:</p><p>Rumus turunan: [tex](n)x^{n - 1}[/tex]</p><p>[tex]x^{5}[/tex] = [tex](5)x^{5 - 1}[/tex] = [tex]5x^{4}[/tex]</p><p></p><p>Maka hasil akan sama. Dengan begitu, bisa disolusikan untuk mencari f(x) dengan cara integral seperti berikut:</p><p>\u222b (5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x) dx</p><p>= \u00a0([tex]\\frac{5}{4 + 1} x^4^+^1[/tex]) - ([tex]\\frac{8}{3 + 1} x^3^+^1[/tex]) + ([tex]\\frac{6}{2 + 1} x^2^+^1[/tex]) - ([tex]\\frac{2}{1 + 1} x^1^+^1[/tex]) \u00a0+C</p><p>= \u00a0([tex]\\frac{5}{5} x^5[/tex]) - ([tex]\\frac{8}{4} x^4[/tex]) + ([tex]\\frac{6}{3} x^3[/tex]) - ([tex]\\frac{2}{2} x^2[/tex]) + C</p><p>= [tex]x^{5}[/tex] - [tex]2x^{4}[/tex] + [tex]2x^{3}[/tex] - [tex]x^{2}[/tex] + C</p><p>___________________________</p><p>Detail dari masing-masing variabel:</p><p>5x\u2074 = [tex]\\frac{5}{4 + 1} x^4^+^1[/tex] = [tex]\\frac{5}{5} x^5[/tex] = [tex]x^{5}[/tex]</p><p>8x\u00b3 = [tex]\\frac{8}{3 + 1} x^3^+^1[/tex] = [tex]\\frac{8}{4} x^4[/tex] = [tex]2x^{4}[/tex]</p><p>6x\u00b2 = [tex]\\frac{6}{2 + 1} x^2^+^1[/tex] = [tex]\\frac{6}{3} x^3[/tex] = [tex]2x^{3}[/tex]</p><p>2x = [tex]\\frac{2}{1 + 1} x^1^+^1[/tex] = [tex]\\frac{2}{2} x^2[/tex] = [tex]x^{2}[/tex]</p><p>___________________________</p><p>Maka, hasil Anti-turunan dari <strong>5x\u2074 - 8x\u00b3 + 6x\u00b2 - 2x</strong> ialah<strong> </strong>[tex]x^{5}[/tex]<strong> - </strong>[tex]2x^{4}[/tex]<strong> + </strong>[tex]2x^{3}[/tex]<strong> - </strong>[tex]x^{2}[/tex]<strong> + C</strong></p><p></p><p>-//Semoga membantu~ :3</p><p></p><p><em>(!) Misal ada kesalahan dari penjelasan dan perhitungan, monggo dikoreksi ya~</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-perhatikan-bangun-datar-di-bawah-ini-8-dm-bangun-datar-itu-ad-994",
+            "question": "6. perhatikan bangun datar di bawah ini.    8 dm\r\nbangun datar itu adalah segitiga sa-\r\nma sisi. panjang sisinya 8 dm. keliling\r\nbangun datar itu adalah ....\r\n16 dm\r\nc. 27 dm\r\nb. 24 dm d. 64 dm\r\na.bangun datar itu adalah segitiga sama sisi panjang sisinya 8 dm keliling bangun datar itu adalah a 16 dm b 24 dm c 27 dm d 64 dm \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><h2><strong>24 dm</strong></h2><p><strong>Penjelasan dengan langkah-langkah:</strong></p><h2><strong>Kll. Segitiga = s + s + s</strong></h2><p><strong>Diketahui</strong><strong>:</strong><strong> </strong><strong>s</strong><strong> </strong><strong>=</strong><strong> </strong><strong>8</strong><strong> </strong><strong>dm</strong></p><p><strong>Ditanya</strong><strong>:</strong><strong> </strong><strong>keliling</strong><strong> </strong><strong>segitiga</strong><strong> </strong><strong>tersebut</strong><strong> </strong><strong>adalah</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong></p><p><strong>Jawab</strong><strong>:</strong><strong> </strong></p><ul><li><strong>K</strong><strong>l</strong><strong>l</strong><strong>.</strong><strong> </strong><strong>Segitiga</strong><strong> </strong><strong>=</strong><strong> </strong><strong>s</strong><strong> </strong><strong>+</strong><strong> </strong><strong>s</strong><strong> </strong><strong>+</strong><strong> </strong><strong>s</strong></li><li><strong>Kll. Segitiga =</strong><strong> </strong><strong>8</strong><strong> </strong><strong>+</strong><strong> </strong><strong>8</strong><strong> </strong><strong>+</strong><strong> </strong><strong>8</strong></li><li><strong>Kll. Segitiga = </strong><strong>2</strong><strong>4</strong><strong> </strong><strong>dm</strong></li></ul><h2><strong>Kesimpulan</strong><strong>:</strong><strong> </strong><strong>Jadi</strong><strong> </strong><strong>keliling</strong><strong> </strong><strong>segitiga</strong><strong> </strong><strong>tersebut</strong><strong> </strong><strong>adalah</strong><strong> </strong><strong>2</strong><strong>4</strong><strong> </strong><strong>dm</strong></h2>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>24 dm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><h2>\u2206 Keliling Segitiga \u2206</h2><p>\u2737<strong>S</strong><strong>e</strong><strong>g</strong><strong>i</strong><strong>t</strong><strong>i</strong><strong>g</strong><strong>a</strong><strong> </strong><strong>sama </strong><strong>sisi </strong>ialah segitiga yang ketiga sisinya sama panjang dan punya 3 sudut yang sama besarnya. </p><p></p><p>\u2737<strong>K</strong><strong>e</strong><strong>l</strong><strong>i</strong><strong>l</strong><strong>i</strong><strong>n</strong><strong>g</strong><strong> </strong><strong>segitiga</strong> adalah hasil dari penjumlahan panjang ketiga sisinya. Maka rumus mencari keliling segitiga sama sisi ialah <strong>sisi </strong><strong>\u00d7</strong><strong> </strong><strong>3</strong><strong> </strong><strong>atau </strong><strong>sisi </strong><strong>+</strong><strong> </strong><strong>sisi </strong><strong>+</strong><strong> </strong><strong>sisi.</strong></p><p></p><h3>Pembahasan : </h3><p><strong>\u2737</strong><strong>Diketahui</strong> : </p><p>panjang sisi bangun Segitiga sama kaki = 8 dm</p><p>Karena segitiga sama kaki maka otomatis, panjang sisi yang lain juga <strong>8</strong><strong> </strong>dm.</p><p><strong>\u2737</strong><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong></p><p><u>Keliling segitiga = ?</u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u><u> </u></p><p><strong>\u2737</strong><strong>Jawab </strong><strong>:</strong><strong> </strong></p><p>Keliling segitiga = sisi + sisi + sisi</p><p>                           = 8 dm + 8 dm + 8 dm</p><p>                           = <strong>24 dm.</strong></p><h3>Kesimpulan :</h3><p>Maka didapatkan keliling suatu segitiga sama sisi <u>yang memiliki panjang sisi 8 dm adalah <strong>2</strong><strong>4</strong><strong> </strong>dm.</u><u> </u></p><h3>Pelajari lebih lanjut : </h3><ul><li>Contoh soal lain mengenai keliling segitiga sama sisi : \u2192 https://brainly.co.id/tugas/13365646 </li><li>\u2192 https://brainly.co.id/tugas/21836837</li><li>Rumus keliling segitiga sama sisi : \u2192 https://brainly.co.id/tugas/9741316</li><li>Soal - Soal phytagoras : \u2192 https://brainly.co.id/tugas/21194696</li></ul><p>______________________________</p><h3>Detail jawaban : </h3><p>Mapel : Matematika</p><p>Kelas : 4</p><p>Materi : Segitiga dan Jajargenjang</p><p>Kata Kunci : Keliling Segitiga Sama Sisi</p><p>Kode Soal : 2</p><p>Kode Kategorisasi : 4.2.4</p><p>                         </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-x-dan-y-please-besok-di-kirim-ke-guru-790",
+            "question": "Hitunglah nilai x dan y\r\n\r\nPlease Besok Di Kirim Ke Guru\u200b",
+            "attachments": [
+                "question-attachments/hitunglah-nilai-x-dan-y-please-besok-di-kirim-ke-guru-790-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong><u>Garis</u></strong><strong><u> </u></strong><strong><u>Dan</u></strong><strong><u> Sudut</u></strong></p><p></p><p>3y + 45\u00b0 = 120\u00b0</p><p>3y = 120\u00b0 - 45\u00b0</p><p>3y = 75\u00b0</p><p>y = 75\u00b0 \u00f7 3</p><p>y = <strong><u>2</u></strong><strong><u>5</u></strong><strong><u>\u00b0</u></strong></p><p></p><p>(2x + 30\u00b0) + 120\u00b0 = 180\u00b0</p><p>2x + 150\u00b0 = 180\u00b0</p><p>2x = 180\u00b0 - 150\u00b0</p><p>2x = 30\u00b0</p><p>x = 30\u00b0 \u00f7 2</p><p>x = <strong><u>1</u></strong><strong><u>5</u></strong><strong><u>\u00b0</u></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bangun-berbentuk-limas-dengan-alas-berbentuk-persegi-denga-516",
+            "question": "sebuah bangun berbentuk limas dengan alas berbentuk persegi dengan Sisi 12 cm jika tinggi 5 memiliki sisi 30 cm maka volume limas tersebut adalah ......cm\u00b3\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawabannya di gambar, ya...</p><p>semogamembantu</p>",
+                    "attachments": [
+                        "answer-attachments/sebuah-bangun-berbentuk-limas-dengan-alas-berbentuk-persegi-denga-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-limas-segi-empat-dengan-panjang-sisinya-3-cm-jika-tinggi-734",
+            "question": "Sebuah limas segi empat dengan Panjang sisinya 3 cm, jika tinggi limas 4 cm. Maka volume limas tersebut adalah \u2026 cm3\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Bang</strong><strong>un</strong><strong> Ruang</strong></p><p></p><p>Volume Limas</p><p>= \u2153 \u00d7 luas alas \u00d7 tinggi</p><p>= \u2153 \u00d7 (3 \u00d7 3) \u00d7 4</p><p>= \u2153 \u00d7 9 \u00d7 4</p><p>= 3 \u00d7 4</p><p>= <strong><u>1</u></strong><strong><u>2</u></strong><strong><u> </u></strong><strong><u>cm\u00b3</u></strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>[tex]v = \\frac{1}{3} \\times 3 \\times 3 \\times 4[/tex]</p><p>[tex]v = 1 \\times 1 \\times 3 \\times 4[/tex]</p><p>[tex]v = 12 \\: cm ^{3} [/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andi-akan-membuat-kerangka-balok-dengan-ukuran-panjang-10-cmleba-468",
+            "question": "Andi akan membuat kerangka balok dengan ukuran panjang 10 cm,lebar 5 cm,dan tinggi 20 cm,jika kawat yang terserap 5 meter berapa banyak kerangka balok yang dapat di buat Andi....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>\u0641\u062a\u0641\u0641\u0627\u0648 \u062a\u0644\u062a\u0629 \u0639\u0644\u0646\u0645\u0627 \u062a\u0632\u0627\u0646\u0644\u0638 \u0647\u062a\u0627\u0645\u062a \u0632\u0646\u0627\u0645</p><p>\u0646\u0646\u0627\u0646\u0627\u0639\u0629\u0628 \u062a\u062a\u0627\u0628\u0645\u0644\u0641\u0627\u0644\u063a \u0643\u0646\u0644\u063a\u0627\u0628\u063a\u0642\u0628\u0644\u062a\u0641\u0642\u0641\u062a</p><p>\u0646\u0646\u063a\u063a\u0642\u062b\u0628\u0628\u0627\u0642\u0642\u0644\u0629\u0648 \u0647\u0644\u0639\u0646\u0649 \u062e\u0627</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "data-kelahiran-didesa-cimanggung-adalah-sebagai-berikut-di-gambar-793",
+            "question": "Data Kelahiran Didesa Cimanggung Adalah Sebagai Berikut Di gambar Atas :    Berapa Jumlah Kelahiran Dari Tahun 2008 Sampai Tahun 2014??\r\n\r\nJawab Nanti Ku Lovein^^\u200b",
+            "attachments": [
+                "question-attachments/data-kelahiran-didesa-cimanggung-adalah-sebagai-berikut-di-gambar-793-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>Data Kelahiran Didesa Cimanggung Adalah Sebagai Berikut Di gambar Atas :</p><p>Berapa Jumlah Kelahiran Dari Tahun 2008 Sampai Tahun 2014??</p><p><strong>Jumlah kelahiran dari tahun 2008 sampai tahun 2014 adalah <u>240</u> </strong><strong>jumlah</strong><strong> </strong><strong>kelahiran dari tahun 2008 hingga 2014</strong></p><p></p><p></p><p><u>ditanyakan</u> :</p><p>Jumlah kelahiran dari tahun 2008 sampai tahun 2014 maka hitunglah semua jumlah kelahiran dari tahun 2008 sampai tahun 2014 maka urutkanlah semua jumlah kelahiran :</p><p>Tahun 2008 = 10 jumlah kelahiran </p><p>Tahun 2009 = 30 jumlah kelahiran </p><p>Tahun 2010 = 50 jumlah kelahiran </p><p>Tahun 2011 = 30 jumlah kelahiran </p><p>Tahun 2012 = 20 jumlah kelahiran </p><p>Tahun 2013 = 40 jumlah kelahiran </p><p>Tahun 2014 = 60 jumlah kelahiran </p><p></p><p>Lalu setelahnya jumlahkan semua total jumlah kelahiran dari tahun 2008 sampai tahun 2014 :</p><p>10 + 30 + 50 + 30 + 20 + 40 + 60 = 240</p><p><strong>Maka jumlah kelahiran dari tahun 2008 sampai tahun 2014 adalah <u>240</u> </strong><strong>jumlah</strong><strong> </strong><strong>kelahiran dari tahun 2008 hingga 2014</strong></p><p></p><p><em>semoga membantu :3</em></p><p>#learnwithbrainly</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

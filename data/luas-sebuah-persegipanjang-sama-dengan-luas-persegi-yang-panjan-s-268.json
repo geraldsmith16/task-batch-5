@@ -1,0 +1,144 @@
+{
+    "question": "Luas sebuah persegipanjang sama dengan luas persegi yang panjan sisinya 20 cm. Jika lebar    persegi panjang adalah 10 cm, tentukan.\r\na:Panjang persegi panjan dan\r\nb: Keliling persegi panjang\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2>Jawaban:</h2><p>a. Panjang persegi panjang = 40 cm</p><p>b. Keliling persegi panjang = 100 cm</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Persegi panjang</strong>\u00a0adalah <u>suatu bangun datar segi empat yang keempat sudutnya siku-siku dan sisi-sisi yang berhadapan sama panjang.</u></p><p></p><p>Rumus keliling persegi panjang:</p><p>K = 2 \u00d7 (p + l)</p><p></p><p>Rumus luas persegi panjang:</p><p>L = p \u00d7 l</p><p></p><p>Rumus mencari panjang dari persegi panjang:</p><p>p = L \u00f7 l</p><p>\u00a0\u00a0 = (\u00bd \u00d7 K) - l</p><p></p><p>Rumus mencari lebar dari persegi panjang:</p><p>l = L \u00f7 p</p><p>\u00a0 = (\u00bd \u00d7 K) - p</p><p></p><p>Rumus panjang diagonal persegi panjang:</p><p>d = \u221a(p\u00b2 + l\u00b2)</p><p></p><p>-------</p><p></p><p><strong>Persegi</strong> adalah <u>suatu bangun datar yang memiliki empat sisi dengan panjang yang seluruhnya sama.</u></p><p></p><p>Rumus keliling persegi:</p><p>K = 4 \u00d7 s</p><p></p><p>Rumus luas persegi:</p><p>L = s \u00d7 s = s\u00b2</p><p></p><p>Rumus panjang diagonal persegi:</p><p>d = \u221a(2 \u00d7 s\u00b2)</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>Luas persegi panjang = Luas persegi</p><p>Panjang sisi persegi (s) = 20 cm</p><p>Lebar persegi panjang (l) = 10 cm</p><p></p><p>Ditanya:</p><p>a. Panjang persegi panjang (p) = ?</p><p>b. Keliling persegi panjang = ?</p><p></p><p>Dijawab:</p><p>a. L.persegi = s\u00b2</p><p>                    = 20\u00b2</p><p>                    = 400 cm\u00b2</p><p></p><p>    L.persegi panjang = p \u00d7 l</p><p>    400 = p \u00d7 10</p><p>    p = 400 \u00f7 10</p><p>       = 40 cm</p><p></p><p>b. K = 2 \u00d7 (p + l)</p><p>       = 2 \u00d7 (40 + 10)</p><p>       = 2 \u00d7 50</p><p>       = 100 cm</p><p></p><h2>Detail Jawaban</h2><p>Mapel: MTK</p><p>Kelas: 4 SD</p><p>Materi: Bab 8 - Bangun Ruang dan Bangun Datar</p><p>Kode Soal: 2</p><p>Kode Kategorisasi: 4.2.8</p><p>Kata Kunci: Luas Persegi, Luas Persegi Panjang, Keliling Persegi Panjang, Panjang Sisi Persegi</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "16-2-20-102-17-782-251",
+            "question": "16 \u00d7 2 + 20 = ?\r\n10\u00b2 - 17 = ? \r\n78\u00b2 = ?\u200b",
+            "attachments": [
+                "question-attachments/16-2-20-102-17-782-251-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.  52</p><p>2.  83</p><p>3.  6.084</p><p></p><p>\u2935\u2935\u2935</p><p></p><p><strong>N</strong><strong>o</strong><strong> </strong><strong>1</strong><strong> </strong></p><p>16 \u00d7 2 + 20</p><p>= 32 + 20</p><p><strong>=</strong><strong> </strong><strong>5</strong><strong>2</strong></p><p></p><p><strong>&lt;</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>&gt;</strong></p><p></p><p><strong>N</strong><strong>o</strong><strong> </strong><strong>2</strong><strong> </strong></p><p>10\u00b2 - 17 </p><p>= ( 10 \u00d7 10 ) - 17</p><p>= 100 - 17</p><p><strong>=</strong><strong> </strong><strong>8</strong><strong>3</strong></p><p></p><p><strong>&lt;</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>&gt;</strong></p><p></p><p><strong>N</strong><strong>o</strong><strong> </strong><strong>3</strong><strong> </strong></p><p>78\u00b2 = ( 78 \u00d7 78 )</p><p>       <strong>=</strong><strong> </strong><strong>6</strong><strong>.</strong><strong>084</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h2>\u2734\ufe0fJawaban dan Cara :</h2><p></p><h3>\u23e9Soal 1</h3><p>[tex] = 16 \\times 2 + 20[/tex]</p><p>[tex] = 32 + 20[/tex]</p><p>[tex] =  \\boxed{52}[/tex]</p><p></p><h3>\u23e9Soal 2</h3><p>[tex] = 10 {}^{2}  - 17[/tex]</p><p>[tex] = (10 \\times 10) - 17[/tex]</p><p>[tex] =  100 - 17[/tex]</p><p>[tex] = \\boxed{ 83}[/tex]</p><p></p><h3>\u23e9Soal 3</h3><p>[tex] = 78 {}^{2} [/tex]</p><p>[tex] = 78 \\times 78[/tex]</p><p>[tex] = \\boxed{ 6.084}[/tex]</p><p></p><p>\u27a1\ufe0fSemoga Membantu</p><p>\u27a1\ufe0fFollow Aku Ye</p>",
+                    "attachments": [
+                        "answer-attachments/16-2-20-102-17-782-251-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-gedung-60-cm-tinggi-gedung-pada-denah-50-cm-berapa-skala-275",
+            "question": "Tinggi gedung 60 cm. tinggi gedung pada denah 50 cm. berapa skala denah tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Rumus Skala = Pada denah / Sebenarnya</p><p>S = 50 cm / 60 m</p><p>S = 50 cm / 6.000 cm</p><p>S = 1 / 120</p><p>S = 1 : 120</p><p></p><p>Maaf, Soalnya kurang jelas... perbaiki dikomen tinggi sebenarnya adalah ? 60 cm atau 60 m atau 60 km?</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-jaring-jaring-dengan-panjang-sisi-kubus-14-cm-adalah-776",
+            "question": "Luas jaring-jaring dengan panjang sisi kubus 14 cm adalah?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>L = 6 x s x s</p><p>L = 6 x 14 x 14</p><p>L = 1176 cm\u00b2</p><p>jd luas jaring jaring kubus adalah 1176 cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sd-pelapor-melaksanakan-upacara-peringatan-hut-ri-ke-75-yg-di-iku-988",
+            "question": "Sd pelapor melaksanakan upacara peringatan hut ri ke-75 yg di ikuti siswa kelas 1 sampai kelas visiswa kelas 1 sebanyak 24 siswasiswa kelas ii sebanyak 32 siswasiswa kelas iii sebanyak 28 siswasiswa kelas iv sebanyak 25 siswasiswa kelas v sebanyak 36 siswasiswa kelas vi sebanyak 30 siswaberdasarkan data tersebut,sajikan data dalam tabel !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Sd pelapor melaksanakan upacara peringatan hut ri ke-75 yg di ikuti siswa kelas i sampai kelas vi siswa </p><p>kelas i sebanyak 24 siswa-siswa </p><p>kelas ii sebanyak 32 siswa-siswa </p><p>kelas iii sebanyak 28 siswa-siswa </p><p>kelas iv sebanyak 25 siswasiswa </p><p>kelas v sebanyak 36 siswasiswa </p><p>kelas vi sebanyak 30 siswa</p><p>berdasarkan data tersebut,</p><p>sajikan data dalam tabel !</p><p>Jawaban terlampir</p><p></p><p><em>semoga</em><em> </em><em>membantu</em><em> </em><em>:</em><em>3</em></p><p>#learnwithbrainly</p>",
+                    "attachments": [
+                        "answer-attachments/sd-pelapor-melaksanakan-upacara-peringatan-hut-ri-ke-75-yg-di-iku-988-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "kak-cara-hitungnya-bagaimana-ini-diketahui-5-dari-suatu-bilan-535",
+            "question": "Kak, cara hitungnya bagaimana ini : diketahui 5% dari suatu bilangan sama dengan 10% bilangan yang lain. jika hasil kali ke dua bilangan tersebut adalah 2, maka berapakah jumlah bilangan tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Here&#039;s the answer, I hope it helps :D semangat belajarnya, semoga berhasil! </p><p></p>",
+                    "attachments": [
+                        "answer-attachments/kak-cara-hitungnya-bagaimana-ini-diketahui-5-dari-suatu-bilan-535-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jarak-dua-kota-pada-peta-adalah-10-cm-sedangkan-jarak-sebenarnya-993",
+            "question": "jarak dua kota pada peta adalah 10 cm sedangkan jarak sebenarnya adalah 20 km Tentukan skala peta tersebut!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1:200.000</p><p><em>maaf</em><em> </em><em>ya</em><em> kalau</em><em> salah</em><em>!</em><em> semoga</em><em> membantu</em><em>:</em><em>)</em></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1:200.000</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>JP=10 cm</p><p>JS=20 km</p><p>S=JS/JP</p><p>  =20 km/10 cm</p><p>   =2.000.000 cm/10 cm</p><p>   =200.000 cm</p><p>   =1:200.000</p><p></p><p>maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-persegi-panjang-dengan-panjang-20-cm-dan-diagonal-510",
+            "question": "Diketahui suatu persegi panjang dengan panjang 20 cm dan diagonal sisi 25 cm. luas persegi panjang tersebut adalah .... * 3 poin a b c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>300cm\u00b2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>penjelasan pada foto,terimakasih.</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/diketahui-suatu-persegi-panjang-dengan-panjang-20-cm-dan-diagonal-510-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "ibu-memiliki-kotak-perhiasan-berbentuk-kubus-panjang-setiap-rusu-454",
+            "question": "Ibu memiliki kotak perhiasan berbentuk kubus, panjang setiap rusuknya 7 cm berapakah volume kotak    perhiasan ibu tersebut?\r\n\r\n........................................ ayo kak aku harus kasih malem jawabanya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Volum = s x s x s</p><p>         = 18 x 18 x 18</p><p>         = 5832 cm\u00b3</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>smoga membantu</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Volume = s\u00d7s\u00d7s = 7 \u00d7 7 \u00d7 7 = 343 cm\u00b3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga bermanfaat. </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "24-berdasarkan-gambar-di-samping-besar-labc-adalah-3x-20-21-281",
+            "question": "24.    Berdasarkan gambar di samping, besar LABC adalah\r\n3x + 20\u00b0\r\n21+ 40\u00b0\r\nB\r\nC \u0441\r\nto modo tobol di bawah dalam bentuk dianram garis\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3\u00d7 + 20 \u00d7 309 adalah 478 inip</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-1-2-3-4-5-6-7-8-9-10-a0-b-55-c-54-c-54-c-55-302",
+            "question": "Perhatikan!\r\n-1-2-3-4-5-6-7-8-9-10=\r\na.0\r\nb-55\r\nC. 54\r\nc.-54\r\nC.-55\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Opsi\u27a1 -55</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><h2>Soal.1</h2><p>= -1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10</p><p>= -3 - 3  - 4 -5 - 6 - 7 - 8 - 9 - 10</p><p>= -6 - 4 - 5 - 6 - 7 - 8 - 9 - 10</p><p>= -10 - 5 - 6 - 7 - 8 - 9 - 10</p><p>= -15 - 6 - 7 - 8 - 9 - 10</p><p>= -21 - 7 - 8 - 9 - 10</p><p>= -28 - 8 - 9 - 10</p><p>= -36 - 9 - 10</p><p>= -45 - 10</p><h3>= -55</h3><p></p><p></p><h2>Semoga membantu.</h2>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

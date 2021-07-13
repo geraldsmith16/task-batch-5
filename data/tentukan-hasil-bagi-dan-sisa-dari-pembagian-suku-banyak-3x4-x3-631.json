@@ -1,0 +1,148 @@
+{
+    "question": "Tentukan hasil bagi dan sisa dari pembagian suku banyak 3x\u2074-x\u00b3+5x\u00b2+3x+2 oleh (x+3) secara bersusun\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>3x\u00b3\u201310x\u00b2+35x\u2013102</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>penjelasan pd foto,terimakasih.</p>",
+            "attachments": [
+                "answer-attachments/tentukan-hasil-bagi-dan-sisa-dari-pembagian-suku-banyak-3x4-x3-631-1.jpg"
+            ]
+        },
+        {
+            "answer": "<p>polinom</p><p>horner</p><p></p><p>P(x) = 3x\u2074 - x\u00b3 + 5x\u00b2 + 3x + 2</p><p></p><p>x + 3 = 0</p><p>x = -3</p><p></p><p>........3.......-1........5..........3.........2</p><p>-3.............-9......30.....-105.....306__(+)</p><p>........3......-10.....35.....-102.....308</p><p></p><p>Hasil bagi = 3x\u00b3 - 10x\u00b2 + 35x - 102</p><p>Sisa = 308</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-kubus-memiliki-panjang-rusuk-7-cmvolume-kubus-tersebut-ad-804",
+            "question": "Sebuah kubus memiliki panjang rusuk 7 cm.volume kubus tersebut adalah\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>343 cm\u00b3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>rumus volume kubus = s x s x s</p><p>sisi = 7 cm</p><p>7 cm x 7cm x 7cm</p><p>343 cm\u00b3</p><p></p><p>tolong jadikan brainliest answer ya makasihh</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p> </p><p></p><p> </p><p>V kubus = s\u00b3</p><p></p><p>V kubus = sisi \u00d7 sisi \u00d7 sisi</p><p></p><p>V kubus = 7 \u00d7 7 \u00d7 7</p><p></p><p>V kubus = <strong>4</strong><strong>9</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>7</strong></p><p></p><p><strong>V</strong><strong> </strong><strong>kubus</strong><strong> </strong><strong>=</strong><strong> </strong><strong>3</strong><strong>4</strong><strong>3</strong><strong> </strong><strong>cm</strong><strong>\u00b3</strong></p><p></p><p><strong>Jadi</strong><strong> </strong><strong>volume</strong><strong> </strong><strong>kubus</strong><strong> </strong><strong>adalah</strong><strong> </strong><strong>:</strong><strong> </strong><strong>3</strong><strong>4</strong><strong>3</strong><strong> </strong><strong>cm</strong><strong>\u00b3</strong></p><p></p><p></p><p></p><p></p><p></p><h2><strong>Semoga</strong><strong> </strong><strong>membantu</strong></h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "turunan-pertama-fungsi-fx8x7-583",
+            "question": "Turunan pertama fungsi f(x)=8x+7\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>f(x) = 8x+7</p><p></p><p>f &#039;(x) = 8(1) + 0</p><p></p><p>f &#039;(x) = 8</p><p></p><p>kenapa x dan 7 nya menghilang ?</p><p>dalam turunan x itu termasuk 1 jadi dikali dengan 8 </p><p>sedangkan 7 termasuk konstanta yang menjadi 0 saat menjadi turunan</p><p></p><p>jadi, turunan pertama fungsi f (x) = 8x+7 adalah </p><p>f &#039;(x) = 8 </p><p></p><p></p><p></p><p></p><p><strong><em>SEMOGA MEMBANTU</em></strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-rusuk-kubus-yang-memiliki-volume-512-cm3-adalah-gays-654",
+            "question": "Panjang rusuk kubus yang memiliki volume 512 cm\u00b3 adalah???? gayss bantu dong\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>V = s x s x s </p><p>V = s\u00b3</p><p>512 = s\u00b3</p><p>\u221a512 = s </p><p>8 = s</p><p></p><p>Sisinya 8 cm</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h3><strong>Jawaban:</strong></h3><p>8 cm</p><h3>penjelasan:</h3><p>\u00b3\u221a 512 = 8 </p><h3>semoga membantu</h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fungsi-gx02x-11-dan-ga5maka-nilai-a-adalah-288",
+            "question": "Jika Fungsi g(x0=2x +11 dan g(a)=5,maka nilai a adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>15</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>aku di mana dan aku siapa</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-tan-225-sin-90-sin-150-435",
+            "question": "Hasil dari tan 225 + sin 90 + sin 150",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p> </p><p></p><p> Ini jawabnya semoga membantu</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/hasil-dari-tan-225-sin-90-sin-150-435-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>\u20130.22974348 terima kasih </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jarak-pusat-kedua-lingkaran-adalah-25-cm-panjang-garis-716",
+            "question": "Diketahui jarak pusat kedua lingkaran adalah 25 cm. Panjang garis singgung persekutuan dalam kedualingkaran adalah 20 cm dan panjang garis singgung persekutuan luar kedua lingkaran adalah 24 cm.Jika panjang jari\u00b2 kedua lingkaran adalah a dan dengan a&gt;b.maka nilai dari 2a - b adalah    a. 11 cm\r\nb. 15 cm\r\nc. 18 cm\r\nd. 22 cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>d.22 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah gua maaf banget</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "petunjuk-umum-1-perhatikan-dan-ikuti-petunjuk-pengisian-lembar-993",
+            "question": "Petunjuk Umum:    1. Perhatikan dan ikuti petunjuk pengisian Lembar Jawaban yang disediakan;\r\n2. Periksa dan bacalah soal-soal sebelum Anda menjawab;\r\n3. Laporkan kepada pengawas kalau terdapat tulisan yang kurang jelas, rusak atau jumlah\r\nsoal kurang;\r\n4. Dahulukan mengerjakan soal-soal yang Anda\r\nanggap\r\nmudah;\r\n5. Pilihlah salah satu jawaban yang paling benar dengan menghitamkan bulatan jawaban;\r\n7. Periksalah seluruh pekerjaan Anda sebelum diserahkan kepada pengawas.\r\n1. Perhatikan gambar disamping, rumus teorema phytagoras yang tepat untuk sisi b adalah ..\r\nb\r\nA. b=a+c\r\nB. b=c+a\r\nC. b=b+a\r\nD. A dan B benar\r\na\r\n\u0441\r\n2.\r\n8cm\r\n?\r\n15cm\r\nPanjang sisi miring pada segitiga di atas adalah ...\r\nA. 15cm\r\nB. 16cm\r\nC. 17cm\r\nD. 18cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> 2. C</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2. Ibaratkan sisi miring itu c , maka:</p><p></p><p>     c\u00b2=\u221a(a\u00b2+b\u00b2)</p><p>     c\u00b2=\u221a(8\u00b2+15\u00b2)</p><p>     c\u00b2=\u221a(64+125)</p><p>     c\u00b2=\u221a189 </p><p>     c= 17 cm</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-bahan-ajar-matematika-409",
+            "question": "Pengertian bahan ajar matematika\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong><u>pengertian bahan ajar matematika adalah </u></strong>:</p><p>  salah satu komponen pembelajaran yang digunakan oleh guru sebagian bahan belajar matematika bagi siswa yang di susun secara sistematis dan mencakup keseluruhan dari kompetisi pembelajaran matematika. </p><p></p><p>Semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "588",
+            "question": "\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>2x-4 = 0</p><p>2x = 4</p><p>x = 4/2</p><p>x = 2</p><p>Jadi jawabanya 2</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>x=2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2x-4=0</p><p>2x=4</p><p>x=[tex]\\frac{4}{2}[/tex]</p><p>x=2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-berikut-887",
+            "question": "Perhatikan gambar berikut!",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-berikut-887-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B.5,25</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>maaf klo slah ok:)</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

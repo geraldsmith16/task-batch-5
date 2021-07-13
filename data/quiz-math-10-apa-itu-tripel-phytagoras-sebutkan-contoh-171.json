@@ -1,0 +1,138 @@
+{
+    "question": "\u2606 Quiz Math +10! \u2606    Apa itu tripel Phytagoras? Sebutkan contohnya!\r\n\r\n\r\n\u2618 Syarat :\r\n\u2714 No Copas\r\n\u2714 No Alien\r\n\u2714 Dengan Penjelasan\u200b",
+    "attachments": [
+        "question-attachments/quiz-math-10-apa-itu-tripel-phytagoras-sebutkan-contoh-171-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Tripel Pythagoras adalah kelompok tiga bilangan bulat positif yang memenuhi kuadrat hipotenusa sama dengan jumlah kuadrat sisi-sisi lainnya. Atau tiga bilangan yang memenuhi Teorema Pythagoras.</p><p></p><p>Contoh: </p><p>\u273f 7, 24, dan 25</p><p>\u27a0 25\u00b2 = 7\u00b2 + 24\u00b2</p><p>625 = 49 + 576</p><p>625 = 625</p><p></p><p>\u273f 5, 12, dan 13</p><p>\u27a0 13\u00b2 = 5\u00b2 + 12\u00b2</p><p>169 = 25 + 144</p><p>169 = 169</p><p></p><p>\u273f 9, 40, dan 41</p><p>\u27a0 41\u00b2 = 9\u00b2 + 40\u00b2</p><p>1.681 = 81 + 1.600</p><p>1.681 = 1.681</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]{\\green{Teorema \\: Pythagoras}}[/tex]</p><p>Apa itu Teorema Pythagoras? Teorema Pythagoras menyatakan kalau kuadrat sisi miring segitiga siku-siku itu sama dengan jumlah kuadrat dari sisi-sisi yang lain.</p><p></p><p>Oh ya, dengan menggunakan Teorema Pythagoras kita bisa tentuin jenis segitiga lho!</p><p></p><p>Tiga bilangan yang kalau dikuadratin hasilnya sama biasa alias memenuhi Teorema Pythagoras disebut tripel Pythagoras. </p><p></p><p>Berikut ini rumus dan contohnya:</p><p></p><p>\u273f a\u00b2 + b\u00b2</p><p>\u273f a\u00b2 \u2013 b\u00b2</p><p>\u273f 2ab</p><p></p><p>Sisi tegaknya a dan b. Sedangkan sisi miring nya adalah c. </p><p></p><p>\u273f 3, 4, dan 5 </p><p>3 dan 4 sisi tegak(a dan b), sedangkan 5 sisi miring (c). Sisi miring adalah sisi yang terpanjang ya!</p><p></p><p>Yuk, langsung aja kita buktikan segitiga ini Tripel Pythagoras atau bukan!</p><p></p><p>c\u00b2 = a\u00b2 + b\u00b2</p><p>5\u00b2 = 3\u00b2 + 4\u00b2</p><p>25 = 9 + 16</p><p>25 = 25</p><p></p><p>Terbukti Tripel Pythagoras ya! Artinya segitiga tersebut adalah segitiga siku-siku.</p><p>___________________________________</p><p>[tex]{\\green{Answer \\: by}} \\: \\tt{nae}[/tex]</p><p>[tex]{\\green{Terimakasih \\: quiz \\: nya}}[/tex]</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sederhanakan-bentuk-aljabar-2-3y-4-5y-933",
+            "question": "Sederhanakan bentuk aljabar 2\u00d7 + 3y + 4\u00d7 \u2212 5y\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><h3>= 6x - 2y</h3><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><h3>2x + 3y + 4x - 5y</h3><p></p><h3>2x + 4x = 6x</h3><p></p><h3>+3y - 5y = -2y</h3><p></p><h3>jumblah kan yang variabel yang sejenis </h3><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-budi-membeli-sepatu-seharga-870000-dan-ada-potongan-harga-20-188",
+            "question": "Pak budi membeli sepatu seharga 870.000 dan ada potongan harga 20%+ 50% jadi berapa budi harus membayar sepatu tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>potongan= 20%+50% = 70%</p><p>70/100x870.000= 609.000</p><p>jadi harus membayar 870.000-609.000=Rp.261.000</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "9-median-dari-angka-angka-ini-7274717875787773-ialah-463",
+            "question": "9. Median dari angka-angka ini 72,74,71,78,75,78,77,73 ialah \u2026\u2026\u2026\u2026\u00a0*    a.74\r\n\r\nb.74,5\r\n\r\nc.75\r\n\r\nd.73\r\n\r\n\r\n10. Modus dari deretan angka di atas (no.9) ialah \u2026\u2026\u2026\u2026 *\r\na.77\r\nb.75\r\nc.74\r\nd.78 \r\n\r\n\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>72,74,71,78,75,78,77,73</p><p></p><p>9. <strong>median </strong><strong>=</strong><strong> </strong><strong>nilai </strong><strong>tengah </strong><strong>angka </strong><strong>setelah </strong><strong>diurutkan </strong><strong>dari </strong><strong>terkecil</strong></p><p>    \u2192urutkan dulu dari terkecil</p><p>        71,72,73,74,75,77,78,78</p><p>       nilai tengah = 74&amp;75</p><p>       <em>karena</em><em> </em><em>ada</em><em> </em><em>2</em><em> </em><em>nilai</em><em> </em><em>tengahnya</em><em>,</em><em> </em><em>maka</em><em> </em><em>jumlahkan</em><em> </em><em>kedua</em><em> </em><em>angka</em><em> </em><em>tersebut</em><em>,</em><em> </em><em>lalu</em><em> </em><em>bagi</em><em> </em><em>2</em><em> </em><em>hasilnya</em><em>.</em><em> </em></p><p><em> </em><em> </em><em> </em><em> </em> \u219274+75/2 = <strong><u>7</u></strong><strong><u>4</u></strong><strong><u>,</u></strong><strong><u>5</u></strong><strong><u> </u></strong><strong><u>(</u></strong><strong><em><u>B</u></em></strong><strong><em><u>)</u></em></strong></p><p></p><p>10. <strong>modus</strong><strong> </strong><strong>=</strong><strong> </strong><strong>angka</strong><strong> </strong><strong>yg</strong><strong> </strong><strong>sering</strong><strong> </strong><strong>/</strong><strong> </strong><strong>paling</strong><strong> </strong><strong>banya</strong><strong>k</strong><strong> </strong><strong>muncul</strong><strong> </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>\u2192</strong> modusnya angka <strong><em><u>7</u></em></strong><strong><em><u>8</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>(</u></em></strong><strong><em><u>D</u></em></strong><strong><em><u>) </u></em></strong>karena muncul sebanyak 2 kali</p><p>        </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "l-merupakan-luas-lingkaran-dan-d-adalah-diameter-lingkaranmaka-r-474",
+            "question": "L merupakan luas lingkaran dan d adalah diameter lingkaran,maka rumus luas lingkaran adalah?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p> rumus luas lingkaran</p><p>L=\u03c0r\u00b2</p><p> </p><p></p><p> </p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p></p><p><strong>[tex]\\colorbox{pink}{\\blue{ \\tt{j}}\\green{ \\tt {a}}\\red{ \\tt w}\\purple{ \\tt {a}}\\orange{ \\tt b}\\pink{ \\tt {a}}\\blue{ \\tt n} \\green{ \\tt  :}}[/tex]</strong></p><p></p><p></p><p></p><p></p><h2><strong>Luas </strong><strong>lingkaran</strong><strong> </strong><strong>:</strong></h2><p><strong>[tex]{ \\boxed{{{ \\tt \\pi \\times  {r}^{2} }}}}[/tex]</strong></p><p><strong>[tex]{ \\boxed{{{ \\tt  \\frac{1}{4}  \\times \\pi \\times  {d}^{2} }}}}[/tex]</strong></p><p></p><p></p><p></p><p></p><p></p><p><strong>[tex]\\colorbox{white}{ \\pink {\\boxed{{{ \\blue{ \\tt {S}} \\green{ \\tt {e}} \\red{ \\tt m} \\purple{ \\tt {o}} \\orange{ \\tt g}\\pink{ \\tt {a}} \\:  \\:  \\blue{ \\tt m} \\green{ \\tt e} \\red{ \\tt m}  \\purple{ \\tt b} \\orange{ \\tt a} \\pink{ \\tt n} \\blue{ \\tt t} \\green{ \\tt u}}}}}}[/tex]</strong></p><p><strong>[tex]\\colorbox{black} {\\pink{  \\boxed{{\\red A{ \\orange n{ \\green s{ \\blue w{ \\pink e{ \\purple r \\: { by :}}}}}}}  \\orange{ \\boxed{{\\colorbox{pink}{ \\red M{ \\green o{ \\pink }}o{ \\purple n}}}}}}}}[/tex]</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "busur-paling-panjang-dalam-lingkaran-dinamakan-a-busur-minor-b-824",
+            "question": "Busur paling panjang dalam lingkaran dinamakan..    A. busur minor\r\nB. busur mayor\r\nC. busur x\r\nD. busur y\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A.busur minor</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maap klo slh</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-panen-padi-terbesar-125-terjadi-pada-tahun-a-2013-2014-b-662",
+            "question": "Hasil panen padi terbesar 12,5% terjadi pada tahun    A. 2013-2014\r\nB. 2015-2016\r\nC. 2016-2017\r\nD. 2017-2018\r\n\r\ntolong jawab secepatnya ya kak\r\n\u200b",
+            "attachments": [
+                "question-attachments/hasil-panen-padi-terbesar-125-terjadi-pada-tahun-a-2013-2014-b-662-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>d.2017-2018 maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-memiliki-4-sisi-yang-sama-panjang-dimana-sisi-yang-berlawanan-997",
+            "question": "1. memiliki 4 sisi yang sama panjang, dimana sisi yang berlawanan sejajar2. garis diagonal membelah dengan sudut siku-siku3. jumlah 2 sudut yang berdekan adalah 180 derajat4. memiliki 2 sumbu simetri lipat dan putarke-4 sifat diatas menunjukkan sifat dari bangun datar ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>belah ketupat</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalau Salah :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-jawab-ya-beserta-caranya-866",
+            "question": "Tolong bantu jawab ya\r\nbeserta caranya\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-jawab-ya-beserta-caranya-866-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>130 km</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>AB\u00b2= 120\u00b2 + 50\u00b2</p><p>      = 14.400 + 2.500</p><p>      = 16.900</p><p></p><p>AB = \u221a16900</p><p>      = 130 km</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>130 km </p><p></p><p>AB=120+50</p><p>AB=16900</p><p>=130 km</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-ratus-tiga-puluh-dibagi-dua-dikali-minus-tujuh-belas-221",
+            "question": "Dua ratus tiga puluh dibagi dua dikali minus tujuh belas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>230 : 2 x (-17)</p><p>= -1955</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-bangun-pada-gambar-adalah-219",
+            "question": "Luas bangun pada gambar adalah\u200b",
+            "attachments": [
+                "question-attachments/luas-bangun-pada-gambar-adalah-219-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Diketahui:<br>d = 21 cm<br><br>Ditanya:<br>Luas 3/4 lingkaran= ?<br><br>Jawab:<br>d = 21cm<br>r = 10.5 cm<br><br>3/4 L = 3/4 \u03c0r\u00b2 <br>= 3/4 \u2022 22/7 \u2022 (10.5)\u00b2<br>= 2079/8<br>\u2248 259.9 cm\u00b2 <br>\u2248 260 cm\u00b2 <br><br>Jadi, luas bangun pada gambar adalah \u2248 260 cm\u00b2.<br><br>Smoga membantu, maaf jika ada kesalahan.",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

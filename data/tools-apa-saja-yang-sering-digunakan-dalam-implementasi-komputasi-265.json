@@ -1,0 +1,138 @@
+{
+    "question": "Tools apa saja yang sering digunakan dalam implementasi komputasi grid pada sistem terdistribusi?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Software merupakan suatu perangkat yang menghubungkan semua middleware-nya. Middleware itu sendiri adalah bagian dari software, yaitu lapisan sofware yang terletak antara sistem operasi dan aplikasi yang berfungsi sebagai penghubung komunikasi antar-objek dari sistem yang berbeda. Unsur-unsur dasar suatu middleware adalah keamanan (security), pengaturan sumber daya (resource management), pengaturan data (data management), dan layanan informasi (information services). Contoh beberapa middleware adalah Globus Toolkit, Gridbus, Microsoft\u2019s COM/DCOM, Unicore, dan masih banyak contoh-contoh middleware lainnya.</p><p><strong></strong></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "html-dalam-pemrograman-web-berfungsi-sebagai-a-desain-web-b-589",
+            "question": "HTML dalam pemrograman web, berfungsi sebagai....    A Desain web\r\n B Cara kerja web\r\n C Struktur dasar web\r\n D Database website\r\n E Simulasi web",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C Struktur dasar web</p><p><strong>Penjelasan:</strong></p><p>HTML adalah sebuah markup language (bahasa yang mendefinisikan elemen di dalam dokumen), berdasarkan definisi HTML maka HTML berfungsi untuk membuat <strong>Struktur dasar web.</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fitur-yang-digunakan-untuk-menampilkan-kotak-pesan-pada-fmx-frame-126",
+            "question": "Fitur yang digunakan untuk menampilkan kotak pesan pada FMX Framework adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><em>fitur</em><em> </em><em>fitur</em><em> </em><em>yg</em><em> </em><em>langsung</em><em> </em><em>lengkap</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menu-insert-sheet-rows-digunakan-untuk-a-menambah-baris-sheet-189",
+            "question": "Menu Insert sheet rows digunakan untuk...     A. Menambah baris sheet\r\nB. Menambah kolom sheet\r\nC.\r\nMengatur tinggi baris\r\nD. Mengatur lebar kolom\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jawabanya adalah A</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. Menambah baris sheet</p><p><strong>Penjelasan:</strong></p><p>Misalkan dalam program Ms. Excel 2016, Insert Sheet Rows termasauk perintah yg dapat dilakukan melalui tab ribbon Home di menu Insert.</p><p>Untuk lebih jelasnya, perhatikan gambar berikut ini (ditunjukkan tanda panah merah).</p><p>maaf kalau salah semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-fungsi-baris-judul-pada-microsoft-excel-774",
+            "question": "Apa fungsi baris judul pada Microsoft excel\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>memindahkan jendela ke posisi yg diinginkan dan merupakan tempat dimana file yang sedang dibuka ditampilkan.</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-kaa-sama-tabel-kebenarannya-yaa-plsss-716",
+            "question": "Bantu jawab kaa, sama tabel kebenarannya yaa... plsss..",
+            "attachments": [
+                "question-attachments/bantu-jawab-kaa-sama-tabel-kebenarannya-yaa-plsss-716-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p><strong>Penjelasan:</strong></p><p>Tabel di lampiran</p><p></p><p>Kasih 5 bintang+terima kasih+brainliest </p>",
+                    "attachments": [
+                        "answer-attachments/bantu-jawab-kaa-sama-tabel-kebenarannya-yaa-plsss-716-1.pdf"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "menjalankan-program-aplikasi-microsoft-excel-dapat-dibuka-dari-de-622",
+            "question": "Menjalankan program aplikasi Microsoft Excel dapat dibuka dari Desktop, Quick    star dibawah ini menjalankan program Microsoft Excel melalui menu start adalah...\r\nA. Klik kanan pada menu start klik open\r\nB. Klik menu Start &gt;&gt; All Programs &gt;&gt; Klik lembar kerja Microsoft Excel 2007\r\nC. Klik menu Start &gt;&gt; All Programs &gt;&gt; Klik Microsoft Office Microsoft Excel 2007\r\nD. Klik menu Start &gt;&gt; Klik Microsoft Office lembar kerja Microsoft Excel 2007\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>C. Klik menu Start &gt;&gt; All Programs &gt;&gt; Klik Microsoft Office Microsoft Excel 2007</p><p></p><p>Semoga membantu :)</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>c. </p><p><strong>Penjelasan:</strong></p><p>semoga bermanfaat prennnnnnnn</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-slur-sebutkan-contoh-nama-mic-dan-jelakan-implementas-245",
+            "question": "Bantu jawab slur    sebutkan contoh nama mic dan jelakan implementasi kegunaannya pada masing-masing jenis polar pattern dari omni directional, uni directional dan bidirectional",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Polar pattern adalah pola penangkapan suara dari microphone. Macam \u2013 macam polar pattern menjadi salah satu hal yang perlu diketahui ketika hendak menggunakan microphone tersebut. Kepekaan suara yang direspon oleh microphone berbeda-beda dari tiap arah sumber suaranya. Berbagai percobaan dan pengukuran akhirnya menghasilkan apa yang disebut sebagai directivity. Hal inilah yang membuat adanya pola pattern. Arah depan pada pola pattern merupakan arah 0 derajat atau disebut on axis. Semakin ke samping, semakin tidak sensitif dan arah sensitifitas paling buruk adalah arah belakang (rear) biasanya disebut null angle.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambar-dan-langkah-langkah-kerja-softwitch-yang-benar-425",
+            "question": "Gambar dan langkah langkah kerja softwitch yang benar\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>Cara Kerja Softswitch</p><p></p><p>MGC akan bekerja di tataran pengaturan panggilannya (call control) serta call processing. MGC akan mengontrol panggilan yang masuk untuk mengetahui jenis media penggilan dan tujuannya.</p><p></p><p>Dari situ, MGC akan mengirikan sinyal ke MG untuk melakukan koneksi, baik intrakoneksi jaringan sirkuit ke sirkuit atau paket ke paket maupun interkoneksi jaringan sirkuit ke paket dan sebaliknya.</p><p></p><p>Jika diperlukan, MGC akan meminta MG melakukan konversi media yang sesuai dengan permintaan, atau langsung meneruskan panggilan jika tidak diperlukan konversi.</p><p></p><p>Antara MGC dan MG sendiri akan saling berhubungan dengan protokol Megaco atau MGCP (Media Gateway Control Protocol).</p><p> Sementara itu, satu MGC akan berhubungan dengan MGC yang lain, baik itu yang berada di jaringan yang sama maupun berbeda, dengan mengirimkan protokol sinyal tertentu. Untuk jaringan sirkit, MGC akan mengirimkan SS7 (Signalling System 7), sementara jika berhubungan dengan jaringan paket, maka MGC akan menggunakan H.323 atau SIP (Season Initiation Protocol).</p><p></p><p>Semoga membantu :) </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gabungan-beberapa-sel-pada-microsoft-excel-di-sebut-258",
+            "question": "Gabungan beberapa sel pada Microsoft Excel di sebut \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>RANGE adalah gabungan dari beberapa sel atau bisa juga diartikan gabungan dari beberapa kolom atau berapa baris misal range A1:45</p><p></p><p><strong>Maaf</strong><strong> </strong><strong>kalau</strong><strong> </strong><strong>salah</strong></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengatasi-jika-website-tiba-tiba-tidak-bisa-diakse-266",
+            "question": "Bagaimana cara mengatasi jika website tiba tiba tidak bisa diakses\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>cara mengatasi jika website tiba tiba tidak bisa diakses:</p><p></p><p>1. Cek Koneksi Internet. </p><p>2. Hapus Cache DNS (Flush DNS) </p><p>3. Ganti DNS Server.</p><p>4. Reset TCP/IP Address. </p><p>5. Hapus Cache Browser.</p><p>6. Reset Google Chrome. </p><p>7. Mematikan Antivirus dan Firewall Sementara. </p><p>8. Tingkatkan Keamanan Website. </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>lihat jaringan dan lihat sisa kuota </p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

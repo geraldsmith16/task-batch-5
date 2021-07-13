@@ -1,0 +1,156 @@
+{
+    "question": "Dendi mempunyai tongkat sepanjang 2 m dan bayu mempunyai tongkat sepanjang 100 cm. jadi tongkat milik dendi ... dari milik bayu.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>&gt; ( lebih besar)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>karena panjang tongkat Dendi jika dijadikan ke satuan cm maka menjadi 200 cm, maka lebih panjang daripada tongkat milik Bayu yang hanya 100 cm panjangnya.</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-bagi-dan-sisa-pembagian-3x3-4x2-2x-3-x-1-ad-222",
+            "question": "Hasil bagi dan sisa pembagian (3x3 + 4x2 \u2013 2x + 3) : (x + 1) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>hasil = 3x^2 + x - 3</p><p>Sisa = 6</p><p></p><p>saya mrnggunakan skema horner</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bangun-yang-memiliki-luas-alas-terbesar-adalahpake-cara-570",
+            "question": "Bangun yang memiliki luas alas terbesar adalah?(pake cara)\u200b",
+            "attachments": [
+                "question-attachments/bangun-yang-memiliki-luas-alas-terbesar-adalahpake-cara-570-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>Bangun yang memiliki luas alas terbesar adalah <strong>Kubus </strong><strong>(</strong><strong>1</strong><strong>)</strong></p><h2>Pendahuluan</h2><p><strong>Kubus </strong>merupakan bangun ruang tiga dimensi yang dibatasi oleh enam buah sisi berbentuk persegi yang ukurannya sama. Kubus juga disebut bidang enam beraturan atau bentuk khusus dalam prisma segi empat.</p><p><strong>Prisma</strong> merupakan bangun ruang yang dibatasi oleh dua sisi yang sama dan saling sejajar sebagai alas dan tutupnya, dan beberapa persegi panjang sebagai sisi tegaknya.</p><p><strong>Balok </strong>adalah bangun ruang yang memiliki enam sisi berbentuk persegi panjang, dimana sisi yang berhadapan bentuk dan ukurannya sama.</p><h2>Penyelesaian</h2><h3><u>Kubus </u><u>(</u><u>1</u><u>)</u></h3><p>[tex]{\\sf{ La = s \\times s }}[/tex]</p><p>[tex]{\\sf{ La = 14 \\: cm \\times 14 \\: cm }}[/tex]</p><p>[tex]{\\sf{ La =  {196 \\: cm}^{2}  }}[/tex]</p><h3><u>Prisma</u><u> </u><u>Segitiga</u><u> (</u><u>2</u><u>)</u></h3><p>[tex]{\\sf{ L a =  \\frac{1}{2}  \\times a \\times t}}[/tex]</p><p>[tex]{\\sf{ L a=  \\frac{1}{\\cancel{2}}  \\times  \\cancel{12} \\: cm \\times 17 \\: cm}}[/tex]</p><p>[tex]{\\sf{ L a=  {102 \\: cm}^{2}  }}[/tex]</p><h3><u>Prisma</u><u> alas</u><u> berbentuk</u><u> </u><u>Trapesium </u><u>(</u><u>3</u><u>)</u></h3><p>[tex]{\\sf{ La  =  \\frac{1}{2} \\times jumlah \\: sisi \\: sejajar \\times t }}[/tex]</p><p>[tex]{\\sf{ La =  \\frac{1}{2}   \\times (8 \\: cm + 14 \\: cm) \\times 7 \\: cm}}[/tex]</p><p>[tex]{\\sf{ L  a=  \\frac{1}{\\cancel{2}}  \\times \\cancel{22} \\: cm \\times 7 \\: cm}}[/tex]</p><p>[tex]{\\sf{ L a=  {77 \\: cm}^{2}  }}[/tex]</p><h3><u>Balok </u><u>(</u><u>4</u><u>)</u></h3><p>[tex]{\\sf{ L a = p \\times l}}[/tex]</p><p>[tex]{\\sf{ La = 15 \\: cm \\times 13 \\: cm }}[/tex]</p><p>[tex]{\\sf{ La =  {195 \\: cm}^{2}  }}[/tex]</p><p>Jadi, bangun ruang yang memiliki luas alas terbesar yaitu<strong> </strong><strong>Kubus </strong>dengan<strong> </strong>luas<strong> </strong>alas 196 cm\u00b2</p><p>.</p><h3>PELAJARI LEBIH LANJUT</h3><ul><li>https://brainly.co.id/tugas/22174977</li><li>https://brainly.co.id/tugas/22177939</li><li>https://brainly.co.id/tugas/27709800</li></ul><p>=====================================</p><p>[tex]{{\\mathscr{ DETAIL  \\: JAWABAN}}}[/tex]</p><p>Mapel : Matematika</p><p>Kelas : 8</p><p>Materi : Bab 8 - Bangun Ruang</p><p>Kata kunci : Luas alas bangun ruang</p><p>Kode soal : 2</p><p>Kode kategorisasi : 8.2.8</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-latihan-soal-jajar-genjang-bantu-dong-please-789",
+            "question": "Contoh latihan soal Jajar Genjang\r\n\r\nbantu dong please\u200b",
+            "attachments": [
+                "question-attachments/contoh-latihan-soal-jajar-genjang-bantu-dong-please-789-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a=12cm t=6cm ditanya lua= ....?  L= a\u00d7t 12cm \u00d76 cm L =72 cm.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-kak-aku-kasih-20-poin-deh-789",
+            "question": "Bantu jawab kak\r\naku kasih 20 poin deh\u200b",
+            "attachments": [
+                "question-attachments/bantu-jawab-kak-aku-kasih-20-poin-deh-789-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>10cm</p><p></p><p><strong>Penjelasan:</strong></p><p>Panjang sisi QR : PR\u00b2 + PQ \u00b2</p><p>= 6\u00b2cm + 8\u00b2cm</p><p>= 36 cm + 64cm</p><p>= 100 </p><p></p><p>Menjadi \u221a100 yang hasilnya 10</p><p></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Here&#039;s the answer, I hope it helps! Semangat belajarnya, semoga sukses :D</p><p><strong></strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/bantu-jawab-kak-aku-kasih-20-poin-deh-789-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-jawab-sebisanya-aja-606",
+            "question": "Kak tolong jawab sebisanya aja\u200b",
+            "attachments": [
+                "question-attachments/kak-tolong-jawab-sebisanya-aja-606-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>1. c</p><p>2. b</p><p>3. opsi 1 100</p><p>    opsi 2 120</p><p>4. 2,5</p><p>5. d</p><p>.</p><p>.</p><p>.</p><p>Ket= maksud opsi terserah yang mana anda pilih</p><p>semoga bermanfaat ya</p><p>jangan lupa di follow ya</p><p>kalau ada yang salah mohon untuk tidak direport ya</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "224-164-134-315",
+            "question": "22\u2074 =\r\n\r\n16\u2074 = \r\n\r\n13\u2074 =\r\n\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>22\u2074</p><p>= 22 \u00d7 22 \u00d7 22 \u00d7 22</p><p>= 484 \u00d7 22 \u00d7 22</p><p>= 10.648 \u00d7 22</p><p>= <strong><u>234.256</u></strong></p><p></p><p></p><p>16\u2074</p><p>= 16 \u00d7 16 \u00d7 16 \u00d7 16</p><p>= 256 \u00d7 16 \u00d7 16</p><p>= 4.096 \u00d7 16</p><p>= <strong><u>65.536</u></strong></p><p></p><p></p><p>13\u2074</p><p>= 13 \u00d7 13 \u00d7 13 \u00d7  13</p><p>= 169 \u00d7 13 \u00d7 13</p><p>= 2.197 \u00d7 13</p><p>= <strong><u>28.561</u></strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>22\u2074 =(22x22x22x22)</p><p>       =<strong><u>234.256</u></strong></p><p></p><p>16\u2074 =(16x16x16x16)</p><p>      =<strong><u>65.536</u></strong></p><p></p><p>13\u2074 =(13x13x13x13)</p><p>      =<strong><u>28.561</u></strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong><em>S</em></strong><strong><em>E</em></strong><strong><em>M</em></strong><strong><em>O</em></strong><strong><em>G</em></strong><strong><em>A</em></strong><strong><em> </em></strong><strong><em>M</em></strong><strong><em>E</em></strong><strong><em>M</em></strong><strong><em>B</em></strong><strong><em>A</em></strong><strong><em>N</em></strong><strong><em>T</em></strong><strong><em>U</em></strong></p><p><strong><em>A</em></strong><strong><em>n</em></strong><strong><em>s</em></strong><strong><em>w</em></strong><strong><em>e</em></strong><strong><em>r</em></strong><strong><em> </em></strong><strong><em>B</em></strong><strong><em>y</em></strong><strong><em>:</em></strong></p><h2><strong><em>#</em></strong><strong><em>F</em></strong><strong><em>e</em></strong><strong><em>l</em></strong><strong><em>i</em></strong><strong><em>c</em></strong><strong><em>i</em></strong><strong><em>a</em></strong><strong><em>V</em></strong><strong><em>M</em></strong><strong><em>i</em></strong><strong><em>n</em></strong><strong><em>Y</em></strong><strong><em>e</em></strong><strong><em>o</em></strong><strong><em>n</em></strong><strong><em>G</em></strong><strong><em>y</em></strong><strong><em>u</em></strong></h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-banyak-rusuk-pada-kubus-adalah-a-6-b-8-c-12-d-16-tolon-199",
+            "question": "3. Banyak rusuk pada kubus adalah ...\r\na. 6\r\nb. 8\r\nC. 12\r\nd. 16\r\n\r\ntolong iya hehe\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>D. 16</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>SEMOGA BERMANFAAT</p><p>MAAF JIKA SALAH</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>C</strong><strong>.</strong><strong> </strong><strong>1</strong><strong>2</strong><strong> </strong><strong>r</strong><strong>u</strong><strong>s</strong><strong>u</strong><strong>k</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Ciri ciri kubus antara lain : </p><p>\u2022Keenam sisinya berbentuk persegi yang sama luas,di mana sisi-sisi yang sehadap sejajar.</p><p>\u2022Memiliki <strong>1</strong><strong>2</strong><strong> </strong>rusuk yang sama panjang.</p><p>\u2022Memiliki 8 titik sudut.</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-ani-10-tahun-dan-umur-ibunya-25-tahunperbandingan-umur-ani-905",
+            "question": "Umur ani 10 tahun dan umur ibunya 25 tahun.perbandingan umur ani dengan umur ibunya adalah \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>15 Tahun</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Karena , umur ani 10 tahun , umur ibunya 25 tahun. Jadi 25 - 10 = 15 Tahun. \u2026</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "quiz-carilah-nilai-x-carilah-nilai-x-carilah-nilai-x-carilah-n-121",
+            "question": "Quiz    \r\ncarilah nilai x!\r\n\r\n\r\ncarilah nilai x!\r\n\r\n\r\ncarilah nilai x!\r\n\r\n\r\ncarilah nilai x!\r\n\r\n5.) Jika dalam dua menit Yuta dapat menyanyikan 1 lagu, maka hitunglah jumlah lagu yang dapat Yuta nyanyikan dalam 1 jam!\r\n\r\n6.) Jika dalam 5 menit Levi dapat membersihkan 2 buah jendela. Hitunglah jumlah jendela yang dapat Levi bersihkan dalam waktu 45 menit!\r\n\r\n7.) sederhanakan perbandingan berikut!\r\n20 : 40 adalah ...\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>[tex]\\huge\\colorbox{gray}{Ambiziuz02}[/tex]</p><p>_______________________________________________</p><p>[tex]{\\boxed{\\mathfrak{\\huge\\red{{\\boxed{\\mathfrak{\\huge\\purple{Penyelesaian}}}}}}}}[/tex]</p><p>_______________________________________________</p><p></p><p>[tex]\\purple{Penyelesaian}[/tex] [tex]\\purple{dan}[/tex] [tex]\\purple{langkah}[/tex] [tex]\\purple{pengerjaan}[/tex] [tex]\\purple{dapat}[/tex] [tex]\\purple{ disimak}[/tex] [tex]\\purple{pada}[/tex] [tex]\\purple{lampiran}[/tex] </p><p>_______________________________________________</p><p>[tex]\\large\\bigstar[/tex] Detail Jawaban [tex]\\large\\bigstar[/tex] </p><p></p><p>\u25aa Mapel : Matematika </p><p>\u25aa Materi : Aljabar dan Perbandingan</p><p>\u25aa Kelas/Jenjang : 7 SMP</p><p>\u25aa Kata Kunci : Variabel, Perbandingan</p><p> _______________________________________________</p>",
+                    "attachments": [
+                        "answer-attachments/quiz-carilah-nilai-x-carilah-nilai-x-carilah-nilai-x-carilah-n-121-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p>jawaban dan langkah pengerjaan ada di foto</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/quiz-carilah-nilai-x-carilah-nilai-x-carilah-nilai-x-carilah-n-121-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "buat-yang-moderator-jenius-si-hebat-pak-345",
+            "question": "Buat Yang :    \u00b0\u25cf Moderator\r\n\u00b0\u25cf Jenius\r\n\u00b0\u25cf Si Hebat\r\n\u00b0\u25cf Pakar\r\n\u00b0\u25cf Terpelajar\r\n\r\nBantu jawab \r\n\r\nPakai Cara Lengkap \u2714\r\n\r\nNo Ngasal \r\n\r\nYang benar jawabannya saya FOLLOW ;)\r\n\r\nOk ... Thank You \r\n\u200b",
+            "attachments": [
+                "question-attachments/buat-yang-moderator-jenius-si-hebat-pak-345-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<h2>[tex]\\huge\\colorbox{pink}{Jawaban : }[/tex]</h2><p></p><h2>Stastika</h2><p></p><p>Stastika adalah ilmu yang mempelajari tentang pengumpulan, pengolahan, penyajian, dan analisis data yang bisa menghasilkan informasi bermanfaat dan dapat digunakan dalam sebuah pengembalian keputusan.</p><p></p><h2>2. Jawaban Terlampir~</h2><p></p><h2>3. Jawaban :</h2><p></p><p>a. Gatau maaf sekali *-*</p><p>b. 175</p><p>c. 600</p><p>d. 225</p><p></p><h2>4. Jawaban Terlampir~</h2><p></p><p>5. Kalo diagram lingkaran saya ga bisa. Cuma bisa diagram batang. Jadi, saya mohon maaf sebesar\u00b2 nya ^\u2022^</p><p></p><h2>Detail Jawaban :</h2><p></p><p>Kelas : VII</p><p>Bab : Stastika</p><p>Semester : 2</p><p>Kata kunci : Nilai dan jumlah siswa</p><p>Kode Dasar : 3.11 Dan 4.11</p><p></p><h2></h2>",
+                    "attachments": [
+                        "answer-attachments/buat-yang-moderator-jenius-si-hebat-pak-345-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

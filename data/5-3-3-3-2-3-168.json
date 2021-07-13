@@ -1,0 +1,136 @@
+{
+    "question": "5 ^ 3 + 3 ^ 3 * 2 ^ 3 =\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p><strong>Bilangan</strong><strong> </strong><strong>Berpa</strong><strong>ngkat</strong></p><p></p><p>5^3 + 3^3 \u00d7 2^3</p><p>= (5 \u00d7 5 \u00d7 5) + (3 \u00d7 3 \u00d7 3) \u00d7 (2 \u00d7 2 \u00d7 2)</p><p>= 125 + 27 \u00d7 8</p><p>= 125 + 216</p><p>= <strong><u>3</u></strong><strong><u>4</u></strong><strong><u>1</u></strong></p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>5\u00b3 + 3\u00b3 x 2\u00b3 = </p><p>5 x 5 x 5 = 125</p><p>3 x 3 x 3 = 27</p><p>2 x 2 x 2 = 8</p><p>125 + 27 x 8 = </p><p>125 + 216 = 341</p><p></p><p><strong><em><u>#</u></em></strong><strong><em><u>semogamembantu</u></em></strong></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-lingkaran-pada-gambar-di-samping-dengan-jari-jari-21cm-597",
+            "question": "Diketahui lingkaran pada gambar di samping dengan jari jari 21cm.panjang busur AB adalah ...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>49,5 cm </p><p>maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-u37-dan-u1123-maka-nilai-suku-pertamanya-adalah-755",
+            "question": "Jika diketahui U3=7 dan U11=23 maka nilai suku pertamanya adalah\r\nbantu jawab dong kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>u11-u7 </p><p>23-7 =16</p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-turunan-pertama-dari-fungsi2-9x-2x-1-4x2-1-343",
+            "question": "Tentukan turunan pertama dari fungsi\u00b2 9(x) =(2x-1) (4x\u00b2-1)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>u.v=u&#039;.v+u.v&#039;</p><p></p><p>u=(2x-1) --&gt; u&#039;= 2</p><p>v=(4x\u00b2-1) --&gt; v&#039;= 2.4x=8x</p><p></p><p>g(x)=2.(4x\u00b2-1)+(2x-1).8x</p><p>     = (8x\u00b2-2) + (16x\u00b2-8x)</p><p>     = 8x\u00b2-2+16x\u00b2-8x</p><p>     = 24x\u00b2-8x-2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mula-mula-terdapat-2-virus-corona-jika-virus-koronatersebut-membe-558",
+            "question": "mula mula terdapat 2 virus Corona jika virus koronatersebut membelah diri menjadi 2 setiap 4 jam,maka jumlah virus koronatersebut setelah 24 jam adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Diketahui</h2><ul><li>Jumlah awal virus = <strong>2</strong></li></ul><ul><li>Kemedian masing masing virus membelah diri menjadi dua setiap <strong>4 Jam</strong></li></ul><h2>Ditanya</h2><ul><li>Jumlah total virus setelah 24 Jam = ..?</li></ul><h2>Pembahasan</h2><p>Karena masing-masing virus membelah diri setiap 4 Jam, Maka terdapat 6 kali pembelahan diri. Sehingga diperoleh</p><p>[tex]= 2 \\times 2\\times 2\\times 2\\times 2\\times 2 \\times 2[/tex]</p><p>[tex]= 2^7[/tex]</p><p>[tex]= \\boxed{128}[/tex]</p><p>Jadi, Jumlah total virus setelah 24 jam kemudian adalah <strong>128</strong></p><h2>Semoga membantu</h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gunakan-informasi-di-bawah-ini-untuk-menjawab-soal-nomor-6-8-seor-178",
+            "question": "Gunakan informasi di bawah ini untuk menjawab soal nomor 6-8    Seorang penjual nasi goreng mengeluarkan\r\nmodal sebesar Rp1.000.000,00. untuk\r\nmenjalankan usahanya. Dia mematok harga\r\nnasi gorengnya adalah Rp8.000,00 perporsi.\r\n6. Jika pada hari dia berhasil menjual sebanyak 160 porsi maka persentase keeuntungannya adalah ...\r\na. 50 %\r\nc. 28 %\r\nb. 36 %\r\nd. 16%\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>C. 28 %</p><p></p><p>Hasil Penjualan = 8.000\u00d7160 = 1.280.000</p><p></p><p>Keuntungan = 1.000.000 - 1.280.000 = 280.000</p><p></p><p>280.000= y/100 dikali 1.000.000 =28%</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyusunan-menu-seimbang-untuk-manula-umur-70-th-berjenis-kelamin-696",
+            "question": "penyusunan menu seimbang untuk manula umur 70 th berjenis kelamin wanita BB 55 kg dan TB 155 cm kebutuhan energi dan protein berdasarkan AKG adalah....(sertakan cara)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>rj3yjt2betmryndgnetvrqnnC F gsgs%@;\u00d7/;</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-persegi-yang-memiliki-luas-144-cm2-adalah-328",
+            "question": "Keliling persegi yang memiliki luas 144 cm2 adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Luasnya: 144cm\u00b2</p><p>jadi cari sisi dulu</p><p></p><p>S\u00b2:L</p><p>S\u00b2: 144cm</p><p>S: 12\u00d712= 144cm\u00b2</p><p>jadi sisinya adalah 12cm</p><p></p><p>sekarang cari keliling nya</p><p>K=4\u00d712</p><p>K= 48cm</p><p></p><p>jadi keliling nya 48cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga membantu :D</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuannya-dijawab-dengan-benar-159",
+            "question": "Mohon bantuannya dijawab dengan benar\u200b",
+            "attachments": [
+                "question-attachments/mohon-bantuannya-dijawab-dengan-benar-159-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><em>1) Gradien garis dari persamaan grafik </em>[tex]\\text {2y + 4x + 5 = 0}[/tex]<em> adalah</em> [tex]{m = -2[/tex]</p><p><em>2). Gradien garis dari titik A(0, -4) dan B(-1, -6) adalah</em> m = \u00a0[tex]2[/tex]</p><p></p><h2>Pendahuluan\n</h2><p>Garis dengan persamaan [tex]\\text {ax + by = c}[/tex] atau [tex]\\text {ax + by + c = 0}[/tex] memiliki gradien [tex]\\boxed {m = -\\frac{a}{b} }[/tex]\n</p><p>Sebuah garis yang melalui sembarang titik, misalnya A(x\u2081, y\u2081) bergradien [tex]\\text m[/tex] maka persamaan garisnya adalah [tex]\\text {y - y}_1 = \\text {m (x - x}_1)[/tex]\n</p><p>Gradien garis melalui yang titik A(x\u2081, y\u2081) dan B(x\u2082 , y\u2082) adalah [tex]\\frac{\\text y_2 - \\text y_1}{\\text x_2 - \\text x_1}[/tex]</p><p>Persamaan garis lurus yang melalui titik A(x\u2081, y\u2081) dan B(x\u2082 , y\u2082) adalah [tex]\\boxed {\\frac{\\text y - \\text y_{1} }{\\text y_{2}- \\text y_{1}} = \\frac{\\text x - \\text x_{1} }{\\text x_{2}- \\text x_{1}}}[/tex]\n</p><p>\n</p><h3>Pembahasan</h3><p><em><strong>1) Menentukan gradien dengan persamaan garis yang diketahui</strong></em></p><p> \u00a0 Garis dengan persamaan [tex]\\text {ax + by = c}[/tex] atau [tex]\\text {ax + by + c = 0}[/tex] </p><p> \u00a0 memiliki grdien [tex]{m = -\\frac{a}{b} }[/tex]</p><p> \u00a0 Maka Gradien garis dari persamaan grafik [tex]\\text {2y + 4x + 5 = 0}[/tex] yaitu :</p><p> \u00a0 [tex]{m = -\\frac{a}{b} }[/tex]</p><p> \u00a0 Garis [tex]\\text {2y + 4x + 5 = 0}[/tex] \u00a0\u21d4 [tex]\\text {4x + 2y + 5 = 0}[/tex]</p><p> \u00a0 Koefisien [tex]x[/tex] adalah 4 dan koefisien y adalah 2, maka </p><p> \u00a0 \u21d4 [tex]{m = -\\frac{a}{b} }[/tex]</p><p> \u00a0 \u21d4 [tex]{m = -\\frac{4}{2} }[/tex]</p><p> \u00a0 \u21d4 [tex]{m = -2[/tex]</p><p> \u00a0 \u2234 J<u>adi gradiennya adalah </u>[tex]{m = -2[/tex]<u></u></p><p><em><strong>2. Menentukn gradien garis melalui dua buah titik, misalkan A dan B</strong></em></p><p> \u00a0 \u00a0Persamaan garis lurus yang melalui titik A(x\u2081, y\u2081) dan B(x\u2082 , y\u2082) memiliki </p><p> \u00a0 \u00a0gradien [tex]\\text m = \\frac{\\text y_2 - \\text y_1}{\\text x_2 - \\text x_1}[/tex] \u00a0 \u00a0</p><p> \u00a0 \u00a0Gradien garis dari titik A(0, -4) dan B(-1, -6) adalah</p><p> \u00a0 \u00a0 [tex]\\text m = \\frac{\\text y_2 - \\text y_1}{\\text x_2 - \\text x_1}[/tex]</p><p> \u00a0 \u00a0 \u21d4 m = \u00a0[tex]\\frac{-6 ~-~ (-4)}{-1 ~-~ 0}[/tex]</p><p> \u00a0 \u00a0 \u21d4 m = \u00a0[tex]\\frac{-6 ~+~4}{-1}[/tex]</p><p> \u00a0 \u00a0 \u21d4 m = \u00a0[tex]\\frac{-2}{-1}[/tex]</p><p> \u00a0 \u00a0 \u21d4 m = \u00a0[tex]2[/tex]</p><p> \u00a0 \u00a0 \u2234 Jadi gradien garisnya adalah m = \u00a0[tex]2[/tex]</p><p></p><h3>Pelajari lebih lanjut : \u00a0</h3><ol><li>Persamaan garis melalui satu titik : https://brainly.co.id/tugas/1552278\n</li><li>Persamaan garis yg melalui titik (8, -7) dan tegak lurus garis [tex]\\text {2x + 4y - 9 = 0}[/tex] : https://brainly.co.id/tugas/2072344\n</li><li>Jawaban ayo kita berlatih 4.3 kls 8 semester 1 : https://brainly.co.id/tugas/18522139\n</li><li>Garis [tex]h[/tex] akan memotong garis [tex]x = 12[/tex] di titik ... (garis [tex]g[/tex] dan garis [tex]h[/tex] saling tegak lurus : https://brainly.co.id/tugas/22582801</li><li>Menentukan kemiringan melalui dua titik https://brainly.co.id/tugas/12734740\n</li></ol><p></p><p>__________________________________________________________</p><h3><strong>Detil Jawaban\n</strong></h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 8 SMP\n</strong></p><p><strong>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika\n</strong></p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 3 - Persamaan Garis Lurus\n</strong></p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 8.2.3.1\n</strong></p><p><strong>Kata kunci : persamaan garis lurus, melalui dua titik</strong></p><p><strong></strong></p><p><strong>#CerdasBersamaBrainly</strong></p><p><strong>#BelajarBersamaBrainly</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pliss-yang-f-aja-berapa-derajat-795",
+            "question": "Pliss yang f aja berapa derajat\u200b",
+            "attachments": [
+                "question-attachments/pliss-yang-f-aja-berapa-derajat-795-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban</strong><strong>:</strong></p><p></p><p></p><p>\u2220f = \u2220b = 180\u00b0 - 35\u00b0 = 145\u00b0</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>145\u2070</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Sudut dalam sepihak jumlahnya 180\u2070 maka:</p><p>35\u2070+ &lt; f = 180\u2070</p><p>         &lt; f = 180\u2070\u201335\u2070</p><p>         &lt; f = 145\u2070</p><p></p><p><em><u>J</u></em><em><u>a</u></em><em><u>d</u></em><em><u>i</u></em><em><u>,</u></em><em><u> </u></em><em><u>b</u></em><em><u>e</u></em><em><u>s</u></em><em><u>a</u></em><em><u>r</u></em><em><u> </u></em><em><u>s</u></em><em><u>u</u></em><em><u>d</u></em><em><u>u</u></em><em><u>t</u></em><em><u> </u></em><em><u>f</u></em><em><u> </u></em><em><u>a</u></em><em><u>d</u></em><em><u>a</u></em><em><u>l</u></em><em><u>a</u></em><em><u>h</u></em><em><u> </u></em><em><u>1</u></em><em><u>4</u></em><em><u>5</u></em><em><u>\u2070</u></em></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "quis-peraturan-jawab-yang-benar-no-ngasal-590",
+            "question": "{QUIS}\r\n\r\n\r\n\u26a0\ufe0fPeraturan\r\nJawab Yang benar\r\nNO Ngasal \u274c\u200b",
+            "attachments": [
+                "question-attachments/quis-peraturan-jawab-yang-benar-no-ngasal-590-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1. 12 cm</p><p>caranya 48\u00f74</p><p>2. 3 cm</p><p>L=p\u00d7l</p><p>36= 12\u00d7l</p><p>l= 36\u00f712</p><p>lebar nya adalah= 3</p><p>3. </p><p>4.</p><p>5.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>3,4,5 nya bisa sendiri kan ya? menggambar gitu aja</p><p>Semoga bermanfaat ya:) </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

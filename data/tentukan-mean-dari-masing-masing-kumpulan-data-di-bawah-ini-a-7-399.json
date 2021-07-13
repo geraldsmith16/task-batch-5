@@ -1,0 +1,156 @@
+{
+    "question": "Tentukan mean dari masing-masing kumpulan data di bawah ini!    a. 7, 6, 8, 9, 6, 6, 7, 8\r\nb. 5, 9,5,7,5, 7, 8, 6, 9,7\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2>\u2740Penyelesaian-\u2728</h2><p>[tex]\\:[/tex]</p><h3>Bagian A) :</h3><p>[tex]\u21d2\\sf \\frac{7+6+8+9+6+6+7+8}{8} \\\\\u21d2\\sf \\frac{57}{8} \\\\\u21d2\\sf{7,125} [/tex]</p><h3>------------------</h3><h3>Bagian B) :</h3><p>[tex]\u21d2\\sf \\frac{5+9+5+7+5+7+8+6+9+7}{10} \\\\\u21d2\\sf \\frac{68}{10} \\\\\u21d2\\sf{6,8} [/tex]</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "minta-tolong-kasih-penjelasan-y-671",
+            "question": "Minta tolong................\u200b\r\nKasih penjelasan y",
+            "attachments": [
+                "question-attachments/minta-tolong-kasih-penjelasan-y-671-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]f(x) = 2x + 4 \\\\ f(g(x)) = 2(g(x)) + 4 \\\\ fog(x) = 2( \\frac{x}{x - 1} ) + 4 \\\\ h(x) =  \\frac{2x}{x - 1}  +  \\frac{4(x - 1)}{x - 1}  \\\\ y =  \\frac{2x + 4x - 4}{x - 1}  \\\\ y =  \\frac{6x - 4}{x - 1}  \\\\ y(x - 1) = 6x - 4 \\\\ xy - y = 6x - 4 \\\\ xy  -  6x = y - 4 \\\\ x(y  - 6) = y - 4 \\\\ x =  \\frac{y - 4}{y - 6} [/tex]</p><p>maka</p><p>[tex] {h}^{ - 1} (x) =  \\frac{x - 4}{x - 6} [/tex]</p><p>[tex]x \\ne 6[/tex]</p><p></p><p>option B</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "quis-gradien-garis-dengan-persamaan-3x-6y-5-adalah-493",
+            "question": "Quis\r\n\r\nGradien garis dengan persamaan 3x - 6y = -5 adalah..\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>\u00bd</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Gradien merupakan kemiringan suatu garis. Gradien diisyaratkan dengan \"m\".</p><p></p><ul><li>y = mx + a</li></ul><p></p><p>3x-6y = -5</p><p>-6y = -3x-5</p><p>y = -3/-6x - 5</p><p>y = \u00bdx - 5</p><p></p><p>m = \u00bd, maka gradien nya adalah \u00bd</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><h2>Gradien = 1/2</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>3x - 6y = -5</p><p>a = 3x. b = -6</p><p>m = -a/b</p><p>m = -3/-6</p><p>m = 1/2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-pelemparan-3-uang-logam-secara-bersamaan-peluang-munculnya-341",
+            "question": "Dalam pelemparan 3 uang logam secara bersamaan, peluang munculnya paling sedikit 2 gambar adalah ...    a. \u00bc\r\n\r\nb. \u00bd\r\n\r\nc. 1/6\r\n\r\nd. 1/8\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>b</p><h3>Penjelasan dengan langkah-langkah:</h3><p></p><p>ruang sampel 3 pelemparan uang logam = </p><p>{(AAA),(AAG),(AGA),(<strong>AGG</strong>),(GAA),(<strong>GAG</strong>),(<strong>GGA</strong>),(<strong>GGG</strong>)}</p><p><strong>[tex] \\frac{4}{8}  =  \\frac{1}{2} [/tex]</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-ad-adalahcm-150",
+            "question": "Panjang AD adalah...cm\u200b",
+            "attachments": [
+                "question-attachments/panjang-ad-adalahcm-150-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> 25 Cm</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Penjelasan nya ada di foto</p>",
+                    "attachments": [
+                        "answer-attachments/panjang-ad-adalahcm-150-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantu-ya-232",
+            "question": "Tolong dibantu ya !!!!!\u200b",
+            "attachments": [
+                "question-attachments/tolong-dibantu-ya-232-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>pelajaran mudah</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu:)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-di-bantu-yahhh-615",
+            "question": "Tolong di bantu yahhh",
+            "attachments": [
+                "question-attachments/tolong-di-bantu-yahhh-615-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "total sudut lurus 180\u00b0 <br>46 + (a + 29) + (5a + 15) = 180<br>(46 + 29 + 15) + (a + 5a) = 180<br>90 + 6a = 180<br>6a = 180 - 90<br>6a = 90<br>a = 90/6<br>a = 15\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>15\u00b0</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>180\u00b0=46+(a+29)+(5a+15)</p><p>180\u00b0=90+6a</p><p>90  =6a</p><p>a    = 15\u00b0</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pertanyaan-21-diksuatu-persegi-memiliki-sisi-10-cm-dit-berapa-707",
+            "question": "Pertanyaan\r\n21. Dik:suatu persegi memiliki sisi 10 cm\r\nDit: Berapa keliling persegi ?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Keliling</strong><strong> </strong><strong>=</strong><strong> </strong><strong>4</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>s</strong></p><p><strong>Keliling</strong><strong> </strong><strong>=</strong><strong> </strong><strong>4</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>1</strong><strong>0</strong><strong> </strong><strong>cm</strong></p><p><strong>Keliling </strong><strong>=</strong><strong> </strong><strong>4</strong><strong>0</strong><strong> </strong><strong>cm</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p></p><p>[tex]keliling = 2(p + l) \\\\ \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:   = 2(10 + 10) \\\\  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  = 2 \\times 20 = 40[/tex]</p><p>#<em>s</em><em>e</em><em>m</em><em>o</em><em>g</em><em>a</em><em>m</em><em>e</em><em>m</em><em>b</em><em>a</em><em>n</em><em>t</em><em>u</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-kebun-160-m-jika-panjang-kebun-50-mmaka-lebar-k-209",
+            "question": "Keliling sebuah kebun 160 m .jika panjang kebun 50 m.maka lebar kebun tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3>~Bangun Datar</h3><p>_______________</p><p></p><p><strong>Jawaban:</strong></p><p><strong><u>3</u></strong><strong><u>0</u></strong><strong><u> </u></strong><strong><u>c</u></strong><strong><u>m</u></strong><strong><u>\u2714</u></strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>   K = 2(p + l)</p><p>160 = 2(50 + l)</p><p>160 = 100 + 2l</p><p>   2l = 160 - 100</p><p>   2l = 60</p><p>     l = 60/2</p><p>     l = <strong><u>3</u></strong><strong><u>0</u></strong><strong><u> </u></strong><strong><u>c</u></strong><strong><u>m</u></strong><strong><u>\u2714</u></strong></p><p></p><p>~~~~~~~~~~~~~~~~~~~~~~~~~~</p><h3>\u27a4Detail Jawaban</h3><p>Mapel : Matematika</p><p>Kelas : V</p><p>Materi : Bangun Datar</p><p>Kode Kategorisasi : 5.2.3</p><p>Kode Soal : 2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-di-bantu-ka-hehehhehe-738",
+            "question": "Mohon di bantu ka \r\n,,hehehhehe\u200b",
+            "attachments": [
+                "question-attachments/mohon-di-bantu-ka-hehehhehe-738-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>87.480</p><p></p><p>Caranya:</p><p>10 \u00d7 9 \u00d7 9 \u00d7 9 \u00d7 12</p><p>= 87.480</p><p></p><p>Karna yang ditanya mencari <strong>L</strong><strong>u</strong><strong>a</strong><strong>s</strong></p><p></p><p><strong>S</strong><strong>E</strong><strong>M</strong><strong>O</strong><strong>G</strong><strong>A</strong><strong> </strong><strong>M</strong><strong>E</strong><strong>M</strong><strong>B</strong><strong>A</strong><strong>N</strong><strong>T</strong><strong>U</strong></p><p><strong>S</strong><strong>E</strong><strong>M</strong><strong>A</strong><strong>N</strong><strong>G</strong><strong>A</strong><strong>T</strong><strong>T</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong></p><p></p><p></p><h3><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>A</strong><strong>N</strong><strong>S</strong><strong>W</strong><strong>E</strong><strong>R</strong><strong> </strong><strong>B</strong><strong>Y</strong><strong> </strong><strong>F</strong><strong>A</strong><strong>I</strong><strong>Z</strong><strong>A</strong></h3>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>[tex] 87.480[/tex]</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>[tex]10 \\times 9 \\times 9 \\times 9 \\times 12[/tex]</strong></p><p><strong>[tex]tinggal \\: di \\: kali \\: semua \\: saja[/tex]</strong></p><p><strong>[tex]semoga \\: membantu[/tex]</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-hasil-dari-3x-4-5-2x-adalah-560",
+            "question": "6. Hasil dari (3x-4) (5-2x) adalah...\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jawaban ada pada gambar </p>",
+                    "attachments": [
+                        "answer-attachments/6-hasil-dari-3x-4-5-2x-adalah-560-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>7x+6x\u00b2-20</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>(3\u00d7-4) (5-2\u00d7)</p><p>=3x.5+3x.2x-4.5-4.2x</p><p>=15x+6x\u00b2-20-8x</p><p>=15x-8x+6x\u00b2-20</p><p>=7x+6x\u00b2-20</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}
